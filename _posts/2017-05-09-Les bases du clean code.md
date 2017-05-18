@@ -80,7 +80,10 @@ by someone who cared deeply about the **craft**.
 
 Il est important de garder en tête l'objectif unique du clean code : 
      
- Produire et maintenir un code qui ne plante pas, ni maintenant, ni demain.
-
+ **Produire et maintenir un code qui ne plante pas, ni maintenant, ni demain.**   
+  
+Même sans être en charge de la future maintenance du code, il s'agit de s'assurer que le travail du 
+  développeur suivant se fasse sans encombre. Et donc que les modifications soient faciles.
+     
 Nous discuterons dans des articles futurs des stratégies à utiliser pour 
 produire un code qui répond à ces critères.
