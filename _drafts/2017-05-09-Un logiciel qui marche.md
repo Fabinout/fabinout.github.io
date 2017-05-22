@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Un logiciel qui marche, l'allégorie industrielle"
+title: "Un logiciel qui marche"
 description: "Logiciel travaillant au dessus d'une documentation compréhensible"
 category: 
 tags: [Clean Code, Agile]
@@ -8,7 +8,7 @@ tags: [Clean Code, Agile]
 
 Parlons un peu d'un des 4 piliers de l'agile. 
 
-> Working software over comprensive documentation    
+> **Working software** over comprensive documentation    
 
 Pour clarifier tout de suite, ce pilier de l'agile **ne dit pas** qu'il ne faut pas rédiger 
 de documentation. L'objectif de l'agile est de fournir de la meilleure manière possible 
@@ -69,7 +69,31 @@ Dans un projet agile, 25% des fonctionnalités du scope final sont implémentée
 en production, et ce sont évidemment les fonctionnalités les plus prioritaires.    
 
  
+   
+Il a été très vite théorisé l'intérêt du **flux tiré** (ou "juste-à-temps", "just-in-time", ou "jit") 
+né dans les années 50 dans l'industrie automobile. Cette méthode d'organisation de la production industrielle 
+  vise à minimiser les stocks et les en-cours de fabrication entre l'arrivée de la matière première à la livraison 
+  des produits finis. Cette méthode s'appelle aussi la méthode des 5 zéros (_zéro panne, zéro délai, zéro papier, zéro stock, zéro défaut_).
+  
  
+ Après un certain temps d'adaptation, 
+ les avantages ont été perçus : 
+ 
+ 
+ Puis Hewlett-Packard a spécifiquement analysé les avantages
+ du flux-tiré adapté à la production logicielle.   
+ Dans 
+
+
+ 
+Dans une gestion de projet traditionnelle, si le produit est à 25% réalisé, 
+il est rarissime qu'un utilisateur ait déjà utilisé le logiciel en cours de développement. 
+Dans un projet agile, 25% des fonctionnalités du scope final sont implémentées, 
+en production, et ce sont évidemment les fonctionnalités les plus prioritaires.    
+
+
+[¹]: Merci [Arnaud Bailly](https://github.com/abailly) pour cette métaphore
+
  
  
  [^1] il faut néanmoins veiller à avoir un [changeover](https://en.wikipedia.org/wiki/Changeover) 
