@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -71,7 +71,7 @@ p {
 a {
   color: $blue;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
   &:hover, &:active {
     color: $blue;
   }
@@ -125,6 +125,7 @@ img {
   color: $black;
   background: $lightGray;
 }
+
 ::selection {
   color: $black;
   background: $lightGray;
@@ -134,12 +135,12 @@ img {
 // http://nicolasgallagher.com/micro-clearfix-hack/
 .clearfix:before,
 .clearfix:after {
-    content: " ";
-    display: table;
+  content: " ";
+  display: table;
 }
 
 .clearfix:after {
-    clear: both;
+  clear: both;
 }
 
 /*********************/
@@ -281,6 +282,25 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+//tags
+.w3-badge, .w3-tag {
+  background-color: #000;
+  color: #fff;
+  display: inline-block;
+  padding-left: 8px;
+  padding-right: 8px;
+  text-align: center
+}
+
+.w3-teal, .w3-hover-teal:hover {
+  color: #fff !important;
+  background-color: #009688 !important
+}
+
+.w3-badge {
+  border-radius: 50%
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
