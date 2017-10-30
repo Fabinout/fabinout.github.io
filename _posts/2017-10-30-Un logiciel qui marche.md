@@ -45,11 +45,11 @@ Côté industriel, la commande a pu être passée
  
 Côté logiciel, un besoin logiciel est exprimé par une entité. Cette entité 
  peut être  un utilisateur du logiciel, un représentant de la maîtrise d'
-  ouvrage, voire par un développeur. 
+  ouvrage, voire un développeur. 
       
-La métaphore touche déjà juste, si personne n'a commandé ce produit, ou s'il 
-a été produit trop lentement, vous risquez de passer à côté du besoin 
- utilisateur. Et soit de produire un logiciel inadapté à son besoin, ou bien une feature inutilisée car inutile. 
+Si personne n’a commandé ce produit, ou s’il a été produit trop lentement, 
+vous risquez de passer à côté du besoin utilisateur, 
+donc de produire un logiciel déjà présent chez la concurrence, ou pire inadapté à son besoin. 
   
   
 ### La production
@@ -57,15 +57,15 @@ a été produit trop lentement, vous risquez de passer à côté du besoin
   
 Si l'on devait comparer la production de code informatique à une industrie, alors 
 **le cahier des charges serait l'ensemble
-de matériaux de base**.  Après un certain temps à être produit, il serait poussé ensuite devant 
+des matériaux de base**.  Après un certain temps à être produit, il serait poussé ensuite devant 
 un développeur pour qu'il commence à le transformer en un logiciel.
 
 Au sens Lean, ce cahier des charges constitue donc un stock, et donc une perte d'argent.
  
 Dans une gestion de projet traditionnelle, si le produit est à 25% réalisé, 
 il est rarissime qu'un utilisateur ait déjà utilisé le logiciel en cours de développement. 
-Dans un projet agile, 25% des fonctionnalités du scope final sont implémentées, 
-en production, et ce sont évidemment les fonctionnalités les plus prioritaires.    
+Dans un projet agile, 25% des fonctionnalités du scope final sont implémentées et sont utilisables 
+en production, elles constituent les fonctionnalités les plus prioritaires.    
  
    
 ### Le flux tiré
@@ -79,14 +79,14 @@ Il a été très vite théorisé l'intérêt du **flux tiré** (ou "juste-à-tem
  Après un certain temps d'adaptation, 
  les avantages ont été perçus : 
  * Une organisation adaptée à l'évolution constante des besoins des clients
- *  Peu ou pas de constitution de stock, qui on le sait sont couteux en trésorerie et 
+ *  Peu ou pas de constitution de stocks, qui on le sait sont couteux en trésorerie et 
  portent le risque de n'être jamais utilisés ou vendus
  
 
-Et il est facile de voir que dans notre industrie informatique, l'implémentation de ces méthodes d'organisation modernes 
-pourrait nous aider à résoudre les problèmes récurrents de temps de livraison, de temps de recette, de qualité logicielle et 
-de fonctionnalités inutilisées. Si l'on se concentrait un peu plus sur le logiciel que l'on livre, et qu'on mettait en place
-des pratiques et des process permettant de le livrer très régulièrement avec zéro défaut. 
+Il est facile de voir que dans notre industrie informatique, l'implémentation de ces méthodes d'organisation modernes 
+pourrait nous aider à résoudre les problèmes récurrents de temps de livraison, de temps de recette et de qualité logicielle. 
+Si on prêtait plus attention à la livraison d'un logiciel utilisable, ainsi qu'à la mise en place
+de bonnes pratiques, la livraison zéro-défaut pourrait devenir quotidienne. 
 
 
 
