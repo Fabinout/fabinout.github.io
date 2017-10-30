@@ -18,7 +18,7 @@ autour du produit final, **un logiciel qui marche**.
 
 Cet article se base sur ma lecture récente de **Le but : Un processus 
 de progrès permanent** de Eliyahu Goldratt : [Lien amazon](https://www.amazon.fr/but-processus-progr%C3%A8s-permanent/dp/2124654047).   
-Je vous conseille chaudement sa lecture.
+Je vous conseille chaudement sa lecture. Ne serait-ce que pour prendre du recul sur la mode du lean IT.
  
 # La métaphore  de l'usine   
 
@@ -26,7 +26,8 @@ La production logicielle est en de nombreux points similaire à une production
 industrielle, où chaque membre de l'équipe et chaque process peut s'apparenter à une machine, 
 à un capteur, le produit final étant bien sûr un logiciel livré à l'utilisateur. 
 Cette métaphore combine deux grands aspects de l'industrie, la 
-production de produits manufacturés et la [production par projet](https://en.wikipedia.org/wiki/Project_manufacturing).    
+production de produits manufacturés et la [production par projet](https://en.wikipedia.org/wiki/Project_manufacturing). 
+    
 
      
 ### La genèse 
@@ -39,57 +40,54 @@ Côté industriel, la commande a pu être passée
  voire de devenir obsolète ou se détériorer. 
  À l'opposé, le processus de fabrication peut être déclenché lors de la 
  commande. On parle alors de **flux tiré**. Il est indéniable que ce dernier 
- a de gros avantages [^1], et nous nous concentrerons sur ce processus ici. 
+ possède des avantages évidents[^1], et nous nous concentrerons sur ce processus ici. 
  
  
 Côté logiciel, un besoin logiciel est exprimé par une entité. Cette entité 
  peut être  un utilisateur du logiciel, un représentant de la maîtrise d'
   ouvrage, voire par un développeur. 
       
-La métaphore touche déjà juste, si personne n'a demandé ce produit, ou s'il 
-a été produit trop lentement, vous risquez de ne passer à côté du besoin 
- utilisateur. De plus chaque 
+La métaphore touche déjà juste, si personne n'a commandé ce produit, ou s'il 
+a été produit trop lentement, vous risquez de passer à côté du besoin 
+ utilisateur. Et soit de produire un logiciel inadapté à son besoin, ou bien une feature inutilisée car inutile. 
   
   
 ### La production
    
-  Côté industriel, il est nécessaire de rapprocher géographiquement les machines pour les  
-
-
-Dans cette métaphore, le cahier des charges, le document word à l'ancienne de 800 pages est un ensemble
-de matériaux de base.  Après 6 mois à être produit, il serait poussé ensuite devant 
+  
+Si l'on devait comparer la production de code informatique à une industrie, alors 
+**le cahier des charges serait l'ensemble
+de matériaux de base**.  Après un certain temps à être produit, il serait poussé ensuite devant 
 un développeur pour qu'il commence à le transformer en un logiciel.
 
-
-Au sens Lean, ce cahier des charges constitue donc un stock, donc une perte d'argent.
+Au sens Lean, ce cahier des charges constitue donc un stock, et donc une perte d'argent.
  
 Dans une gestion de projet traditionnelle, si le produit est à 25% réalisé, 
 il est rarissime qu'un utilisateur ait déjà utilisé le logiciel en cours de développement. 
 Dans un projet agile, 25% des fonctionnalités du scope final sont implémentées, 
 en production, et ce sont évidemment les fonctionnalités les plus prioritaires.    
-
  
    
+### Le flux tiré
+
 Il a été très vite théorisé l'intérêt du **flux tiré** (ou "juste-à-temps", "just-in-time", ou "jit") 
-né dans les années 50 dans l'industrie automobile. Cette méthode d'organisation de la production industrielle 
+ dans l'industrie automobile des années 50. Cette méthode d'organisation de la production industrielle 
   vise à minimiser les stocks et les en-cours de fabrication entre l'arrivée de la matière première à la livraison 
   des produits finis. Cette méthode s'appelle aussi la méthode des 5 zéros (_zéro panne, zéro délai, zéro papier, zéro stock, zéro défaut_).
   
  
  Après un certain temps d'adaptation, 
  les avantages ont été perçus : 
+ * Une organisation adaptée à l'évolution constante des besoins des clients
+ *  Peu ou pas de constitution de stock, qui on le sait sont couteux en trésorerie et 
+ portent le risque de n'être jamais utilisés ou vendus
  
- 
- Puis Hewlett-Packard a spécifiquement analysé les avantages
- du flux-tiré adapté à la production logicielle.   
- Dans 
 
+Et il est facile de voir que dans notre industrie informatique, l'implémentation de ces méthodes d'organisation modernes 
+pourrait nous aider à résoudre les problèmes récurrents de temps de livraison, de temps de recette, de qualité logicielle et 
+de fonctionnalités inutilisées. Si l'on se concentrait un peu plus sur le logiciel que l'on livre, et qu'on mettait en place
+des pratiques et des process permettant de le livrer très régulièrement avec zéro défaut. 
 
- 
-Dans une gestion de projet traditionnelle, si le produit est à 25% réalisé, 
-il est rarissime qu'un utilisateur ait déjà utilisé le logiciel en cours de développement. 
-Dans un projet agile, 25% des fonctionnalités du scope final sont implémentées, 
-en production, et ce sont évidemment les fonctionnalités les plus prioritaires.    
 
 
 [¹]: Merci [Arnaud Bailly](https://github.com/abailly) pour cette métaphore
