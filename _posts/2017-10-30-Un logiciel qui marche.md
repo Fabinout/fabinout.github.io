@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Un logiciel qui marche"
-description: "Logiciel travaillant au dessus d'une documentation compréhensible"
+description: "Working software over comprehensive documentation"
 category: 
 tags: [Clean Code, Agile]
 ---
 
 Parlons un peu d'un des 4 piliers de l'agile. 
 
-> **Working software** over comprensive documentation    
+> **Working software** over comprehensive documentation    
 
 Pour clarifier tout de suite, ce pilier de l'agile **ne dit pas** qu'il ne faut pas rédiger 
 de documentation. L'objectif de l'agile est de fournir de la meilleure manière possible 
@@ -40,7 +40,7 @@ Côté industriel, la commande a pu être passée
  voire de devenir obsolète ou se détériorer. 
  À l'opposé, le processus de fabrication peut être déclenché lors de la 
  commande. On parle alors de **flux tiré**. Il est indéniable que ce dernier 
- possède des avantages évidents[^1], et nous nous concentrerons sur ce processus ici. 
+ possède des avantages évidents, et nous nous concentrerons sur ce processus ici. 
  
  
 Côté logiciel, un besoin logiciel est exprimé par une entité. Cette entité 
@@ -90,10 +90,5 @@ des pratiques et des process permettant de le livrer très régulièrement avec 
 
 
 
-[¹]: Merci [Arnaud Bailly](https://github.com/abailly) pour cette métaphore
 
- 
- 
- [^1] il faut néanmoins veiller à avoir un [changeover](https://en.wikipedia.org/wiki/Changeover) 
-      extrêmement rapide et un stock de matières premières suffisant pour 
-      répondre à un demande accrue.
+ Merci [Arnaud Bailly](https://github.com/abailly) pour avoir inspiré la rédaction de cet article
