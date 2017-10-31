@@ -3,14 +3,14 @@ layout: post
 title: "Un logiciel qui marche"
 description: "Working software over comprehensive documentation"
 category: 
-tags: [Clean Code, Agile]
+tags: [Clean Code, Agilité]
 ---
 
-Parlons un peu d'un des 4 piliers de l'agile. 
+Parlons un peu d'un des 4 piliers de l'agilité. 
 
 > **Working software** over comprehensive documentation    
 
-Pour clarifier tout de suite, ce pilier de l'agile **ne dit pas** qu'il ne faut pas rédiger 
+Pour clarifier tout de suite, ce pilier de l'agilité **ne dit pas** qu'il ne faut pas rédiger 
 de documentation. L'objectif de l'agile est de fournir de la meilleure manière possible 
 un logiciel à des utilisateurs, et d'être capable de modifier son process régulièrement. 
 Cet adage vise donc à reconcentrer les efforts des membres de l'équipe 
@@ -18,7 +18,7 @@ autour du produit final, **un logiciel qui marche**.
 
 Cet article se base sur ma lecture récente de **Le but : Un processus 
 de progrès permanent** de Eliyahu Goldratt : [Lien amazon](https://www.amazon.fr/but-processus-progr%C3%A8s-permanent/dp/2124654047).   
-Je vous conseille chaudement sa lecture. Ne serait-ce que pour prendre du recul sur la mode du lean IT.
+Je vous le conseille chaudement sa lecture, ne serait-ce que pour prendre du recul sur la mode du lean IT.
  
 # La métaphore  de l'usine   
 
