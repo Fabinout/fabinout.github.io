@@ -10,7 +10,7 @@ Parlons un peu d'un des 4 piliers de l'agilité.
 
 > **Working software** over comprehensive documentation    
 
-Pour clarifier tout de suite, ce pilier de l'agilité **ne dit pas** qu'il ne faut pas rédiger 
+Pour clarifier tout de suite, ce pilier de l'agile**ne dit pas**qu'il ne faut pas rédiger 
 de documentation. L'objectif de l'agile est de fournir de la meilleure manière possible 
 un logiciel à des utilisateurs, et d'être capable de modifier son process régulièrement. 
 Cet adage vise donc à reconcentrer les efforts des membres de l'équipe 
