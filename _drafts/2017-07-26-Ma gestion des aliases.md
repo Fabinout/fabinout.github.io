@@ -48,37 +48,55 @@ alias la='cat ~/.bash_aliases'
 alias ua='source ~/.bash_aliases'
 ``` 
 La commande ```la``` permet de de lister les alias sauvegardés, la commande ```ua``` permet de raffraichir ses alias 
-sans redémarrer son terminal. 
+sans redémarrer son terminal.   
 
+N'oubliez pas de sauvegarder ces documents sur un repository, ils constituent une part importante
 
-> Tip, il existe la commande ```alias``` permettant de lister tous vos aliases. Quand la liste  devient conséquente, 
-il est plus facile de séparer les alias selon les domaines ou technos, et d'avoir un raccourci pour afficher un seul 
+##### La commande 'alias'
+ 
+ Il existe la commande ```alias``` permettant de lister (vous l'avez deviné) tous vos aliases. 
+ Les inconvénients étant que :  
+  * quand la liste  devient conséquente, la liste de tous les alias peut ne pas être pratique à parcourir ;
+  * les éventuelles commentaires (commençant par ```#```) ne sont pas affichés ;    
+  * une utilisation efficace nécessite de faire ```alias | grep mvn``` ce qui n'est pas pratique à taper rapidement.    
+  
+Il est plus facile de séparer les alias selon les domaines ou technos, et d'avoir un raccourci pour afficher un seul 
 type d'alias.    
-Par exemple ```alias lb='cat ~/.bash_aliases_mongodb & cat ~/.bash_aliases_mysql``` 
+Par exemple ```alias lb='cat ~/.bash_aliases_mongodb & cat ~/.bash_aliases_mysql```   
 
 ### La méthode
 
+Cette partie peut sembler superflue, mais c'est là que réside tout l'intérêt de ma méthode de gestion des alias.      
+La création de fichiers d'alias et l'organisation dans des sous-fichiers est tout au plus pratique, mais ne me sert 
+strictement à rien si je ne dump pas mes commandes régulièrement dans ces fichiers. La suite de cet article sera donc 
+consacrée à l'organisation de la persistence de mes alias.
+       
 Je rajoute ces fichier dans mes fichiers Favoris sur IntelliJ (add to Favorites (⌥⇧F)), 
-et j'y accède via l'écran des fichiers favoris (⌘2). Selon les cas, je peux aussi avoir un alias me permettant d'ouvrir
+et j'y accède via l'écran des fichiers favoris (⌘2).          
+Dans les rares cas où je n'ai pas lancé IntelliJ, j'ai aussi un alias me permettant d'ouvrir
 le fichier des alias dans IntelliJ pour l'y éditer directement: ```alias ia='idea ~/.bash_profile'```. 
 
 
 ##### Quand est-ce que je rajoute des alias dans mon fichier ?
 
 Tout le temps.    
+Attention, je n'ai pas dit "très souvent", j'ai bien dit tout le temps. C'est beaucoup plus dur qu'il n'y parait de se 
+débarasser de ses mauvaises habitudes, c'est aussi un des plus gros freins d'adoptions de [la méthode GTD](https://fr.wikipedia.org/wiki/Getting_Things_Done), que je vous 
+suggère d'étudier.  
 
-Attention, je n'ai pas dit "très souvent", j'ai bien dit tout le temps. 
+Je garde constamment ouvert un fichier qui compile les commandes tapées au clavier (y compris les commandes 
+de déplacement dans les répertoires) dans mon terminal.    
+Avant de taper une quelconque commande dans le terminal, je la colle d'abord dans mon fichier. 
+Si la ligne que je colle y est déjà présente à l'identique, c'est que c'est une commande que 
+je réutilise. Il faut donc la rajouter à mes alias.
 
-J'ai toujours d'ouvert dans un éditeur de texte simple (ou un scratch file dans IntelliJ (⇧⌘N)).    
-Lorsque je tape une quelconque commande dans le terminal, je le colle d'abord dans 
-mon fichier temporaire. Si la ligne que je colle y est déjà présente à l'identique, c'est que c'est une commande que 
-je risque de réutiliser. Il faut donc la rajouter à mes alias.
+#### Bonus : quel alias pour quelle commande ?
 
-##### Comment je choisis mes raccourcis ?
-* Les raccourcis doivent être courts.    
-* Tous mes alias similaires commencent par la même lettre, les raccourcis maven par 'm' par exemple, ceux de git commencent par 'g'.
-* Comme il faut appuyer ensuite sur la touche entrée avec l'auriculaire droit, j'essaie de trouver un raccourci qui:
-    - a du sens
-    - finit par une lettre que je peux taper avec la main gauche (pour ensuite taper sur la touche entrée)
+Ci-dessous les critères que j'utilise pour choisir les mots-clés qui constitueront mes alias :
+* Les raccourcis doivent être courts ;    
+* tous mes alias similaires commencent par la même lettre, les raccourcis maven par 'm' par exemple, ceux de git commencent par 'g' ;
+* comme il faut appuyer ensuite sur la touche entrée avec l'auriculaire droit, j'essaie de trouver un raccourci qui :
+    * a du sens car c'est évidemment important de se rappeler de ses alias (par exemple ```alias dpa='docker ps -a'```), 
+    * finit par une lettre que je peux taper avec la main gauche.
     
-       
+      
