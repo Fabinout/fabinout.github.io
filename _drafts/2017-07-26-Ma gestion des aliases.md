@@ -14,6 +14,14 @@ Tout d'abord, qu' est-ce qu'un alias ?
 
 > Un alias est une substitution abrégée de commandes répétitives et/ou longues à taper dans la console. 
 
+
+#### Introduction : pourquoi utiliser des alias ?
+
+Ceux qui se rappellent de leurs premiers pas dans le terminal le savent, la navigation y est complexe, 
+les boutons anecdotiques, et les coquilles impitoyables.     
+Le débutant se trouvera donc souvent perplexe devant l'adoption massive de cet outil chez ses confrères plus expérimentés que lui.   
+
+
 Au travail!
 
 ### Le matériel
