@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Ma gestion des alias"
-description: "Ccomment je gère mes alias dans le terminal"
-category: 
-tags: [Tools] [Terminal]
+description: "Comment je gère mes alias dans le terminal"
+tags: [Tools, Terminal]
 ---
 
 Je me retrouve souvent à changer de mission, et à changer d'environnement de travail.    
@@ -36,10 +35,10 @@ Au travail!
 ### Les fichiers à créer
 
 Je commence par créer deux fichiers, le premier, le **.profile** contiendra principalement des méthodes utilitaires
- (auto-complétions, paramètrage des couleurs, ...), des alias et des variables d'instance. 
- Une des méthodes qui m'intéresse particuliètement nous permet de*sourcer*un autre fichier, c'est à dire
- de copier le contenu du fichier spécifié en argument à l'endroit où la commande est invoquée.    
- Pour les nuls, ça signifie qu'on peut découper ses fichiers de profile comme on le souhaite. 
+(auto-complétions, paramètrage des couleurs, ...), des alias et des variables d'instance. 
+Une des méthodes qui m'intéresse particuliètement nous permet de*sourcer*un autre fichier, c'est à dire
+de copier le contenu du fichier spécifié en argument à l'endroit où la commande est invoquée.    
+Pour les nuls, ça signifie qu'on peut découper ses fichiers de profile comme on le souhaite. 
 
 ##### ~/.profile
 ```Bash
@@ -51,11 +50,10 @@ fi
 
 
 Le fichier .profile, chargé au lancement du terminal vérifie la présence d'un fichier **~/.bash_aliases**, et le source
- s'il est présent. On peut donc centraliser tous nos aliases dans un fichier externe. Libre à nous ensuite de ségréguer
-  à nouveau les 
- raccourcis de ce fichier selon les technos utilisées.
+s'il est présent. On peut donc centraliser tous nos aliases dans un fichier externe. Libre à nous ensuite de ségréguer
+à nouveau les raccourcis de ce fichier selon les technos utilisées.
   
-  Puis, je crée un fichier contenant les aliases et j'y rajoute systématiquement les deux alias suivants. 
+Puis, je crée un fichier contenant les aliases et j'y rajoute systématiquement les deux alias suivants. 
 
 ##### ~/.bash_aliases
 ```Bash
@@ -72,11 +70,11 @@ de votre expérience dans le terminal.
 
 ##### La commande 'alias'
  
- Il existe la commande ```alias``` permettant de lister (vous l'avez deviné) tous vos aliases. 
- Les inconvénients étant que :  
-  * quand la liste  devient conséquente, la liste de tous les alias peut ne pas être pratique à parcourir ;
-  * les éventuelles commentaires (commençant par ```#```) ne sont pas affichés ;    
-  * une utilisation efficace nécessite de faire ```alias | grep mvn``` ce qui n'est pas pratique à taper rapidement.    
+Il existe la commande ```alias``` permettant de lister (vous l'avez deviné) tous vos aliases. 
+Les inconvénients étant que :  
+* quand la liste  devient conséquente, la liste de tous les alias peut ne pas être pratique à parcourir ;
+* les éventuelles commentaires (commençant par ```#```) ne sont pas affichés ;    
+* une utilisation efficace nécessite de faire ```alias | grep mvn``` ce qui n'est pas pratique à taper rapidement.    
   
 Il est plus facile de séparer les alias selon les domaines ou technos, et d'avoir un raccourci pour afficher un seul 
 type d'alias.    
@@ -100,7 +98,7 @@ le fichier des alias dans IntelliJ pour l'y éditer directement: ```alias ia='id
 Tout le temps.    
 Attention, je n'ai pas dit "très souvent", j'ai bien dit tout le temps. C'est beaucoup plus dur qu'il n'y parait de se 
 débarasser de ses mauvaises habitudes, c'est aussi un des plus gros freins d'adoptions de
- [la méthode GTD](https://fr.wikipedia.org/wiki/Getting_Things_Done), que je vous 
+[la méthode GTD](https://fr.wikipedia.org/wiki/Getting_Things_Done), que je vous 
 suggère d'étudier.  
 
 Je garde constamment ouvert un fichier qui compile les commandes tapées au clavier (y compris les commandes 
