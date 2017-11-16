@@ -1,30 +1,39 @@
 ---
 layout: post
-title: "Ma gestion des aliases"
+title: "Ma gestion des alias"
 description: "Ccomment je gère mes alias dans le terminal"
 category: 
-tags: [Tools]
+tags: [Tools] [Terminal]
 ---
 
 Je me retrouve souvent à changer de mission, et à changer d'environnement de travail.    
 Je vais vous présenter comment j'ordonne mes **alias** dans mon terminal Mac.    
-Tout d'abord, qu' est-ce qu'un alias ?
+
+#### Introduction : pourquoi utiliser des alias ?
+
+Ceux et celles qui se rappellent de leurs premiers pas dans une console ou un terminal le savent, la navigation y est complexe, 
+les boutons inexistants, et la souris inutile. Les néophytes face à cet outil cryptique et effrayant, où les coquilles 
+sont impitoyables, se trouveront donc souvent perplexes devant cette popularité chez leurs collègues plus expérimenté·e·s.      
+C'est qu'il est bien plus facile de se déplacer dans une arborescence de fichier avec la souris qu'avec des 
+lignes de commande.     
+Néanmoins, avec un peu de pratique il devient très aisé de manipuler sa machine via la console. Malheureusement, il subsiste
+quelques douleurs :    
+* les fautes de frappes sont punitives (même si l'auto-complétion peut aider) ;
+* les commandes sont très nombreuses, ne sont pas facilement mémorisable, et ont plusieurs options et flags optionnels à apprendre ;
+* les commandes saisies au long de la journée sont répétitives.   
+ 
+ 
+Pour résoudre ce problème vous pouvez créer des alias sur votre machine.
+
 
 ##### Définition d'un alias selon https://ubuntu-fr.org
 
 > Un alias est une substitution abrégée de commandes répétitives et/ou longues à taper dans la console. 
 
 
-#### Introduction : pourquoi utiliser des alias ?
-
-Ceux qui se rappellent de leurs premiers pas dans le terminal le savent, la navigation y est complexe, 
-les boutons anecdotiques, et les coquilles impitoyables.     
-Le débutant se trouvera donc souvent perplexe devant l'adoption massive de cet outil chez ses confrères plus expérimentés que lui.   
-
-
 Au travail!
 
-### Le matériel
+### Les fichiers à créer
 
 Je commence par créer deux fichiers, le premier, le **.profile** contiendra principalement des méthodes utilitaires
  (auto-complétions, paramètrage des couleurs, ...), des alias et des variables d'instance. 
@@ -46,7 +55,7 @@ Le fichier .profile, chargé au lancement du terminal vérifie la présence d'un
   à nouveau les 
  raccourcis de ce fichier selon les technos utilisées.
   
-  Enfin, je créer un fichier aliases et j'y rajoute systématiquement les deux alias suivants. 
+  Puis, je crée un fichier contenant les aliases et j'y rajoute systématiquement les deux alias suivants. 
 
 ##### ~/.bash_aliases
 ```Bash
@@ -58,7 +67,8 @@ alias ua='source ~/.bash_aliases'
 La commande ```la``` permet de de lister les alias sauvegardés, la commande ```ua``` permet de raffraichir ses alias 
 sans redémarrer son terminal.   
 
-N'oubliez pas de sauvegarder ces documents sur un repository, ils constituent une part importante
+N'oubliez pas de sauvegarder ces documents sur un repository, ils constituent une part importante de la capitalisation
+de votre expérience dans le terminal.
 
 ##### La commande 'alias'
  
@@ -89,7 +99,8 @@ le fichier des alias dans IntelliJ pour l'y éditer directement: ```alias ia='id
 
 Tout le temps.    
 Attention, je n'ai pas dit "très souvent", j'ai bien dit tout le temps. C'est beaucoup plus dur qu'il n'y parait de se 
-débarasser de ses mauvaises habitudes, c'est aussi un des plus gros freins d'adoptions de [la méthode GTD](https://fr.wikipedia.org/wiki/Getting_Things_Done), que je vous 
+débarasser de ses mauvaises habitudes, c'est aussi un des plus gros freins d'adoptions de
+ [la méthode GTD](https://fr.wikipedia.org/wiki/Getting_Things_Done), que je vous 
 suggère d'étudier.  
 
 Je garde constamment ouvert un fichier qui compile les commandes tapées au clavier (y compris les commandes 
