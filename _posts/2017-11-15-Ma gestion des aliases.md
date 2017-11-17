@@ -4,8 +4,7 @@ title: "Ma gestion des alias"
 description: "Comment je gère mes alias dans le terminal"
 tags: [Tools, Terminal]
 ---
-
-Je me retrouve souvent à changer de mission, et à changer d'environnement de travail.    
+    
 Je vais vous présenter comment j'ordonne mes **alias** dans mon terminal Mac.    
 
 ## Introduction : pourquoi utiliser des alias ?
