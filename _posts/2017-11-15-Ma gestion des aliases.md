@@ -8,7 +8,7 @@ tags: [Tools, Terminal]
 Je me retrouve souvent à changer de mission, et à changer d'environnement de travail.    
 Je vais vous présenter comment j'ordonne mes **alias** dans mon terminal Mac.    
 
-#### Introduction : pourquoi utiliser des alias ?
+## Introduction : pourquoi utiliser des alias ?
 
 Ceux et celles qui se rappellent de leurs premiers pas dans une console ou un terminal le savent, la navigation y est complexe, 
 les boutons inexistants, et la souris inutile. Les néophytes face à cet outil cryptique et effrayant, où les coquilles 
@@ -25,28 +25,29 @@ quelques douleurs :
 Pour résoudre ce problème vous pouvez créer des alias sur votre machine.
 
 
-##### Définition d'un alias selon https://ubuntu-fr.org
+### Définition d'un alias selon https://ubuntu-fr.org
 
 > Un alias est une substitution abrégée de commandes répétitives et/ou longues à taper dans la console. 
 
 
 Au travail!
 
-### Les fichiers à créer
+## Les fichiers à créer
 
 Je commence par créer deux fichiers, le premier, le **.profile** contiendra principalement des méthodes utilitaires
 (auto-complétions, paramètrage des couleurs, ...), des alias et des variables d'instance. 
-Une des méthodes qui m'intéresse particuliètement nous permet de*sourcer*un autre fichier, c'est à dire
+Une des méthodes qui m'intéresse particuliètement nous permet de *sourcer* un autre fichier, c'est à dire
 de copier le contenu du fichier spécifié en argument à l'endroit où la commande est invoquée.    
 Pour les nuls, ça signifie qu'on peut découper ses fichiers de profile comme on le souhaite. 
 
-##### ~/.profile
-```Bash
-if [ -f ~/.bash_aliases ]; then
-    source ~/.bash_aliases
-fi
-```
+
+
+### ~/.profile
+
+<script src="https://gist.github.com/Fabinout/58f3326b4d01d02352e4b184a47abc43.js"></script>
+ 
 > Tip : ```source``` et ```.``` sont des synonymes en bash, mais source est plus visible, donc plus lisible.
+
 
 
 Le fichier .profile, chargé au lancement du terminal vérifie la présence d'un fichier **~/.bash_aliases**, et le source
@@ -55,20 +56,17 @@ s'il est présent. On peut donc centraliser tous nos aliases dans un fichier ext
   
 Puis, je crée un fichier contenant les aliases et j'y rajoute systématiquement les deux alias suivants. 
 
-##### ~/.bash_aliases
-```Bash
+### ~/.bash_aliases
 
-#Meta
-alias la='cat ~/.bash_aliases'
-alias ua='source ~/.bash_aliases'
-``` 
-La commande ```la``` permet de de lister les alias sauvegardés, la commande ```ua``` permet de raffraichir ses alias 
+<script src="https://gist.github.com/Fabinout/df651d9a0734eca3eb04cf1e47310e13.js"></script>
+ 
+La commande ```la``` permettra de lister les alias sauvegardés, et ```ua``` permet de raffraichir ses alias 
 sans redémarrer son terminal.   
 
 N'oubliez pas de sauvegarder ces documents sur un repository, ils constituent une part importante de la capitalisation
 de votre expérience dans le terminal.
 
-##### La commande 'alias'
+### La commande 'alias'
  
 Il existe la commande ```alias``` permettant de lister (vous l'avez deviné) tous vos aliases. 
 Les inconvénients étant que :  
@@ -80,7 +78,7 @@ Il est plus facile de séparer les alias selon les domaines ou technos, et d'avo
 type d'alias.    
 Par exemple ```alias lb='cat ~/.bash_aliases_mongodb & cat ~/.bash_aliases_mysql```   
 
-### La méthode
+## La méthode
 
 Cette partie peut sembler superflue, mais c'est là que réside tout l'intérêt de ma méthode de gestion des alias.      
 La création de fichiers d'alias et l'organisation dans des sous-fichiers est tout au plus pratique, mais ne me sert 
@@ -93,7 +91,7 @@ Dans les rares cas où je n'ai pas lancé IntelliJ, j'ai aussi un alias me perme
 le fichier des alias dans IntelliJ pour l'y éditer directement: ```alias ia='idea ~/.bash_profile'```. 
 
 
-##### Quand est-ce que je rajoute des alias dans mon fichier ?
+### Quand est-ce que je rajoute des alias dans mon fichier ?
 
 Tout le temps.    
 Attention, je n'ai pas dit "très souvent", j'ai bien dit tout le temps. C'est beaucoup plus dur qu'il n'y parait de se 
@@ -116,4 +114,3 @@ Ci-dessous les critères que j'utilise pour choisir les mots-clés qui constitue
     * a du sens car c'est évidemment important de se rappeler de ses alias (par exemple ```alias dpa='docker ps -a'```), 
     * finit par une lettre que je peux taper avec la main gauche.
     
-      
