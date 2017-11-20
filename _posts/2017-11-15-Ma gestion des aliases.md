@@ -17,7 +17,7 @@ lignes de commande.
 Néanmoins, avec un peu de pratique il devient très aisé de manipuler sa machine via la console. Malheureusement, il subsiste
 quelques douleurs :    
 * les fautes de frappes sont punitives (même si l'auto-complétion peut aider) ;
-* les commandes sont très nombreuses, ne sont pas facilement mémorisable, et ont plusieurs options et flags optionnels à apprendre ;
+* les commandes sont très nombreuses, ne sont pas facilement mémorisables, et ont plusieurs options et flags optionnels à apprendre ;
 * les commandes saisies au long de la journée sont répétitives.   
  
  
@@ -35,7 +35,7 @@ Au travail!
 
 Je commence par créer deux fichiers, le premier, le **.profile** contiendra principalement des méthodes utilitaires
 (auto-complétions, paramètrage des couleurs, ...), des alias et des variables d'instance. 
-Une des méthodes qui m'intéresse particuliètement nous permet de *sourcer* un autre fichier, c'est à dire
+Une des méthodes qui m'intéresse particulièrement nous permet de *sourcer* un autre fichier, c'est à dire
 de copier le contenu du fichier spécifié en argument à l'endroit où la commande est invoquée.    
 Pour les nuls, ça signifie qu'on peut découper ses fichiers de profile comme on le souhaite. 
 
@@ -50,10 +50,10 @@ Pour les nuls, ça signifie qu'on peut découper ses fichiers de profile comme o
 
 
 Le fichier .profile, chargé au lancement du terminal vérifie la présence d'un fichier **~/.bash_aliases**, et le source
-s'il est présent. On peut donc centraliser tous nos aliases dans un fichier externe. Libre à nous ensuite de ségréguer
+s'il est présent. On peut donc centraliser tous nos alias dans un fichier externe. Libre à nous ensuite de ségréguer
 à nouveau les raccourcis de ce fichier selon les technos utilisées.
   
-Puis, je crée un fichier contenant les aliases et j'y rajoute systématiquement les deux alias suivants. 
+Puis, je crée un fichier contenant les alias et j'y rajoute systématiquement les deux alias suivants. 
 
 ### ~/.bash_aliases
 
@@ -67,10 +67,10 @@ de votre expérience dans le terminal.
 
 ### La commande 'alias'
  
-Il existe la commande ```alias``` permettant de lister (vous l'avez deviné) tous vos aliases. 
+Il existe la commande ```alias``` permettant de lister (vous l'avez deviné) tous vos alias. 
 Les inconvénients étant que :  
-* quand la liste  devient conséquente, la liste de tous les alias peut ne pas être pratique à parcourir ;
-* les éventuelles commentaires (commençant par ```#```) ne sont pas affichés ;    
+* quand la liste  deviendra conséquente, elle sera longue à parcourir ;
+* les éventuels commentaires (commençant par ```#```) ne sont pas affichés ;    
 * une utilisation efficace nécessite de faire ```alias | grep mvn``` ce qui n'est pas pratique à taper rapidement.    
   
 Il est plus facile de séparer les alias selon les domaines ou technos, et d'avoir un raccourci pour afficher un seul 
@@ -82,10 +82,10 @@ Par exemple ```alias lb='cat ~/.bash_aliases_mongodb & cat ~/.bash_aliases_mysql
 Cette partie peut sembler superflue, mais c'est là que réside tout l'intérêt de ma méthode de gestion des alias.      
 La création de fichiers d'alias et l'organisation dans des sous-fichiers est tout au plus pratique, mais ne me sert 
 strictement à rien si je ne dump pas mes commandes régulièrement dans ces fichiers. La suite de cet article sera donc 
-consacrée à l'organisation de la persistence de mes alias.
+consacrée à l'organisation de la persistance de mes alias.
        
-Je rajoute ces fichier dans mes fichiers Favoris sur IntelliJ (add to Favorites (⌥⇧F)), 
-et j'y accède via l'écran des fichiers favoris (⌘2).          
+Je rajoute ces fichiers dans mes fichiers Favoris sur IntelliJ (add to Favorites (⌥⇧F)), 
+et j'y accède via l'écran des fichiers Favoris (⌘2).          
 Dans les rares cas où je n'ai pas lancé IntelliJ, j'ai aussi un alias me permettant d'ouvrir
 le fichier des alias dans IntelliJ pour l'y éditer directement: ```alias ia='idea ~/.bash_profile'```. 
 
@@ -109,7 +109,9 @@ je réutilise. Il faut donc la rajouter à mes alias.
 Ci-dessous les critères que j'utilise pour choisir les mots-clés qui constitueront mes alias :
 * Les raccourcis doivent être courts ;    
 * tous mes alias similaires commencent par la même lettre, les raccourcis maven par 'm' par exemple, ceux de git commencent par 'g' ;
-* comme il faut appuyer ensuite sur la touche entrée avec l'auriculaire droit, j'essaie de trouver un raccourci qui :
-    * a du sens car c'est évidemment important de se rappeler de ses alias (par exemple ```alias dpa='docker ps -a'```), 
-    * finit par une lettre que je peux taper avec la main gauche.
+* l'alias a un certain sens car c'est évidemment important de se rappeler de ses alias 
+  (par exemple ```alias dpa='docker ps -a'```) ; 
+* et puisqu'il faut appuyer sur la touche entrée avec l'auriculaire droit, j'essaie de trouver un raccourci qui 
+finit par une lettre que je peux taper avec la main gauche.
+    
     
