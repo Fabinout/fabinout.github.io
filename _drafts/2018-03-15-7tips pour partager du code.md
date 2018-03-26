@@ -26,7 +26,7 @@ plat à 5 mètres de lui.
 
 La majorité du contenu disponible sur Internet (wikipedia, blogs, docs,...)
 est présenté avec du texte noir sur un fond clair. Or,
-[la majorité](https://insights.stackoverflow.com/survey/2015) des développeurs utilise
+[la majorité](https://twitter.com/Fabinout/status/977151283445592064) des développeurs utilise
 un fond sombre à la Darkula ou anthracite. D'où vient cette discordance ?
 
 Le thème Dark est souvent apprécié des jeunes développeurs qui ont encore de bons yeux et passent
@@ -75,40 +75,99 @@ Boucard à Bdx.io 2017.
 La caméra se trouve ici au pied de l'estrade, vous imaginez que quelqu'un se trouvant
 au 10ème rang aura bien du mal à lire l'écran.
 
-Ma règle générale que je m'inflige :
+La règle générale que je m'inflige :
 
 > Le contenu textuel reste lisible quand je
-me tiens à 2 mètres de mon écran.
+me tiens à 2 mètres de mon écran de laptop.
 
 Évidemment, la ligne ne doit pas dépasser de l'écran en largeur.
-Si vous utilisez une IDE, je vous suggère d'utiliser simplement le "Mode Présentation".
+Si vous utilisez un IDE, je vous suggère d'utiliser simplement le "Mode Présentation".
 
 #### 3. Utilisez une coloration syntaxique simple, ou n'en utilisez pas
 
 Une coloration syntaxique permet aux participants de reconnaitre d'un coup d'œil
-les éléments importants de la syntaxe du langage que vous utilisez. 
+les éléments importants de la syntaxe du langage que vous utilisez. Néanmoins, la couleur
+de ce que vous montrez a généralement peu d'importance, il est plus important que le
+contenu textuel soit lisible par tous.
 
 **Il vaut mieux ne pas avoir de coloration syntaxique qu'une mauvaise coloration
 syntaxique.**
 
-*Instant vis-ma-vie de daltonien* : j'avais personnalisé la coloration syntaxique
-de mon IDE, et j'avais mis sans le savoir les erreurs de compilation en "souligné-vert".
+*Anecdote vis-ma-vie de daltonien* : j'avais personnalisé la coloration syntaxique
+de mon IDE et avais mis sans le savoir les erreurs de compilation en souligné-vert.
 
-*Résultat* : les collègues qui codaient sur mon clavier durant un dojo mettaient du
-temps à réaliser qu'ils avaient écrit un code qui ne compilait pas.
+*Résultat* : les collègues qui codaient sur mon ordinateur durant un coding-dojo
+mettaient du temps à réaliser qu'ils avaient écrit un code qui ne compilait pas.
+
+Voici un exemple à ne pas suivre :
 
 ![Exemple de mauvaise coloration syntaxique](/images/coloration syntaxique.png "Un exemple de mauvaise coloration syntaxique")
 
-Plusieurs choses à dire ici :
+Entre autres :
 
-le rouge foncé est illisible
+* le rouge foncé sur fond noir est illisible
+* l'orange clair sur fond blanc est illisible
+* le bleu sur fond noir est difficile à lire pour un daltonien
+
+
+## Maximiser le confort de navigation dans votre code
+
+Dans le cas d'un live-coding, il est courant de peiner à retrouver le
+curseur du présentateur, surtout dans le cas où beaucoup de refactoring
+se passent à l'écran dans un court laps de temps.
+Pour aider le spectateur à vous situer dans le code affichée, voici plusieurs astuces :
+
+#### 4. Affichez les numéros de lignes
+
+Avec les numéros de lignes, vous pourrez facilement décrire ce que vous êtes en train de faire pour
+aider vos spectateurs à se revenir dans la présentation même s'ils se sont décrochés.
+
+![code de gilded rose inn](/images/linenumber.jpg "des numéros de ligne")
+
+*La condition de la ligne 49 fait doublon avec la condition de la ligne 39, vous voyez ?*
+
+#### 5. Surlignez la ligne courante
+
+Il est possible dans les programme JetBrains de surligner la ligne
+sur laquelle est votre curseur, pour ainsi retrouver en un coup d'œil ce
+que le présentateur est en train de modifier. Il est aussi possible de l'
+encadrer comme l'ont fait Bruno Boucard et Thomas Pierrain plus haut.
+
+![code de gilded rose inn](/images/surligne.jpg "une ligne surlignée")
+
+Cette option se trouve dans les propriétés de coloration de l'éditeur :
+![préférences intellij](/images/caret row.jpg "settings de la couleur caret row")
+
+#### 6. Utilisez un curseur bloc plutôt qu'un curseur ligne
+
+![un bloc caret](/images/caret.jpg "un bloc caret")
+
+En utilisant un bloc caret avec un clignotement lent, vous pouvez encore donner un dernier coup de
+pouce au spectateur assoupi à retrouver le fil de votre refactoring.
+Vous pouvez modifier ce paramètre dans les paramètres de l'éditeur.
+
+![caret settings](/images/useblockcaret.jpg "paramètres du curseur")
+
+#### 7. Autorisez le placement en fin de ligne
+
+Cette option permet comme son nom l'indique de laisser le curseur se placer
+indistinctement après la fin d'une ligne de code.
+
+![end of line caret](/images/2018-03-26 23_44_30.gif "curseur après la fin de la ligne")
+
+Mon avis sur cette option est mitigé. D'une part elle permet de rendre le
+déplacement vertical au sein du code source plus fluide. D'autre part,
+c'est une option qui est déstabilisante en coding-dojo car les participants
+ont l'habitude d'aller vers la droite en fin de ligne pour passer à la
+ligne suivante.  Ça signifie aussi que vous aussi, présentateur, devrez
+réapprendre à naviguer dans votre code avec cette option.
+
+![caret setting](/images/caretsetting.jpg "parametre du curseur en fin de ligne")
+
+## Une présentation de code... est une présentation quand même
 
 
 
-#### 4. Maximiser la facilité à pointer une partie de votre code
-
-Un problème récurrent dans le cas d'un live-coding c'est la capacité à retrouver le
-curseur du présentateur, surtout dans le cas où beaucoup de refactoring 
 
 
 
