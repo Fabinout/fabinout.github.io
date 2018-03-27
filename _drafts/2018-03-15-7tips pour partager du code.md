@@ -166,11 +166,15 @@ réapprendre à naviguer dans votre code avec cette option.
 
 ## Une présentation de code... est une présentation quand même
 
+#### 10. Si vous ne pouvez pas garder un code dans un état "fonctionnel", filmez votre démo
 
+Ça peut ne pas vous prendre beaucoup de temps, mais si vous faites par exemple une application Android/Unity qui fait de la
+réalité augmentée dans une démo pour présenter Unity
 
+#### 11. Révisez
 
-
-
+Le rythme est une part importante de votre démonstration de code, rejouez la à haute voix jusqu'à que vous connaissiez
+votre texte par cœur.
 
 
 
