@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "7 tips pour partager du code à l'écran"
+title: "10 astuces pour partager du code à l'écran"
 description: "Un guide pour ceux qui font des katas de live-programming, du mob-programming en équipe ou simplement une démo?"
 tags: [Tools, Démo, Kata, mob-programming]
 ---
