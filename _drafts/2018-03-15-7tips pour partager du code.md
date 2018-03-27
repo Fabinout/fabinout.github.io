@@ -14,7 +14,8 @@ Lors de cette occasion il est important de toujours garder à l'esprit le confor
 
 L'affichage de code comprend **aussi les commandes dans le terminal**. Il est courant
 dans les conférences qui comportent du live-coding d'afficher son terminal pour faire
-une démonstration, et il ne faut pas négliger la lisibilité de votre démo.
+une démonstration, et il ne faut pas négliger la lisibilité de votre démo. Néanmoins certaines de ces astuces ne s'
+appliquent pas au
 
 ## Le confort de lecture avant tout
 
@@ -166,12 +167,27 @@ réapprendre à naviguer dans votre code avec cette option.
 
 ## Une présentation de code... est une présentation quand même
 
+Vous avez surement déjà préparé une présentation ou une soutenance durant vos études ou votre carrière. Dans ces
+cas là, comme dans le cas d'une présentation de code à une conférence il y a la règle des trois P.
 
+* la préparation    
+* la préparation
+* la préparation
 
+#### 8. Planifiez votre démonstration 
 
+Listez les étapes importantes de votre démo, et gardez la liste accessible à portée de main. Ainsi vous pourrez y revenir
+au moindre blanc.
 
+#### 9. Versionnez votre code
 
+Vous êtes un développeur, la probabilité est élevée que vous sachiez maitriser **git** alors profitez-en. Versionnez
+votre code, et vérifiez que vous pouvez à tout moment revenir à un état **qui marche.**   De nombreux guides (par exemple [Code Demo using git](http://programmaticallyspeaking.com/code-demo-using-git.html)) 
+existent pour vous expliquer comment vous y prendre. Vous pouvez adopter l'outil à votre utilisation en 
+utilisant librement des alias ou des tags.
 
+    
+  
 
 
 
