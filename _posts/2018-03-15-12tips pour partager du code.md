@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "12 tips pour partager du code à l'écran"
