@@ -1,6 +1,7 @@
+
 ---
 layout: post
-title: "7 tips pour partager du code à l'écran"
+title: "12 tips pour partager du code à l'écran"
 description: "Un guide pour ceux qui font des katas de live-programming, du mob-programming en équipe ou simplement une démo?"
 tags: [Tools, Démo, Kata, mob-programming]
 ---
@@ -113,7 +114,7 @@ Entre autres :
 * le bleu sur fond noir est difficile à lire pour un daltonien
 
 
-## Maximiser le confort de navigation dans votre code
+## Le confort de navigation dans votre code
 
 Dans le cas d'un live-coding, il est courant de peiner à retrouver le
 curseur du présentateur, surtout dans le cas où beaucoup de refactoring
@@ -169,7 +170,7 @@ réapprendre à naviguer dans votre code avec cette option.
 
 ## Une présentation de code... est une présentation quand même
 
-Vous avez surement déjà préparé une présentation ou une soutenance durant vos études ou votre carrière. Dans ces
+Vous avez surement fait une présentation ou une soutenance durant vos études et votre carrière. Dans ces
 cas là, comme dans le cas d'une présentation de code à une conférence il y a la règle des trois P.
 
 * la préparation    
@@ -179,7 +180,7 @@ cas là, comme dans le cas d'une présentation de code à une conférence il y a
 #### 8. Planifiez votre démonstration 
 
 Listez les étapes importantes de votre démo, et gardez la liste accessible à portée de main. Ainsi vous pourrez y revenir
-au moindre blanc.
+au moindre doute.
 
 #### 9. Versionnez votre code
 
@@ -188,17 +189,16 @@ votre code, et vérifiez que vous pouvez à tout moment revenir à un état **qu
 existent pour vous expliquer comment vous y prendre. Vous pouvez adopter l'outil à votre utilisation en 
 utilisant librement des alias ou des tags.
 
-#### 10. Si vous ne pouvez pas garder un code dans un état "fonctionnel", filmez votre démo
+#### 10. Si vous ne pouvez pas garder un code dans un état fonctionnel, vous avez d'autres options
 
-Ça peut ne pas vous prendre beaucoup de temps, mais si vous faites par exemple une application Android/Unity qui fait de la
-réalité augmentée en scrappant les données de votre API custom, votre code a des dizaines de façons différentes de planter
+Si vous faites une application Android/Unity qui fait de la
+réalité augmentée en scrappant les données de votre API custom, votre démo peut planter pour des dizaines de façons différentes 
 (internet ne marche pas, votre téléphone n'a pas de batterie, etc.).
 Dans ces situations où un versionning de votre code applicatif ne permet pas de couvrir toutes les situations, il ne vous
 reste qu'à garder sur votre poste une vidéo de votre démo fonctionnelle, mais c'est toujours mieux que de regarder ses pieds
 en disant que "là normalement ça aurait du marcher".
 
-
-#### 10. Evitez les distractions
+#### 11. Evitez les distractions
 
 On a tous déjà vu un présentateur recevoir un tweet durant une présentation, un email ou encore un message Slack rigolo.
 Dans le meilleur des cas le message est banal, peu intéressant.
@@ -210,20 +210,11 @@ Dans certains rares cas (mais déjà arrivés), vous pouvez recevoir un message 
 Il y a peu de chance que vous ayez besoin de Twitter ou Facebook durant votre présentation, évitez-vous des galères et
 fermez vos onglets et applications de réseaux sociaux avant de commencer votre présentation.
 
+#### 12. Travaillez votre rythme
 
-#### 11. Révisez
-
-Le rythme est une part importante de votre démonstration de code, rejouez la à haute voix jusqu'à que vous connaissiez
-votre texte par cœur.
-
-
-
-
-
-
-
-
-https://ux.stackexchange.com/a/53268
-http://uxmovement.com/content/when-to-use-white-text-on-a-dark-background/
-
+Selon le thème de votre présentation de code, vous pouvez accélérer ou décélérer à votre convenance, libre à vous de faire
+plusieurs Ctrl+Z et de refaire vos manipulations si vous sentez que vous êtes allé un peu vite et que vous avez perdu votre
+public. Certains moments sont propices à l'utilisation d'un template ou d'un copier-coller, d'autres non.  
+Discerner les étapes clés de votre présentation pour accélérer ceux qui ont peu de valeur-ajouté et appuyer ceux qui sont
+critiques à votre présentation.
 
