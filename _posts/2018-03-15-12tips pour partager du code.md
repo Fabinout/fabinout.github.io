@@ -214,6 +214,6 @@ fermez vos onglets et applications de réseaux sociaux avant de commencer votre 
 Selon le thème de votre présentation de code, vous pouvez accélérer ou décélérer à votre convenance, libre à vous de faire
 plusieurs Ctrl+Z et de refaire vos manipulations si vous sentez que vous êtes allé un peu vite et que vous avez perdu votre
 public. Certains moments sont propices à l'utilisation d'un template ou d'un copier-coller, d'autres non.  
-Discerner les étapes clés de votre présentation pour accélérer ceux qui ont peu de valeur-ajouté et appuyer ceux qui sont
+Discerner les étapes clés de votre présentation pour accélérer celles qui ont peu de valeur-ajouté ou au contraire appuyer ceux qui sont
 critiques à votre présentation.
 
