@@ -11,11 +11,13 @@ dernière technologie à la mode sur laquelle vous avez passé votre week-end pl
 à Devoxx France.
 
 Lors de cette occasion il est important de toujours garder à l'esprit le confort de lecture de vos spectateurs.
+Et ce confort dépend des conditions de visionnage de code qui ne sont pas les mêmes lorsque
+l'utilisateur est à 30 centimètres de son écran, lorsqu'il est au fond de la salle de conférence, ou lorsqu'il regarde
+le code projeté sur un écran plat dans une salle de réunion orientée sud.
 
-L'affichage de code comprend **aussi les commandes dans le terminal**. Il est courant
-dans les conférences qui comportent du live-coding d'afficher son terminal pour faire
-une démonstration, et il ne faut pas négliger la lisibilité de votre démo. Néanmoins certaines de ces astuces ne s'
-appliquent pas au
+L'affichage de code comprend **aussi les commandes dans le terminal**. J'observe souvent dans les conférences techs un
+présentateur afficher son terminal, il est beaucoup plus rare que je comprenne
+ce qui se passe à l'écran.
 
 ## Le confort de lecture avant tout
 
@@ -58,9 +60,8 @@ un paragraphe, c'est à dire passer sur tous les mots pour comprendre le sens gl
 scanner un titre en le visualisant dans son ensemble.
 Comme le dit cet article sur [UXMovement](http://uxmovement.com/content/when-to-use-white-text-on-a-dark-background/),
 il est plus facile de scanner un texte court avec une police blanche sur fond coloré,
-et il est plus facile de lire un texte sur un fond clair.
-
-C'est une manière facile d'adapter le style à votre contenu.
+et il est plus facile de lire un texte sur un fond clair. Dans un slide de présentation, c'est une manière facile
+ d'adapter le style à votre contenu.
 
 #### 2. Augmentez la taille de la police
 
@@ -82,7 +83,8 @@ La règle générale que je m'inflige :
 me tiens à 2 mètres de mon écran de laptop.
 
 Évidemment, la ligne ne doit pas dépasser de l'écran en largeur.
-Si vous utilisez un IDE, je vous suggère d'utiliser simplement le "Mode Présentation".
+Si vous utilisez un IDE, je vous suggère d'utiliser simplement le "Mode Présentation" pour gagner de la place
+en cachant les différentes barres et menus.
 
 #### 3. Utilisez une coloration syntaxique simple, ou n'en utilisez pas
 
@@ -129,7 +131,7 @@ aider vos spectateurs à se revenir dans la présentation même s'ils se sont d�
 
 #### 5. Surlignez la ligne courante
 
-Il est possible dans les programme JetBrains de surligner la ligne
+Il est possible dans les applications JetBrains de surligner la ligne
 sur laquelle est votre curseur, pour ainsi retrouver en un coup d'œil ce
 que le présentateur est en train de modifier. Il est aussi possible de l'
 encadrer comme l'ont fait Bruno Boucard et Thomas Pierrain plus haut.
@@ -139,11 +141,11 @@ encadrer comme l'ont fait Bruno Boucard et Thomas Pierrain plus haut.
 Cette option se trouve dans les propriétés de coloration de l'éditeur :
 ![préférences intellij](/images/caret row.jpg "settings de la couleur caret row")
 
-#### 6. Utilisez un curseur bloc plutôt qu'un curseur ligne
+#### 6. Utilisez un curseur bloc plutôt qu'un curseur l
 
 ![un bloc caret](/images/caret.jpg "un bloc caret")
 
-En utilisant un bloc caret avec un clignotement lent, vous pouvez encore donner un dernier coup de
+En utilisant un block caret avec un clignotement lent, vous pouvez encore donner un dernier coup de
 pouce au spectateur assoupi à retrouver le fil de votre refactoring.
 Vous pouvez modifier ce paramètre dans les paramètres de l'éditeur.
 
@@ -186,8 +188,35 @@ votre code, et vérifiez que vous pouvez à tout moment revenir à un état **qu
 existent pour vous expliquer comment vous y prendre. Vous pouvez adopter l'outil à votre utilisation en 
 utilisant librement des alias ou des tags.
 
-    
-  
+#### 10. Si vous ne pouvez pas garder un code dans un état "fonctionnel", filmez votre démo
+
+Ça peut ne pas vous prendre beaucoup de temps, mais si vous faites par exemple une application Android/Unity qui fait de la
+réalité augmentée en scrappant les données de votre API custom, votre code a des dizaines de façons différentes de planter
+(internet ne marche pas, votre téléphone n'a pas de batterie, etc.).
+Dans ces situations où un versionning de votre code applicatif ne permet pas de couvrir toutes les situations, il ne vous
+reste qu'à garder sur votre poste une vidéo de votre démo fonctionnelle, mais c'est toujours mieux que de regarder ses pieds
+en disant que "là normalement ça aurait du marcher".
+
+
+#### 10. Evitez les distractions
+
+On a tous déjà vu un présentateur recevoir un tweet durant une présentation, un email ou encore un message Slack rigolo.
+Dans le meilleur des cas le message est banal, peu intéressant.
+Dans la majorité des cas, vous allez inconsciemment lire la notification, et interrompre votre flux de pensée. Selon
+votre aisance, vous pouvez continuez votre phrase comme si de rien n'était, ou bien perdre le fil de votre phrase et commencer
+à bégayer.
+Dans certains rares cas (mais déjà arrivés), vous pouvez recevoir un message salace de votre conquète du week-end précédent.
+
+Il y a peu de chance que vous ayez besoin de Twitter ou Facebook durant votre présentation, évitez-vous des galères et
+fermez vos onglets et applications de réseaux sociaux avant de commencer votre présentation.
+
+
+#### 11. Révisez
+
+Le rythme est une part importante de votre démonstration de code, rejouez la à haute voix jusqu'à que vous connaissiez
+votre texte par cœur.
+
+
 
 
 
