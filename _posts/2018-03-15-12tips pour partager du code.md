@@ -36,7 +36,8 @@ Le thème Dark est souvent apprécié des jeunes développeurs qui ont encore de
 la journée face à leur écran. Dans un bureau qui n'est pas spécialement éclairé,
 l'écran devient la source principale de luminosité, et le travail de longue durée face à un
 écran clair fatigue les yeux. Dans cette situation, un fond sombre avec une police claire (mais
-pas blanche pour limiter le contraste) est une situation très confortable pour les yeux.
+pas blanche pour limiter le contraste) est une situation très confortable pour les yeux. D'expérience, les développeurs
+plus expérimentés auront plus tendance à coder sur fond clair.
 
 Si cette configuration est plus reposante sur de longues durées et dans des conditions
 particulières, elle est plus fatigante dans la majorité des situations.
@@ -112,6 +113,8 @@ Entre autres :
 * l'orange clair sur fond blanc est illisible
 * le bleu sur fond noir est difficile à lire pour un daltonien
 
+Comme alternative simple et rapide, je vous suggère d'utiliser [carbon.now](https://carbon.now.sh/?bg=rgba(255,255,255,1)&t=base16-light&l=auto&ds=true&wc=true&wa=true&pv=48px&ph=32px&ln=false)
+afin de générer vos snippets de code de présentation.
 
 ## Le confort de navigation dans votre code
 
