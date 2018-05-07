@@ -72,7 +72,7 @@ gens au fond de la salle.
 Observez par exemple la présentation de DDD par Thomas Pierrain et Bruno
 Boucard à Bdx.io 2017.
 
-![livecoding par Boucard et Pierrain](/images/ddd pierrain.jpg "Un exemple de livecoding")
+![livecoding par Boucard et Pierrain](/images/ddd%20pierrain.jpg "Un exemple de livecoding")
 
 La caméra se trouve ici au pied de l'estrade, vous imaginez que quelqu'un se trouvant
 au 10ème rang aura bien du mal à lire l'écran.
@@ -104,7 +104,7 @@ mettaient du temps à réaliser qu'ils avaient écrit un code qui ne compilait p
 
 Voici un exemple à ne pas suivre :
 
-![Exemple de mauvaise coloration syntaxique](/images/coloration syntaxique.png "Un exemple de mauvaise coloration syntaxique")
+![Exemple de mauvaise coloration syntaxique](/images/coloration%20syntaxique.png "Un exemple de mauvaise coloration syntaxique")
 
 Entre autres :
 
@@ -141,7 +141,7 @@ encadrer comme l'ont fait Bruno Boucard et Thomas Pierrain plus haut.
 ![code de gilded rose inn](/images/surligne.jpg "une ligne surlignée")
 
 Cette option se trouve dans les propriétés de coloration de l'éditeur :
-![préférences intellij](/images/caret row.jpg "settings de la couleur caret row")
+![préférences intellij](/images/caret%20row.jpg "settings de la couleur caret row")
 
 #### 6. Utilisez un curseur bloc plutôt qu'un curseur l
 
@@ -158,7 +158,7 @@ Vous pouvez modifier ce paramètre dans les paramètres de l'éditeur.
 Cette option permet comme son nom l'indique de laisser le curseur se placer
 indistinctement après la fin d'une ligne de code.
 
-![end of line caret](/images/2018-03-26 23_44_30.gif "curseur après la fin de la ligne")
+![end of line caret](/images/2018-03-26%2023_44_30.gif "curseur après la fin de la ligne")
 
 Mon avis sur cette option est mitigé. D'une part elle permet de rendre le
 déplacement vertical au sein du code source plus fluide. D'autre part,
