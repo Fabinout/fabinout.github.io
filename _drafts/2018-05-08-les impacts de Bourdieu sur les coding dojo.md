@@ -7,3 +7,11 @@ tags: [Philosophie, Coding-dojos]
 
 
 # WTF is Bourdieu ?
+
+# What's the link between my coding dojos and Bourdieu
+
+# When did I fuck up? 
+
+# Now, what do we do ?
+
+
