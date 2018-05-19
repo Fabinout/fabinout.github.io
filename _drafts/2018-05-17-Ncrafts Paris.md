@@ -30,7 +30,23 @@ nos équipes, et nos relations interpersonnelles.
 
 #### Romeu Moura :   Big corps as little panopticons. Agile coaches as colonial imperialists.
 
-#### 	Felienne Hermans : What is programming anyway?
+Un panoptique est un style d'architecture carcéral imaginé par Bentham en 1780,
+et est retravaillé ensuite par Michel Foucault en 1975. 
+L'objectif de cette structure est d'isoler les prisonniers, et de leur faire craindre des punitions
+en cas d'écart de consuite. Quand le principe de la prison est suffisamment ancré dans les
+comportements des prisonniers, ils finissent par ne plus questionner les règles, et à refuser la
+coopération entre prisonniers. Partant de cette étude, Roméu argumente que le système (société, entreprise, etc.) 
+agit sur ses entités (employés) comme un panoptique et y contraint systématiquement les initiatives
+et libertés.    
+Le discours de Roméu continue ensuite sur la métaphore des coachs agiles qui viennent distribuer des 
+armes pour combattre le système. Cet argumentaire me semble un peu tiré par les veuchs, 
+il faudrait probablement que je revois cette conférence plus tard pour mieux comprendre les implications 
+du panoptique sur nos sociétés.   
 
+
+#### Felienne Hermans : What is programming anyway?
+
+Wouaaaaaaah ! Je ne connaissais pas Felienne, chercheuse hollandaise qui s'est présentée devants
+nous ce jeudi.
 
 #### Kevlin Henney : Refactoring to Immutability
