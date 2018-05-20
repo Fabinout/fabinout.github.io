@@ -7,7 +7,8 @@ tags: [conferences, ncrafts]
 
 
 Aujourd'hui, Jeudi 17 Mai, je suis à paris.
-Dans un bistrot le long de la seine, à deux pas de la tour Eiffel. J'ai gagné les places à un jeu-concours organisé
+Dans un bistrot le long de la seine, à deux pas de la tour Eiffel, je profite d'un café à 8H du matin qui a la saveur d'un 
+café de terrasse parisienne. J'ai gagné les places à un jeu-concours organisé
 par la boite 42Skillz où travaille Thomas Pierrain
 qui était déjà intervenu à BDX.io ainsi qu'à de nombreuses conférences à propos de DDD.
 
