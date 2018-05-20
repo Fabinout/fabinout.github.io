@@ -5,7 +5,6 @@ description: "Présentation de Ncrafts, et mon best-of des confs"
 tags: [conferences, ncrafts]
 ---
 
-
 Aujourd'hui, Jeudi 17 Mai, je suis à paris.
 Dans un bistrot le long de la seine, à deux pas de la tour Eiffel, je profite d'un café à 8H du matin qui a la saveur d'un 
 café de terrasse parisienne. J'ai gagné les places à un jeu-concours organisé
@@ -28,7 +27,9 @@ ainsi que des contributeurs à la communauté open source ainsi qu'au monde des 
 
 J'ai vu plusieurs conférences qui m'ont profondément marqué.
 Dans le désordre voici les conférences que vous devriez regarder quand elles seront disponibles sur
-Viméo (je mettrai cet article à jour).
+Viméo (je mettrai cet article à jour). D'autres conférences étaient aussi intéressantes, mais ne m'ont
+pas fait remettre en question ma culture ou ont manqué de focus ou de forme. Parmi celles-ci, celles de Thomas Pierrain
+et de Sandro Mancuso étaient intéressantes.
 
 #### Jessica Kerr : The Origins of Opera and the Future of Programming.
 
