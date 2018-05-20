@@ -1,5 +1,11 @@
+---
+layout: post
+title: "NCrafts Paris : retour"
+description: "Présentation de Ncrafts, et mon best-of des confs"
+tags: [conferences, ncrafts]
+---
 
-#Ncrafts Paris
+#Ncrafts !
 
 Aujourd'hui, Jeudi 17 Mai, je suis à paris.
 Dans un bistrot le long de la seine, à deux pas de la tour Eiffel. J'ai gagné les places à un jeu-concours organisé
