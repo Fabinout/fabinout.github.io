@@ -22,11 +22,13 @@ On y croise souvent des porte-étendards de la toute première vague d'agile (et
 et d'extreme programming, des conférenciers, des écrivains 
 ainsi que des contributeurs à la communauté open source ainsi qu'au monde des langages fonctionnels.
 
+*ellipse de deux jours de confs passionnantes* 
+
 ## Must-Watch confs
-Dans ce contexte j'ai vu plusieurs conférences qui m'ont profondément marqué.
+
+J'ai vu plusieurs conférences qui m'ont profondément marqué.
 Dans le désordre voici les conférences que vous devriez regarder quand elles seront disponibles sur
 Viméo (je mettrai cet article à jour).
-
 
 #### Jessica Kerr : The Origins of Opera and the Future of Programming.
 
