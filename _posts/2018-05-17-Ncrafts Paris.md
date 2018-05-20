@@ -17,7 +17,7 @@ Ici, pas question de voir "comment faire du serverless sur AWS en 5 minutes". On
 plutôt architecture, design, histoire, sociologie  voire même philosophie (je vous renvoie vers la conf ["les modes d'existence du code](http://videos.ncrafts.io/video/221100040) de Arnaud Bailly).
 
 Dans ce contexte je me sens souvent victime d'un gros complexe d'infériorité, car on rencontre du beau monde ici.
-On y croise souvent des porte-étendards de la toute première vague d'agile (et oui, c'était porté par des développeurs au début)
+On croise pèle-mèle des porte-étendards de la toute première vague d'agile (et oui, c'était porté par des développeurs au début)
 et d'extreme programming, des conférenciers, des écrivains 
 ainsi que des contributeurs à la communauté open source ainsi qu'au monde des langages fonctionnels.
 
@@ -52,7 +52,6 @@ armes pour combattre le système. Cet argumentaire me semble un peu tiré par le
 il faudrait probablement que je revois cette conférence plus tard pour mieux comprendre les implications 
 du panoptique sur nos sociétés.   
 
-
 #### Felienne Hermans : What is programming anyway?
 
 Wouaaaaaaah ! Je ne connaissais pas Felienne, chercheuse hollandaise qui s'est présentée devant
@@ -65,5 +64,5 @@ Pour finir Kevlin m'a complètement soufflé. J'avais entendu parler de lui via 
 coach agiles, et surtout par Sandro Mancuso. Il est venu nous parler d'immutabilité logicielle, si
 tant est qu'elle est possible.  
 Son discours était particulièrement intéressant, mais ce qui fait que j'ai retenu ce talk c'est 
-surtout par l'énergie que Kevlin dégage, son humour et sa pédagogie. 100% à re-regarder ensemble !  
-
+surtout par l'énergie que Kevlin dégage, son humour et sa pédagogie. 100% à re-regarder ensemble, et à partager à votre 
+équipe !  
