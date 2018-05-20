@@ -19,7 +19,7 @@ ainsi que des contributeurs à la communauté open source ainsi qu'au monde des 
 ## Must-Watch confs
 Dans ce contexte j'ai vu plusieurs conférences qui m'ont fondamentalement marqué.
 Dans le désordre voici les conférences que vous devriez regarder quand elles seront disponibles sur
-Viméo :
+Viméo (je mettrai cet article à jour).
 
 
 #### Jessica Kerr : The Origins of Opera and the Future of Programming.
@@ -46,7 +46,15 @@ du panoptique sur nos sociétés.
 
 #### Felienne Hermans : What is programming anyway?
 
-Wouaaaaaaah ! Je ne connaissais pas Felienne, chercheuse hollandaise qui s'est présentée devants
-nous ce jeudi.
+Wouaaaaaaah ! Je ne connaissais pas Felienne, chercheuse hollandaise qui s'est présentée devant
+nous ce jeudi et j'ai été soufflé par la profondeur de sa conférence. Elle a travaillé sur l'enseignement de l'informatique à des enfants, et a commencé à
+se poser la question "Qu'est-ce que le développement logiciel ?" Est-ce un art ? Est-ce de l'artisanat ? 
 
 #### Kevlin Henney : Refactoring to Immutability
+
+Pour finir Kevlin m'a complètement soufflé. J'avais entendu parler de lui via différents 
+coach agiles, et surtout par Sandro Mancuso. Il est venu nous parler d'immutabilité logicielle, si
+tant est qu'elle est possible.  
+Son discours était particulièrement intéressant, mais ce qui fait que j'ai retenu ce talk c'est 
+surtout par l'énergie que Kevlin dégage, son humour et sa pédagogie. 100% à re-regarder ensemble !  
+
