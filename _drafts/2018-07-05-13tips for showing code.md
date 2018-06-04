@@ -18,28 +18,20 @@ Those next advices apply also apply to Shell code, and I often feel like I can't
 
 ## Reading's comfort above all
 
+Watching a screen a few inches aways from your face is significantly different than watching a live 
+conference from the end of the room, or a meeting screen during a mob programming. A few things will help your readers.
+ 
+#### 1. Use a light theme
 
+On one hand, dark theme is used by [most of the developers](https://twitter.com/Fabinout/status/977151283445592064) 
+who spend most of their work day writing code. Long hours of screen time can result in eye irritation, dryness, 
+fatigue or even blurred vision, and a dark theme with a light font will definitely help throughout the day. 
+Your best screen setting is the one you like most. It usually uses a darker theme (but not black), and a lighter font (but not white).
+ 
+On the other hand, most of the online content (wikipedia, blogs, documentation, etc.) is using a light theme, isn't that paradoxical ?  
 
-Gardez en mémoire que les conditions de visionnage de code ne sont pas les mêmes lorsque
-l'utilisateur est à 30 centimètres de son écran que lorsqu'il est au fond de la salle et qu'il regarde le code projeté sur un écran
-plat à 5 mètres de lui.
-
-#### 1. Utilisez un fond clair
-
-La majorité du contenu disponible sur Internet (wikipedia, blogs, docs,...)
-est présenté avec du texte noir sur un fond clair. Or,
-[la majorité](https://twitter.com/Fabinout/status/977151283445592064) des développeurs utilise
-un fond sombre à la Darkula ou anthracite. D'où vient cette discordance ?
-
-Le thème Dark est souvent apprécié des jeunes développeurs qui ont encore de bons yeux et passent
-la journée face à leur écran. Dans un bureau qui n'est pas spécialement éclairé,
-l'écran devient la source principale de luminosité, et le travail de longue durée face à un
-écran clair fatigue les yeux. Dans cette situation, un fond sombre avec une police claire (mais
-pas blanche pour limiter le contraste) est une situation très confortable pour les yeux. D'expérience, les développeurs
-plus expérimentés auront plus tendance à coder sur fond clair.
-
-Si cette configuration est plus reposante sur de longues durées et dans des conditions
-particulières, elle est plus fatigante dans la majorité des situations.
+Dark theme is usually better for office conditions, during long period of time, but it is easier to read in most 
+other cases using a lighter theme.
 
 > White stimulates all three types of color sensitive visual receptors in the human eye
 in nearly equal amounts. It causes the eye to focus by tightening the iris.
@@ -47,7 +39,10 @@ Since the eye is focused, dark letter forms on light backgrounds are easier to r
 When using a dark background with strong light letter forms, the iris opens to allow
 more light in, but that causes letter forms to blur.
 
-![Un texte noir sur fond blanc, et un texte blanc sur fond noir](/images/light-absorb-reflect-text.png "Comparaison de paragraphes")
+![Black text on white background, white text on black background](/images/light-absorb-reflect-text.png "Comparaison de paragraphes")
+
+
+Dark background is usually not suited for conferences, because people need to be in front of the screen to under
 
 Un fond sombre est donc rarement adapté à des présentations de code
 sur grand écran ou rétroprojecteur. Vos spectateurs ne seront pas nécessairement dans
