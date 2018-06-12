@@ -36,7 +36,7 @@ Les principaux concepts de son oeuvre sont :
 
 * le capital culturel
 * centralité de l'**habitus**
-* Hexis
+* l'hexis
 * un monde social où la **violence symbolique**, c’est-à-dire la capacité à perpétuer des rapports de domination en 
 les faisant méconnaître comme tels par ceux qui les subissent, joue un rôle central.
 * un monde social divisé en **champs** (mais ça sort du scope de cet article)
@@ -85,14 +85,22 @@ Ces prédispositoins sont très générales, mais on peut citer des éléments f
 * les tournures de phrase
 * la capacité à rester calme ou à user de la violence
                                                     
-### Hexis
+#### Hexis
 
+> [L'hexis est] l’expression dans et par le corps lui-même, ou au plus près de lui, de cet habitus. 
 
+Il concerne donc dans la forme corporelle de l'Habitus, sa communication non-verbale, le ton de sa voix ou bien encore
+la cible du regard lors d'une discussion. Pour aller plus loin, l'hexis représente l'incarnation corporelle des structures 
+sociales telles qu'elle apparait aux individus, et elle est particulièrement visible dans une situation d'inconfort. 
+Imaginons un stagiaire un peu introverti en train de se faire sermonner par son manager parce que son travail n'avance pas :
+* il tremble
+* il bégaie
+* il regarde ses mains en parlant
 
-### Capital culturel
+Tous ses symptômes sont des manifestations de son hexis, qui ne sont que la manifestation de son habitus, qui lui a appris 
+à se soumettre physiquement lorsque sa position sociale l'exige.
 
-https://www.powercube.net/other-forms-of-power/bourdieu-and-habitus/
-
+Dans un sens plus large, l'hexis implique aussi les styles vestimentaires, les coiffures ou encore les tatouages.  
 
 ### Bourdieu et les champs sociaux
 
@@ -102,7 +110,7 @@ apparente les univers sociaux à un champ électromagnétique : un électron sou
 
 *source : [lien](https://www.academia.edu/4808608/Le_concept_de_champ_litt%C3%A9raire_chez_Pierre_Bourdieu)* 
 
-Un champ est donc un système qui contient ses agents ainsi que ses positions sociales structuré internement pas des 
+Un champ est donc un système qui contient ses agents ainsi que ses positions sociales structurées internement par des 
 relations de coercition. C'est donc une arène de relation de pouvoir, de domination où les agents se battent pour l'appropriation
 de différentes formes de capitals, un capital étant ce qui est estimé par ses agents. Ça peut aller du capital culturel
 dont on a parlé précedèment au simple (mais vital) capital monétaire. 
@@ -113,13 +121,72 @@ et agissent de manière indépendante. Ils font donc office d'arène de lutte so
 Selon ses règles, des activités se développent au sein d'un champ où chaque agent est un électron qui modifie à son échelle
 l'orientation, la forme, ou les valeurs de ce "flux". À l'intérieur, la capacité à interagir avec ce flux dépend 
 directement de l'habitus de chaque agent dans ce champ précis. Car vous avez dû y penser en lisant le paragraphe sur 
-l'habitus, il dépend effectivement du champ dans lequel il est appliqué. Le champ social des politiciens auront des normes
+l'habitus, **il dépend effectivement du champ dans lequel il est appliqué**. Le champ social des politiciens auront des normes
 sociales sensiblement différente que celui des développeurs. 
 
 Il est à noter aussi qu'il est très difficile pour groupe d'humain de construire un groupe libre de toute structure
 de domination
 
+### Pouvoir symbolique et violence symbolique
+
+Le pouvoir symbolique est la structure de pouvoir tacite qu'on exerce les uns sur les autres inconsciemment. 
+
+Un individu qui est :
+* un homme
+* blanc
+* grand 
+* qu'on estime cultivé
+* qui porte un costume
+* qui est éloquent
+* et qui a des signes qu'on attribue à l'intelligence
+
+Plus un individu aura ces propriétés, plus il sera jugé (inconsciemment) comment étant puissant, et plus l'on
+s'y soumettra (inconsciemment).
+Le truc relou avec ce pouvoir symbolique se trouve là. Cette structure de pouvoir (qui est donc une violence) n'est pas 
+infligée par le dominant au dominé. Il est d'ailleurs fort probable que cette violence ne soit même pas perçue par 
+le dominant, mais soit auto-infligé par le dominé. Nous sommes programmé pour réagir à ces caractéristiques et à nous y
+soumettre. Le terme peut vous paraitre fort, néanmoins c'est prouvé (notamment par Paul Piff, un sociologue de Berkley)
+qu'on attribuera beaucoup plus facilement sa confiance à quelqu'un qui affiche une classe socio-professionnelle plus
+élevée que la sienne. 
+
+Et pour retourner le couteau dans la plaie, l'individu dominant ne sera pas équipé pour comprendre ce problème (il n'a
+jamais eu de problème à prendre la parole en public, "c'est pas si dur") et n'éprouvera donc pas d'empathie pour ceux ayant
+un habitus plus faible.
+
+#### Maintenant ça ne fait pas tout.
+   
+   ![Photo of ugly white guy in a suit](/images/dwight%20schrute.jpg "Photo de Dwight Schrute")
+
+_voici un exemple d'homme blanc hétéro en costume qui n'a pas énormément de violence symbolique, même s'il a du
+ pouvoir symbolique_
+ 
+ **La violence symbolique est un mélange de l'habitus, du capital culturel et du pouvoir symbolique.** 
+  
+ Si quelqu'un avec une forte combinaison des trois travaille avec un individu moyen dans ces aspects. Il se créera 
+ naturellement une structure de domination entre les deux individus. Et la qualité perçue du travail sera naturellement
+ plus élevée chez celui qui a un habitus d'un rang social plus élevé.   
+  
+ 
 # What's the link between my coding dojos and all this ?
+
+Parlons maintenant de comment tout ça s'applique à nos coding-dojos.
+
+Il est évident que le champ qui nous intéresse est le champ des développeurs, des codeurs. Ce champs est un sous-champs
+des métiers de l'informatique, et possède des sous-champs tels que les développeurs front-end ou ceux qui utilisent des langages
+fonctionnels.     
+Chacun y occupe une place qui peut-être plutôt dominante, plutôt dominée, conservatrice ou bien innovante.
+Les luttes internes qui caractérisent notre champ sont entre autres :
+* quel est le meilleur langage ?
+* quelle est la meilleure méthode d'organisation ?
+* est-ce qu'il faut faire des tests ?
+* micro-services ou monolithe ?
+* vim vs emacs
+
+Je suis sûr que vous êtes capables d'en imaginer 200 autres. Cette lutte interne se fait à coup d'articles, 
+de missions de conseil, de livres, de Proof-of-concepts, etc.
+
+Ensemble la communauté évolue, et selon l'habitus et le capital culturel, un agent est capable d'en influencer la direction.
+
 
 # When did I fuck up? 
 
@@ -127,3 +194,6 @@ de domination
 
 
 C'est encore une fois Arnaud Bailly qui introduisit cette notion de champ dans nos discussions animées sur le Slack Okiwi.  
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3093479/
