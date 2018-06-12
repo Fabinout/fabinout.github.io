@@ -54,9 +54,24 @@ L'habitus structure donc les pensées dans la société, pour peu que ses indivi
 semblable au sein de leur classe sociale, et explique donc la similitude des manières de penser au sein de cette classe.    
 
 Cet habitus n'est pas immuable, la trajectoire sociale ainsi que de l'introspection peut tout à fait 
-conduire à une évolution de l'habitus d'un individu.      
+conduire à une évolution de l'habitus d'un individu. On peut conclure que l'habitus n'est pas un produit du libre-arbitre ni un 
+produit de la structure, mais un mélange des deux qui structure chaques comportements et perceptions.
+
+Ces prédispositoins sont très générales, mais on peut citer des éléments factuels qui découlent directemnet de l'habitus:
+* la posture
+* le vocabulaire
+* les tournures de phrase
+* la capacité à rester calme
+
+
 
 ### Hexis
+
+
+
+### Capital culturel
+
+https://www.powercube.net/other-forms-of-power/bourdieu-and-habitus/
 
 
 # What's the link between my coding dojos and Bourdieu
