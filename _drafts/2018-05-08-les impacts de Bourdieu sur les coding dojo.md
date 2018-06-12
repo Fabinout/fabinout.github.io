@@ -30,8 +30,7 @@ Peu de temps après, Romeu nous en reparlait lors de
 théorie de la sociologie de Bourdieu ([ici](https://medium.com/@Romeu/agility-should-pay-attention-to-sociology-b671fd056933) 
 en version article de blog).
    
-Dans l'élan, je vous conseille la lecture de [l'article wikipedia de Bourdieu](https://fr.wikipedia.org/wiki/Pierre_Bourdieu) 
-que je tâcherai de paraphraser de la manière la moins maladroite possible.
+Dans l'élan, je vous conseille la lecture de [l'article wikipedia de Bourdieu](https://fr.wikipedia.org/wiki/Pierre_Bourdieu).
 
 Les principaux concepts de son oeuvre sont : 
 
@@ -48,7 +47,7 @@ comportements, de réactions et de perceptions. Toutefois, l'habitus n'**est pas
 actions comme des rails guideront le tram citadin, il agit plutôt comme une grammaire de la langue maternelle. Et 
 cette grammaire acquise par socialisation permet à l'individu de se constituer une infinité de *phrase* pour gérer ses
 situations quotidiennes, sans pour autant reproduire l'exacte même réaction à un évènement externe.   
-Ainsi, l'habitus est **structurée** car produit de la socialisation, mais également **structurant** car générateur d'une
+Ainsi, l'habitus est **structuré** car produit de la socialisation, mais également **structurant** car générateur d'une
 infinité de pratiques nouvelles. Il est donc d'après Bourdieu "structures structurées prédisposées 
 à fonctionner comme structures structurantes"     
 L'habitus structure donc les pensées dans la société, pour peu que ses individus aient vécu une socialisation
@@ -56,6 +55,9 @@ semblable au sein de leur classe sociale, et explique donc la similitude des man
 
 Cet habitus n'est pas immuable, la trajectoire sociale ainsi que de l'introspection peut tout à fait 
 conduire à une évolution de l'habitus d'un individu.      
+
+### Hexis
+
 
 # What's the link between my coding dojos and Bourdieu
 
