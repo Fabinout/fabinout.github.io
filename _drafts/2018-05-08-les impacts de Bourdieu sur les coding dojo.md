@@ -34,18 +34,40 @@ Dans l'élan, je vous conseille la lecture de [l'article wikipedia de Bourdieu](
 
 Les principaux concepts de son oeuvre sont : 
 
+* le capital culturel
 * centralité de l'**habitus**
 * Hexis
 * un monde social où la **violence symbolique**, c’est-à-dire la capacité à perpétuer des rapports de domination en 
 les faisant méconnaître comme tels par ceux qui les subissent, joue un rôle central.
 * un monde social divisé en **champs** (mais ça sort du scope de cet article)
 
+### Le capital culturel
+
+Bourdieu s'est beaucoup inspiré de Karl Marx dans ses écrits. Les deux sociologues sont d'accord pour dire que la
+différence de position sociale entre deux individus dépend directement de la différence entre leurs deux capitals. Plus 
+ton capital est important, plus ta position est dominatrice dans la société. La différence est surtout que Marx parlait
+essentiellement de capital économique (patrimoine, salaire, etc.) là où Bourdieu ajoute un autre type de capital : **le capital culturel**.
+
+Ce capital culturel est l'ensemble des éléments symboliques que l'on acquière en étant dans une certaine classe sociale. 
+Il peut être incorporé (personnel), institutionnel ou bien objectivé (matériel). 
+
+Ça peut-être : 
+* un goût pour la philosophie (incorporé)
+* des compétences (incorporé) 
+* un diplome (institutionnel)
+* une voiture de sport (objectivé)
+
+C'est le capital culturel qui crée un sentiment d'identité collectivité, d'entre-soi, c'est potentiellement 
+un frein majeur à l'ascension sociale d'un individu ayant énormément de capital monétaire. À l'inverse la possibilité
+d'acquérir grâce à des efforts colossaux un capital culturel important rend **beaucoup** plus aisé la possibilité 
+d'une promotion, et donc d'un capital monétaire.
+
 ### Habitus
 
 Au travers de sa socialisation et de sa trajectoire sociale, l'individu accumulera par mimétisme un ensemble de 
 comportements, de réactions et de perceptions. Toutefois, l'habitus n'**est pas** un automatisme mécanique qui guide nos 
 actions comme des rails guideront le tram citadin, il agit plutôt comme une grammaire de la langue maternelle. Et 
-cette grammaire acquise par socialisation permet à l'individu de se constituer une infinité de *phrase* pour gérer ses
+cette grammaire acquise par socialisation permet à l'individu de se constituer une infinité de *phrases* pour gérer ses
 situations quotidiennes, sans pour autant reproduire l'exacte même réaction à un évènement externe.   
 Ainsi, l'habitus est **structuré** car produit de la socialisation, mais également **structurant** car générateur d'une
 infinité de pratiques nouvelles. Il est donc d'après Bourdieu "structures structurées prédisposées 
@@ -62,7 +84,7 @@ Ces prédispositoins sont très générales, mais on peut citer des éléments f
 * le vocabulaire
 * les tournures de phrase
 * la capacité à rester calme ou à user de la violence
-
+                                                    
 ### Hexis
 
 
