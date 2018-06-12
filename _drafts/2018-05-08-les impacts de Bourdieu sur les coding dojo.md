@@ -8,7 +8,7 @@ tags: [Philosophie, Coding-dojos]
 
 # WTF is Pierre Bourdieu ?
 
-Bourdieu est un sociologue français de la fin du 20ème siècle que j'ai découvert récemment sur le slack d'Okiwi. 
+Bourdieu est un sociologue français de la fin du 20ème siècle que j'ai découvert récemment sur le Slack d'Okiwi. 
 
 Lors d'une conversation très animée à propos de la vision de Sandro Mancuso sur la gestion de sa carrière, 
 Emmanuel Gaillot disait :
@@ -57,13 +57,11 @@ Cet habitus n'est pas immuable, la trajectoire sociale ainsi que de l'introspect
 conduire à une évolution de l'habitus d'un individu. On peut conclure que l'habitus n'est pas un produit du libre-arbitre ni un 
 produit de la structure, mais un mélange des deux qui structure chaques comportements et perceptions.
 
-Ces prédispositoins sont très générales, mais on peut citer des éléments factuels qui découlent directemnet de l'habitus:
+Ces prédispositoins sont très générales, mais on peut citer des éléments factuels qui découlent directement de l'habitus:
 * la posture
 * le vocabulaire
 * les tournures de phrase
-* la capacité à rester calme
-
-
+* la capacité à rester calme ou à user de la violence
 
 ### Hexis
 
@@ -74,10 +72,36 @@ Ces prédispositoins sont très générales, mais on peut citer des éléments f
 https://www.powercube.net/other-forms-of-power/bourdieu-and-habitus/
 
 
-# What's the link between my coding dojos and Bourdieu
+### Bourdieu et les champs sociaux
+
+> Le concept de champ est, à l’origine, une métaphore inspirée de la physique qui 
+apparente les univers sociaux à un champ électromagnétique : un électron soumis à ce champ participe au champ, il est 
+à la fois agi et agissant et contribue à l’équilibre des conflits dont il est l’agent. Pierre Bourdieu le définit. 
+
+*source : [lien](https://www.academia.edu/4808608/Le_concept_de_champ_litt%C3%A9raire_chez_Pierre_Bourdieu)* 
+
+Un champ est donc un système qui contient ses agents ainsi que ses positions sociales structuré internement pas des 
+relations de coercition. C'est donc une arène de relation de pouvoir, de domination où les agents se battent pour l'appropriation
+de différentes formes de capitals, un capital étant ce qui est estimé par ses agents. Ça peut aller du capital culturel
+dont on a parlé précedèment au simple (mais vital) capital monétaire. 
+ 
+Les champs peuvent être disjoints, inclus ou exclus les uns des autres. Ils sont organisé verticalement et horizontalement
+et agissent de manière indépendante. Ils font donc office d'arène de lutte sociale.
+
+Selon ses règles, des activités se développent au sein d'un champ où chaque agent est un électron qui modifie à son échelle
+l'orientation, la forme, ou les valeurs de ce "flux". À l'intérieur, la capacité à interagir avec ce flux dépend 
+directement de l'habitus de chaque agent dans ce champ précis. Car vous avez dû y penser en lisant le paragraphe sur 
+l'habitus, il dépend effectivement du champ dans lequel il est appliqué. Le champ social des politiciens auront des normes
+sociales sensiblement différente que celui des développeurs. 
+
+Il est à noter aussi qu'il est très difficile pour groupe d'humain de construire un groupe libre de toute structure
+de domination
+
+# What's the link between my coding dojos and all this ?
 
 # When did I fuck up? 
 
 # Now, what do we do ?
 
 
+C'est encore une fois Arnaud Bailly qui introduisit cette notion de champ dans nos discussions animées sur le Slack Okiwi.  
