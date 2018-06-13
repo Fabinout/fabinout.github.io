@@ -90,14 +90,14 @@ Ces prédispositoins sont très générales, mais on peut citer des éléments f
 > [L'hexis est] l’expression dans et par le corps lui-même, ou au plus près de lui, de cet habitus. 
 
 Il concerne donc dans la forme corporelle de l'Habitus, sa communication non-verbale, le ton de sa voix ou bien encore
-la cible du regard lors d'une discussion. Pour aller plus loin, l'hexis représente l'incarnation corporelle des structures 
+la cible du regard lors d'une discussion. Il représente aussi l'incarnation corporelle des structures 
 sociales telles qu'elle apparait aux individus, et elle est particulièrement visible dans une situation d'inconfort. 
 Imaginons un stagiaire un peu introverti en train de se faire sermonner par son manager parce que son travail n'avance pas :
 * il tremble
 * il bégaie
 * il regarde ses mains en parlant
 
-Tous ses symptômes sont des manifestations de son hexis, qui ne sont que la manifestation de son habitus, qui lui a appris 
+Tous ses symptômes font partis de son hexis, qui ne sont que la manifestation de son habitus, qui lui a appris 
 à se soumettre physiquement lorsque sa position sociale l'exige.
 
 Dans un sens plus large, l'hexis implique aussi les styles vestimentaires, les coiffures ou encore les tatouages.  
@@ -151,41 +151,45 @@ qu'on attribuera beaucoup plus facilement sa confiance à quelqu'un qui affiche 
 
 Et pour retourner le couteau dans la plaie, l'individu dominant ne sera pas équipé pour comprendre ce problème (il n'a
 jamais eu de problème à prendre la parole en public, "c'est pas si dur") et n'éprouvera donc pas d'empathie pour ceux ayant
-un habitus plus faible.
+moins de pouvoir symbolique.
 
 #### Maintenant ça ne fait pas tout.
    
    ![Photo of ugly white guy in a suit](/images/dwight%20schrute.jpg "Photo de Dwight Schrute")
 
 _voici un exemple d'homme blanc hétéro en costume qui n'a pas énormément de violence symbolique, même s'il a du
- pouvoir symbolique_
+ pouvoir symbolique de par son statut d'homme blanc américain hétérosexuel_
  
  **La violence symbolique est un mélange de l'habitus, du capital culturel et du pouvoir symbolique.** 
   
  Si quelqu'un avec une forte combinaison des trois travaille avec un individu moyen dans ces aspects. Il se créera 
  naturellement une structure de domination entre les deux individus. Et la qualité perçue du travail sera naturellement
  plus élevée chez celui qui a un habitus d'un rang social plus élevé.   
-  
  
 # What's the link between my coding dojos and all this ?
 
 Parlons maintenant de comment tout ça s'applique à nos coding-dojos.
 
+### notre champ bourdieusien
+
 Il est évident que le champ qui nous intéresse est le champ des développeurs, des codeurs. Ce champs est un sous-champs
-des métiers de l'informatique, et possède des sous-champs tels que les développeurs front-end ou ceux qui utilisent des langages
-fonctionnels.     
+des acteurs de l'informatique, et possède des sous-champs tels que les développeurs front-end ou ceux qui utilisent des langages
+fonctionnels.      
 Chacun y occupe une place qui peut-être plutôt dominante, plutôt dominée, conservatrice ou bien innovante.
 Les luttes internes qui caractérisent notre champ sont entre autres :
 * quel est le meilleur langage ?
 * quelle est la meilleure méthode d'organisation ?
 * est-ce qu'il faut faire des tests ?
 * micro-services ou monolithe ?
-* vim vs emacs
+* vim ou emacs ?
 
 Je suis sûr que vous êtes capables d'en imaginer 200 autres. Cette lutte interne se fait à coup d'articles, 
 de missions de conseil, de livres, de Proof-of-concepts, etc.
 
 Ensemble la communauté évolue, et selon l'habitus et le capital culturel, un agent est capable d'en influencer la direction.
+Ce qu'il est important de noter, c'est que la capacité à influencer ces luttes perpétuelles dépend directement de chaque
+pouvoir symbolique.
+
 
 
 # When did I fuck up? 
