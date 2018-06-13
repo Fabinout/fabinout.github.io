@@ -166,7 +166,7 @@ _voici un exemple d'homme blanc hétéro en costume qui n'a pas énormément de 
  naturellement une structure de domination entre les deux individus. Et la qualité perçue du travail sera naturellement
  plus élevée chez celui qui a un habitus d'un rang social plus élevé.   
  
-# What's the link between my coding dojos and all this ?
+# Comment on applique tout ça à notre environnement ?
 
 Parlons maintenant de comment tout ça s'applique à nos coding-dojos.
 
@@ -187,17 +187,103 @@ Je suis sûr que vous êtes capables d'en imaginer 200 autres. Cette lutte inter
 de missions de conseil, de livres, de Proof-of-concepts, etc.
 
 Ensemble la communauté évolue, et selon l'habitus et le capital culturel, un agent est capable d'en influencer la direction.
-Ce qu'il est important de noter, c'est que la capacité à influencer ces luttes perpétuelles dépend directement de chaque
-pouvoir symbolique.
+Il est important de noter que la capacité à influencer ces luttes perpétuelles dépend directement de chaque
+capital culturel. Si vous avez suivi jusqu'ici, c'est dû notamment à la confiance que vous attribuez naturellement
+et inconsciemment aux individus ayant un habitus plus élevés que le votre. 
+
+### l'espace social des développeurs
+                                           
+Bourdieu décrit une forte corrélation entre les positions sociales et les pratiques sociales. Dans notre cas, on voit facilement
+que ceux qui sont en haut de l'échelle sociale sont par définition ceux qui agissent le plus sur le champ bourdieusien des 
+dévelopeurs.  
+Je vois plusieurs profils de développeurs qui influencent fortement la communauté : 
+* ceux qui donnent des présentations dans des conférences
+* ceux qui écrivent des livres et des articles   
+* ceux qui animent et organisent des conférences ou des ateliers avec la communauté
+* ceux qui codent en open-source
+* ceux qui coachent des équipes
+* ceux qui managent et/ou mentorent des développeurs juniors
+* ceux aussi qui lisent des livres ou des articles
+
+Ces individus n'ont pas un talent inné pour la littérature technique et n'ont sûrement pas subi de formation dans l'
+évènementiel non plus. Par leur socialisation au sein de notre champ, ils ont acquis des dispositions culturelles
+au contact d'autres individus. Ils ont écrit parce que leurs pairs et leurs mentors écrivaient, et que ça semblait la 
+norme sociale. 
+
+Avez-vous déjà entendu au travail : _"Lui, c'est un mauvais développeur, il ne fait pas de veille"_. 
+Vous êtes alors dans la situation où votre capital culturel vous encourage à travailler en dehors, et quasi-inconsciemment
+vous vous sentez supérieur à un individu n'ayant pas acquis les normes sociales de notre champ.
+
+Une autre violence symbolique qu'on rencontre extrêmement souvent est le tartinage de référence culturelle commune.
+Voici un [exemple très parlant](https://twitter.com/Fabinout/status/1001365277148352512). 
+Ici, je fais une référence à un livre très connu en informatique, notamment parce qu'il est 
+fondateur du mouvement Domain-Driven-Design. En faisant celà, je m'attends à ce que ceux qui me lisent et me comprennent
+trouvent la référence rigolote. C'est une blague que ne peuvent comprendre que ceux qui sont à l'aise avec ce sujet
+et qui partagent les mêmes références culturelles que moi.    
+Le résultat est sans appel, le tweet est liké et retweeté plusieurs fois et est apparu plus de 1900 fois dans des 
+timelines différentes. Si vous faites l'effort de parcourir les profils qui ont interragi avec, vous trouverez des CTOs, 
+des organisateurs de confs, des écrivains, des speakers et des architectes. Autant le dire honnêtement, ce type de 
+communication est un ventilateur à violence symbolique, où je fais jouer à fond l'entre-soi des "connaisseurs" que je 
+fréquente. Et je me sens comme un connard. 
+
+# Et les coding-dojos alors ? 
+
+Quand je suis arrivé à OCTO Technology, un midi par semaine et un soir par semaine se déroulaient des coding-dojos.   
+C'était une activité de groupe sur le temps libre où l'on s'entrainait à résoudre des problèmes informatiques simples en faisant tourner le clavier 
+8 minutes par personne. L'idée était de s'entrainer à pratiquer du Test-Driven-Development ainsi que découvrir de nouveaux langages.
+
+Je ne m'étais jamais posé la question de pourquoi je ressentais le besoin (et un certain plaisir) à participer à ces 
+ateliers. La raison était que je voulais investir de mon temps pour progresser sur des sujets techniques, et pour découvrir
+des nouveaux langages. Avec le recul, il m'apparait 4 ans après que je souhaitais surtout imiter ce que 
+je voyais dans mes pairs et mes mentors, et que cette participation était un moyen pour moi de socialiser et d'apprendre
+les aptitudes, les techniques et les réflexes de développeurs plus expérimenté, c'est à dire d'augmenter mon habitus.
+
+Une fois déménagé à Bordeaux, je décidais d'animer les coding-dojos de la communauté Okiwi. Mon désir était de participer  à
+la communauté, de transmettre cette pratique du Test-Driven-Development et du code propre. L'autre effet positif était 
+que celà me permettait de m'entrainer à donner des formations. Encore une fois, on peut observer ça par le scope
+de notre espace bourdieusien. Je réutilisais ce que j'avais appris en participant aux ateliers de coding-dojos, je propageais
+à mon tour les conventions et rituels sociaux que j'avais observé à Paris. De fait, j'augmentais mon statut social
+relatif à notre champ -> je devenais un animateur de conférences ou d'ateliers.
+
+
+# Et maintenant, ça change quoi ?
+
+Une caractéristique de notre communauté me choque depuis la lecture de l'article de Romeu sur Bourdieu. C'est la 
+propension qu'on a à démontrer notre capital culturel à chaque occasion. 
+Voici les situations que j'ai rencontré récemment : 
+* Lors d'un pair-programming pour résoudre un problème avec un dév junior Java, un architecte dit "Tu vois ça je le 
+ferai hyper facilement en Scala avec du pattern matching". C'est bien, tu dis à tout le monde que tu codes en Scala, et tu
+cites des concepts que le développeur junior ne connait pas. Mais bien sûr tu ne l'expliques pas
+* Lors d'un coding-dojo avec des développeurs de tout niveau, un senior s'exclame "Ahah, ça serait jamais passé si on
+avait appliqué les calistheniques". Il a peut-être raison, mais inconsciemment il utilise son capital culturel pour 
+imposer son statut social supérieur. Monsieur a lu des livres, Monsieur est habitué à faire des katas
+* Du name-dropping de semi-célébrité de notre champ bourdieusien : "Comme le dit mon ami Sandro Mancuso, ..." -> Je fréquente
+des gens très haut sur notre échelle sociale des développeurs. Variante : "Arnaud s'y connait beaucoup à ce sujet" 
+"Arnaud qui ?" "Ben Arnaud Bailly"
+* "Tu devrais faire des katas pour apprendre un langage" -> il est sous-entendu que si tu n'en fais pas, tu ne 
+progresseras pas
+
+Toutes ces situations sont des situations réelles que j'ai rencontré très récemment, et j'ai très sûrement loupé
+la majorité de ces élans d'étalage de capital culture qui sont tous des exemples de violences symboliques entre dominés 
+et dominants de notre champ. 
+
+
+**Donc suite à tout ça, je prends des décisions, je vais ajouter des règles à mes coding-dojos:**
+* Empêcher fermement toute énonciation de mot-clé, de concept ou de nom qui n'est pas expliqué directement. 
+On ne cite que ce qu'on explique, et on limite au maximum la situation où un développeur avec un habitus plus faible
+se sent contraint de demander l'explication d'un terme. Ou pire, lorsqu'il ou elle n'ose pas demander d'explication 
+* Ne pas citer d'autres langages quand ce n'est pas utile 
+* Ne pas s'imposer aux autres en leur disant quoi faire, de ne pas leur couper la parole 
 
 
 
-# When did I fuck up? 
-
-# Now, what do we do ?
 
 
-C'est encore une fois Arnaud Bailly qui introduisit cette notion de champ dans nos discussions animées sur le Slack Okiwi.  
 
+  
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3093479/
+Sources : 
+
+http://ressources-socius.info/index.php/lexique/21-lexique/37-champ
+https://fr.wikipedia.org/wiki/Pierre_Bourdieu
+ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3093479/
