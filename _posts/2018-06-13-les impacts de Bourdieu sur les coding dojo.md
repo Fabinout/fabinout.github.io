@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bourdieu et les coding-dojos"
-description: "Les impacts de ma compréhension de la philosophie bourdieusienne sur mes coding-dojos"
+description: "Ma compréhension de la philosophie bourdieusienne et ses impacts"
 tags: [Philosophie, Coding-dojos]
 ---
 
