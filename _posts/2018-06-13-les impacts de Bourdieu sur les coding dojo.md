@@ -48,7 +48,7 @@ différence de position sociale entre deux individus dépend directement de la d
 ton capital est important, plus ta position est dominatrice dans la société. La différence est surtout que Marx parlait
 essentiellement de capital économique (patrimoine, salaire, etc.) là où Bourdieu ajoute un autre type de capital : **le capital culturel**.
 
-Ce capital culturel est l'ensemble des éléments symboliques que l'on acquière en étant dans une certaine classe sociale. 
+Ce capital culturel est l'ensemble des éléments symboliques que l'on acquiert en étant dans une certaine classe sociale. 
 Il peut être incorporé (personnel), institutionnel ou bien objectivé (matériel). 
 
 Ça peut-être : 
