@@ -117,10 +117,10 @@ relations de domination. C'est donc une arène de relation de pouvoir, de domina
 de différentes formes de capitaux, un capital étant ce qui est estimé par ses agents. Ça peut aller du capital culturel
 dont on a parlé précédemment au simple (mais vital) capital monétaire. 
  
-Les champs peuvent être disjoints, inclus ou exclus les uns des autres. Ils sont organisé verticalement et horizontalement
+Les champs peuvent être disjoints, inclus ou exclus les uns des autres. Ils sont organisés verticalement et horizontalement
 et agissent de manière indépendante. Ils font donc office d'arène de lutte sociale.
 
-Selon ses règles, des activités se développent au sein d'un champ où chaque agent est un électron qui modifie à son échelle
+Des activités se développent au sein d'un champ selon ses règles où chaque agent est un électron qui modifie à son échelle
 l'orientation, la forme, ou les valeurs de ce "flux". À l'intérieur, la capacité à interagir avec ce flux dépend 
 directement de l'habitus de chaque agent dans ce champ précis. Car vous avez dû y penser en lisant le paragraphe sur 
 l'habitus, **il dépend effectivement du champ dans lequel il est appliqué**. Le champ bourdieusien des politiciens aura des normes
