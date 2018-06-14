@@ -54,7 +54,7 @@ Il peut être incorporé (personnel), institutionnel ou bien objectivé (matéri
 Ça peut-être : 
 * un goût pour la philosophie (incorporé)
 * des compétences (incorporé) 
-* un diplome (institutionnel)
+* un diplôme (institutionnel)
 * une voiture de sport (objectivé)
 
 C'est le capital culturel qui crée un sentiment d'identité collectivité, d'entre-soi, c'est potentiellement 
@@ -77,7 +77,7 @@ semblable au sein de leur classe sociale, et explique donc la similitude des man
 
 Cet habitus n'est pas immuable, la trajectoire sociale ainsi que de l'introspection peut tout à fait 
 conduire à une évolution de l'habitus d'un individu. On peut conclure que l'habitus n'est pas un produit du libre-arbitre ni un 
-produit de la structure, mais un mélange des deux qui structure chaques comportements et perceptions.
+produit de la structure, mais un mélange des deux qui structure chaque comportements et perceptions.
 
 Ces prédispositions sont très générales, mais on peut citer des éléments factuels qui découlent directement de
  l'habitus :
@@ -218,11 +218,11 @@ vous vous sentez supérieur à un individu n'ayant pas acquis les normes sociale
 Une autre violence symbolique qu'on rencontre extrêmement souvent est le tartinage de référence culturelle commune.
 Voici un [exemple très parlant](https://twitter.com/Fabinout/status/1001365277148352512). 
 Ici, je fais une référence à un livre très connu en informatique, notamment parce qu'il est 
-fondateur du mouvement Domain-Driven-Design. En faisant celà, je m'attends à ce que ceux qui me lisent et me comprennent
+fondateur du mouvement Domain-Driven-Design. En faisant cela, je m'attends à ce que ceux qui me lisent et me comprennent
 trouvent la référence rigolote. C'est une blague que ne peuvent comprendre que ceux qui sont à l'aise avec ce sujet
 et qui partagent les mêmes références culturelles que moi.    
 Le résultat est sans appel, le tweet est liké et retweeté plusieurs fois et est apparu plus de 1900 fois dans des 
-timelines différentes. Si vous faites l'effort de parcourir les profils qui ont interragi avec, vous trouverez des CTOs, 
+timelines différentes. Si vous faites l'effort de parcourir les profils qui ont interagi avec, vous trouverez des CTOs, 
 des organisateurs de confs, des écrivains, des speakers et des architectes. Autant le dire honnêtement, ce type de 
 communication est un ventilateur à violence symbolique, où je fais jouer à fond l'entre-soi des "connaisseurs" que je 
 fréquente. Et je me sens comme un connard. 
@@ -241,7 +241,7 @@ les aptitudes, les techniques et les réflexes de développeurs plus expériment
 
 Une fois déménagé à Bordeaux, je décidais d'animer les coding-dojos de la communauté Okiwi. Mon désir était de participer  à
 la communauté, de transmettre cette pratique du Test-Driven-Development et du code propre. L'autre effet positif était 
-que celà me permettait de m'entrainer à donner des formations. Encore une fois, on peut observer ça par le scope
+que cela me permettait de m'entrainer à donner des formations. Encore une fois, on peut observer ça par le scope
 de notre espace bourdieusien. Je réutilisais ce que j'avais appris en participant aux ateliers de coding-dojos, je propageais
 à mon tour les conventions et rituels sociaux que j'avais observé à Paris. De fait, j'augmentais mon statut social
 relatif à notre champ -> je devenais un animateur de conférences ou d'ateliers.
