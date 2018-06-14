@@ -122,11 +122,11 @@ et agissent de manière indépendante. Ils font donc office d'arène de lutte so
 Selon ses règles, des activités se développent au sein d'un champ où chaque agent est un électron qui modifie à son échelle
 l'orientation, la forme, ou les valeurs de ce "flux". À l'intérieur, la capacité à interagir avec ce flux dépend 
 directement de l'habitus de chaque agent dans ce champ précis. Car vous avez dû y penser en lisant le paragraphe sur 
-l'habitus, **il dépend effectivement du champ dans lequel il est appliqué**. Le champ social des politiciens auront des normes
-sociales sensiblement différente que celui des développeurs. 
+l'habitus, **il dépend effectivement du champ dans lequel il est appliqué**. Le champ bourdieusien des politiciens aura des normes
+sociales sensiblement différentes que celui des développeurs. 
 
-Il est à noter aussi qu'il est très difficile pour groupe d'humain de construire un groupe libre de toute structure
-de domination
+Il est à noter aussi qu'il est très difficile pour un groupe d'humain de construire un groupe libre de toute structure
+de domination, et que naturellement se créera dans ce groupe des relations de dominations et une échelle sociale.
 
 ### Pouvoir symbolique et violence symbolique
 
@@ -145,21 +145,21 @@ Plus un individu aura ces propriétés, plus il sera jugé (inconsciemment) comm
 s'y soumettra (inconsciemment).
 Le truc relou avec ce pouvoir symbolique se trouve là. Cette structure de pouvoir (qui est donc une violence) n'est pas 
 infligée par le dominant au dominé. Il est d'ailleurs fort probable que cette violence ne soit même pas perçue par 
-le dominant, mais soit auto-infligé par le dominé. Nous sommes programmé pour réagir à ces caractéristiques et à nous y
+le dominant, mais soit auto-infligée par le dominé. Nous sommes programmé pour réagir à ces caractéristiques et à nous y
 soumettre. Le terme peut vous paraitre fort, néanmoins c'est prouvé (notamment par Paul Piff, un sociologue de Berkley)
 qu'on attribuera beaucoup plus facilement sa confiance à quelqu'un qui affiche une classe socio-professionnelle plus
 élevée que la sienne. 
 
 Et pour retourner le couteau dans la plaie, l'individu dominant ne sera pas équipé pour comprendre ce problème (il n'a
-jamais eu de problème à prendre la parole en public, "c'est pas si dur") et n'éprouvera donc pas d'empathie pour ceux ayant
-moins de pouvoir symbolique.
+jamais eu de problème à prendre la parole en public ou à trouver un travail -> "c'est pas si dur") et n'éprouvera donc pas d'empathie pour ceux ayant
+moins de pouvoir symbolique
 
 #### Maintenant ça ne fait pas tout.
    
    ![Photo of ugly white guy in a suit](/images/dwight%20schrute.jpg "Photo de Dwight Schrute")
 
-_voici un exemple d'homme blanc hétéro en costume qui n'a pas énormément de violence symbolique, même s'il a du
- pouvoir symbolique de par son statut d'homme blanc américain hétérosexuel_
+_Voici un exemple d'homme blanc hétéro en costume qui n'a pas énormément de violence symbolique, même s'il a du
+ pouvoir symbolique de par son statut d'homme blanc américain hétérosexuel._
  
  **La violence symbolique est un mélange de l'habitus, du capital culturel et du pouvoir symbolique.** 
   
@@ -167,11 +167,11 @@ _voici un exemple d'homme blanc hétéro en costume qui n'a pas énormément de 
  naturellement une structure de domination entre les deux individus. Et la qualité perçue du travail sera naturellement
  plus élevée chez celui qui a un habitus d'un rang social plus élevé.   
  
-# Comment on applique tout ça à notre environnement ?
+# Et moi là-dedans ?
 
-Parlons maintenant de comment tout ça s'applique à nos coding-dojos.
+Parlons maintenant de comment tout ça s'applique à nous et à nos coding-dojos.
 
-### notre champ bourdieusien
+## Notre champ bourdieusien
 
 Il est évident que le champ qui nous intéresse est le champ des développeurs, des codeurs. Ce champs est un sous-champs
 des acteurs de l'informatique, et possède des sous-champs tels que les développeurs front-end ou ceux qui utilisent des langages
@@ -192,7 +192,7 @@ Il est important de noter que la capacité à influencer ces luttes perpétuelle
 capital culturel. Si vous avez suivi jusqu'ici, c'est dû notamment à la confiance que vous attribuez naturellement
 et inconsciemment aux individus ayant un habitus plus élevés que le votre. 
 
-### l'espace social des développeurs
+## L'espace social des développeurs
                                            
 Bourdieu décrit une forte corrélation entre les positions sociales et les pratiques sociales. Dans notre cas, on voit facilement
 que ceux qui sont en haut de l'échelle sociale sont par définition ceux qui agissent le plus sur le champ bourdieusien des 
@@ -227,7 +227,7 @@ des organisateurs de confs, des écrivains, des speakers et des architectes. Aut
 communication est un ventilateur à violence symbolique, où je fais jouer à fond l'entre-soi des "connaisseurs" que je 
 fréquente. Et je me sens comme un connard. 
 
-# Et les coding-dojos alors ? 
+## Et les coding-dojos alors ? 
 
 Quand je suis arrivé à OCTO Technology, un midi par semaine et un soir par semaine se déroulaient des coding-dojos.   
 C'était une activité de groupe sur le temps libre où l'on s'entrainait à résoudre des problèmes informatiques simples en faisant tourner le clavier 
