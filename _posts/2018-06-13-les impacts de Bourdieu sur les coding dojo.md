@@ -44,7 +44,7 @@ les faisant méconnaître comme tels par ceux qui les subissent, joue un rôle c
 ### Le capital culturel
 
 Bourdieu s'est beaucoup inspiré de Karl Marx dans ses écrits. Les deux sociologues sont d'accord pour dire que la
-différence de position sociale entre deux individus dépend directement de la différence entre leurs deux capitals. Plus 
+différence de position sociale entre deux individus dépend directement de la différence entre leurs deux capitaux. Plus 
 ton capital est important, plus ta position est dominatrice dans la société. La différence est surtout que Marx parlait
 essentiellement de capital économique (patrimoine, salaire, etc.) là où Bourdieu ajoute un autre type de capital : **le capital culturel**.
 
@@ -113,7 +113,7 @@ apparente les univers sociaux à un champ électromagnétique : un électron sou
 
 Un champ est donc un système qui contient ses agents ainsi que ses positions sociales structurées internement par des 
 relations de domination. C'est donc une arène de relation de pouvoir, de domination où les agents se battent pour l'appropriation
-de différentes formes de capitals, un capital étant ce qui est estimé par ses agents. Ça peut aller du capital culturel
+de différentes formes de capitaux, un capital étant ce qui est estimé par ses agents. Ça peut aller du capital culturel
 dont on a parlé précedèment au simple (mais vital) capital monétaire. 
  
 Les champs peuvent être disjoints, inclus ou exclus les uns des autres. Ils sont organisé verticalement et horizontalement
@@ -173,7 +173,7 @@ Parlons maintenant de comment tout ça s'applique à nous et à nos coding-dojos
 
 ## Notre champ bourdieusien
 
-Il est évident que le champ qui nous intéresse est le champ des développeurs, des codeurs. Ce champs est un sous-champs
+Il est évident que le champ qui nous intéresse est le champ des développeurs, des codeurs. Ce champ est un sous-champ
 des acteurs de l'informatique, et possède des sous-champs tels que les développeurs front-end ou ceux qui utilisent des langages
 fonctionnels.      
 Chacun y occupe une place qui peut-être plutôt dominante, plutôt dominée, conservatrice ou bien innovante.
