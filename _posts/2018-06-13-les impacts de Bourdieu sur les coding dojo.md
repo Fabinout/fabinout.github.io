@@ -79,7 +79,8 @@ Cet habitus n'est pas immuable, la trajectoire sociale ainsi que de l'introspect
 conduire à une évolution de l'habitus d'un individu. On peut conclure que l'habitus n'est pas un produit du libre-arbitre ni un 
 produit de la structure, mais un mélange des deux qui structure chaques comportements et perceptions.
 
-Ces prédispositoins sont très générales, mais on peut citer des éléments factuels qui découlent directement de l'habitus:
+Ces prédispositions sont très générales, mais on peut citer des éléments factuels qui découlent directement de
+ l'habitus :
 * la posture
 * le vocabulaire
 * les tournures de phrase
@@ -97,7 +98,7 @@ Imaginons un stagiaire un peu introverti en train de se faire sermonner par son 
 * il bégaie
 * il regarde ses mains en parlant
 
-Tous ses symptômes font partis de son hexis, qui ne sont que la manifestation de son habitus, qui lui a appris 
+Tous ses symptômes font partie de son hexis, qui ne sont que la manifestation de son habitus, qui lui a appris 
 à se soumettre physiquement lorsque sa position sociale l'exige.
 
 Dans un sens plus large, l'hexis implique aussi les styles vestimentaires, les coiffures ou encore les tatouages.  
