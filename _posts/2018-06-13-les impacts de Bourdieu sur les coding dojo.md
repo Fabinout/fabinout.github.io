@@ -39,7 +39,7 @@ Les principaux concepts de son oeuvre sont :
 * l'hexis
 * un monde social où la **violence symbolique**, c’est-à-dire la capacité à perpétuer des rapports de domination en 
 les faisant méconnaître comme tels par ceux qui les subissent, joue un rôle central.
-* un monde social divisé en **champs** (mais ça sort du scope de cet article)
+* un monde social divisé en **champs** où interagissent des agents
 
 ### Le capital culturel
 
@@ -60,7 +60,7 @@ Il peut être incorporé (personnel), institutionnel ou bien objectivé (matéri
 C'est le capital culturel qui crée un sentiment d'identité collectivité, d'entre-soi, c'est potentiellement 
 un frein majeur à l'ascension sociale d'un individu ayant énormément de capital monétaire. À l'inverse la possibilité
 d'acquérir grâce à des efforts colossaux un capital culturel important rend **beaucoup** plus aisé la possibilité 
-d'une promotion, et donc d'un capital monétaire.
+d'une promotion, et donc d'un capital monétaire.   
 
 ### Habitus
 
@@ -226,6 +226,11 @@ des organisateurs de confs, des écrivains, des speakers et des architectes. Aut
 communication est un ventilateur à violence symbolique, où je fais jouer à fond l'entre-soi des "connaisseurs" que je 
 fréquente. Et je me sens comme un connard. 
 
+### Et le néolibéralisme dans tout ça ?
+
+On en revient très vite à l'extrait d'Emmanuel Gaillot du début de l'article. Le mérite qu'on attribue aux individus
+quant à leurs carrières se retrouve souvent bien
+
 # Et les coding-dojos alors ? 
 
 Quand je suis arrivé à OCTO Technology, un midi par semaine et un soir par semaine se déroulaient des coding-dojos.   
@@ -286,4 +291,8 @@ Sources :
 
 http://ressources-socius.info/index.php/lexique/21-lexique/37-champ
 https://fr.wikipedia.org/wiki/Pierre_Bourdieu
- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3093479/
+https://en.wikipedia.org/wiki/Field_%28Bourdieu%29
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3093479/
+http://enfolding.org/theorising-practice-ii-habitushexis/
+https://www.academia.edu/4808608/Le_concept_de_champ_litt%C3%A9raire_chez_Pierre_Bourdieu
+http://1libertaire.free.fr/BourdieuConcepts.html
