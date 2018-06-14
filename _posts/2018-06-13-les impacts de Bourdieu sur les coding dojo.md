@@ -43,7 +43,7 @@ les faisant méconnaître comme tels par ceux qui les subissent, joue un rôle c
 
 ### Le capital culturel
 
-Bourdieu s'est beaucoup inspiré de Karl Marx dans ses écrits. Les deux sociologues sont d'accord pour dire que la
+Bourdieu s'est beaucoup inspiré de Karl Marx dans ses écrits. Les deux sont d'accord pour dire que la
 différence de position sociale entre deux individus dépend directement de la différence entre leurs deux capitaux. Plus 
 ton capital est important, plus ta position est dominatrice dans la société. La différence est surtout que Marx parlait
 essentiellement de capital économique (patrimoine, salaire, etc.) là où Bourdieu ajoute un autre type de capital : **le capital culturel**.
