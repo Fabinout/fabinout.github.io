@@ -19,8 +19,8 @@ est assez récent, même dans le milieu informatique. Et ce discours est porté 
 des éléments disruptifs. Sans rentrer dans la question de savoir si c'est intentionnel ou pas, ce discours a tout 
 au moins la fonction de maintenir le système en place, en justifiant les inégalités comme quelque chose de 
 normal / naturel, en ce moment sur le mode de « il y en a qui dorment et d'autres qui se réveillent ».
-> Avant, c'était sur le mode « il y en a qui font ce qu'on leur dit et d'autres qui n'écoutent rien »
-> Avant encore, c'était sur le mode « il y en a qui sont forts et d'autres qui sont faibles »      
+> Avant, c'était sur le mode « il y en a qui font ce qu'on leur dit et d'autres qui n'écoutent rien ».
+> Avant encore, c'était sur le mode « il y en a qui sont forts et d'autres qui sont faibles ».      
 > Quand on dit qu'il faut prendre sa carrière en main quand on est développeur, et que c'est d'autant plus important 
 de le faire que c'est facile étant donné le marché, je nous invite à réfléchir à la position sociale qu'on 
 occupe en disant ça : genre ? couleur de peau ? orientation sexuelle ? religion ? âge ? CSP des parents ? etc.   
@@ -93,7 +93,7 @@ Ces prédispositions sont très générales, mais on peut citer des éléments f
 
 Il concerne donc la forme corporelle de l'Habitus, sa communication non-verbale, le ton de sa voix ou bien encore
 la cible du regard lors d'une discussion. Il représente aussi l'incarnation corporelle des structures 
-sociales telles qu'elle apparait aux individus, et elle est particulièrement visible dans une situation d'inconfort. 
+sociales tel qu'elle apparait aux individus, et elle est particulièrement visible dans une situation d'inconfort. 
 Imaginons un stagiaire un peu introverti en train de se faire sermonner par son manager parce que son travail n'avance pas :
 * il tremble
 * il bégaie
