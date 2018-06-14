@@ -114,7 +114,7 @@ apparente les univers sociaux à un champ électromagnétique : un électron sou
 
 Un champ est donc un système qui contient ses agents ainsi que ses positions sociales structurées en interne par des 
 relations de domination. C'est donc une arène de relation de pouvoir, de domination où les agents se battent pour l'appropriation
-de différentes formes de capitaux, un capital étant ce qui est estimé par ses agents. Ça peut aller du capital culturel
+de différentes formes de capital, un capital étant ce qui est estimé par ses agents. Ça peut aller du capital culturel
 dont on a parlé précédemment au simple (mais vital) capital monétaire. 
  
 Les champs peuvent être disjoints, inclus ou exclus les uns des autres. Ils sont organisés verticalement et horizontalement
@@ -275,6 +275,8 @@ On ne cite que ce qu'on explique, et on limite au maximum la situation où un ou
 se sent contraint de demander l'explication d'un terme, ou pire lorsqu'il ou elle n'ose pas demander d'explication. 
 * Ne pas citer d'autres langages quand ce n'est pas utile. 
 * Ne pas s'imposer aux autres en leur disant quoi faire, ne pas leur couper la parole. 
+
+Vous voulez voir ma teub
 
 
 
