@@ -71,8 +71,8 @@ actions comme des rails guideront le tram citadin, il agit plutôt comme une gra
 cette grammaire acquise par socialisation permet à l'individu de se constituer une infinité de *phrases* pour gérer ses
 situations quotidiennes, sans pour autant reproduire l'exacte même réaction à un évènement externe.   
 Ainsi, l'habitus est **structuré** car produit de la socialisation, mais également **structurant** car générateur d'une
-infinité de pratiques nouvelles. Il est donc d'après Bourdieu "structures structurées prédisposées 
-à fonctionner comme structures structurantes"     
+infinité de pratiques nouvelles. Il est donc d'après Bourdieu un ensemble de "structures structurées prédisposées
+à fonctionner comme structures structurantes".
 L'habitus structure donc les pensées dans la société, pour peu que ses individus aient vécu une socialisation
 semblable au sein de leur classe sociale, et explique donc la similitude des manières de penser au sein de cette classe.    
 
@@ -91,7 +91,7 @@ Ces prédispositions sont très générales, mais on peut citer des éléments f
 
 > [L'hexis est] l’expression dans et par le corps lui-même, ou au plus près de lui, de cet habitus. 
 
-Il concerne donc dans la forme corporelle de l'Habitus, sa communication non-verbale, le ton de sa voix ou bien encore
+Il concerne donc la forme corporelle de l'Habitus, sa communication non-verbale, le ton de sa voix ou bien encore
 la cible du regard lors d'une discussion. Il représente aussi l'incarnation corporelle des structures 
 sociales telles qu'elle apparait aux individus, et elle est particulièrement visible dans une situation d'inconfort. 
 Imaginons un stagiaire un peu introverti en train de se faire sermonner par son manager parce que son travail n'avance pas :
