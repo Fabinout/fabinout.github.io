@@ -8,7 +8,8 @@ tags: [Philosophie, Coding-dojos]
 
 # WTF is Pierre Bourdieu ?
 
-Bourdieu est un sociologue français de la fin du 20ème siècle que j'ai découvert récemment sur le Slack d'Okiwi. 
+Bourdieu est un sociologue français de la fin du 20ème siècle que j'ai découvert récemment sur le Slack d'[Okiwi](https://okiwi.org/slack/),
+la communauté bordelaise de développeurs. 
 
 Lors d'une conversation très animée à propos de la vision de Sandro Mancuso sur la gestion de sa carrière, 
 Emmanuel Gaillot disait :
@@ -123,9 +124,9 @@ Selon ses règles, des activités se développent au sein d'un champ où chaque 
 l'orientation, la forme, ou les valeurs de ce "flux". À l'intérieur, la capacité à interagir avec ce flux dépend 
 directement de l'habitus de chaque agent dans ce champ précis. Car vous avez dû y penser en lisant le paragraphe sur 
 l'habitus, **il dépend effectivement du champ dans lequel il est appliqué**. Le champ bourdieusien des politiciens aura des normes
-sociales sensiblement différentes que celui des développeurs. 
+sociales sensiblement différentes de celui des développeurs. 
 
-Il est à noter aussi qu'il est très difficile pour un groupe d'humain de construire un groupe libre de toute structure
+Il est à noter aussi qu'il est très difficile pour un groupe d'humains de construire un groupe libre de toute structure
 de domination, et que naturellement se créera dans ce groupe des relations de dominations et une échelle sociale.
 
 ### Pouvoir symbolique et violence symbolique
@@ -141,11 +142,11 @@ Un individu qui est :
 * qui est éloquent
 * et qui a des signes qu'on attribue à l'intelligence
 
-Plus un individu aura ces propriétés, plus il sera jugé (inconsciemment) comment étant puissant, et plus l'on
+Plus un individu aura ces propriétés, plus il sera jugé (inconsciemment) comme étant puissant, et plus l'on
 s'y soumettra (inconsciemment).
 Le truc relou avec ce pouvoir symbolique se trouve là. Cette structure de pouvoir (qui est donc une violence) n'est pas 
 infligée par le dominant au dominé. Il est d'ailleurs fort probable que cette violence ne soit même pas perçue par 
-le dominant, mais soit auto-infligée par le dominé. Nous sommes programmé pour réagir à ces caractéristiques et à nous y
+le dominant, mais soit auto-infligée par le dominé. Nous sommes programmés pour réagir à ces caractéristiques et à nous y
 soumettre. Le terme peut vous paraitre fort, néanmoins c'est prouvé (notamment par Paul Piff, un sociologue de Berkley)
 qu'on attribuera beaucoup plus facilement sa confiance à quelqu'un qui affiche une classe socio-professionnelle plus
 élevée que la sienne. 
@@ -190,7 +191,7 @@ de missions de conseil, de livres, de Proof-of-concepts, etc.
 Ensemble la communauté évolue, et selon l'habitus et le capital culturel, un agent est capable d'en influencer la direction.
 Il est important de noter que la capacité à influencer ces luttes perpétuelles dépend directement de chaque
 capital culturel. Si vous avez suivi jusqu'ici, c'est dû notamment à la confiance que vous attribuez naturellement
-et inconsciemment aux individus ayant un habitus plus élevés que le votre. 
+et inconsciemment aux individus ayant un habitus plus élevé que le votre. 
 
 ## L'espace social des développeurs
                                            
@@ -225,7 +226,7 @@ Le résultat est sans appel, le tweet est liké et retweeté plusieurs fois et e
 timelines différentes. Si vous faites l'effort de parcourir les profils qui ont interagi avec, vous trouverez des CTOs, 
 des organisateurs de confs, des écrivains, des speakers et des architectes. Autant le dire honnêtement, ce type de 
 communication est un ventilateur à violence symbolique, où je fais jouer à fond l'entre-soi des "connaisseurs" que je 
-fréquente. Et je me sens comme un connard. 
+fréquente. 
 
 ## Et les coding-dojos alors ? 
 
@@ -237,11 +238,11 @@ Je ne m'étais jamais posé la question de pourquoi je ressentais le besoin (et 
 ateliers. La raison était que je voulais investir de mon temps pour progresser sur des sujets techniques, et pour découvrir
 des nouveaux langages. Avec le recul, il m'apparait 4 ans après que je souhaitais surtout imiter ce que 
 je voyais dans mes pairs et mes mentors, et que cette participation était un moyen pour moi de socialiser et d'apprendre
-les aptitudes, les techniques et les réflexes de développeurs plus expérimenté, c'est à dire d'augmenter mon habitus.
+les aptitudes, les techniques et les réflexes de développeurs plus expérimentés, c'est à dire d'augmenter mon habitus.
 
 Une fois déménagé à Bordeaux, je décidais d'animer les coding-dojos de la communauté Okiwi. Mon désir était de participer  à
 la communauté, de transmettre cette pratique du Test-Driven-Development et du code propre. L'autre effet positif était 
-que cela me permettait de m'entrainer à donner des formations. Encore une fois, on peut observer ça par le scope
+que cela me permettait de m'entrainer à donner des formations. Encore une fois, on peut observer ça par le prisme
 de notre espace bourdieusien. Je réutilisais ce que j'avais appris en participant aux ateliers de coding-dojos, je propageais
 à mon tour les conventions et rituels sociaux que j'avais observé à Paris. De fait, j'augmentais mon statut social
 relatif à notre champ -> je devenais un animateur de conférences ou d'ateliers.
@@ -251,7 +252,7 @@ relatif à notre champ -> je devenais un animateur de conférences ou d'ateliers
 
 Une caractéristique de notre communauté me choque depuis la lecture de l'article de Romeu sur Bourdieu. C'est la 
 propension qu'on a à démontrer notre capital culturel à chaque occasion. 
-Voici les situations que j'ai rencontré récemment : 
+Voici les situations que j'ai rencontrées récemment : 
 * Lors d'un pair-programming pour résoudre un problème avec un dév junior Java, un architecte dit "Tu vois ça je le 
 ferai hyper facilement en Scala avec du pattern matching". C'est bien, tu dis à tout le monde que tu codes en Scala, et tu
 cites des concepts que le développeur junior ne connait pas. Mais bien sûr tu ne l'expliques pas
@@ -264,7 +265,7 @@ des gens très haut sur notre échelle sociale des développeurs. Variante : "Ar
 * "Tu devrais faire des katas pour apprendre un langage" -> il est sous-entendu que si tu n'en fais pas, tu ne 
 progresseras pas
 
-Toutes ces situations sont des situations réelles que j'ai rencontré très récemment, et j'ai très sûrement loupé
+Toutes ces situations sont des situations réelles que j'ai rencontrées très récemment, et j'ai très sûrement loupé
 la majorité de ces élans d'étalage de capital qui sont tous des exemples de violences symboliques entre dominés 
 et dominants de notre champ. 
 
