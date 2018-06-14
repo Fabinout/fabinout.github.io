@@ -255,15 +255,15 @@ propension qu'on a à démontrer notre capital culturel à chaque occasion.
 Voici les situations que j'ai rencontrées récemment : 
 * Lors d'un pair-programming pour résoudre un problème avec un dév junior Java, un architecte dit "Tu vois ça je le 
 ferai hyper facilement en Scala avec du pattern matching". C'est bien, tu dis à tout le monde que tu codes en Scala, et tu
-cites des concepts que le développeur junior ne connait pas. Mais bien sûr tu ne l'expliques pas
+cites des concepts que le développeur junior ne connait pas. Mais bien sûr tu ne l'expliques pas.
 * Lors d'un coding-dojo avec des développeurs de tout niveau, un senior s'exclame "Ahah, ça serait jamais passé si on
 avait appliqué les calistheniques". Il a peut-être raison, mais inconsciemment il utilise son capital culturel pour 
-imposer son statut social supérieur. Monsieur a lu des livres, Monsieur est habitué à faire des katas
+imposer son statut social supérieur. Monsieur a lu des livres, Monsieur est habitué à faire des katas.
 * Du name-dropping de semi-célébrité de notre champ : "Comme le dit mon ami Sandro Mancuso, ..." -> Je fréquente
 des gens très haut sur notre échelle sociale des développeurs. Variante : "Arnaud s'y connait beaucoup à ce sujet" 
-"Arnaud qui ?" "Ben Arnaud Bailly"
+"Arnaud qui ?" "Ben Arnaud Bailly".
 * "Tu devrais faire des katas pour apprendre un langage" -> il est sous-entendu que si tu n'en fais pas, tu ne 
-progresseras pas
+progresseras pas.
 
 Toutes ces situations sont des situations réelles que j'ai rencontrées très récemment, et j'ai très sûrement loupé
 la majorité de ces élans d'étalage de capital qui sont tous des exemples de violences symboliques entre dominés 
