@@ -226,11 +226,6 @@ des organisateurs de confs, des écrivains, des speakers et des architectes. Aut
 communication est un ventilateur à violence symbolique, où je fais jouer à fond l'entre-soi des "connaisseurs" que je 
 fréquente. Et je me sens comme un connard. 
 
-### Et le néolibéralisme dans tout ça ?
-
-On en revient très vite à l'extrait d'Emmanuel Gaillot du début de l'article. Le mérite qu'on attribue aux individus
-quant à leurs carrières se retrouve souvent bien
-
 # Et les coding-dojos alors ? 
 
 Quand je suis arrivé à OCTO Technology, un midi par semaine et un soir par semaine se déroulaient des coding-dojos.   
