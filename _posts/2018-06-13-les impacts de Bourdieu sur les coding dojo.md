@@ -147,8 +147,8 @@ s'y soumettra (inconsciemment).
 Le truc relou avec ce pouvoir symbolique se trouve là. Cette structure de pouvoir (qui est donc une violence) n'est pas 
 infligée par le dominant au dominé. Il est d'ailleurs fort probable que cette violence ne soit même pas perçue par 
 le dominant, mais soit auto-infligée par le dominé. Nous sommes programmés pour réagir à ces caractéristiques et à nous y
-soumettre. Le terme peut vous paraitre fort, néanmoins c'est prouvé (notamment par Paul Piff, un sociologue de Berkley)
-qu'on attribuera beaucoup plus facilement sa confiance à quelqu'un qui affiche une classe socio-professionnelle plus
+soumettre. Le terme peut vous paraitre fort, néanmoins il a été prouvé (notamment par Paul Piff, un sociologue de Berkley)
+qu'on attribue beaucoup plus facilement sa confiance à quelqu'un qui affiche une classe socio-professionnelle plus
 élevée que la sienne. 
 
 Et pour retourner le couteau dans la plaie, l'individu dominant ne sera pas équipé pour comprendre ce problème (il n'a
