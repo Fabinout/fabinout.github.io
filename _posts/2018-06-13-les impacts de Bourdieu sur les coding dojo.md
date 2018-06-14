@@ -271,10 +271,10 @@ et dominants de notre champ.
 
 **Donc suite à tout ça, je prends des décisions, je vais ajouter des règles à mes coding-dojos:**
 * Empêcher fermement toute énonciation de mot-clé, de concept ou de nom qui n'est pas expliqué directement. 
-On ne cite que ce qu'on explique, et on limite au maximum la situation où un développeur avec un habitus plus faible
-se sent contraint de demander l'explication d'un terme. Ou pire, lorsqu'il ou elle n'ose pas demander d'explication 
-* Ne pas citer d'autres langages quand ce n'est pas utile 
-* Ne pas s'imposer aux autres en leur disant quoi faire, de ne pas leur couper la parole 
+On ne cite que ce qu'on explique, et on limite au maximum la situation où un ou une développeuse avec un habitus plus faible
+se sent contraint de demander l'explication d'un terme, ou pire lorsqu'il ou elle n'ose pas demander d'explication. 
+* Ne pas citer d'autres langages quand ce n'est pas utile. 
+* Ne pas s'imposer aux autres en leur disant quoi faire, ne pas leur couper la parole. 
 
 
 
