@@ -258,16 +258,15 @@ cites des concepts que le développeur junior ne connait pas. Mais bien sûr tu 
 * Lors d'un coding-dojo avec des développeurs de tout niveau, un senior s'exclame "Ahah, ça serait jamais passé si on
 avait appliqué les calistheniques". Il a peut-être raison, mais inconsciemment il utilise son capital culturel pour 
 imposer son statut social supérieur. Monsieur a lu des livres, Monsieur est habitué à faire des katas
-* Du name-dropping de semi-célébrité de notre champ bourdieusien : "Comme le dit mon ami Sandro Mancuso, ..." -> Je fréquente
+* Du name-dropping de semi-célébrité de notre champ : "Comme le dit mon ami Sandro Mancuso, ..." -> Je fréquente
 des gens très haut sur notre échelle sociale des développeurs. Variante : "Arnaud s'y connait beaucoup à ce sujet" 
 "Arnaud qui ?" "Ben Arnaud Bailly"
 * "Tu devrais faire des katas pour apprendre un langage" -> il est sous-entendu que si tu n'en fais pas, tu ne 
 progresseras pas
 
 Toutes ces situations sont des situations réelles que j'ai rencontré très récemment, et j'ai très sûrement loupé
-la majorité de ces élans d'étalage de capital culture qui sont tous des exemples de violences symboliques entre dominés 
+la majorité de ces élans d'étalage de capital qui sont tous des exemples de violences symboliques entre dominés 
 et dominants de notre champ. 
-
 
 **Donc suite à tout ça, je prends des décisions, je vais ajouter des règles à mes coding-dojos:**
 * Empêcher fermement toute énonciation de mot-clé, de concept ou de nom qui n'est pas expliqué directement. 
@@ -275,6 +274,7 @@ On ne cite que ce qu'on explique, et on limite au maximum la situation où un d�
 se sent contraint de demander l'explication d'un terme. Ou pire, lorsqu'il ou elle n'ose pas demander d'explication 
 * Ne pas citer d'autres langages quand ce n'est pas utile 
 * Ne pas s'imposer aux autres en leur disant quoi faire, de ne pas leur couper la parole 
+
 
 
 Sources : 
