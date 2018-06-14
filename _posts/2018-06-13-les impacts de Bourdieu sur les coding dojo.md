@@ -60,7 +60,7 @@ Il peut être incorporé (personnel), institutionnel ou bien objectivé (matéri
 
 C'est le capital culturel qui crée un sentiment d'identité collective, d'entre-soi, c'est potentiellement 
 un frein majeur à l'ascension sociale d'un individu ayant énormément de capital monétaire. À l'inverse la possibilité
-d'acquérir grâce à des efforts colossaux un capital culturel important rend **beaucoup** plus aisé la possibilité 
+d'acquérir grâce à des efforts colossaux un capital culturel important rend **beaucoup** plus aisée la possibilité 
 d'une promotion, et donc d'un capital monétaire.   
 
 ### Habitus
@@ -99,7 +99,7 @@ Imaginons un stagiaire un peu introverti en train de se faire sermonner par son 
 * il bégaie
 * il regarde ses mains en parlant
 
-Tous ses symptômes font partie de son hexis, qui ne sont que la manifestation de son habitus, qui lui a appris 
+Tous ces symptômes font partie de son hexis, qui ne sont que la manifestation de son habitus, qui lui a appris 
 à se soumettre physiquement lorsque sa position sociale l'exige.
 
 Dans un sens plus large, l'hexis implique aussi les styles vestimentaires, les coiffures ou encore les tatouages.  
