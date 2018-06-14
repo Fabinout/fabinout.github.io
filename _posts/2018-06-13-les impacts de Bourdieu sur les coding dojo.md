@@ -32,7 +32,7 @@ en version article de blog).
    
 Dans l'élan, je vous conseille la lecture de [l'article wikipedia de Bourdieu](https://fr.wikipedia.org/wiki/Pierre_Bourdieu).
 
-Les principaux concepts de son oeuvre sont : 
+Les principaux concepts de son œuvre sont : 
 
 * le capital culturel
 * centralité de l'**habitus**
@@ -275,12 +275,6 @@ se sent contraint de demander l'explication d'un terme. Ou pire, lorsqu'il ou el
 * Ne pas citer d'autres langages quand ce n'est pas utile 
 * Ne pas s'imposer aux autres en leur disant quoi faire, de ne pas leur couper la parole 
 
-
-
-
-
-
-  
 
 Sources : 
 
