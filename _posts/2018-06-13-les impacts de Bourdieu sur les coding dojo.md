@@ -112,7 +112,7 @@ apparente les univers sociaux à un champ électromagnétique : un électron sou
 *source : [lien](https://www.academia.edu/4808608/Le_concept_de_champ_litt%C3%A9raire_chez_Pierre_Bourdieu)* 
 
 Un champ est donc un système qui contient ses agents ainsi que ses positions sociales structurées internement par des 
-relations de coercition. C'est donc une arène de relation de pouvoir, de domination où les agents se battent pour l'appropriation
+relations de domination. C'est donc une arène de relation de pouvoir, de domination où les agents se battent pour l'appropriation
 de différentes formes de capitals, un capital étant ce qui est estimé par ses agents. Ça peut aller du capital culturel
 dont on a parlé précedèment au simple (mais vital) capital monétaire. 
  
