@@ -244,7 +244,7 @@ Une fois déménagé à Bordeaux, je décidais d'animer les coding-dojos de la c
 la communauté, de transmettre cette pratique du Test-Driven-Development et du code propre. L'autre effet positif était 
 que cela me permettait de m'entrainer à donner des formations. Encore une fois, on peut observer ça par le prisme
 de notre espace bourdieusien. Je réutilisais ce que j'avais appris en participant aux ateliers de coding-dojos, je propageais
-à mon tour les conventions et rituels sociaux que j'avais observé à Paris. De fait, j'augmentais mon statut social
+à mon tour les conventions et rituels sociaux que j'avais observé chez OCTO. De fait, j'augmentais mon statut social
 relatif à notre champ -> je devenais un animateur de conférences ou d'ateliers.
 
 
