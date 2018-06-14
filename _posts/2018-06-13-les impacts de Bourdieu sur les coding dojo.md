@@ -77,7 +77,7 @@ semblable au sein de leur classe sociale, et explique donc la similitude des man
 
 Cet habitus n'est pas immuable, la trajectoire sociale ainsi que de l'introspection peut tout à fait 
 conduire à une évolution de l'habitus d'un individu. On peut conclure que l'habitus n'est pas un produit du libre-arbitre ni un 
-produit de la structure, mais un mélange des deux qui structure chaque comportements et perceptions.
+produit de la structure, mais un mélange des deux qui structure chaque comportement et perception.
 
 Ces prédispositions sont très générales, mais on peut citer des éléments factuels qui découlent directement de
  l'habitus :
