@@ -191,7 +191,7 @@ de missions de conseil, de livres, de Proof-of-concepts, etc.
 Ensemble la communauté évolue, et selon l'habitus et le capital culturel, un agent est capable d'en influencer la direction.
 Il est important de noter que la capacité à influencer ces luttes perpétuelles dépend directement de chaque
 capital culturel. Si vous avez suivi jusqu'ici, c'est dû notamment à la confiance que vous attribuez naturellement
-et inconsciemment aux individus ayant un habitus plus élevé que le votre. 
+et inconsciemment aux individus ayant un habitus plus élevé que le vôtre. 
 
 ## L'espace social des développeurs
                                            
