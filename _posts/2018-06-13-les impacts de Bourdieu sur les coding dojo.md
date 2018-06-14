@@ -153,7 +153,7 @@ qu'on attribue beaucoup plus facilement sa confiance à quelqu'un qui affiche un
 
 Et pour retourner le couteau dans la plaie, l'individu dominant ne sera pas équipé pour comprendre ce problème (il n'a
 jamais eu de problème à prendre la parole en public ou à trouver un travail -> "c'est pas si dur") et n'éprouvera donc pas d'empathie pour ceux ayant
-moins de pouvoir symbolique
+moins de pouvoir symbolique.
 
 #### Maintenant ça ne fait pas tout.
    
