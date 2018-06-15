@@ -36,8 +36,9 @@ Dans l'élan, je vous conseille la lecture de [l'article wikipedia de Bourdieu](
 Les principaux concepts de son œuvre sont : 
 
 * le capital culturel
-* centralité de l'**habitus**
+* la centralité de l'**habitus**
 * l'hexis
+* le capital symbolique et la violence symbolique
 * un monde social où la **violence symbolique**, c’est-à-dire la capacité à perpétuer des rapports de domination en 
 les faisant méconnaître comme tels par ceux qui les subissent, joue un rôle central.
 * un monde social divisé en **champs** où interagissent des agents
@@ -129,7 +130,7 @@ sociales sensiblement différentes de celui des développeurs.
 Il est à noter aussi qu'il est très difficile pour un groupe d'humains de construire un groupe libre de toute structure
 de domination, et que naturellement se créera dans ce groupe des relations de dominations et une échelle sociale.
 
-### Pouvoir symbolique et violence symbolique
+### Capital symbolique et violence symbolique
 
 Le pouvoir symbolique est la structure de pouvoir tacite qu'on exerce les uns sur les autres inconsciemment. 
 
@@ -138,16 +139,24 @@ Les propriétés qu'on attribue à du pouvoir symboliques peuvent être défini 
 * blanc
 * grand 
 * qu'on estime cultivé
+* qui occupe une fonction prestigieuse
 * qui porte un costume
 * qui est éloquent
 * et qui a des signes qu'on attribue à l'intelligence
 
-Plus un individu aura ces propriétés, plus il sera jugé (inconsciemment) comme étant puissant, et plus l'on
+À ça s'ajoutent les autres composants du pouvoir **symbolique** :
+* le capital économique
+* le capital culturel
+* le capital social
+* l'habitus
+
+Plus un individu aura de pouvoir symbolique, plus il sera jugé (inconsciemment) comme étant puissant, et plus l'on
 s'y soumettra (inconsciemment).
-Le truc relou avec ce pouvoir symbolique se trouve là. Cette structure de pouvoir (qui est donc une violence) n'est pas 
+
+C'est cette soumission inconsciente qui est pernicieuse. Cette structure de pouvoir (qui est donc une violence) n'est pas 
 infligée par le dominant au dominé. Il est d'ailleurs fort probable que cette violence ne soit même pas perçue par 
 le dominant, mais soit auto-infligée par le dominé. Nous sommes programmés pour réagir à ces caractéristiques et à nous y
-soumettre. Le terme peut vous paraitre fort, néanmoins il a été prouvé (notamment par Paul Piff, un sociologue de Berkley)
+soumettre. Le terme peut vous paraitre fort, néanmoins il a été prouvé (notamment par Paul Piff, un sociologue de Berkeley)
 qu'on attribue beaucoup plus facilement sa confiance à quelqu'un qui affiche une classe socio-professionnelle plus
 élevée que la sienne. 
 
@@ -162,11 +171,11 @@ moins de pouvoir symbolique.
 _Voici un exemple d'homme blanc hétéro en costume qui n'a pas énormément de violence symbolique, même s'il a du
  pouvoir symbolique de par son statut d'homme blanc américain hétérosexuel._
  
- **La violence symbolique est un mélange de l'habitus, du capital culturel et du pouvoir symbolique.** 
+ **La violence symbolique est un mélange de l'habitus et du pouvoir symbolique.** 
   
- Si quelqu'un avec une forte combinaison des trois travaille avec un individu moyen dans ces aspects. Il se créera 
+ Si quelqu'un avec une forte combinaison des formes de capital travaille avec un individu moyen dans ces aspects. Il se créera 
  naturellement une structure de domination entre les deux individus. Et la qualité perçue du travail sera naturellement
- plus élevée chez celui qui a un habitus d'un rang social plus élevé.   
+ plus élevée chez celui qui a un pouvoir plus élevé.   
  
 # Et moi là-dedans ?
 
@@ -251,7 +260,7 @@ relatif à notre champ -> je devenais un animateur de conférences ou d'ateliers
 # Et maintenant, ça change quoi ?
 
 Une caractéristique de notre communauté me choque depuis la lecture de l'article de Romeu sur Bourdieu. C'est la 
-propension qu'on a à démontrer notre capital culturel à chaque occasion. 
+propension qu'on a à démontrer notre capital symbolique à chaque occasion. 
 Voici les situations que j'ai rencontrées récemment : 
 * Lors d'un pair-programming pour résoudre un problème avec un dév junior Java, un architecte dit "Tu vois ça je le 
 ferai hyper facilement en Scala avec du pattern matching". C'est bien, tu dis à tout le monde que tu codes en Scala, et tu
@@ -266,7 +275,7 @@ des gens très haut sur notre échelle sociale des développeurs. Variante : "Ar
 progresseras pas.
 
 Toutes ces situations sont des situations réelles que j'ai rencontrées très récemment, et j'ai très sûrement loupé
-la majorité de ces élans d'étalage de capital qui sont tous des exemples de violences symboliques entre dominés 
+la majorité de ces élans d'étalage de capital culturel qui sont tous des exemples de violences symboliques entre dominés 
 et dominants de notre champ. 
 
 **Donc suite à tout ça, je prends des décisions, je vais ajouter des règles à mes coding-dojos:**
