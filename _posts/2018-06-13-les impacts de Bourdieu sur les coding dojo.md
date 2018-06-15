@@ -59,7 +59,7 @@ Il peut être incorporé (personnel), institutionnel ou bien objectivé (matéri
 * un diplôme (institutionnel)
 * une voiture de sport (objectivé)
 
-C'est le capital culturel qui crée un sentiment d'identité collective, d'entre-soi, c'est potentiellement 
+C'est le capital culturel qui crée un sentiment d'identité collective et d'entre-soi, c'est potentiellement 
 un frein majeur à l'ascension sociale d'un individu ayant énormément de capital monétaire. À l'inverse la possibilité
 d'acquérir grâce à des efforts colossaux un capital culturel important rend **beaucoup** plus aisée la possibilité 
 d'une promotion, et donc d'un capital monétaire.   
