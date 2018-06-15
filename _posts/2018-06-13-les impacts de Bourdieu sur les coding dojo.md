@@ -134,7 +134,7 @@ de domination, et que naturellement se créera dans ce groupe des relations de d
 
 Le pouvoir symbolique est la structure de pouvoir tacite qu'on exerce les uns sur les autres inconsciemment. 
 
-Les propriétés qu'on attribue à du pouvoir symboliques peuvent être défini par :
+Les propriétés qu'on attribue à du pouvoir symbolique peuvent être défini par :
 * un homme
 * blanc
 * grand 
