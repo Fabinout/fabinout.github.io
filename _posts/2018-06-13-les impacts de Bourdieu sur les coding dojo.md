@@ -276,7 +276,6 @@ se sent contraint de demander l'explication d'un terme, ou pire lorsqu'il ou ell
 * Ne pas citer d'autres langages quand ce n'est pas utile. 
 * Ne pas s'imposer aux autres en leur disant quoi faire, ne pas leur couper la parole. 
 
-Vous voulez voir ma teub
 
 
 
