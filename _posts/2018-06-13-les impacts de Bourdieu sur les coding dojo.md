@@ -109,7 +109,7 @@ Dans un sens plus large, l'hexis implique aussi les styles vestimentaires, les c
 
 > Le concept de champ est, à l’origine, une métaphore inspirée de la physique qui 
 apparente les univers sociaux à un champ électromagnétique : un électron soumis à ce champ participe au champ, il est 
-à la fois agi et agissant et contribue à l’équilibre des conflits dont il est l’agent. Pierre Bourdieu le définit. 
+à la fois agi et agissant et contribue à l’équilibre des conflits dont il est l’agent. 
 
 *source : [lien](https://www.academia.edu/4808608/Le_concept_de_champ_litt%C3%A9raire_chez_Pierre_Bourdieu)* 
 
