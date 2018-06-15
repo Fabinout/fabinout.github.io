@@ -148,7 +148,6 @@ Les propriétés qu'on attribue à du pouvoir symboliques peuvent être défini 
 * le capital économique
 * le capital culturel
 * le capital social
-* l'habitus
 
 Plus un individu aura de pouvoir symbolique, plus il sera jugé (inconsciemment) comme étant puissant, et plus l'on
 s'y soumettra (inconsciemment).
@@ -259,8 +258,8 @@ relatif à notre champ -> je devenais un animateur de conférences ou d'ateliers
 
 # Et maintenant, ça change quoi ?
 
-Une caractéristique de notre communauté me choque depuis la lecture de l'article de Romeu sur Bourdieu. C'est la 
-propension qu'on a à démontrer notre capital symbolique à chaque occasion. 
+Une caractéristique de notre communauté me choque depuis la lecture de l'article de Romeu ([lien](https://medium.com/@Romeu/agility-should-pay-attention-to-sociology-b671fd056933))
+sur Bourdieu. C'est la propension qu'on a à démontrer notre capital culturel à chaque occasion. 
 Voici les situations que j'ai rencontrées récemment : 
 * Lors d'un pair-programming pour résoudre un problème avec un dév junior Java, un architecte dit "Tu vois ça je le 
 ferai hyper facilement en Scala avec du pattern matching". C'est bien, tu dis à tout le monde que tu codes en Scala, et tu
@@ -278,6 +277,7 @@ Toutes ces situations sont des situations réelles que j'ai rencontrées très r
 la majorité de ces élans d'étalage de capital culturel qui sont tous des exemples de violences symboliques entre dominés 
 et dominants de notre champ. 
 
+
 **Donc suite à tout ça, je prends des décisions, je vais ajouter des règles à mes coding-dojos:**
 * Empêcher fermement toute énonciation de mot-clé, de concept ou de nom qui n'est pas expliqué directement. 
 On ne cite que ce qu'on explique, et on limite au maximum la situation où un ou une développeuse avec un habitus plus faible
@@ -285,7 +285,11 @@ se sent contraint de demander l'explication d'un terme, ou pire lorsqu'il ou ell
 * Ne pas citer d'autres langages quand ce n'est pas utile. 
 * Ne pas s'imposer aux autres en leur disant quoi faire, ne pas leur couper la parole. 
 
-
+# Conclusion  
+ 
+Nous vivons dans un système qui, consciemment ou pas, **cultive cette hiérarchie sociale** et exerce un pouvoir de 
+violence symbolique qui contribue à la légitimer. Pour la combattre, il est nécessaire de comprendre les mécaniques 
+sociales qui sont à l'œuvre et de les mettre à nue. 
 
 
 Sources : 
