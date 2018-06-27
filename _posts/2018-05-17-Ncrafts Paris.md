@@ -26,18 +26,23 @@ ainsi que des contributeurs à la communauté open source ainsi qu'au monde des 
 ## Must-Watch confs
 
 J'ai vu plusieurs conférences qui m'ont profondément marqué.
-Dans le désordre voici les conférences que vous devriez regarder quand elles seront disponibles sur
-Viméo (je mettrai cet article à jour). D'autres conférences étaient aussi intéressantes, mais ne m'ont
-pas fait remettre en question ma culture ou ont manqué de focus ou de forme. Parmi celles-ci, celles de Thomas Pierrain
+Dans le désordre voici les conférences que vous devriez regarder indépendemment de votre compétence ou apétence pour l'informatique. 
+D'autres conférences étaient aussi intéressantes, mais ne m'ont pas fait remettre en question ma culture ou ont manqué de focus ou de forme. Parmi celles-ci, celles de Thomas Pierrain
 et de Sandro Mancuso étaient intéressantes.
 
 #### Jessica Kerr : The Origins of Opera and the Future of Programming.
+
+
+[Lien vidéo](https://vimeo.com/275530178)  
 
 Un superbe concentré de culture sociologique et historique, comment des hommes
 se sont rencontrés et ont créé. Quelles sont les implications sur notre organisation,
 nos équipes, et nos relations interpersonnelles.
 
 #### Romeu Moura :   Big corps as little panopticons. Agile coaches as colonial imperialists.
+
+
+[Lien vidéo](https://vimeo.com/275530213)  
 
 Un panoptique est un style d'architecture carcéral imaginé par Bentham en 1780,
 et est retravaillé ensuite par Michel Foucault en 1975. 
@@ -54,11 +59,15 @@ du panoptique sur nos sociétés.
 
 #### Felienne Hermans : What is programming anyway?
 
+[Lien vidéo](https://vimeo.com/275529804)  
+
 Wouaaaaaaah ! Je ne connaissais pas Felienne, chercheuse hollandaise qui s'est présentée devant
 nous ce jeudi et j'ai été soufflé par la profondeur de sa conférence. Elle a travaillé sur l'enseignement de l'informatique à des enfants, et a commencé à
 se poser la question "Qu'est-ce que le développement logiciel ?" Est-ce un art ? Est-ce de l'artisanat ? 
 
 #### Kevlin Henney : Refactoring to Immutability
+
+[Lien vidéo](https://vimeo.com/276832516)  
 
 Pour finir Kevlin m'a complètement soufflé. J'avais entendu parler de lui via différents 
 coach agiles, et surtout par Sandro Mancuso. Il est venu nous parler d'immutabilité logicielle, si
