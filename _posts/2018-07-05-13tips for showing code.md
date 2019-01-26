@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "13 tips for showing code"
-description: "General tips for livecoding, conferences and mob programming"
-tags: [Tools, Demo, Kata, mob-programming]
+title: "La domination masculine"
+description: "Pourquoi le féminisme traite aussi des problèmes des hommes"
+tags: [Sociologie, masculinité, féminisme]
 ---
-Outdated post, refer to medium.com to find the up-to-date blog post
+
