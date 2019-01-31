@@ -95,14 +95,42 @@ des hommes*.
 
 ## Et les problèmes des hommes alors ?
 
-C'est vrai que c'est le but de l'article :). 
+C'est vrai que c'est le but de l'article :).
 
+Quand on dit que la force est un attribut masculin, c'est important de voir comment
+cette propriété est inculquée très tôt aux garçons grâce à ce qu'on appelle aussi la 
+pression sociale.
+    
+Si tu tombes, "ne pleure pas, t'es un bonhomme".                   
+Si tu ne vas pas bien et que tu le dis on remet en cause ta virilité.             
+"Ne t'occupe pas de ton physique, c'est un truc de gonzesse."         
+
+Une autre dualité des genres est "Actif / Passif'. Si tu es un homme, tu as le choix et 
+tu dois décider. Si t'es une femme, tu dois obéir.        
+Si une fille te plait, "c'est à toi de faire le premier pas", sinon c'est toi la gonzesse. 
+
+Et l'effet de cette pression sociale est très claire, les hommes abusent de violence 
+physique entre eux et plus souvent que contre des femmes. Ce qui explique que les agressions
+que subissent les hommes sont plus physiques que verbales. 
+
+> Ainsi, 17 % des violences subies par les hommes sont des bagarres, contre 7 % de celles subies par les femmes.
  
+*voire l'article de l'insee*
 
+Cette recherche de la domination chez l'homme se voit aussi dans les relations aux femmes. 
+Si un homme doit être dominant, alors une femme cherchera elle aussi un homme dominant. 
+Un homme dominant, c'est un homme grand, musclé, intelligent, blanc, qui occupe un poste
+important avec des responsabilités. Ainsi, caché derrière un semblant de préférence physique,
+les femmes joueront elles-aussi le rôle de la domination masculine en choisissant des 
+partenaires plutôt dominant, et très souvent plus grands qu'elles (citation needed). 
+
+de dominant, tout simplement un homme grand et musclé plutôt qu'un homme petit et chétif.
+ 
 
 
 -----
 notes et statistiques
 https://en.wikipedia.org/wiki/Men%27s_rights_movement
 https://fr.statista.com/statistiques/651074/avis-francais-necessite-feminisme/
+https://www.insee.fr/fr/statistiques/1280864
 
