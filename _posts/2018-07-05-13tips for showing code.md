@@ -11,7 +11,7 @@ Ces dernières années, la parole des femmes s'est libérée.
 Avec le mouvement **metoo** sont apparus visibles de tous des cas de harcèlement, d'agression et de 
 discrimination par centaine. 
 
-## Les activistes des droits des hommes
+## Les activistes des droits des hommes (*Men's rights activists*)
 
 Pendant ce temps on a vu chez les hommes naître un mouvement qui se nomme men's right. Ce 
 mouvement est apparu dans les années 1970 en opposition aux mouvements féministes, 
@@ -77,12 +77,25 @@ et le recrée.
 
 Ce qu'on appelle la domination masculine (et ce que des activistes des droits des hommes 
 rejettent donc), c'est le système qui régit les structures économiques et sociales qui 
-font des femmes des êtres dominées. Ce sont les manifestations directement observables 
+font des femmes des individus dominées. Ce sont les manifestations directement observables 
 du sexisme et du patriarcat, c'est-à-dire les discriminations et inégalités entre les 
-hommes et les femmes. 
-A ne pas confondre avec le sexisme qui est la justification idéologique de ce système.
+hommes et les femmes.       
 
 Quelques manifestations de ce système sont :
+
+* l'inégalité de la répartition des tâches domestiques
+* le jugement de valeur (la force est une propriété des hommes, la faiblesse des femmes)
+* la publicité ne montrant que deux femmes : la femme de ménage ou l'objet sexuel
+* le peu de présence dans les postes de direction
+* l'acceptation sociale de l'harcèlement sexuel 
+
+A ne pas confondre avec le sexisme qui est la justification idéologique de ce système : 
+*Les femmes font plus de tâches ménagères car leur cerveau préfère plus le propre que celui
+des hommes*.
+
+## Et les problèmes des hommes alors ?
+
+C'est vrai que c'est le but de l'article :). 
 
  
 
