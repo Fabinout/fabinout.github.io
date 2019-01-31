@@ -57,16 +57,33 @@ meurent (de vieillesse, de maladie, etc.) et de nouveaux dominants les remplacen
 que la structure et la domination persiste. Autrement dit les temps changent, les populations 
 se renouvellent mais la société garde des dominants, des dominés,
 et ses structures hiérarchiques de domination.    
-Là se retrouve en partie l'ineptie de la révolution assassine, on peut attaquer la capitale et 
+C'est comme ça qu'on redécouvre l'ineptie de la révolution assassine, on peut attaquer la capitale et 
 liquider le gouvernement et des grands patrons, mais ils auront vite fait de se faire 
 remplacer par d'autres, et la situation sociale n'aura pas changé.    
 
 ### La force de l'habitus
 
 Comment la société fait-elle pour garder ce système en tout temps ?         
-Bourdieu explique que ces structures persistent grâce à l'éducation. 
+Pierre Bourdieu explique que ces structures persistent grâce à l'éducation. 
 Les dominants ont des écoles et universités qui recréent les mêmes attributs qui les ont formés,
-tandis que les dominés sont poussés en dehors du système scolaire. 
+tandis que les dominés sont poussés en dehors du système scolaire.   
+Ce qui est intéressant, c'est que tous le spectre des individus inconsciemment recrée 
+le système qui l'oppresse. Ainsi dans le cas de la domination masculine, les hommes évidemment
+poussent à perpétuer les systèmes de domination, mais les femmes aussi sont génératrices 
+de ce système. C'est ce qu'on appelle l'**habitus** qui perçoit le monde extérieur, l'assimile
+et le recrée.    
+
+### Qu'est-ce que la domination masculine
+
+Ce qu'on appelle la domination masculine (et ce que des activistes des droits des hommes 
+rejettent donc), c'est le système qui régit les structures économiques et sociales qui 
+font des femmes des êtres dominées. Ce sont les manifestations directement observables 
+du sexisme et du patriarcat, c'est-à-dire les discriminations et inégalités entre les 
+hommes et les femmes. 
+A ne pas confondre avec le sexisme qui est la justification idéologique de ce système.
+
+Quelques manifestations de ce système sont :
+
  
 
 
