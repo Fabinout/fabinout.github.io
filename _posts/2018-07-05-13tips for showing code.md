@@ -45,7 +45,29 @@ racine de la colère de cette population d'activistes des droits des hommes qui 
 qu'ils se retrouvent lésés et sont donc maintenant dans une situation certainement moins 
 privilégiée que la population féminine.
 
-## 
+## Le paradoxe de la doxa - La domination masculine
+
+Le sociologue **Pierre Bourdieu** introduit le concept de paradoxe de la doxa comme suit :
+
+La *doxa* est l'ensemble des règles de domination qui régissent la société, 
+avec ses dominants et ses dominés.
+ 
+Le paradoxe, c'est qu'avec le temps qui passe, les dominants 
+meurent (de vieillesse, de maladie, etc.) et de nouveaux dominants les remplacent, mais 
+que la structure et la domination persiste. Autrement dit les temps changent, les populations 
+se renouvellent mais la société garde des dominants, des dominés,
+et ses structures hiérarchiques de domination.    
+Là se retrouve en partie l'ineptie de la révolution assassine, on peut attaquer la capitale et 
+liquider le gouvernement et des grands patrons, mais ils auront vite fait de se faire 
+remplacer par d'autres, et la situation sociale n'aura pas changé.    
+
+### La force de l'habitus
+
+Comment la société fait-elle pour garder ce système en tout temps ?         
+Bourdieu explique que ces structures persistent grâce à l'éducation. 
+Les dominants ont des écoles et universités qui recréent les mêmes attributs qui les ont formés,
+tandis que les dominés sont poussés en dehors du système scolaire. 
+ 
 
 
 
