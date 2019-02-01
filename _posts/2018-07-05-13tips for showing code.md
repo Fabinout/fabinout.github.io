@@ -117,14 +117,31 @@ que subissent les hommes sont plus physiques que verbales.
  
 *voire l'article de l'insee*
 
-Cette recherche de la domination chez l'homme se voit aussi dans les relations aux femmes. 
-Si un homme doit être dominant, alors une femme cherchera elle aussi un homme dominant. 
-Un homme dominant, c'est un homme grand, musclé, intelligent, blanc, qui occupe un poste
-important avec des responsabilités. Ainsi, caché derrière un semblant de préférence physique,
+De la même manière, les hommes auront tendance à ne pas parler de leurs sentiments, de leurs besoins. 
+Et ce symptôme de la domination masculine est une des causes principales des problèmes des 
+hommes. Ils n'expriment pas leurs émotions, ne recherchent pas d'aide quand il le faut 
+et n'avouent pas les problèmes d'instabilité psychologique. Les conséquences sur la population 
+masculine sont importantes, et comprennent effectivement les taux de suicide et 
+de burnout beaucoup plus élevés que chez les femmes, ainsi que le la proportion d'homme
+dans la population de SDF.
+
+Cette recherche de la domination chez l'homme s'observe aussi dans les relations aux femmes. 
+Si un homme doit être dominant, alors une femme cherchera elle aussi (plus ou moins inconsciemment) un homme dominant.      
+Un homme dominant dans notre société, c'est un homme grand, musclé, intelligent, blanc, qui occupe un poste
+important avec des responsabilités. Ainsi, cachées derrière un semblant de préférence physique,
 les femmes joueront elles-aussi le rôle de la domination masculine en choisissant des 
 partenaires plutôt dominant, et très souvent plus grands qu'elles (citation needed). 
 
-de dominant, tout simplement un homme grand et musclé plutôt qu'un homme petit et chétif.
+
+### Les deux faces de la même pièce
+
+Le but de cet article n'est pas d'énoncer qu'une population masculine ou féminine serait plus à 
+plaindre que l'autre. L'objectif est bien de montrer que là où les MRAs se positionnent
+contre les féministes, et où certaines féministes se positionnent contre les MRAs, les 
+problèmes principaux qui touchent ces deux catégories de population ne sont finalement que
+les deux faces d'une même pièce, la racine de tous ces problèmes : la domination masculine.
+
+
  
 
 
