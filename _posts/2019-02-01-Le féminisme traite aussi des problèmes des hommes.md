@@ -38,8 +38,8 @@ chez les femmes et un accompagnement psychologique facilité
 * le droit à la reconnaissance de la violence domestique quand l'homme est la victime
 
 
-Il me parait évident que ces problèmes sont importants, et que l'on soit homme, femme 
-et/ou encore transgenre, ce sont effectivement des problèmes de société dont on ne parle 
+Il me parait évident que ces problèmes sont importants, et que l'on soit homme ou femme ou inter-genre, 
+on ne peut que constater que ce sont effectivement des problèmes de société dont on ne parle 
 au final assez peu dans les médias traditionnels. Cette absence de visibilité est à la
 racine de la colère de cette population d'activistes des droits des hommes qui considèrent
 qu'ils se retrouvent lésés et sont donc maintenant dans une situation certainement moins 
