@@ -64,7 +64,7 @@ remplacer par d'autres, et la situation sociale n'aura pas changé.
 ### La force de l'habitus
 
 Comment la société fait-elle pour garder ce système en tout temps ?         
-Pierre Bourdieu explique que ces structures persistent grâce à l'éducation. 
+Pierre Bourdieu explique que ces structures persistent grâce à l'éducation et la socialisation. 
 Les dominants ont des écoles et universités qui recréent les mêmes attributs qui les ont formés,
 tandis que les dominés sont poussés en dehors du système scolaire.   
 Ce qui est intéressant, c'est que tous le spectre des individus inconsciemment recrée 
