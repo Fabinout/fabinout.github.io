@@ -179,17 +179,6 @@ Cette loi s'applique initialement aux administration mais son usage s'étend au 
 réunions, si tu juges qu'on peut discuter d'un problème en 1H, alors il est physiquement impossible que
 l'on sorte de cette réunion avant la fin.
 
-## Loi des gaz
-
-La loi des gaz nous dit qu'un gaz remplit l'espace qui le contient, c'est l'autre nom de la loi de Parkinson.
-Petit problème : le nom "Loi des gaz" fait un peu loi-inventée-à-la-volée. Dans le doute, utilisez plutôt la "Loi des
-gaz parfaits", si votre interlocuteurs a de la mémoire mais pas trop, il se rappellera que cette loi somme toute
-naturelle est réelle, et en plus vous passerez pour un curieux de la chimie.
-
-Bon par contre, la loi des gaz parfaits ne veut pas dire ça du tout (c'est PV=nrT), mais l'on ne s'encombre
-pas de la vérité quand on veut écraser ses interlocuteurs de sa puissance intellectuelle.
-
-
 ## Loi de la trivialité de Parkinson
 
 > Members of an organization give disproportionate weight to trivial issues
@@ -207,10 +196,52 @@ accapare l'attention de 20 personnes pendant des heures.
 Si un client s'attarde sur un détail où vous ne trouvez pas de réponse, ça permet de remettre en doute ses compétences
 tout en évitant de répondre à la question. Une pierre deux coups.
 
-## Systemantique de Gall
+## Systémantique de Gall
+
+> A complex system that works is invariably found to have evolved from a simple system that worked. A complex system
+designed from scratch never works and cannot be patched up to make it work. You have
+to start over with a working simple system.
+
+Si le why d'un projet est compliqué, alors le projet ne marchera pas. C'est une loi particulièrement efficace quand
+on parle d'agile, l'objectif est de commencer par quelque chose d'utile et de simple, de l'utiliser et seulement
+ensuite tenter de rajouter des fonctionnalités. Étant donné que tout est système, et que tout système est à l'intérieur
+d'un autre système, on peut foutre des systèmes partout.
 
 ## Loi de Brook
 
-## Loi de
+> Ajouter des personnes à un projet en retard accroît son retard
+
+Contrairement à la croyance populaire, on ne finit pas plus vite en rajoutant des *ressources* à l'équipe. La phrase
+que vous devez dire ensuite est "1 femme fait un bébé en 9 mois, 9 femmes ne font pas 1 bébé en 1 mois"; ça a
+rien à voir avec la gestion d'un projet informatique, mais ça fait golri à chaque fois.
+
+
+# Les lois chimiques
+
+La chimie traitant d'évolution, de mélange, de changement, c'est une source inépuisable de métaphores ineptes et
+de poncifs, n'hésitez pas à replonger dans vos cours de collège.
+
+## Loi des gaz
+
+La loi des gaz nous dit qu'un gaz remplit l'espace qui le contient, c'est l'autre nom de la loi de Parkinson.
+Petit problème : le nom "Loi des gaz" fait un peu loi-inventée-à-la-volée. Dans le doute, utilisez plutôt la "Loi des
+gaz parfaits", si votre interlocuteurs a de la mémoire mais pas trop, il se rappellera que cette loi somme toute
+naturelle est réelle, et en plus vous passerez pour un curieux de la chimie.
+
+Bon par contre, la loi des gaz parfaits ne veut pas dire ça du tout (c'est PV=nrT), mais l'on ne s'encombre
+pas de la vérité quand on veut écraser ses interlocuteurs de sa puissance intellectuelle.
+
+
+
+## Principe du Chatelier
+
+>Lorsque les modifications extérieures apportées à un système physico-chimique en équilibre provoquent
+une évolution vers un nouvel état d'équilibre, l'évolution s'oppose aux perturbations qui l'ont engendrée
+et en modère l'effet.
+
+Le système réagit toujours négativement à toute volonté de changement, à dire quand on essaye des trucs qui ne
+changent rien dans une équipe.
+
+
 
 
