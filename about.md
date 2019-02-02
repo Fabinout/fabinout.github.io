@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Moi en 7 mots et 2 chiffres 
 
-Développeur de 28 ans récemment déménagé à Bordeaux.
+Développeur de 29 ans récemment déménagé à Bordeaux.
 
 
 
