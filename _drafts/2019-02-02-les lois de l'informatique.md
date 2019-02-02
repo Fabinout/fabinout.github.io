@@ -13,12 +13,12 @@ son problème. Tu seras tenté de proposer une solution, mais retiens-toi. L'imp
 savoir de consultant, surtout pas de s'exposer en tentant de corriger le problème.
 
 
-## Les lois connues
+# Les lois connues
 
 Attention, à n'utiliser qu'avec parcimonie car le client les connaît probablement. Ça ne te permettra donc pas de
 justifier ton TJM de consultant.
 
-### Loi de Murphy
+## Loi de Murphy
 
 >Tout ce qui peut aller mal, se passera mal.
 
@@ -29,7 +29,27 @@ sais rien parce que j'étais pas né, mais c'est ce que me racontait ma grand-m�
 À utiliser lorsque tu observes que rien ne va chez le client et qu'il est dans une situation catastrophique à cause
 de ses choix tous plus idiots les uns que les autres.
 
-### Loi de Conway
+## Loi de Moore
+
+> Quelque chose double tous les dix-huit mois
+
+L'intérêt de cette loi vient de son extrême versatilité. Il faut juste trouver quelque chose qui double de temps en temps
+et s'en servir pour tirer une loi générale.
+
+* Le nombre d'employé double tous les ans dans les startups
+* La puissance des semi-conducteurs double tous les ans
+* Le nombre de transistors d'un microprocesseur double tous les 2 ans
+* Le nombre de microservices de ton client double tous les 15 mois
+* etc.
+
+Même si ça double pas et que ça croit linéairement, ce n'est pas grave.
+
+#### Corollaire de la loi de Moore
+
+> Tout indicateur croissant peut suivre vaguement une loi de Moore
+
+
+## Loi de Conway
 
 > Les organisations qui définissent des systèmes ... sont contraintes de les produire sous des designs qui sont
 des copies de la structure de communication de leur organisation
@@ -41,7 +61,7 @@ Mais un bon consultant ne s'inquiète pas de ces problèmes d'anachronisme, si t
 différentes équipes du client n'arrivent pas à collaborer, alors tu peux aisément dégainer ta Loi
 de Conway toute neuve.
 
-### Syndrome de l'imposteur
+## Syndrome de l'imposteur
 
 > Les personnes atteintes du syndrome de l'imposteur, appelé aussi syndrome de l'autodidacte, expriment une forme de
 doute maladif qui consiste essentiellement à nier la propriété de tout accomplissement personnel.
@@ -58,19 +78,19 @@ de ton syndrome de l'imposteur. Ça ne peut pas être la faute d'un manque de tr
 connaissance.
 
 
-## Les lois que tu connais mais que tu ne connais pas le nom
+# Les lois que tu connais mais que tu ne connais pas le nom
 
 Ces lois sont instinctives, elles décrivent des truismes comme les autres, mais ont l'avantage de faire pompeux.
 Moins pompeux qu'utiliser le mot truisme, mais quand même.
 
-### Loi de Goodhart
+## Loi de Goodhart
 
 > Lorsqu'un indicateur devient une cible, il cesse d'être une bonne mesure.
 
 Si tu utilise une mesure comme un objectif à atteindre, alors elle influence vos décisions, car le but n'est plus
 d'améliorer la qualité du travail fourni, le but devient d'atteindre l'indicateur.
 
-#### Corollaire : loi de Campbell
+### Corollaire : loi de Campbell
 
 > plus un indicateur quantitatif est utilisé pour la prise de décision, plus il a de chances de fausser et
 corrompre le processus qu’il a pour objet de surveiller
@@ -89,31 +109,108 @@ pourri qu'elles auront codé tout au long de l'année
 * Si ton objectif est de diminuer la latence de l'application, alors mets des caches partout. Peu importe
 que les données datent d'hier.
 
+*Pas besoin de comprendre la différence entre les deux lois, c'est un détail d'implémentation qui ne concerne
+que le client.*
 
-### Loi de Hoffstadter
+## Loi de Hoffstadter
 
 > Quoi qu'il arrive tu seras en retard.
 
-Rien de mieux que du cynisme et du défaitisme
+Rien de mieux que du cynisme et du défaitisme, peu importent la tache, le délai et la météo, quoi qu'il arrive : tu
+seras en retard.
 
-### Loi de Haffstadter qui prend en compte la loi de Hoffstadter
+## Loi de Hoffstadter qui prend en compte la loi de Hoffstadter
 
-### Principe de Peter
+> Quoi qu'il arrive tu seras en retard. Même si tu prends en compte la loi de Hoffstadter.
 
-### Effet Dunning-Krueger
+Même en prenant large pour les délais et en réduisant le scope, tu seras en retard. Sers toi de ce fatalisme
+quand tu es en retard sur ton boulot.
 
-### Principe de Dilbert
+## Principe de Peter
 
-### Loi de parkinson
+> dans une hiérarchie, tout employé a tendance à s'élever à son niveau d'incompétence
 
-### Loi triviale de parkinson
+En partant du postulat qu'un employé compétent est promu (ce qui reste encore à prouver), tout employé compétent
+recevra des promotions jusqu'à arriver à un poste qui exige des compétences qu'il n'a pas.
+Comment peux-tu juger que quelqu'un est incompétent à son poste ? Rien à faire, c'est une phrase réflexe qui
+est à sortir quand votre interlocuteur se plaint des compétences de ses collaborateurs.
 
-### Loi des gaz parfaits
+> "Mon directeur de service sert vraiment à que dalle"
+> "Ahah ouais, on est en plein dans le syndrome de Peter !"
 
-### Systemantique de Gall
+## Principe de Dilbert
 
-### Loi de Brook
+> Les gens les moins compétents sont systématiquement affectés aux postes où ils risquent de causer
+le moins de dégâts : ceux de managers.
 
-### Loi de
+Les managers sont la cible idéale, ils ne produisent rien et ne peuvent donc rien casser.
+Ce principe est une version aggravée du principe de Peter, et s'applique spécifiquement à l'incompétence des
+managers. Une bonne blague entre ingénieurs.
+
+## Effet Dunning-Krueger
+
+> L’effet Dunning-Kruger, ou effet de surconfiance, est un biais cognitif selon lequel les moins qualifiés dans un
+domaine surestiment leur compétence.
+
+Ce biais a été popularisé par Coluche, citant Descartes, dans les années 1980 : « […] l'intelligence,
+c'est la chose la mieux répartie chez les hommes, n'est-ce pas, parce que, quoiqu'il en soit
+pourvu, il a toujours l'impression d'en avoir assez, vu que c'est avec ça qu'il juge, hein ! ». Coluche en 2019
+est le nouveau Deleuze.
+
+Contre toute attente ce biais est facilement trouvable chez les consultants qui balancent de grosses vérités
+bien péremptoires à tout bout de champs, car il est plus efficace de dire quelque chose avec autorité que de nuancer
+son propos.
+
+* Si en 2019 t'as pas Kubernetes dans ton SI, alors t'as raté ta vie
+* L'avenir c'est le cloud, l'on-premise c'est pour les banques et les loosers
+* Si tu fais pas d'agile à l'échelle, tu sauras pas réagir assez vite au changement, t'es déjà mort
+* Le HTTPS c'est facile, si tout ton SI est pas en HTTPS, c'est que tu fais pas d'effort
+
+A l'inverse, l'effet Dunning-Kruger nous dit qu'une personne très compétente et intelligente sous-estimera
+ses compétences, tout simplement parce qu'il a conscience de ses lacunes. Exemple : je connais très bien Java, mais
+je n'ai pas l'habitude de fine-tuner le garbage-collector, donc j'estime être dans le top 25% des développeurs
+Java.
+
+## Loi de Parkinson
+
+> Tout travail au sein de l'administration augmente jusqu’à occuper entièrement le temps qui lui est affecté
+
+Cette loi s'applique initialement aux administration mais son usage s'étend au privé, particulièrement aux
+réunions, si tu juges qu'on peut discuter d'un problème en 1H, alors il est physiquement impossible que
+l'on sorte de cette réunion avant la fin.
+
+## Loi des gaz
+
+La loi des gaz nous dit qu'un gaz remplit l'espace qui le contient, c'est l'autre nom de la loi de Parkinson.
+Petit problème : le nom "Loi des gaz" fait un peu loi-inventée-à-la-volée. Dans le doute, utilisez plutôt la "Loi des
+gaz parfaits", si votre interlocuteurs a de la mémoire mais pas trop, il se rappellera que cette loi somme toute
+naturelle est réelle, et en plus vous passerez pour un curieux de la chimie.
+
+Bon par contre, la loi des gaz parfaits ne veut pas dire ça du tout (c'est PV=nrT), mais l'on ne s'encombre
+pas de la vérité quand on veut écraser ses interlocuteurs de sa puissance intellectuelle.
+
+
+## Loi de la trivialité de Parkinson
+
+> Members of an organization give disproportionate weight to trivial issues
+
+Aussi appelé "syndrome du garage à vélo", les managers étant incompétents par défaut, ils vont fournir un gros
+effort pour influencer ou modifier l'élément le plus trivial qu'ils peuvent comprendre.
+
+Dans le cas du garage à vélo, un comité doit travailler sur le budget pour la construction d'une centrale nucléaire,
+le choix du modèle de réacteur nucléaire (qui concerne l'immense majorité du prix de la centrale en elle-même)
+est traité très rapidement. Mais lorsqu'il faut discuter du garage à vélo pour les employés, tout le monde y va
+de son avis sur la question "je pense qu'il faut peindre le garage en bleu", "on doit pas faire l'erreur de mettre un toit
+sur le garage à vélo, ça sert à rien et ça fera fournaise en été", etc. Résultat la discussion dérisoire
+accapare l'attention de 20 personnes pendant des heures.
+
+Si un client s'attarde sur un détail où vous ne trouvez pas de réponse, ça permet de remettre en doute ses compétences
+tout en évitant de répondre à la question. Une pierre deux coups.
+
+## Systemantique de Gall
+
+## Loi de Brook
+
+## Loi de
 
 
