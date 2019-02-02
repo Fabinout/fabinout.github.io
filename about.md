@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-### Moi en 7 mots et 2 chiffres 
+### Moi en 5 mots et 2 chiffres 
 
-Développeur de 29 ans récemment déménagé à Bordeaux.
+Développeur de 29 ans à Bordeaux.
 
 
 
