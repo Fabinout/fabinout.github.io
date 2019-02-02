@@ -11,7 +11,7 @@ Si tu as de l'expérience (et du cynisme), l'important c'est d'avoir réponse à
 mieux c'est. Pas besoin d'empathie, pas besoin de réflexion, si on a dans sa poche la loi si possible obscure qui identifie
 son problème. Tu seras tenté de proposer une solution, mais retiens-toi. L'important c'est de montrer son
 savoir de consultant, surtout pas de s'exposer en tentant de corriger le problème.
-
+Et surtout, ça te permet d'étaler l'étendue de ton savoir infini.
 
 # Les lois connues
 
