@@ -110,27 +110,22 @@ tu dois décider. Si t'es une femme, tu dois obéir.
 Si une fille te plait, "c'est à toi de faire le premier pas", sinon c'est toi la gonzesse. 
 
 Et l'effet de cette pression sociale est très claire, les hommes abusent de violence 
-physique entre eux et plus souvent que contre des femmes. Ce qui explique que les agressions
-que subissent les hommes sont plus physiques que verbales. 
+physique entre eux et plus souvent que contre des femmes. Ce qui explique que la proportions d’attaques physiques 
+que subissent les hommes est plus élevée que celles subies par les femmes.
 
 > Ainsi, 17 % des violences subies par les hommes sont des bagarres, contre 7 % de celles subies par les femmes.
  
-*voire l'article de l'insee*
+*voire l'[article de l'insee](https://www.insee.fr/fr/statistiques/1280864
+)*
 
 De la même manière, les hommes auront tendance à ne pas parler de leurs sentiments, de leurs besoins. 
 Et ce symptôme de la domination masculine est une des causes principales des problèmes des 
-hommes. Ils n'expriment pas leurs émotions, ne recherchent pas d'aide quand il le faut 
+hommes. En règle général, les hommes n'expriment pas leurs émotions, ne recherchent pas d'aide quand il le faut 
 et n'avouent pas les problèmes d'instabilité psychologique. Les conséquences sur la population 
 masculine sont importantes, et comprennent effectivement les taux de suicide et 
 de burnout beaucoup plus élevés que chez les femmes, ainsi que le la proportion d'homme
-dans la population de SDF.
-
-Cette recherche de la domination chez l'homme s'observe aussi dans les relations aux femmes. 
-Si un homme doit être dominant, alors une femme cherchera elle aussi (plus ou moins inconsciemment) un homme dominant.      
-Un homme dominant dans notre société, c'est un homme grand, musclé, intelligent, blanc, qui occupe un poste
-important avec des responsabilités. Ainsi, cachées derrière un semblant de préférence physique,
-les femmes joueront elles-aussi le rôle de la domination masculine en choisissant des 
-partenaires plutôt dominant, et très souvent plus grands qu'elles (citation needed). 
+dans la population de SDF.  
+Vous vous en rendez compte, ce sont les problèmes que les MRAs essayent de combattre.
 
 
 ### Les deux faces de la même pièce
@@ -140,8 +135,8 @@ plaindre que l'autre. L'objectif est bien de montrer que là où les MRAs se pos
 contre les féministes, et où certaines féministes se positionnent contre les MRAs, les 
 problèmes principaux qui touchent ces deux catégories de population ne sont finalement que
 les deux faces d'une même pièce, la racine de tous ces problèmes : la domination masculine.
-
-
+Et donc qu'un des leviers actionnables pour résoudre les problèmes des hommes serait 
+de travailler conjointement aux féministes à abattre cette patriarchie.
  
 
 
