@@ -11,7 +11,7 @@ Ces dernières années, la parole des femmes s'est libérée.
 Avec le mouvement **metoo** sont apparus visibles de tous des cas de harcèlement, d'agression et de 
 discrimination par centaine. 
 
-## Les activistes des droits des hommes (*Men's rights activists*)
+## Les activistes des droits des hommes (*Men's rights activists*, MRAs)
 
 Pendant ce temps on a vu chez les hommes naître un mouvement qui se nomme men's right. Ce 
 mouvement est apparu dans les années 1970 en opposition aux mouvements féministes, 
