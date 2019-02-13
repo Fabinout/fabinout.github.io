@@ -220,7 +220,7 @@ rien à voir avec la gestion d'un projet informatique, mais ça fait golri à ch
 
 ## Culte du cargo
 
-> Sommes-nous en train d'appliquer des méthodes par mimétisme d'autres entreprises, sans comprendre le bien-fondé de
+> Sommes-nous en train d'appliquer des méthodes par mimétisme, sans comprendre le bien-fondé et l'origine de
 ces actions ?
 
 Le culte du cargo vient (selon la légende) de l'Océanie, plus précisément de la Mélanésie.
