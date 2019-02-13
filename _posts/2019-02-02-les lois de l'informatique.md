@@ -13,6 +13,9 @@ son problème. Tu seras tenté de proposer une solution, mais retiens-toi. L'imp
 savoir de consultant, surtout pas de s'exposer en tentant de corriger le problème.
 Et surtout, ça te permet d'étaler l'étendue de ton savoir infini.
 
+Ami consultant, ne cherche pas plus loin, voici la liste des choses à savoir pour pouvoir briller dans la société de ton
+client, et l'asperger de ta connaissance à la moindre occasion.
+
 # Les lois connues
 
 Attention, à n'utiliser qu'avec parcimonie car le client les connaît probablement. Ça ne te permettra donc pas de
