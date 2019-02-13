@@ -220,14 +220,14 @@ rien à voir avec la gestion d'un projet informatique, mais ça fait golri à ch
 
 ## Culte du cargo
 
-> Sommes-nous en train d'appliquer des méthodes par mimétisme d'autres entreprises, sans comprendre le bien-fondé de
+> Sommes-nous en train d'appliquer des méthodes par mimétisme, sans comprendre le bien-fondé et l'origine de
 ces actions ?
 
 Le culte du cargo vient (selon la légende) de l'Océanie, plus précisément de la Mélanésie.
 Dans ce pays, les aborigènes observent les bases militaires que fabriquent les militaires occidentaux et japonais, et
 notent que peu après la construction de tour de contrôle et de radio, des avions survolent le secteur en parachutant
 des caisses de vivre et d'armement. Les aborigènes décident donc judicieusement de construire eux aussi des tours de
-contrôle en bois pour faire tomber du ciel des caisses de nourriture. Or ces êtres simples et bêtes ne réalisent qu'il
+contrôle en bois pour faire tomber du ciel des caisses de nourriture. Or les aborigènes réalisent vite qu'il
 ne suffit pas de copier en apparence les techniques pour en récolter les bienfaits.
 
 On passe assez vite sur la logique colonialiste "les aborigènes sont des gens débiles" et le fait que cette histoire
