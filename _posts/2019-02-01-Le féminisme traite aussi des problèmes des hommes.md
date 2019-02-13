@@ -11,7 +11,7 @@ Ces dernières années, la parole des femmes s'est libérée.
 Avec le mouvement **metoo** sont apparus visibles de tous des cas de harcèlement, d'agression et de 
 discrimination par centaine. 
 
-## Les activistes des droits des hommes (*Men's rights activists*)
+## Les activistes des droits des hommes (*Men's rights activists*, MRAs)
 
 Pendant ce temps on a vu chez les hommes naître un mouvement qui se nomme men's right. Ce 
 mouvement est apparu dans les années 1970 en opposition aux mouvements féministes, 
@@ -19,7 +19,7 @@ mais il n'est devenu visible que tout récemment dans notre pays.
 Ce mouvement a la noble vocation de vouloir s'occuper des droits des hommes, car il apparaît
 aux yeux de certains que les médias principaux ne parlent que des problèmes des femmes. 
 Outre le fait d'attirer de nombreux hommes anti-féministes (voire carrément misogynes) et donc
-de ne se positionner sur le plan social et politique qu'en réaction au féminisme,  
+de ne se positionner sur le plan social et politique qu'en réaction au féminisme, 
 ce mouvement parle de sujets sociaux et moraux importants pour les hommes. 
 
 Entre autres :
@@ -39,7 +39,7 @@ chez les femmes et un accompagnement psychologique facilité
 
 
 Il me parait évident que ces problèmes sont importants, et que l'on soit homme ou femme ou inter-genre, 
-on ne peut que constater que ce sont effectivement des problèmes de société dont on ne parle 
+on ne peut que constater que ce sont effectivement des problèmes de société dont on parle 
 au final assez peu dans les médias traditionnels. Cette absence de visibilité est à la
 racine de la colère de cette population d'activistes des droits des hommes qui considèrent
 qu'ils se retrouvent lésés et sont donc maintenant dans une situation certainement moins 
@@ -67,7 +67,7 @@ Comment la société fait-elle pour garder ce système en tout temps ?
 Pierre Bourdieu explique que ces structures persistent grâce à l'éducation et la socialisation. 
 Les dominants ont des écoles et universités qui recréent les mêmes attributs qui les ont formés,
 tandis que les dominés sont poussés en dehors du système scolaire.   
-Ce qui est intéressant, c'est que tous le spectre des individus inconsciemment recrée 
+Ce qui est intéressant, c'est que tout le spectre des individus recrée inconsciemment 
 le système qui l'oppresse. Ainsi dans le cas de la domination masculine, les hommes évidemment
 poussent à perpétuer les systèmes de domination, mais les femmes aussi sont génératrices 
 de ce système. C'est ce qu'on appelle l'**habitus** qui perçoit le monde extérieur, l'assimile
@@ -77,7 +77,7 @@ et le recrée.
 
 Ce qu'on appelle la domination masculine (et ce que des activistes des droits des hommes 
 rejettent donc), c'est le système qui régit les structures économiques et sociales qui 
-font des femmes des individus dominées. Ce sont les manifestations directement observables 
+font des femmes des individus dominés. Ce sont les manifestations directement observables 
 du sexisme et du patriarcat, c'est-à-dire les discriminations et inégalités entre les 
 hommes et les femmes.       
 
@@ -85,7 +85,7 @@ Quelques manifestations de ce système sont :
 
 * l'inégalité de la répartition des tâches domestiques
 * le jugement de valeur (la force est une propriété des hommes, la faiblesse des femmes)
-* la publicité ne montrant que deux femmes : la femme de ménage ou l'objet sexuel
+* la publicité ne montrant que deux femmes : la ménagère ou l'objet sexuel
 * le peu de présence dans les postes de direction
 * l'acceptation sociale de l'harcèlement sexuel 
 
