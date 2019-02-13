@@ -218,6 +218,25 @@ Contrairement à la croyance populaire, on ne finit pas plus vite en rajoutant d
 que vous devez dire ensuite est "1 femme fait un bébé en 9 mois, 9 femmes ne font pas 1 bébé en 1 mois"; ça a
 rien à voir avec la gestion d'un projet informatique, mais ça fait golri à chaque fois.
 
+## Culte du cargo
+
+> Sommes-nous en train d'appliquer des méthodes par mimétisme d'autres entreprises, sans comprendre le bien-fondé de
+ces actions ?
+
+Le culte du cargo vient (selon la légende) de l'Océanie, plus précisément de la Mélanésie.
+Dans ce pays, les aborigènes observent les bases militaires que fabriquent les militaires occidentaux et japonais, et
+notent que peu après la construction de tour de contrôle et de radio, des avions survolent le secteur en parachutant
+des caisses de vivre et d'armement. Les aborigènes décident donc judicieusement de construire eux aussi des tours de
+contrôle en bois pour faire tomber du ciel des caisses de nourriture. Or ces êtres simples et bêtes ne réalisent qu'il
+ne suffit pas de copier en apparence les techniques pour en récolter les bienfaits.
+
+On passe assez vite sur la logique colonialiste "les aborigènes sont des gens débiles" et le fait que cette histoire
+tient plus probablement de la légende urbaine qu'autre chose, pour se recentrer sur l'objectif. Si ton client a l'idée
+de faire la même chose que la concurrence, alors il se trompe probablement parce qu'il devrait faire ce que toi tu lui
+dis de faire avant ça. L'idéal est de saper toute velléité d'innovation qui ne t'arrange pas.
+
+Est-ce que toi en tant que consultant ton business serait pas d'appliquer du culte du cargo à toutes les sauces chez
+tes clients ? On a pas le temps pour l'introspection, le but c'est de justifier ton TJM, pas de douter de ta posture.
 
 # Les lois chimiques
 
@@ -235,7 +254,6 @@ Bon par contre, la loi des gaz parfaits ne veut pas dire ça du tout (c'est PV=n
 pas de la vérité quand on veut écraser ses interlocuteurs de sa puissance intellectuelle.
 
 
-
 ## Principe du Chatelier
 
 >Lorsque les modifications extérieures apportées à un système physico-chimique en équilibre provoquent
@@ -244,6 +262,21 @@ et en modère l'effet.
 
 Le système réagit toujours négativement à toute volonté de changement, à dire quand on essaye des trucs qui ne
 changent rien dans une équipe.
+
+# Conclusion
+
+Quand tu sais pas grand chose, l'important c'est de le dire en étant assertif, c'est le principe du
+consultant. Pour ça, connaître quelques lois générales et inutiles sont toujours utiles pour impressionner ton auditoire.
+
+Pour finir, la dernière loi :
+
+### Loi de Fabinout
+
+> Pour étaler ta connaissance, il faut être convaincu de ce que tu racontes, quitte à inventer des lois qui n'existent pas.
+
+
+
+
 
 
 
