@@ -80,4 +80,34 @@ pérenne. Et c'est à ce moment là qu'il faut songer à notre éthique, notre r
 
 # L'éthique du conseil
 
-Le principal
+L'individu qui prodigue conseil a donc un grand pouvoir. Le pouvoir de changer les choses durablement.     
+Et si vous pensez qu'un grand pouvoir implique de grandes responsabilités, ben **vous vous trompez** (et tant 
+pis pour Spider-man).      
+Un grand pouvoir implique rarement une grande responsabilité, car il faut pour cela être tout d'abord conscient
+de son pouvoir. Ensuite, l'implication n'est pas nécessaire, le monde de Marvel est rempli de personnages 
+tout-puissants mais n'ayant pas de responsabilités. Notre monde réel est littéralement rempli de personnes ayant
+un grand pouvoir (législatif, économique, politique) mais n'assumant aucune responsabilité de leurs actes.
+
+Le principal attribut des consultants, c'est qu'ils n'assument pas les responsabilités 
+des choix et des décisions qui sont prises en leurs noms. Que ces choix viennent des consultants ou qu'ils 
+émanent d'un blanc-seing pour la direction, aucune responsabilité ne sera prise par le consultant. 
+
+C'est pour ça qu'il est important pour notre métier d'être d'abord conscient du pouvoir qui nous est accordé,
+du privilège qu'on a de pouvoir être entendu et écouté, et d'agir de manière responsable. C'est facile d'être 
+sûr de ses décisions quand elles n'impliquent pas notre argent, notre entreprise, notre quotidien. Et c'est 
+facile d'oublier qu'en face, des équipes vont devoir maintenir et vivre avec le résultat de votre étude.   
+
+Donc prenez vos responsabilités et armez-vous de courage, si ce n'est pas pour le bien de votre client et même
+s'il vous le demande, refusez de lui faire un blanc-seing. 
+Et surtout, ne l'emmenez pas vers une solution qui n'est pas la bonne pour lui parce que c'est celle que vous 
+aimeriez voir, dépassez vos préjugés : 
+
+* On peut bien travailler sans faire d'agile
+* On peut développer sans faire des microservices
+* On est pas obligé de foutre une file de message dans un système d'information
+* Une architecture organisée autour d'évènements est une merde incommensurable à maintenir, surtout surtout 
+surtout ne conseillez pas à un client de faire ça, genre jamais
+* On a pas besoin de Kubernetes pour déployer une application
+
+
+Et surtout, lisez Secrets of consulting de Gerald M. Weinberg : ([lien amazon](https://www.amazon.fr/Secrets-Consulting-Giving-Getting-Successfully/dp/0932633013), désolé même [Mollat](https://www.mollat.com/) a pas ce livre :( ) 
