@@ -87,7 +87,7 @@ de son pouvoir. Ensuite, l'implication n'est pas nécessaire, le monde de Marvel
 tout-puissants mais n'ayant pas de responsabilités. Notre monde réel est littéralement rempli de personnes ayant
 un grand pouvoir (législatif, économique, politique) mais n'assumant aucune responsabilité de leurs actes.
 
-Le principal attribut des consultants, c'est qu'ils n'assument pas les responsabilités 
+Le principal attribut des consultants, c'est qu'ils n'assument pas les responsabilités des conséquences
 des choix et des décisions qui sont prises en leurs noms. Que ces choix viennent des consultants ou qu'ils 
 émanent d'un blanc-seing pour la direction, aucune responsabilité ne sera prise par le consultant. 
 
