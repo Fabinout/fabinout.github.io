@@ -53,9 +53,10 @@ Voilà mon opinion sur le sujet, elle est à prendre avec une brouette de sel.
 
 > Tous les problèmes sont humains
 
-Et comme les problèmes peuvent quasiment systématiquement être ramenés à des problèmes interpersonnels, 
-ils deviennent irrationnels. Car rentrent en compte nos biais, nos connaissances, nos egos et surtout, surtout, 
-nos émotions. 
+Et comme les problèmes tirent leurs origines de problèmes humains, rentrent en compte nos biais, nos connaissances, 
+nos egos et surtout, surtout, nos émotions. Un consultant étranger à ce concept aura donc un mal fou à comprendre 
+pourquoi son client a par le passé fait tel ou tel choix, son comportement paraîtra donc irrationnel.
+
 
 #### Donc le conseil ne sert à rien ?
 
