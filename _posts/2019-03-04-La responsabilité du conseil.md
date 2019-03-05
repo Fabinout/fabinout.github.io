@@ -15,13 +15,13 @@ professions qui vous demande d'interagir avec un client fait vaguement de vous u
 coachs professionnels en est un exemple [flagrant](https://en.wikipedia.org/wiki/Coaching).
 
 Gerald M. Weinberg donne cette définition : 
-> Consulting is the art of influencing people at their request  
+> Le conseil est l'art d'influencer les gens à leur demande  
   
 Donc...
-> A consultant influences people at their request
+> Un ou une consultante influence son client à sa demande 
 
 Donc dès l'instant où on vous demande de l'aide, du support ou encore un accompagnement, vous devenez un consultant.
-C'est donc extrêmement simple de devenir consultant. Mais comme toutes les choses simples, ça arrête vite de l'être.
+C'est donc extrêmement simple de le devenir. Mais comme toutes les choses simples, ça arrête vite de l'être.
 
 
 ##### Une précision sémantique
@@ -64,12 +64,10 @@ Faux.
 
 Parce qu'un appel à l'aide permet au moins de s'ouvrir à une aide extérieure.     
 Gerald Weinberg a écrit : 
-> Most of the time, for most of the world, no matter how hard people work at it, nothing of any significance 
-happens
+> La plupart du temps, dans la plupart des cas, et peu importe l'effort fourni, rien d'important ne change
 
-Cette triste loi nous dit donc que peu importe vos efforts, peu importe vos compétences, il est très probable que vous ne 
+Cette triste loi nous dit donc que peu importent vos efforts, peu importent vos compétences, il est très probable que vous ne 
 changiez rien d'important chez votre client.    
-Une autre façon de voir les choses est de dire que si votre volonté
 
 Mais cette loi ne dit pas que rien n'arrive jamais. C'est simplement que "most of the time, nothing happens". Nous 
 avons donc un corollaire qui nous tend les bras.
