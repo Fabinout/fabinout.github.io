@@ -74,8 +74,8 @@ avons donc un corollaire qui nous tend les bras.
 
 > Parfois quelque chose d'important peut changer, généralement sans avoir fait de gros efforts    
 
-Effectivement, de temps en temps, un consultant ou une consultante peut effectivement changer les choses de manière importante et
-pérenne. Et c'est à ce moment là qu'il faut songer à notre éthique, notre responsabilité.
+Effectivement, de temps en temps, un consultant ou une consultante peut effectivement changer les choses de manière 
+importante. Et c'est à ce moment là qu'il faut songer à notre éthique, notre responsabilité.
 
 # L'éthique du conseil
 
