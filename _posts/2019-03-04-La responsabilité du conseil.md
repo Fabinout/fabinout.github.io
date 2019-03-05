@@ -36,7 +36,7 @@ Obtenir de quelqu'un une demande de conseil est la partie la plus simple. N'impo
 d'organisation de vos clients ? Atterrir, manger avec eux, comprendre leurs process, les analyser, leur dire que
 la qualité de code est pas assez bonne, ils décident de se mettre à faire de la qualité, ça résout leurs problèmes.
 Très vite les clients se bousculeront à votre porte pour obtenir vos précieux conseils sur les traces de vos premiers 
-succès consultatifs, et tout ce beau monde enviera votre sagesse, se pâmera devant votre sagesse infinie et paiera
+succès consultatifs, et tout ce beau monde enviera votre sagesse, se pâmera devant votre culture infinie et paiera
 votre tarif journalier exorbitant.
  
 Ce qui vient en réalité ensuite est la partie où les cheveux tombent, les burn-outs se créent et les réunions 
