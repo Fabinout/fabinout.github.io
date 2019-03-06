@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La responsabilité du consultant"
+title: "La responsabilité du consultant et de la consultante"
 description: "Ne sommes nous pas tous un peu des consultants? Quel pouvoir avons-nous ?"
 tags: [Conseil, Consultant, Ethique]
 ---
