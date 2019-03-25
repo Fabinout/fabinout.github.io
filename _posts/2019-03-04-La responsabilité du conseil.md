@@ -2,7 +2,7 @@
 layout: post
 title: "La responsabilité du consultant et de la consultante"
 description: "Ne sommes nous pas tous un peu des consultants? Quel pouvoir avons-nous ?"
-tags: [Conseil, Consultant, Ethique]
+tags: [Conseil, Consultant, Éthique]
 ---
 
 Je suis développeur, mais je me présente aussi en tant que consultant selon mon interlocuteur.

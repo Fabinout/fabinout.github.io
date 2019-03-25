@@ -2,7 +2,7 @@
 layout: post
 title: "12 tips pour partager du code à l'écran"
 description: "Un guide pour ceux qui font des katas de live-programming, du mob-programming en équipe ou simplement une démo?"
-tags: [Tools, Démo, Kata, mob-programming]
+tags: [Tools, Démo, Kata, Mob-programming]
 ---
     
 Tout développeur se retrouvera un jour à montrer du code. Ça peut être au moment de faire une démo de la

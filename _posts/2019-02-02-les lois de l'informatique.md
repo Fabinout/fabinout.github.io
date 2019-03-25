@@ -3,7 +3,7 @@ layout: post
 title: "Les lois de l'informatique"
 description: "Trouve la réponse à toutes les questions de ton client"
 category:
-tags: [Consulting, satire]
+tags: [Consulting, Satire]
 ---
 
 Si tu es consultant débutant, l'important est d'identifier, puis de résoudre les problèmes de ton client.

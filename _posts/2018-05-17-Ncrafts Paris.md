@@ -2,7 +2,7 @@
 layout: post
 title: "NCrafts Paris : retour"
 description: "Présentation de Ncrafts, et mon best-of des confs"
-tags: [conferences, ncrafts]
+tags: [Conferences, Ncrafts]
 ---
 
 Aujourd'hui, Jeudi 17 Mai, je suis à paris.
