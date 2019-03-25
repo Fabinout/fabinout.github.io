@@ -103,7 +103,7 @@ aimeriez voir, dépassez vos préjugés :
 
 * On peut bien travailler sans faire d'agile
 * On peut développer sans faire des microservices
-* On est pas obligé de foutre une file de message dans un système d'information
+* On est pas obligé de mettre une file de message dans un système d'information
 * Une architecture organisée autour d'évènements est une merde incommensurable à maintenir, surtout surtout 
 surtout ne conseillez pas à un client de faire ça, genre jamais
 * On a pas besoin de Kubernetes pour déployer une application
