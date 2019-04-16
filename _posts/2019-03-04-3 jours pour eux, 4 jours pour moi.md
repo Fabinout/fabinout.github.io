@@ -67,7 +67,7 @@ Qu'est-ce qui peut passer en charge ?
 
 Le calcul d'une rémunération en dividende se base sur le bénéfice, donc Chiffre d'affaire - Charge.    
 
-###Calcul du chiffre d'affaire
+### Calcul du chiffre d'affaire
 
 Je compte travailler 42 semaines par an, 3 jours par semaine, pour 500€ par jour. C'est donc un chiffre d'affaire
 de 63 000€. A cela se rajouteront les missions ponctuelles et les formations. Je prends la limite basse de l'estimation 
