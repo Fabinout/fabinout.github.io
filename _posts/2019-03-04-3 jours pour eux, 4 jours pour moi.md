@@ -31,7 +31,7 @@ Le rythme trouvé est donc :
 de notre calendrier. Il est possible qu'un client ait besoin ponctuellement d'un audit ou d'une formation auquel 
 cas je peux utiliser mes deux jours libres par semaine pour rajouter ici et là des missions d'appoint.
 
-###Le jour de veille technologique
+### Le jour de veille technologique
 
 * Cours en ligne
 * Open-Source (contribution et pocs divers)
@@ -39,7 +39,7 @@ cas je peux utiliser mes deux jours libres par semaine pour rajouter ici et là 
 * Conférences (en tant qu'audience, speaker, ou rédaction/envoi de CFPs)
 
 
-###Le jour de veille commerciale
+### Le jour de veille commerciale
 
 Cette partie là est moins fluide, principalement parce que je 
 découvre, l'occupation est donc amenée à évoluer.
