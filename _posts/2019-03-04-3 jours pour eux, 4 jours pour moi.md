@@ -43,10 +43,10 @@ cas je peux utiliser mes deux jours libres par semaine pour rajouter ici et là 
 Cette partie là est moins fluide, principalement parce que je 
 découvre, l'occupation est donc amenée à évoluer.
 
-* Rédaction d'articles  
+* Rédaction d'articles techniques et/ou sociaux
 * Déjeuner et Café avec des chefs d'entreprise, des devs ou des recruteurs potentiellement intéressés par une mission
 * Administratif, comptabilité
-* Posts divers sur Linkedin
+* Posts divers sur Linkedin (regardez mon talk, lisez mon article, je donne des formations, etc.)
 
 Et accessoirement un peu de ménage à la maison, une longue promenade du chien et du sport.
 
