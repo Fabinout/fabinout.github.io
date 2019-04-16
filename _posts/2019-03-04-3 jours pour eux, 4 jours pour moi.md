@@ -124,3 +124,8 @@ et arrêts maladie.
 * La solitude de l'indépendance peut poser problème.
 
 
+
+Si vous voulez faire des estimations, par exemple "combien vous gagneriez si vous étiez indépendants plutôt que salarié?"
+je vous ai mis à disposition [une 
+feuille GSheets](https://docs.google.com/spreadsheets/d/1DEdNL_318McOga50-6V5iCfooWyqcsC3P1HbeO1dX-c/edit?usp=sharing) pour ces calculs.
+
