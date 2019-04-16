@@ -2,7 +2,7 @@
 layout: post
 title: "Les dessous des conférences de dév"
 description: "Ma lecture biaisée des conférences de dév"
-tags: [nada]
+tags: [Conférences, Sociologie, Meta]
 ---
 
 _Spoiler Alerte, j'adore participer à des conférences de dév,
