@@ -95,15 +95,15 @@ Il y a deux tranches :
 
 Donc au total :   9 324,40€ d'impôt sur les entreprises  
 
-### Il nous reste combien ?
+### Il me reste combien ?
 51 000 - 9,324,5 =   41 675,60€ de dividendes à distribuer aux actionnaires !
 
 ### L'impôt sur les dividendes
-Effectivement si vous avez bien suivi, nous n'avons pas encore payé les impôts sur les prestations sociales,
+Effectivement si vous avez bien suivi, je n'ai pas encore payé les impôts sur les prestations sociales,
 la fameuse taxe sur les dividendes.
 
 Monsieur Macron a créé la flat tax, qui nous offre un taux fixe de 30% sur les dividendes à verser, donc 
-dividendes * (70%) = dividende net : 41 675,6 x 0,7 =  29 172,92€, ramené au mois ça nous donne **2 431,08€ mensuel**.
+dividendes * (70%) = dividende net : 41 675,6 x 0,7 =  29 172,92€, ramené au mois ça me donne **2 431,08€ mensuel**.
 
 # Les inconvénients à garder en tête
 
