@@ -125,6 +125,7 @@ sans mission.
 * Chaque jour non facturé est directement déduit de notre recette, donc attention aux accidents 
 et arrêts maladie.
 * La solitude de l'indépendance peut poser problème.
+* Il faut trouver des missions au plus 3 jours par semaine, ça pose problème pour beaucoup de clients.
 
 
 ## Conclusion
