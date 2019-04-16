@@ -7,7 +7,7 @@ tags: [Carrière, Indépendant]
 
 Depuis des années, je savais quel était l'équilibre de vie que je recherchais.
 Ce que je recherchais, c'était :  
-1. Du temps libre pour moi
+1. Du temps libre pour moi (famille, cinéma, sorties, cuisine, etc.)
 1. Du temps pour faire de la veille technologique et de l'open-source
 4. Un salaire permettant de vivre
 2. Du temps pour participer à des meetups et conférences
@@ -25,6 +25,7 @@ Le rythme trouvé est donc :
 * Lundi Mardi Mercredi : mission chez un client
 * Jeudi : veille technologique     
 * Vendredi : veille commerciale 
+* Samedi vendredi : famille et pas une once de travail
 
 Évidemment, les jours précis de veille diffèrent selon les besoins de notre client, ou
 de notre calendrier. Il est possible qu'un client ait besoin ponctuellement d'un audit ou d'une formation auquel 
@@ -52,18 +53,19 @@ Et accessoirement un peu de ménage à la maison, une longue promenade du chien 
 
 ## Parlons pognon
 
-Ce rythme de 3 jours de facturation par semaine permet beaucoup de liberté, comme on l'a vu. Reste qu'il
-faut toujours se nourrir, mais pas tant que ça car une partie des dépenses du quotidien [peut
+Ce rythme de 3 jours de facturation par semaine permet beaucoup de liberté, comme on l'a vu. Reste qu'on ne se nourrit pas
+de veille techno, d'articles techniques et d'épanouissement professionnel, il faut aussi gagner de l'argent. 
+Il faut noter qu'une partie des dépenses obligatoires du quotidien [peut
  être transférée](https://www.l-expert-comptable.com/a/531023-quelles-charges-peut-faire-passer-sur-sa-societe.html)
-en charge à la société (dans mon cas, une SASU).
+en charge à la société (dans mon cas, une SASU). 
 
 Qu'est-ce qui peut passer en charge ? 
 * Les repas
 * Les frais de matériel nécessaire à l'entreprise (portable, ordi, accessoires)
 * Les livres techniques
-* En bref, tout ce qui a un caractère professionnel dont tu as un justificatif.
 * Les frais d'assurance
-* Le comptable
+* Une assistance comptable
+* En bref, tout ce qui a un caractère professionnel, tant qu'il y a un justificatif
 
 Le calcul d'une rémunération en dividende se base sur le bénéfice, donc Chiffre d'affaire - Charge.    
 
@@ -122,7 +124,6 @@ sans mission.
 * Chaque jour non facturé est directement déduit de notre recette, donc attention aux accidents 
 et arrêts maladie.
 * La solitude de l'indépendance peut poser problème.
-
 
 
 Si vous voulez faire des estimations, par exemple "combien vous gagneriez si vous étiez indépendants plutôt que salarié?"
