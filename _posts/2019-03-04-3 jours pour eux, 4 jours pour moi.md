@@ -63,6 +63,7 @@ Qu'est-ce qui peut passer en charge ?
 * Les repas
 * Les frais de matériel nécessaire à l'entreprise (portable, ordi, accessoires)
 * Les livres techniques
+* Les tickets d'entrée aux conférences
 * Les frais d'assurance
 * Une assistance comptable
 * En bref, tout ce qui a un caractère professionnel, tant qu'il y a un justificatif
@@ -124,6 +125,13 @@ sans mission.
 * Chaque jour non facturé est directement déduit de notre recette, donc attention aux accidents 
 et arrêts maladie.
 * La solitude de l'indépendance peut poser problème.
+
+
+## Conclusion
+
+J'expérimente ce rythme depuis maintenant 3 mois, la qualité de vie est tout simplement adorable. Jusqu'ici tout va bien,
+la seule raison qui me ferait quitter ce rythme ce serait de rentrer dans une équipe avec d'excellents développeurs 
+qui me ferait progresser plus vite que mon rythme d'aujourd'hui.
 
 
 Si vous voulez faire des estimations, par exemple "combien vous gagneriez si vous étiez indépendants plutôt que salarié?"
