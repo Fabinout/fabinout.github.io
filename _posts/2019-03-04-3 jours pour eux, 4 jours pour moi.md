@@ -25,7 +25,7 @@ Le rythme trouvé est donc :
 * Lundi Mardi Mercredi : mission chez un client
 * Jeudi : veille technologique     
 * Vendredi : veille commerciale 
-* Samedi vendredi : famille et pas une once de travail
+* Samedi Dimanche : famille et pas une once de travail
 
 Évidemment, les jours précis de veille diffèrent selon les besoins de notre client, ou
 de notre calendrier. Il est possible qu'un client ait besoin ponctuellement d'un audit ou d'une formation auquel 
