@@ -33,8 +33,8 @@ cas je peux utiliser mes deux jours libres par semaine pour rajouter ici et là 
 ###Le jour de veille technologique
 
 * Cours en ligne
-* Open-Source
-* Lecture de livres et d'articles
+* Open-Source (contribution et pocs divers)
+* Lecture de livres et d'articles techniques
 * Conférences (en tant qu'audience, speaker, ou rédaction/envoi de CFPs)
 
 
