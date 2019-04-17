@@ -14,7 +14,7 @@ Ce que je recherchais, c'était :
 3. Des missions intéressantes
 6. Une autonomie
 
-Même la plus Great Place To Work des entreprises de conseil en informatique ne sauraient répondre à tous ces besoins,
+Même la plus Great Place To Work des entreprises de conseil en informatique ne saurait répondre à tous ces besoins,
 même si certaines s'en rapprochent.
 
 Depuis la lecture de The Secrets of Consulting, de Gerald M. Weinberg, je savais que la meilleure manière de s'y prendre
