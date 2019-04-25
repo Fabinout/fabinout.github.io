@@ -11,8 +11,15 @@ _Spoiler Alerte, j'adore participer à des conférences de dév,
  
  
 #Points de départ
+
+Le travail de sociologie s'accompagne d'un effort scientifique d'enquête et de statistiques pour prouver ce qu'on avance.
+Je n'ai pas du tout fait ce travail a priori, donc cet article est très loin d'être au niveau de la rigueur méthodologique
+qu'on attend d'une étude universitaire. C'est au mieux un vague instinct mais qui mériterait peut-être d'être  
  
 ## Le public des conférences de dév est privilégié
+
+
+
  
 ## Le choix des sujets est un acte de censure
 
