@@ -18,6 +18,7 @@ qu'on attend d'une étude universitaire. C'est au mieux un vague instinct mais q
  
 ## Le public des conférences de dév est privilégié
 
+mouais
 
 
  
