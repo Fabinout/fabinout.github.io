@@ -18,7 +18,7 @@ Voici la table des matières pour vous préparer à ce que vous y trouverez :
 
 *Comment définir la langue ?*   
 * Une définition théorique (mais très concrète) d'une langue, qu'est-ce qu'un créole, qu'est-ce qu'un dialecte ?     
-* Suffit-il de parler la même langue pour se comprendre
+* Suffit-il de parler la même langue pour se comprendre ?
 * Qui écrit les dictionnaires ?
 * Comment les mots deviennent-ils français ?
 
