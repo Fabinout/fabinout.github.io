@@ -77,7 +77,7 @@ Ce chapitre était passionnant, comment les révolutionnaires ont décidé de le
  Des pistes d'améliorations pour le français ?
   
  
- ## Mon avis sur le livre
+ ##Mon avis sur le livre
  
  C'est juste super bien. J'ai aimé : 
  * le fait de replacer la langue française et la vision que j'en ai dans son contexte historique de création, pourquoi on a une grammaire, pourquoi on a des dictionnaires ? A-t'on un ou des dictionnaires ?
