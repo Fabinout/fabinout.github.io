@@ -10,7 +10,7 @@ tags: [Fiche de lecture, Sociologie]
 # Le français est à nous !
 ## de _Maria Candea_ et _Laélia Véron_
 
-Un livre sur la linguistique très abordable même pour le néophyte que je suis, malgré un glossaire assez maigrichon (~25 mots).
+Un livre sur la linguistique très abordable même pour le néophyte que je suis.
 
 Voici la table des matières pour vous préparer à ce que vous y trouverez : 
 
