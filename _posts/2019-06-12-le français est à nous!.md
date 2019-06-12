@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Fiche de lecture : Le français est à nous!"
+title: "Fiche de lecture : Le français est à nous !"
 description: "une fiche de lecture d'un livre bien"
 category: 
 tags: [Fiche de lecture, Sociologie]
 ---
 
 
-# Le français est à nous!
+# Le français est à nous !
 ## de _Maria Candea_ et _Laélia Véron_
 
 Un livre sur la linguistique très abordable même pour le néophyte que je suis, malgré un glossaire assez maigrichon (~25 mots).
