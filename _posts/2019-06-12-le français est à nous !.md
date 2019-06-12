@@ -87,4 +87,5 @@ Ce chapitre était passionnant, comment les révolutionnaires ont décidé de le
  
  j'ai moins aimé : 
  * le chapitre contre l'OIF, étant un organisme qui ne me concernait pas, j'ai trouvé long la description de ses magouilles politiques
+ * comparé au nombre de concepts présentés dans le livre, le glossaire est rempli de mots qu'on ne lit qu'une fois dans le livre (adstrat, etc.)
  
