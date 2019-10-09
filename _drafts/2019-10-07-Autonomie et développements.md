@@ -30,7 +30,8 @@ Vous avez donc deviné qu'on va essayer de parler d'éthique, en parlant de mora
 Parce qu'au final, une action morale (comprendre moralement bonne) c'est une action qui est conforme à des lois morales.
 Comment définir quelle loi est morale, laquelle ne l'est pas et plus terre-à-terre quelles règles devraient-on suivre en tant que développeur ou développeuse ?
 
-Une autre question, il peut exister des lois civiles qui contredisent votre loi morale. On voit bien que 
+Une autre question, il peut exister des lois civiles qui contredisent votre loi morale. Est-ce que du coup c'est une 
+bonne loi ?
 
 
 
