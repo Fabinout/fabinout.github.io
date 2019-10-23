@@ -8,11 +8,11 @@ tags: [café-philo]
 Sujet du café philo
 
 
-# Gramsci et l'hégémonie culturelle
+# Gramsci et l'idéologie scientifique
 
 
 
-**Quand** : en octobre
+**Quand** : en Octobre
 
 **Où** : Molly Malone's
 
@@ -25,12 +25,14 @@ Pour vous préparer,
 
 https://fr.wikipedia.org/wiki/Antonio_Gramsci
 
-https://fr.wikipedia.org/wiki/H%C3%A9g%C3%A9monie_culturelle
-
+ Gramsci dans le texte : livre I : http://classiques.uqac.ca/classiques/gramsci_antonio/dans_le_texte/gramsci_ds_texte_t1.pdf
+ Gramsci dans le texte : livre II : Les cahiers de prison : http://classiques.uqac.ca/classiques/gramsci_antonio/dans_le_texte/gramsci_ds_texte_t2.pdf 
  
-## Quelques textes  
+  
+# Quelques textes  
 
-### La science et l'idéologie scientifique 
+
+## La science et l'idéologie scientifique 
 
 http://classiques.uqac.ca/classiques/gramsci_antonio/science_ideologies_scientifiques/science_ideologies_scientifiques_texte.html
  
@@ -72,7 +74,7 @@ Poser la science à la base de la vie, faire de la science la conception du mond
 
 Il faut noter qu'existe, à côté de l'engouement superficiel pour les sciences, la plus grande ignorance des faits et des méthodes scientifiques, faits et méthodes qui sont très difficiles d'accès et qui le deviennent toujours davantage par la progressive spécialisation de la science et par la formation continuelle de nouveaux rameaux de recherche. La superstition scientifique apporte avec soi des illusions si ridicules et des conceptions si infantiles que, par comparaison, même la superstition religieuse en sort ennoblie. Le progrès scientifique a fait naître la croyance et l'attente d'un nouveau type de Messie qui apporterait à ce monde le paradis terrestre : les forces de la nature, sans l'intervention de l'homme, mais par le fonctionnement de mécanismes toujours plus perfectionnés, donneraient en abondance à la société tout le nécessaire pour satisfaire les besoins des hommes et pour rendre la vie facile. Contre cet engouement dont les dangers sont évidents (la foi superstitieuse et abstraite dans la force thaumaturgique de l'homme porte paradoxalement à stériliser les bases mêmes de cette force et à détruire tout amour du travail nécessaire et concret ; elle porte à rêver comme si elle était un nouveau type d'opium), il faut combattre avec différents moyens, dont le plus important devrait être une meilleure connaissance des notions scientifiques essentielles, par la divulgation de la science par ceux-là mêmes qui la font et non pas par des journalistes omniscients ou des autodidactes prétentieux. En réalité, on conçoit la science comme une sorcellerie supérieure parce qu'on attend trop d'elle, et, par conséquent, on ne réussit pas à évaluer avec réalisme ce qu'elle offre de concret.
 
-##  Pourquoi et comment se diffusent, en devenant populaires, les nouvelles concep­tions du monde?   
+#  Pourquoi et comment se diffusent, en devenant populaires, les nouvelles concep­tions du monde?   
  
 http://www.reveilcommuniste.fr/article-antonio-gramsci-introduction-a-l-etude-de-la-philosophie-119018150.html
 
