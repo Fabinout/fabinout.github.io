@@ -109,8 +109,6 @@ ces grilles de programmation de conférences seront une ressource très importan
 des tendances, des modes, et des conclusions sur l'histoire de notre métier.
 
 
-
-
 Il y a donc fonction de consécration, par le seul fait de la conservation. 
 
 Pour vous donner une idée, regardez ces programmes, et demandez-vous ce qu'un historien pourra conclure :    
@@ -128,12 +126,20 @@ j'avais telle opinion sur tel sujet. A telle date, je m'intéressais à tel suje
 
 ## Un grand pouvoir n'implique pas une grande responsabilité
 On va un peu jouer avec les mots. On peut avoir un grand pouvoir sur des gens, sans être jugé responsable, ou sans se
-sentir responsable de sa puissance.
+sentir responsable de sa puissance. Ou l'inverse, si vous êtes responsable de faire en sorte qu'un site
+reste en ligne, mais que vous n'avez pas le pouvoir de changer ce que fait le site, alors vous êtes responables
+et impuissants.     
+En terme de puissance, il est dur d'imaginer plus de puissance que celle de celui qui écrira un logiciel qui
+impactera des millions de personnes. Or les développeurs ont rarement l'impression ou le sentiment de puissance.   
+Donc non, un grand pouvoir n'implique pas une grande responsabilité. Idéalement, ce serait le cas. Idéalement,
+les développeurs se rendront compte qu'ils peuvent utiliser leur puissance pour faire autre chose que jouer
+les divas sur Linkedin parce que leurs profils sont demandés par beaucoup de grosses entreprises. Idéalement,
+un développeur refuserait de développer une application ou une fonctionnalité qui serait contraire à ses 
+valeurs morales.
 
 On l'a vu, la sélection du programme joue un grand rôle dans notre communauté. 
-Or ce pouvoir n'est pas souvent perçu par les organisateurs eux-mêmes. Le sentiment de responsabilité 
-est à mon avis au mieux diffus. 
-
+Or ce pouvoir n'est pas souvent perçu par les organisateurs eux-mêmes. Ce sentiment de responsabilité 
+est au mieux diffus. 
 
 # Conclusions  
 
