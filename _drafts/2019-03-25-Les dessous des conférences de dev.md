@@ -48,7 +48,8 @@ Si vous êtes habitué de ces conférences, vous savez que vous y reverrez sûre
 Une autre entité de ce système est l'**équipe d'organisation de la conférence.**
 Cette équipe n'a rien de magique, c'est elle qui choisit qui inviter à la keynote, ce que vont manger les gens, etc. La 
 plupart de ces équipes d'orga sont aussi ouvertes à tous. Si le sujet vous intéresse je vous encourage à rejoindre une 
-équipe pour vous faire votre propre idée.
+équipe pour vous faire votre propre idée. Si vous ne le savez pas, la plupart des organisateurs de conférences présentent
+eux-aussi des conférences, ce monde est tout petit.
 
 Une partie essentielle de leur travail est de sélectionner les conférences, et de les programmer.
 Par ce choix d'élection, l'équipe fait aussi un choix de censure. Le mot est certes violent, mais c'est le terme pour 
@@ -64,6 +65,32 @@ Une preuve de ça, c'est la relativité historique totale des sujets abordés da
 une époque étaient jugés intrinsèquement intéressants, intrinsèquement nécessaires sont dorénavant ignorés, voire volontairement écartés.
 Par exemple, le sujet de l'agilité qui est devenu très vite en l'espace de 3/4 ans un sujet qu'on évite de placer dans le 
 programme. Et dans le même temps, les conférences qui se focalisent sur l'Agilité se mettent à éviter de parler de développement logiciel.
+
+On a donc une équipe d'organisation qui décide, avec ses propres biais et ses connaissances limités, quels seront les sujets dont on va parler cette année.
+
+#### Et côté spectateurs et spectatrices ?
+De l'autre côté, la naïveté règne. 
+> Je vais à des confs pour faire ma veille. Ces technos qu'on me présente sont des importantes pour ma veille. Donc 
+>ce ne sont pas des technos "mortes".
+
+C'est littéralement quelque chose que j'ai déjà entendu : "Docker Swarm c'est mort, personne n'en a parlé à devoxx cette année".
+D'une programmation subjective et éclectique, le spectateur tire des conclusions sur les grands vainqueurs des guerres 
+de paroisse.  
+
+#### Et côté speaker ?
+
+Un autre aspect de cette élection, c'est que l'équipe d'organisation joue fortement sur la production de conférences.
+
+Aujourd'hui, si je veux parler à Devoxx, je sais quels sujets je vais essayer de proposer au call-for-paper, et je sais 
+pertinemment quels sujets il est inutile que je propose. Cette connaissance là va donc jouer sur la production elle-même,
+car chaque conférence a des attentes différentes. Le fait d'être organisateur d'une conférence vers chez moi, de connaître 
+d'autres speakers, d'autres organisateurs et organisatrices fait que l'on partage la même culture et une vision
+de notre métier similaire. Cette connaissance et cette appartenance au même groupe social à la base est une difficulté de 
+plus pour accéder à une scène, quoi que vous vouliez dire.
+
+Si mon but est de parler à Sunny-Tech, je vais donc travailler et étudier un sujet que je sais aura une chance d'être 
+sélectionné, c'est à dire qu'avant-même que mon sujet soit accepté ou validé, la conférence m'a déjà indirectement 
+incité à apprendre des choses à propos d'un sujet précis au détriment d'un autre. 
 
 ## La fonction d'archive  
 Par le fait de la sélection des programmes, les conférences ont fonction de conservation, parce qu'elles solennisent 
@@ -81,15 +108,18 @@ parle passionnément de l'histoire de l'informatique. Si on se projette dans 50 
 ces grilles de programmation de conférences seront une ressource très importante, grâce à laquelle on pourra facilement tirer 
 des tendances, des modes, et des conclusions sur l'histoire de notre métier.
 
-On voit donc que la question de la définition d'un sujet intéressant est plus complexe qu'il en a l'air.
+Il y a donc fonction de consécration, par le seul fait de la conservation. 
 
 Pour vous donner une idée, regardez ces programmes, et demandez-vous ce qu'un historien pourra conclure :    
 [Grille de programme des conférences à Devoxx France en 2019](https://cfp.devoxx.fr/2019/agenda/conf/thursday.html)     
 [Grille de programme des conférences à SunnyTech en 2019](https://2019.sunny-tech.io/schedule/) 
 
+On voit donc que la question de la définition d'un sujet intéressant est plus complexe qu'elle en a l'air.
 
 ## Un grand pouvoir n'implique pas une grande responsabilité
-
+On va un peu jouer avec les mots. On l'a vu, la sélection du programme joue un grand rôle dans notre communauté. 
+Or ce pouvoir n'est pas souvent perçu par les organisateurs eux-mêmes. Le sentiment de responsabilité 
+est à mon avis au mieux diffus. 
 
 
 # Conclusions  
