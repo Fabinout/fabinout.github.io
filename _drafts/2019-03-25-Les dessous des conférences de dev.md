@@ -10,7 +10,7 @@ _Spoiler Alerte, j'adore participer à des conférences de dév,
  une prise de recul sur cette spécificité de notre métier._
  
  
-#Points de départ
+# Points de départ
 
 Le travail de sociologie s'accompagne d'un effort scientifique d'enquête et de statistiques pour prouver ce qu'on avance.
 Je n'ai pas du tout fait ce travail a priori, donc cet article est très loin d'être au niveau de la rigueur méthodologique
@@ -108,6 +108,9 @@ parle passionnément de l'histoire de l'informatique. Si on se projette dans 50 
 ces grilles de programmation de conférences seront une ressource très importante, grâce à laquelle on pourra facilement tirer 
 des tendances, des modes, et des conclusions sur l'histoire de notre métier.
 
+
+
+
 Il y a donc fonction de consécration, par le seul fait de la conservation. 
 
 Pour vous donner une idée, regardez ces programmes, et demandez-vous ce qu'un historien pourra conclure :    
@@ -116,8 +119,18 @@ Pour vous donner une idée, regardez ces programmes, et demandez-vous ce qu'un h
 
 On voit donc que la question de la définition d'un sujet intéressant est plus complexe qu'elle en a l'air.
 
+_Petite précision : le même type d'analyse peut s'appliquer à l'écriture d'articles de blog (qui n'auront jamais une diffusion importante sur notre communauté, 
+je ne me fais pas d'illusion). La démarche est aussi personnellement d'ancrer mon savoir dans une chronologie. A telle date, 
+j'avais telle opinion sur tel sujet. A telle date, je m'intéressais à tel sujet, à telle date, j'ai édité
+ tel article, donc mon opinion sur le sujet a évolué. Un article intéressant devrait rester toujours dynamique car votre opinion
+ sur ces sujets évoluera sans cesse. Et Git vous permettra de connaître l'évolution de votre avis sur un sujet._
+
+
 ## Un grand pouvoir n'implique pas une grande responsabilité
-On va un peu jouer avec les mots. On l'a vu, la sélection du programme joue un grand rôle dans notre communauté. 
+On va un peu jouer avec les mots. On peut avoir un grand pouvoir sur des gens, sans être jugé responsable, ou sans se
+sentir responsable de sa puissance.
+
+On l'a vu, la sélection du programme joue un grand rôle dans notre communauté. 
 Or ce pouvoir n'est pas souvent perçu par les organisateurs eux-mêmes. Le sentiment de responsabilité 
 est à mon avis au mieux diffus. 
 
