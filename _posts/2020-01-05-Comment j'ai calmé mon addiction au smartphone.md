@@ -21,7 +21,7 @@ pas de notification, que personne n'avait aimé un de mes tweets, ou que je ne l
 
 
 En 2018, j'utilisais beaucoup mon smartphone. 
-* pour jouer à des jeux vidéos (Pokémon Go, Fire Emblem)
+* pour jouer à des jeux vidéos (Pokémon Go, Fire Emblem)    
 * pour être sur des réseaux sociaux (Twitter & Slack)
 * pour lire des articles 
 * pour regarder des vidéos ou des streams (Twitch et Youtube)
