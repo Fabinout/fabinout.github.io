@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Comment j'ai calmé mon addiction au smartphone"
-description: "Franchement c'était chaud"
-tags: [Perso, Smartphones]
+description: "Vous pouvez prendre une bonne résolution"
+tags: [Perso, Smartphones, Addiction]
 ---
 
 En l'espace d'une ou deux années, il y a 10 ans, le smartphone (l'ordiphone disait mon prof de marketing à l'école d'ingé)
