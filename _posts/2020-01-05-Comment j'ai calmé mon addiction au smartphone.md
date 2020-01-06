@@ -7,9 +7,10 @@ tags: [Perso, Smartphones, Addiction]
 
 En l'espace d'une ou deux années, il y a 10 ans, le smartphone (l'ordiphone disait mon prof de marketing à l'école d'ingé)
 a intégralement rempli mon quotidien. Il est entré dans toutes mes pratiques, tous mes loisirs, tous mes moments 
-jusqu'à rendre impensable de me passer de lui. Certes, il n'apporte pas énormément de valeur, il ne m'a pas trouvé de travail,
-il ne m'a pas permis de lire des livres, ni regardé des bons films, ni voyagé. Juste un tas de petites satisfactions
-ponctuelles, de petites doses de dopamine qui prise une-par-une remplissent la journée partout où du temps d'attente apparait.
+jusqu'à rendre impensable de me passer de lui. Certes, il ne m'est pas très utile, il ne m'a pas trouvé de travail,
+il ne m'a pas permis de lire des livres, ni regardé des bons films, ni m'a permis de voyager. Juste un navigateur Web qui
+reste dans la poche. Juste un tas de petites satisfactions 
+ponctuelles, de petites doses de dopamine qui prises une-par-une remplissent la journée partout où du temps d'attente apparait.
 Une sorte d'outil technologique qui m'apportait beaucoup de praticité en échange d'une présence constante à mes côtés.
 
 Contrairement aux addictions (ou en tout cas l'image que j'en ai), il n'était pas dur de se passer temporairement de cet outil.
@@ -123,8 +124,8 @@ pour écouter des podcasts qui ne soit pas un smartphone. Je suis preneur de con
 
 ##### Et Twitter et Slack ?
 
-Si vous me suivez sur Twitter, et si vous pensez que je tweete beaucoup (c'est pas faux), ce post n'est
-pas un mensonge pour me mettre en valeur. J'utilise Tweetdeck pour twitter et quand je tombe sur une info intéressante, 
+Si vous me suivez sur Twitter, et si vous pensez que je tweete beaucoup (c'est pas faux), et vous vous demandez comment je fais. 
+J'utilise Tweetdeck pour twitter et quand je tombe sur une info intéressante, 
 j'en fais un tweet programmé, ce qui me permet souvent de préparer 4/6 tweets par jour et de les éparpiller 
 tout le long de la journée.
 
