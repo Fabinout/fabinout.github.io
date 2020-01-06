@@ -45,13 +45,12 @@ J'ai désinstallé :
 
 #### Les jeux
 
-Pas besoin de vous faire un schéma, les jeux sur smartphones (particulièrement les free-to-play) représentent une perte
+Pas besoin de vous faire un schéma, les jeux sur smartphones (particulièrement les free-to-play) représentaient une perte
 de temps qui ne m'apportait pas grand chose. Notamment parce qu'avec le temps, je continuais à jouer par habitude, et non
-plus par pur plaisir vidéoludique. Je joue parce qu'il faut dépenser l'énergie, etc. On pourrait consacrer des 
+plus par pur plaisir vidéoludique. Je jouais parce qu'il fallait dépenser l'énergie, etc. On pourrait consacrer des 
 livres et des livres sur les mécanismes psychologiques utilisés dans les jeux free-to-play du moment, et
 les mécanismes qu'ils utilisent pour être addictifs. Le pire étant les idle-games, 
 notamment [Kitten's game](http://www.bloodrizer.ru/games/kittens/) qui m'aura coûté littéralement des centaines d'heure.
-Ça part ! 
 
 #### Les réseaux sociaux
 
@@ -61,14 +60,14 @@ C'est vite devenu THE activité à faire quand j'avais 15 secondes devant moi, q
 chercher le courrier ou pour sortir les poubelles.
 
 Avec le recul, Slack/Twitter était l'occupation qui m'amenait le plus de choses au point de vue 
-pro et perso sur mon téléphone, mais rien qui ne me fasse regretter de tout désinstaller. Ça part ! 
+pro et perso sur mon téléphone, mais rien qui ne me fasse regretter de tout désinstaller.  
  
 #### Les applications d'email
 Ces applications ont longtemps été pour moi une marque de professionnalisme, être capable de lire les mails du bureau
 de n'importe où, et d'intervenir si besoin à toute heure du jour ou de la nuit. 
 Avec quelques années d'expérience, en fait on s'en branle pas mal. Si je suis pas de permanence, y a peu 
-de raison que je corrige un truc en prod sur mon temps libre. Par contre c'est source de beaucoup de distractions et 
-de notifications. Ça part !
+de raison que je corrige un truc en prod sur mon temps libre. Par contre c'était source de beaucoup de distractions et 
+de notifications. 
 
 #### Youtube et Twitch
 
@@ -76,8 +75,8 @@ La vidéo reste un moyen décérebrant de perdre du temps, chaque voyage donne l
 let'splay d'un jeu qui m'intéresse, etc. Après y avoir passé beaucoup de temps, j'ai désinstallé.  
 
 #### Le navigateur web
-Tout ceci ne sert à rien si vous êtes toujours capable de surfer sur le net. Désinstaller Twitter ne vous servira à rien si vous
-allez ensuite sur l'application depuis votre smartphone. Duh.
+Tout ceci ne sert à rien si je suis toujours capable de surfer sur le net. Désinstaller Twitter ne me servira à rien si je vais
+ ensuite sur l'application depuis mon navigateur. Duh.
 La plupart des applications de navigateurs sont supprimables, mais une d'entre elle est forcément livrée avec le système d'exploitation Android ou IPhone de votre ordiphone : Safari et Chrome.
 Pour les désinstaller, ça peut être "tricky", donc voici comment le faire sur Android.
 L'astuce est d'aller les remettre dans leur "version constructeur", puis 
@@ -87,7 +86,7 @@ de les désactiver.
 Comme je pensais que la suppression de toutes mes applications allait être compliquée au quotidien, j'ai 
 installé à la place [Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=fr), une application de navigation
 qui ne garde aucun marque page, aucun historique, et supprime toutes traces. 
-Cette solution paliative me permet ponctuellement d'accéder à un site web (pour un email avec des billets de train 
+Cette solution paliative me permettais ponctuellement d'accéder à un site web (pour un email avec des billets de train 
 par exemple), tout en me décourageant d'y aller souvent.
 
 Après 8 mois, j'ai finalement désinstallé Firefox Focus, un peu d'organisation et d'anticipation m'enlevaient tout besoin
