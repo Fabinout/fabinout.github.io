@@ -28,8 +28,8 @@ et culturelle allemande, et prone un racisme décomplexé ainsi qu'une annexatio
 pour nourrir la race allemande (_volk_). Il s'engage en politique et est élu à l'assemblée parlementaire (_landtag_) 
 de Prusse en 1932, tout en continuant de travailler l'aspect théorique (et disons-le, intellectuel) du nazisme en sortant
 une brochure nommée Paysan allemand, réveille toi (_Deutscher Bauer erwache!_), où il décrit le peuple russe 
-de "menteur, fanatique, arriété". Backe est radical, extrémiste, et plait
-à Himmler, avant d'être nommé ministre de l'Alimentation en 1942 il conçoit avec Goerring un grand plan d'affamement systématique des
+de "menteur, fanatique, arriéré". Backe est radical, extrémiste, et plait
+à Himmler. Avant d'être nommé ministre de l'Alimentation en 1942 il conçoit avec Goerring un grand plan d'affamement systématique des
 territoires d'Europe de l'est en vue de la colonisation future. Il assume stoïquement une mort certaine 
 pour 30 millions de soviétiques, qu'il trouve même souhaitable. Homme brillant, il s'occupe du ravitaillement des troupes
 sur le front de l'Est où sa connaissance de la Géorgie est un atout indéniable, et prévoit l'approvisionnement en 
@@ -51,8 +51,8 @@ terrain. Maintenant agissez.
 Au 21ème siècle, on utiliserait pas le mot élasticité, on dirait agilité, flexibilité ou esprit d'initiative.
 
 
-### Douches froides
-Douche froide. Cet être horrible, haïssable, est instantanément devenu contemporain. Backe n'est pas de notre siècle,
+### Stupéfactions
+Cet être horrible, haïssable, est instantanément devenu contemporain. Backe n'est pas de notre siècle,
 mais il utilise les mêmes stratégies, les mêmes catégories de pensée, les mêmes schémas intellectuels. Il est comme
 tous les intellectuels du moment un darwiniste social, où le mérite seul détermine sa valeur. 
 Seuls les plus valeureux survivent, seuls les plus efficaces
@@ -64,8 +64,8 @@ d'être humain dans cette arène mondiale.
 Ce livre va donc nous montrer comment, malgré l'absolue horreur que représente cette époque, ce régime de pensée 
 est résolument moderne. Et c'est là probablement un des messages qui m'a semblé le plus violent. Les nazis sont radicaux
 mais ne sont ni en avance sur leur temps, ni totalement en retard. Leur logique dénote d'une contemporanéité frappante,
-où des managers déplacent froidement (Himmler dirait _avec une décence remarquable_) des populations affamés comme un directeur d'usine déciderait d'offshorer le travail
-de ses employés, car c'est logiquement la meilleure solution à un problème donnée, à un moment donné.  
+où des managers déplacent froidement (Himmler dirait _avec une décence remarquable_) des populations affamées comme un directeur d'usine déciderait d'offshorer le travail
+de ses employés, car c'est logiquement la meilleure solution à un problème donné, à un moment donné.  
  
 Finalement, Libres d'obéir nous parle de la logique qui a conduit à cette objectivation extrême du corps humain, abaissé
 à sa capacité productive, jusqu'à être utilisé littéralement comme une ressource[1].
@@ -77,7 +77,6 @@ Autre désillusion, l'état (qui s'est propagée sous sa forme la plus forte à 
 en bloc par les penseurs de la race allemande. Ils y voient un appareil de contrôle et d'oppression de l'expression de la
 race aryenne. Ils préfèrent remplacer l'état (qui représente ce qui est statique, immobile, pachidermique) par 
 des agences, des équipes avec un objectif clair, une durée et un budget limité.
-
 
   
 ## Mon avis sur le livre
