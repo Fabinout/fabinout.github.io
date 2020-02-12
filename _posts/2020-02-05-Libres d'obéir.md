@@ -14,7 +14,7 @@ Libres d'obéir, sous-titré Le management, du nazisme à aujourd'hui est un ess
 l'indique, du management des hommes à l'époque des nazis.   
 
 Il décrit le parcours de vie de Reinhard Höhn, juriste et intellectuel allemand au service du IIIème Reich, et ses
- réflexions sur la disparition de l'état, sur le management, et sur l'espace vital (_lebensraum_, l'espace dont a 
+ réflexions sur la disparition de l'État, sur le management, et sur l'espace vital (_lebensraum_, l'espace dont a 
 besoin la race allemande pour vivre) . 
 
 ### Imaginons un nazi
@@ -27,8 +27,10 @@ très radicalement aux idées du NSDAP, et rejoint le parti nazi. Il est convain
 et culturelle allemande, et prone un racisme décomplexé ainsi qu'une annexation des terres agricoles de l'Europe de l'est
 pour nourrir la race allemande (_volk_). Il s'engage en politique et est élu à l'assemblée parlementaire (_landtag_) 
 de Prusse en 1932, tout en continuant de travailler l'aspect théorique (et disons-le, intellectuel) du nazisme en sortant
-une brochure nommée Paysan allemand, réveille toi (_Deutscher Bauer erwache!_), où il décrit le peuple russe 
-de "menteur, fanatique, arriéré". Backe est radical, extrémiste, et plait
+une brochure nommée Paysan allemand, réveille toi (_Deutscher Bauer erwache!_), où il décrit le peuple russe    
+de "menteur, fanatique, arriéré".   
+
+Backe est radical, extrémiste, et plait
 à Himmler. Avant d'être nommé ministre de l'Alimentation en 1942 il conçoit avec Goerring un grand plan d'affamement systématique des
 territoires d'Europe de l'est en vue de la colonisation future. Il assume stoïquement une mort certaine 
 pour 30 millions de soviétiques, qu'il trouve même souhaitable. Homme brillant, il s'occupe du ravitaillement des troupes
@@ -37,10 +39,13 @@ nourriture de Berlin pour éviter au Reich de subir une crise alimentaire à la 
 prévoyant de relancer la production de machine agricole pour préparer l'après guerre. N'ayant pas eu de responsabilité directement militaire (malgré son rôle à la SS), il est d'abord laissé libre avec son statut de Ministre de 
 l'alimentation, puis est condamné en 1946 durant [le procès des ministères](https://fr.wikipedia.org/wiki/Proc%C3%A8s_des_Minist%C3%A8res), avant
  de se suicider dans sa prison.   
+ 
 Son parcours fulgurant en politique, son racisme, sa froideur dans l'exécution de millions de sous-hommes 
 (_untermensch_), tout parait étrange, lointain, presque impossible, 
 comme lorsqu'il raconte avec émotion depuis sa prison de Nuremberg les mots d'encouragement et de félicitation que lui avait adressé
 Hitler lui-même.    
+
+
 Mais dans sa brochure de 1932, apparaissent d'autres phrases telles que  : 
 "L'important est d'agir", de "prendre des décisions rapidement", "sans s'embarasser de scrupules bureaucratiques". "Ne 
 parlez pas, agissez!". En paraphrasant ce document, votre directeur/leader/furher vous donne un objectif, il vous faut maintenant
@@ -51,7 +56,8 @@ terrain. Maintenant agissez.
 Au 21ème siècle, on utiliserait pas le mot élasticité, on dirait agilité, flexibilité ou esprit d'initiative.
 
 
-### Stupéfactions
+### Stupéfaction
+
 Cet être horrible, haïssable, est instantanément devenu contemporain. Backe n'est pas de notre siècle,
 mais il utilise les mêmes stratégies, les mêmes catégories de pensée, les mêmes schémas intellectuels. Il est comme
 tous les intellectuels du moment un darwiniste social, où le mérite seul détermine sa valeur. 
@@ -62,9 +68,16 @@ d'être humain dans cette arène mondiale.
 
 
 Ce livre va donc nous montrer comment, malgré l'absolue horreur que représente cette époque, ce régime de pensée 
-est résolument moderne. Et c'est là probablement un des messages qui m'a semblé le plus violent. Les nazis sont radicaux
-mais ne sont ni en avance sur leur temps, ni totalement en retard. Leur logique dénote d'une contemporanéité frappante,
-où des managers déplacent froidement (Himmler dirait _avec une décence remarquable_) des populations affamées comme un directeur d'usine déciderait d'offshorer le travail
+est résolument contemporain. Et c'est là probablement un des messages qui m'a semblé le plus violent. Les nazis étaient radicaux
+mais n'étaient pas en avance sur leur temps, n'étaient pas rétrogrades. Car leur mode de pensée était simplement d'actualité.
+
+Cette méthode de management et cette vision de la société ne sont pas apparues de nulle part. Elles sont la conclusion 
+logique des travaux de Spencer sur la darwinisme social, le fruit des recherches sur la taxonomie raciale (hiérarchisation des classes).
+À la même époque, il y avait par exemple une chaire de taxonomie raciale à la Sorbonne, à Paris. 
+
+Leur logique dénote donc d'une contemporanéité frappante, où l'idéologie scientifique (au sens de Gramsci) sert de justification
+pour les pires actions, où des managers déplacent froidement (Himmler dirait _avec une décence remarquable_) des 
+populations affamées comme aujourd'hui un directeur d'usine déciderait d'offshorer le travail
 de ses employés, car c'est logiquement la meilleure solution à un problème donné, à un moment donné.  
  
 Finalement, Libres d'obéir nous parle de la logique qui a conduit à cette objectivation extrême du corps humain, abaissé
@@ -73,10 +86,10 @@ Finalement, Libres d'obéir nous parle de la logique qui a conduit à cette obje
 Paradoxalement, l'image que j'avais des nazis était une machine bien huilée, des soldats qui marchent au pas, etc. La 
 vérité est toute autre, le management nazi avait une conception non-autoritaire du travail, où l'opinion du travailleur était
 acceptée et où sa liberté et sa productivité s'épanouissait au sein même de son labeur. Où le travail procurait de la joie.
-Autre désillusion, l'état (qui s'est propagée sous sa forme la plus forte à cause du pire des juifs, Karl Marx) est rejeté
+Autre désillusion, l'État (qui s'est propagée sous sa forme la plus forte à cause du pire des juifs, Karl Marx) est rejeté
 en bloc par les penseurs de la race allemande. Ils y voient un appareil de contrôle et d'oppression de l'expression de la
-race aryenne. Ils préfèrent remplacer l'état (qui représente ce qui est statique, immobile, pachidermique) par 
-des agences, des équipes avec un objectif clair, une durée et un budget limité.
+race aryenne. Ils préfèrent remplacer l'État (qui représente ce qui est statique, immobile, pachidermique) par 
+des agences autonomes, des équipes avec un objectif clair, une durée et un budget limité.
 
   
 ## Mon avis sur le livre
@@ -84,18 +97,27 @@ des agences, des équipes avec un objectif clair, une durée et un budget limit�
 J'ai adoré, achetez-en, mangez-en.
 
 #### Sur l'agilité, sur le management
-J'avais déjà le sentiment que cette stratégie de liberté de moyen, sans liberté de fin était un artefact manipulatoire 
-(promis je lis pas que des livres qui confirment ce que je pense).
-Ça m'a pas mal conforté dans mon rejet de la chose militaire, et de son immiscion volontaire dans les CODIR ou COMEX de
- boites de conseil à la cool comme _mon ancienne boite_.
- Aller chercher chez les penseurs de la guerre les méthodes et recette d'une organisation efficiente et performante est 
- donc resté dans les moeurs, mais pas qu'Outre-Rhin.
 
+La philosophie des modes de pensées et d'organisation qui est caché derrière l'auto-organisation (qui est comme 
+Foucault disait, _une économie de moyens de surveillance_) est plus complexe qu'elle en a l'air. 
+
+J'avais déjà le sentiment que cette stratégie de liberté de moyen, sans liberté de fin était un artefact manipulatoire.
+Ça m'a pas mal conforté dans mon rejet de la chose militaire, et de son immiscion volontaire dans les CODIR ou COMEX de
+ boites de conseil à la cool comme _mon ancienne boite_.  Aller chercher chez les penseurs de la guerre les méthodes et recette d'une organisation efficiente et performante est 
+ donc resté dans les moeurs, à mon grand désespoir.
+ 
+Ce livre est une bonne introduction à l'aliénation du salariat.
+ 
 #### Sur le nazisme
 Beaucoup de faits historiques passionnants, des réflexions profondes, et finalement beaucoup de préjugés sont tombés.
-En dernière analyse, ce management était pensé à la fois pour l'idéologie nazie, pour le politique, et pour l'économique.
-En ça le régime fut participatif car il visait à produire un consensus. 
- 
+En dernière analyse, ce management était pensé conjointement pour l'idéologie nazie, pour le politique, et pour l'économique.
+En ça le régime fut participatif car il visait à produire un consensus, quitte à vivre à crédit sur le reste
+de la population (via la saisie des biens immobiliers des juifs, l'exécution des citoyens inutiles, etc.). 
+
+#### Petit bémol
+
+Ce livre aurait pu complémenter adéquatement cette histoire du management par un passage sur l'internalisation des 
+demandes de supérieur, et sur les effets de cette violence. 
  
 #### Quelques citations    
 >Assuré de l'autonomie des moyens, sans pouvoir participer à la définition et à la fixation des objectifs, 
