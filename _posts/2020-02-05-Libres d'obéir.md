@@ -60,7 +60,7 @@ Au 21ème siècle, on utiliserait pas le mot élasticité, on dirait agilité, f
 
 Cet être horrible, haïssable, est instantanément devenu contemporain. Backe n'est pas de notre siècle,
 mais il utilise les mêmes stratégies, les mêmes catégories de pensée, les mêmes schémas intellectuels. Il est comme
-tous les intellectuels du moment un darwiniste social, où le mérite seul détermine sa valeur. 
+beaucoup d'intellectuels du moment un darwiniste social, où le mérite seul détermine sa valeur. 
 Seuls les plus valeureux survivent, seuls les plus efficaces
 survivent. Les humains sont dans un monde aux ressources limitées, le but est de les maîtriser, et de faire
  prospérer son espèce, car c'est de ça qu'il s'agit, de positionner hiérarchiquement les différentes races 
