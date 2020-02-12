@@ -115,7 +115,6 @@ En ça le régime fut participatif car il visait à produire un consensus, quitt
 de la population (via la saisie des biens immobiliers des juifs, l'exécution des citoyens inutiles, etc.). 
 
 #### Petit bémol
-
 Ce livre aurait pu complémenter adéquatement cette histoire du management par un passage sur l'internalisation des 
 demandes de supérieur, et sur les effets de cette violence. 
  
