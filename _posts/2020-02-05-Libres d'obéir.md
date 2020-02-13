@@ -151,6 +151,8 @@ propos de management.
 ## Si vous voulez voir un autre avis : 
 Vous trouverez sur le blog d'Arnaud Bailly sa fiche de lecture : http://abailly.github.io/posts/libres-d-obeir.html
 
+## Si vous ne voulez pas lire le livre : 
+Vous pouvez aussi voir Johann Chapoutot donner une conférence de 2 heures à ce sujet : https://www.youtube.com/watch?v=Lfe5shsp4Hw
 
 
 [1] : d'où la violence l'utilisation du terme Ressource humaine...
