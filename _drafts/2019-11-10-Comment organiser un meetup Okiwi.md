@@ -105,8 +105,6 @@ Un peu avant certains achètent un pack de bières, des chips pour les participa
 Avant la conférence, vous pouvez (_devez_) prendre la parole pour remercier l'association qui vous prête les locaux. Et
 vous pouvez présenter l'association Okiwi et les futurs évènements.
  
-Si vous le sentez, vous pouvez faire des tweets durant l'évènement, mais moi j'ai la flemme et j'ai pas twitter.
-
 Peu importe la salle que vous choisissez, il faut bien entendu remettre les chaises dans le même état qu'en 
 arrivant, nettoyer derrière soi les éventuelles bouteilles, allez les jeter vous même à la poubelle à verre, et s'assurer
 de bien fermer les lieux avant de partir.
@@ -114,7 +112,18 @@ de bien fermer les lieux avant de partir.
 
 
 ### Ma variation
-Cette partie là est à votre discrétion, mais de mon côté c'est ce que je préfère faire.
+Cette partie là est à votre discrétion, mais de mon côté c'est ce que je préfère faire. C'est sujet à débat ou discussion.
 
-Je ne prends pas de sponsor, même quand on me propose, y a suffisamment de meetups et d'évènements dont le but est de recruter
-des développeurs et développeuses.
+* Je ne prends pas de sponsor, même quand on me propose, y a suffisamment de meetups et d'évènements dont le but est de recruter
+des développeurs et développeuses. Si on a pas besoin de sponsor, j'en prends pas.    
+* Dans la continuité, j'évite aussi 
+d'organiser des meetups chez des boites. Je ne suis pas un homme sandwich, et les speakers que j'invite non plus.
+* Si vous le sentez, vous pouvez faire des tweets durant l'évènement, mais moi j'ai la flemme et j'ai pas twitter.
+* J'arrête les questions quand j'en ai marre (_vite_), pour libérer les gens, et parce que beaucoup de questions ne sont qu'un moyen
+de se mettre en avant. "Moi j'ai lu ça dans tel livre, t'en penses quoi?"
+* J'achète pas d'alcool pour les participants, si vous voulez picoler vous allez au bar après l'évènement.
+* Je me suis épuisé (le mot est fort) à essayer de filmer ces meetups pour avoir [25 vues] (https://vimeo.com/370998012)
+en un an, donc je pense pas continuer de faire des efforts pour filmer.
+* J'essaye d'avoir des sujets variés pour tous les niveaux (allez
+ à l'encontre de mon envie, et montrer moins de fonctionnel). 
+
