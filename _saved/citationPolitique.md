@@ -1,0 +1,1 @@
+Think Globally, act locally
