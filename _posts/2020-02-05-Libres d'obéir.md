@@ -60,7 +60,7 @@ Au 21ème siècle, on utiliserait pas le mot élasticité, on dirait agilité, f
 
 Cet être horrible, haïssable, est instantanément devenu contemporain. Backe n'est pas de notre siècle,
 mais il utilise les mêmes stratégies, les mêmes catégories de pensée, les mêmes schémas intellectuels. Il est comme
-tous les intellectuels du moment un darwiniste social, où le mérite seul détermine sa valeur. 
+beaucoup d'intellectuels du moment un darwiniste social, où le mérite seul détermine sa valeur. 
 Seuls les plus valeureux survivent, seuls les plus efficaces
 survivent. Les humains sont dans un monde aux ressources limitées, le but est de les maîtriser, et de faire
  prospérer son espèce, car c'est de ça qu'il s'agit, de positionner hiérarchiquement les différentes races 
@@ -149,8 +149,10 @@ historique les pensées qu'ont eu des technocrates, des managers et des intellec
 propos de management.
 
 ## Si vous voulez voir un autre avis : 
-Vous trouverez sur le blog d'Arnaud Bailly sa fiche de lecture : http://abailly.github.io/posts/libres-d-obeir.html
+Vous trouverez sur le blog d'Arnaud Bailly sa fiche de lecture : [Fiche de lecture](http://abailly.github.io/posts/libres-d-obeir.html)
 
+## Si vous ne voulez pas lire le livre : 
+Vous pouvez aussi voir Johann Chapoutot donner une conférence de 2 heures à ce sujet : [lien youtube](https://www.youtube.com/watch?v=Lfe5shsp4Hw)
 
 
 [1] : d'où la violence l'utilisation du terme Ressource humaine...
