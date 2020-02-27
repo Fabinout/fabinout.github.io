@@ -152,7 +152,7 @@ propos de management.
 Vous trouverez sur le blog d'Arnaud Bailly sa fiche de lecture : [Fiche de lecture](http://abailly.github.io/posts/libres-d-obeir.html)
 
 ## Si vous ne voulez pas lire le livre : 
-Vous pouvez aussi voir Johann Chapoutot donner une conférence de 2 heures à ce sujet : [lien youtube](https://www.youtube.com/watch?v=Lfe5shsp4Hw)
-
+Vous pouvez aussi voir Johann Chapoutot donner une conférence de 2 heures à ce sujet : [lien youtube](https://www.youtube.com/watch?v=Lfe5shsp4Hw)     
+Vous pouvez aussi lire une interview de l'auteur : [lien ADN] (https://www.ladn.eu/entreprises-innovantes/nouvelles-gouvernances/comment-nazisme-inspire-management-moderne/)
 
 [1] : d'où la violence l'utilisation du terme Ressource humaine...
