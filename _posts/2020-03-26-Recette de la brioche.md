@@ -33,3 +33,13 @@ Temps porte-à-porte : 4 heures
 5. Tu coupes ta boule en trois, tu en fais 3 petites boules, tu les mets dans un moule à cake beurré ou huilé
 6. Tu préchauffes ton four à 190°c, le temps que ça chauffe, normalement tes boules auront un peu gonflé
 7. Tu rajoutes 3 cuillère à soupe de lait sur le dessus de tes boules, puis t’enfournes pour 25 minutes
+
+
+
+
+# Ingrédients pour un pain au levain
+
+500g de farine
+60-80% d'eau : 350g
+levain : 80g
+sel : 10g
