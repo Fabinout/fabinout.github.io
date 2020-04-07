@@ -39,7 +39,9 @@ Temps porte-à-porte : 4 heures
 
 # Ingrédients pour un pain au levain
 
-500g de farine
-60-80% d'eau : 350g
-levain : 80g
-sel : 10g
+* 500g de farine
+* 60-80% d'eau : 350g
+* levain : 80g
+* sel : 10g
+
+[Instructions] (https://www.youtube.com/watch?v=PX4HDv98tH8)
