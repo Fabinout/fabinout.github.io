@@ -7,13 +7,13 @@ tags: [Fiche de lecture, Marxisme, Histoire, Philosophie]
 ---
 
 Avant-propos : 
-ce livre est non-pas un essai historique, mais est le résumé d'un cours qu'a donné [Jacques Ellul] (https://fr.wikipedia.org/wiki/Jacques_Ellul) à l'Institu d'Etudes Politiques
+ce livre est non-pas un essai historique, mais est le résumé d'un cours qu'a donné [Jacques Ellul](https://fr.wikipedia.org/wiki/Jacques_Ellul) à l'Institut d'Etudes Politiques
 de Bordeaux de 1947 à 1979. Le livre est la retranscription des notes de cours de deux élèves bordelais en 1967.
 
 Le livre va nous présenter brièvement la complexité de la pensée marxiste pour ensuite traverser les époques et nous montrer comment 
 cette pensée a été comprise, adaptée, et quels débats idéologiques sont nés des interprétations de mon philosophe allemand préféré.
 
-C'est agréable à lire, c'est factuel, et ça va droit au but. Mais c'est dense, très dense.      
+C'est pas spécialement agréable à lire, c'est factuel, et ça va droit au but. Mais c'est dense, très dense.      
 
 Un exemple tiré du chapitre sur Jaurès : 
 >D'autre part, la logique de sa pensée amène Jaurès à se méfier du syndicalisme. Il rejoint sur ce point Marx et Lenine mais pas
@@ -26,12 +26,13 @@ C'est enrichissant.
 
 ## La difficulté à comprendre Marx 
 
-Ellul explique en quoi la pensée marxiste est cohérente, profonde mais complexe. Et surtout, il explique pourquoi
+Ellul explique superficiellement en quoi la pensée marxiste est cohérente, profonde mais complexe. Je suppose que le deuxième livre ([La pensée Marxiste](https://www.mollat.com/livres/2303994/jacques-ellul-la-pensee-marxiste-cours-professe-a-l-institut-d-etudes-politiques-de-bordeaux-de-1947-a-1979))sur les cours d'Ellul répond en profondeur à ces questions théoriques.
+Il nous explique surtout ici pourquoi
 on trouve une telle différence radicale entre les héritiers de Marx ou entre les différents courants marxistes. 
 
 Ces différences viennent d'une part d'une oeuvre incomplète (le tome III du Capital n'était pas sensé être le dernier tome) et il 
 reste certains paradoxes, et d'autre part parce
-que la société qu'a connu Marx était radicalement différente de ce que l'on peut observser maintenant, ou au début du 20ème siècle. L'enjeu n'est
+que la société qu'a connu Marx était radicalement différente de ce que l'on peut observer maintenant, ou au début du 20ème siècle. L'enjeu n'est
 donc pas d'appliquer les propos de Marx à une situation contemporaine, ce serait commettre un anachronisme, mais d'appliquer la méthode
 d'analyse de Marx qui mèle Journalisme, Histoire, Sociologie, Economie et enfin Philosophie. C'est là-dessus que vont se jouer
 les débats d'idéologie et les accusations de traitre-au-marxisme. 
