@@ -6,9 +6,94 @@ category:
 tags: [independant]
 ---
 
+#### Pour rappeler mon projet initial en deux lignes  
+
+Je suis passé indép début 2019 et j'ai fondé une SASU, avec la volonté de travailler 3 jours par semaine, avec 10 semaines de vacances par an.
+L'objectif était de garder une rémunération correcte tout en ayant du temps pour moi et ma fille (née en 2018). Le but était de garder du temps pour la veille technique et ce que j'appelais ma veille commerciale.
+Dans mes calculs prévisionnels, Je tombais sur 2400€ mensuel (net d'impôts sur le revenu et de toutes autres cotisations sociales).
+
+J'avais fait [un article](http://fabien-lamarque.eu/3-jours-pour-eux,-4-jours-pour-moi/) sur ma démarche, et voici un tableur pour calculer le montant de rémunération en dividendes : [lien google sheet](https://docs.google.com/spreadsheets/d/1DEdNL_318McOga50-6V5iCfooWyqcsC3P1HbeO1dX-c/edit?usp=sharing)
+
+#### On est en 2020, ça s'est passé comment ?
+
+Pour commencer, quelques chiffres comptables : 
+
+Montant net du chiffre d'affaire : 73 148 €     
+Total Charges : 17 170 €    
+Résultat d'exploitation (bénéfice) : 55 977 €     
+
+Je me retrouve avec donc 31 680 € de dividendes à me verser en janvier 2020, ce qui revient à 2600€ par mois. Donc mieux que prévu.
+
+L'année a été ponctuée par plusieurs succès. 
+
+### Mission 1 : SOLOCAL - janvier à juillet 2020
 
 
+Plusieurs succès par là-bas :
 
+* J'ai réussi à négocier une mission portée par une société de service, où la Société de service ne prenait pas de marge. J'aimerais vous la conseiller mais je ne sais pas si la servirait de la citer :).
+* J'ai aussi négocié pour être payé à la fin du mois pour la première facture, ce qui m'a bien facilité la vie sur les premiers mois de vie de l'entreprise.
+* TJM de 480€ pour du dév java, du devops et du support au coach agile. A Bordeaux c'est vraiment pas mal.
+* Des réunions le lundi et le vendredi, donc mes journées de travail étaient **Lundi, Jeudi, Vendredi.** Au quotidien, c'était un 
+peu pénible de toujours avoir l'impression de revenir de week-end.
+* Au quotidien, je faisais des images dockers, et je donnais un coup de main un peu partout quand y avait besoin. J'ai bien mis les pattes dans l'environnement Azure, et j'ai pair-programmé avec 
+des développeurs et développeuses de tout niveau, c'était très chouette.
+* La mission s'est arrêtée subitement quand le budget à l'échelle de toute la boite s'est resserré.
+* **L'équipe était très très très chouette**. Je conseille à tout le monde d'aller toquer chez eux, beaucoup de bienveillance.
 
+1 semaine de vacances en Février
+4 semaines de vacances en Août
+
+Bilan : 81 jours de travail en 8 mois
+
+### Mission 2 : Formation intra-entreprise Devops : 2 jours
+
+* Arthur, de Promyze cherchait un formateur Devops, donc j'me suis proposé avec Etienne Coutaud un ancien copain d'OCTO et de Cdiscount
+* 4 jours de formation qu'on s'est partagé avec Etienne à propos de la théorie devops, de Docker, de jenkins et d'ansible.
+* 1000 par jour, pour 2 jours
+* J'ai facturé les jours d'Etienne à Promyze que je lui ai refacturé derrière, sans aucun contrat, en mode yolo. <- **A ne pas essayer chez soi**
+
+### Mission 3 : Coaching et accompagnement dév logiciel sur une stack Kubernetes : 8 jours à 780€, étalée sur les mois de mars/avril 2020 dans mes jours de dispo
+
+* Confidentiel, donc pas le droit d'en parler
+* Mission trouvée grâce à Etienne Coutaud, 
+
+###  Mission 4 : Devops chez Sud-Ouest (GSOI) de septembre à fin 2020
+
+* Mission trouvée grâce à Julien Besse, développeur mobile de l'association Okiwi.
+* 600€ de TJM
+* très petite équipe, beaucoup de choses à faire, beaucoup de libertés, toutes les clés du camion
+* ça bouge beaucoup, mais c'est très chouette
+* beaucoup beaucoup de devops, du terraform, de la dockerisation
+* mise en place de la stack pour les élections municipales, le GROS rush du site https://www.sudouest.fr, dockerisation de l'application, 
+et scalabilité horizontale sur un groupe d'instance managé (mig) avec un load balancer devant.
+* reprise et maintenance du code python qui fait le transport et la gestion des data pour l'équipe marketing
+* organisation du kanban
+
+### Mission 5 : Formation Kanban pour la société Actinuum, décembre 2019
+
+* Actinuum cherche des formateurs indéps et j'en avais donné plusieurs avec eux grâce à Sam Cranford et Bastien Gallay de l'association Okiwi.
+* 2 jours à 1000 €
+
+# Du coup, qu'est-ce qui a changé ? Tu conseilles ?
+
+Oh que oui !
+
+J'ai passé assez peu de temps à faire de la veille technique (seulement quelques heures de temps en temps), mais tout ce temps libre a été une mine d'or de repos.
+J'ai passé pas mal de temps à organiser des évènements:
+* des meetups Okiwi toute l'année (avec la logistique de faire venir des speakers sur Bordeaux)
+* Agile tour bordeaux
+* bdx.io 
+* des BBL chez des clients ou des copains
+* organisation de café-philos au restaurant
+* beaucoup de repas avec des copains
+* beaucoup plus de lecture dans mon temps libre (et quasiment zéro livre technique)
+* j'ai donné une petite dizaine de conférence dans des confs variées (Touraine Tech, Agile Tours, bdx.io, etc.)
+* écrit une quinzaine d'articles de blog
+
+Je vois bien que si mon niveau technique ne s'est pas énormément amélioré, toute cette participation à l'activité communautaire du dév logiciel a énormément contribué 
+au fait de trouver des missions. Sur les 5 missions que j'ai trouvé, 4 venaient de mes relations dans l'association Okiwi. Je pense que c'est
+une bonne leçon à retenir pour ceux qui veulent se lancer à l'aventure, la veille commerciale et sociale (le fait d'être connu, reconnu, d'avoir des vraies relations avec 
+des collègues) donne un énorme retour sur investissement, bien plus à mon avis que la veille technique et aussi plus rapide.
 
 
