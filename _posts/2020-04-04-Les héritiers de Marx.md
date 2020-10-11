@@ -42,6 +42,13 @@ Il sera aussi intéressant de replacer Marx dans l'idéologie dominante (c'est �
 tentative d'utilisation d'un outil de diagnostic objectif de la société se trouve malgré tout impacté par son siècle, son environnement, son habitus. Par 
 exemple on trouvera de nombreux exemples de la sacralité du progrès, que la société ira forcément vers un meilleur destin car l'humanité est guidée par le progrès.
 
+### Conclusion
+
+C'est un cours sur le marxisme, ni plus ni moins, si ça vous intéresse ça se lit bien, mais ça mérite de se lire avec des notes et un surligneur. On se retrouve à y 
+retourner fréquemment quand on veut parler marxisme. Qu'est-ce qui fait que le discours de Lenine était cohérent, quel objectif pour le communisme ? Comment planifier une transition
+vers la dictature du prolétariat ? Il montre avec beaucoup d'impact que le marxisme est pluriel, avec les arguments de tous les marxistes de l'histoire.
+
+
 
 
 
