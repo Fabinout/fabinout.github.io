@@ -6,6 +6,9 @@ category:
 tags: [Fiche de lecture, Marxisme, Histoire, Philosophie]
 ---
 
+[Lien d'achat Mollat](https://www.mollat.com/livres/2387320/jacques-ellul-les-successeurs-de-marx-cours-professe-a-l-institut-d-etudes-politiques-de-bordeaux)
+
+
 Avant-propos : 
 ce livre est non-pas un essai historique, mais est le résumé d'un cours qu'a donné [Jacques Ellul](https://fr.wikipedia.org/wiki/Jacques_Ellul) à l'Institut d'Etudes Politiques
 de Bordeaux de 1947 à 1979. Le livre est la retranscription des notes de cours de deux élèves bordelais en 1967.
