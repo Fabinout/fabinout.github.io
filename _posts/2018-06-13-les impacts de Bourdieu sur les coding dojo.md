@@ -294,10 +294,10 @@ sociales qui sont à l'œuvre et de les mettre à nue.
 
 Sources : 
 
-http://ressources-socius.info/index.php/lexique/21-lexique/37-champ
-https://fr.wikipedia.org/wiki/Pierre_Bourdieu
-https://en.wikipedia.org/wiki/Field_%28Bourdieu%29
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3093479/
-http://enfolding.org/theorising-practice-ii-habitushexis/
-https://www.academia.edu/4808608/Le_concept_de_champ_litt%C3%A9raire_chez_Pierre_Bourdieu
-http://1libertaire.free.fr/BourdieuConcepts.html
+http://ressources-socius.info/index.php/lexique/21-lexique/37-champ   
+https://fr.wikipedia.org/wiki/Pierre_Bourdieu          
+https://en.wikipedia.org/wiki/Field_%28Bourdieu%29          
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3093479/           
+http://enfolding.org/theorising-practice-ii-habitushexis/           
+https://www.academia.edu/4808608/Le_concept_de_champ_litt%C3%A9raire_chez_Pierre_Bourdieu              
+http://1libertaire.free.fr/BourdieuConcepts.html               
