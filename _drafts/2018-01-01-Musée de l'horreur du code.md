@@ -4,7 +4,7 @@
 
 C'est un classique maintenant, mais se connecter en SSH à un serveur pour y copier coller le nouveau code,
 mettre à jour la base et redémarrer le serveur.
-a
+aaa
 ##Architecture
 
 La base de données de prod qui contient dans un blob le code javascript d'affichage de chaque item, avec la traduction, et toute
