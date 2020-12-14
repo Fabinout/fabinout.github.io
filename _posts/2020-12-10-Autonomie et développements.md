@@ -8,17 +8,18 @@ tags: [philosophie, meta, agile, loi, morale]
 Tout bon étudiant de philosophie sait que le diable se cache dans les détails, et qu'il n'y a pas de bonne dissertation
 sans une bonne définition des termes.
 
+**L'anarchie** : je refuse toutes les lois. _L'anarchie politique n'est pas
+le chaos sans loi, et est significativement plus proche de la conception Kantienne d'autonomie. La définition ici d'anarchie est
+celle de Kant._         
+**Hétéronomie** : je suis les règles érigées par d'autres (ça peut être des lois morales, des lois civiles, des règlements
+d'entreprise, etc.)           
+**Autonomie** : je choisis les règles (qui ne sont pas universelles) que je suis.     
 L'autonomie selon Kant (vu que c'est surtout de lui qu'on va parler), c'est le fait de se donner soi-même sa propre loi.
 Autrement dit c'est l'inverse de l'hétéronomie.     
-L'anarchie : je refuse toutes les lois.         
-Hétéronomie : je suis les règles érigées par d'autres (ça peut être des lois morales, des lois civiles, etc.)           
-Autonomie : je choisis les règles (qui ne sont pas universelles) que je suis.
 
-_Avant qu'un ou deux anarchistes du coin viennent me faire des remarques désobligeantes, l'anarchie politique n'est pas
-le chaos, et est significativement plus proche de la conception Kantienne d'autonomie. La définition ici d'anarchie est
-celle de Kant._
 
-Lorsque j'agis sans forme de scrupule, c'est de l'anarchie morale.   
+Lorsque j'agis sans forme de scrupule, c'est-à-dire sans inquiétude morale des conséquences globales de 
+mes actes, c'est de l'anarchie morale.   
 Lorsque que la loi m'est imposée, la conduite droite n'est pas morale, ce n'est qu'une obéissance.    
 Il n'y a que lorsque je définis moi-même ma loi (qui est par essence une restriction, une contrainte) que s'opère une
 moralité, et c'est ainsi que se réalise ma liberté.
@@ -26,12 +27,12 @@ moralité, et c'est ainsi que se réalise ma liberté.
 > **C'est quoi la différence entre la morale et l'éthique ?** Initialement il n'y en a pas, éthique est d'origine grecque
 > et morale est d'origine latine. La philosophie a ensuite différencié les deux termes, la morale désigne des règles et des
 > lois préconstituées, on parle surtout de morales car il y a autant de morales qu'il y a de civilisations, d'époques.
-> Éthique désigne maintenant plutôt une réflexion sur une morale.
-> La morale : il ne faut pas livrer de code qui n'est pas tester unitairement
-> L'éthique : pourquoi dois-je tester mon code avant de le livrer ?
+> Éthique désigne maintenant plutôt une réflexion sur une morale.      
+> La morale : il ne faut pas livrer de code qui n'est pas tester unitairement      
+> L'éthique : pourquoi dois-je tester mon code avant de le livrer ?           
 
-Vous avez donc deviné qu'on va essayer de parler d'éthique, en parlant de morales.   
-Parce qu'en dernier ressort, une action morale (comprendre moralement bonne) c'est une action qui est conforme à des
+Vous avez donc deviné qu'on va essayer de parler d'éthique, en parlant de morales.      
+En dernier ressort, une action morale (comprendre moralement bonne) c'est une action qui est conforme à des
 lois morales. Comment définir quelle loi est morale, laquelle ne l'est pas et plus terre-à-terre quelles règles
 devrait-on suivre en tant que développeur ou développeuse ?
 
@@ -46,22 +47,44 @@ Je pense que c'est intéressant de se poser les questions en ces termes. Être r
 de s'émanciper des règles et des lois. De toutes les règles et de toutes les lois, si ma morale l'approuve.
 
 Mais ça ne veut surtout pas dire que ça devient le culte de l'égoïsme et qu'on brise toutes les règles qui ne nous
-arrangent pas. Ça veut dire que l'autonomie se substitue au bonheur. Être autonome c'est comprendre totalement pourquoi
-des règles existent, et quels sont les risques ou effets à briser une règle.
+arrangent pas. Ça veut dire que l'autonomie se substitue au bonheur égoïste, à la recherche de mon optimum 
+local d'efficacité. Être autonome c'est comprendre totalement pourquoi
+des règles existent, (qui les a mis en place? dans quel but ? pour répondre à quel problème initial ?) et quels sont 
+les risques ou effets à briser une règle.
 
 ### Briser une règle n'est pas anodin
 
-Donc si une loi dit "le daily stand-up doit être au milieu de la journée", il est important que l'équipe comprenne
+Si une loi dit "le daily stand-up doit être au milieu de la journée", il est important que l'équipe comprenne
 pourquoi il est important de faire une réunion quotidienne, et pourquoi elle se pose au début de la journée. Si l'équipe
-décide collégialement de déplacer le standup à 14h, il faut la rigueur intellectuelle de comprendre ce qu'on gagne, mais
-surtout ce qu'on perd à arrêter d'obéir à une règle.
+décide collégialement de déplacer le standup à 14 h, il faut la rigueur intellectuelle de comprendre ce qu'on gagne, mais
+surtout ce qu'on perd à changer une règle, ou à arrêter de s'y soumettre. Et c'est tout à fait normal de ne pas
+savoir répondre à cette question, nous sommes entourés de règles tacites ou explicites autour de nous sur la façon
+d'organiser notre code, notre temps de travail, et nous prenons rarement le temps d'en expliquer les origines.
 
 S'il est très facile et satisfaisant de supprimer un process, encore faut-il avoir les connaissances généalogiques
 suffisantes pour comprendre l'intérêt de la règle et l'humilité de savoir dire qu'on ne sait plus pourquoi la règle
 existe.
 
+### Nous recherchons l'efficacité
+
+Qui que nous sommes, nous subissons des injonctions à nous adapter à un environnement technique changeant, à toujours 
+être efficaces, productifs. Le clean code nous apprend à bien coder, le software craftsmanship à être pragmatique
+et efficace. Dans cet environnement, toute loi ou règle qui est sensé nous ralentir est perçu comme contre-productive
+si elle nous empêche de travailler aussi vite et aussi longtemps que nous le souhaitions. Ainsi, contre-intuitivement
+les règlements et les lois semblent un vestige du passé dans un environnement de travail néolibéral. Les individus
+devraient ne pas avoir besoin de règle pour se manager eux-mêmes, pour s'organiser.
+
+**Ainsi, les développeurs les plus productifs sont ceux qui respectent le moins les règles**
+
+(je pousse mon code sans demander de revue de code, je dépile des User-stories plutôt qu'aller aux réunions, 
+je déploie mon code sur une VM que j'ai prise sur un cloud publique plutôt que d'attendre que mon équipe d'infra
+me fournisse une VM, etc.) 
+
+Et donc, quand les salariés sont en concurrence les uns avec les autres, la compétitivité des salariés les pousse
+à rechercher de la performance individuelle plutôt que la performance collective, l'apprentissage collectif.
+
 La mode startup ["move fast and break things"](https://www.goodreads.com/book/show/31420725-move-fast-and-break-things)
-a l'image encore positive d'une équipe de professionnels passionés capables de produire une merveille d'ingénierie
+a l'image encore positive d'une équipe de professionnels passionnés capables de produire une merveille d'ingénierie
 logicielle en quelques semaines à condition de s'affranchir de toutes règles. Cette attitude de cowboy est exaltante,
 mais elle montre deux choses importantes selon moi :
 
@@ -80,7 +103,8 @@ Pour s'émanciper d'une loi, il est toujours plus facile de savoir qu'on ne subi
 
 Ça me semblait important de mettre au clair qu'on ne peut pas viser l'autonomie d'une équipe (la fameuse auto-organisation)
 sans cette capacité à s'émanciper des règles, non pas par égoïsme mais justement parce que l'autre est une
-fin en soi. Et qu'en tant que développeur ou développeuse dans une équipe agile, je ne veux pas juste avoir à penser à mon écriture de code.
+fin en soi. Et qu'en tant que développeur ou développeuse dans une équipe agile, 
+mon éthique me dit que je ne dois pas uniquement penser à mon écriture de code.
 Il faut penser aux autres personnes de l'entreprises. Les chefs et cheffes de projet, les testeurs et testeuses,
 les PO, les membres de l'équipe commerciale, et les OPS. Leurs fonctions, leurs attentes, leurs appétences et leurs désirs doivent rester dans notre esprit
 quand on choisit d'agir, encore plus quand il s'agit de transgresser une règle faite pour sécuriser leur travail.
@@ -100,26 +124,10 @@ Autrui est lui aussi une fin en soi. La recherche d'autonomie passe donc par la 
 l'empathie. Et contrairement aux apparences la recherche d'autonomie passe donc par une prise de
 conscience du collectif.
 
-
-
-
-
-## Commentaires d'un ami :
-``` 
-* "Autrement dit c’est l’inverse de l’hétéronomie." => quand je lis ça je l'interprète comme "pour mieux vous faire comprendre je l'oppose à une notion que vous devriez connaître qui est l’hétéronomie" alors que hétéronomie c'est un mot que je ne connais pas et que tu introduit juste après
-* Je mettrais le warning sur le fait que tu utilises les définition de Kant avant la définition, et je ne sais pas si le niveau de taquinerie contre les anarchiste est justifié
-* "Lorsque j’agis sans forme de scrupule," : je ne comprends pas bien ce que tu veux dire, peut-être qu'il me manque ta définition (ou celle de Kant ?) de scrupule
-* "La morale : il ne faut" : je mettrais un saut de ligne là
-* "Vous avez donc deviné qu’on va essayer de parler d’éthique, en parlant de morales.
-Parce qu’en dernier ressort, une action morale (comprendre moralement bonne) c’est une action qui est conforme à des lois morales" : je ne comprends pas le "parce que" (autrement dit : je ne comprends pas en quoi ça explique la 1ere phrase)
-* "Mais ça ne veut surtout pas dire que ça devient le culte de l’égoïsme et qu’on brise toutes les règles qui ne nous arrangent pas. Ça veut dire que l’autonomie se substitue au bonheur." : je ne comprends pas la 2eme phrase, tu veux dire quelque chose comme "l’autonomie se substitue au bonheur comme guide pour ses choix" ?
-* "Être autonome c’est comprendre totalement" : je ne comprends pas à quoi le totalement fait référence
-* "Donc si une loi dit “le daily stand-up doit être au milieu de la journée”, il est important que l’équipe comprenne pourquoi il est important de faire une réunion quotidienne, et pourquoi elle se pose au début de la journée" : j'ai l'impression que tu dis une fois au début et une fois au milieu
-* "mais surtout ce qu’on perd à arrêter d’obéir à une règle." : dans ce cas ce n'est pas plutôt de changer une règle ? ou c'est une loi choisie en dehors de l'équipe (et du coup peut-être le préciser ?)
-* "S’il est très facile et satisfaisant de supprimer un process, encore faut-il avoir les connaissances généalogiques suffisantes pour comprendre l’intérêt de la règle et l’humilité de savoir dire qu’on ne sait plus pourquoi la règle existe.
-* "et l’humilité de savoir dire qu’on ne sait plus pourquoi la règle existe." : j'ai l'impression que tu ne parles pas de ce cas plus haut, donc ça fait un peu bizarre de le trouver là
-* "La performance influe sur la compétitivité entre les salariés." : je ne comprends pas bien le lien
-* "Et qu’en tant que développeur ou développeuse dans une équipe agile, je ne veux pas juste avoir à penser à mon écriture de code. Il faut penser aux autres personnes de l’entreprises." : pour le coup c'est ta morale qui te le dit ? Dans ce cas ça mériterait de le préciser
-* En conclusion mais c'est peut-être une obsession de ma part : le fonctionnement des règles dans une société et dans une entreprise c'est pas tout à fait pareil selon moi (typiquement le salariat c'est de la suborniation), et du coup le choix d'appliquer ou de ne pas appliquer des règles n'est pas le même. Du coup je suis d'accord sur la conclusion dans le cas général, mais pas forcément dans le cas d'une entreprise, ou alors peut-être que ça manque de précision
-
-```
+Il est à noter que le contexte de la loi Kantienne s'applique à des citoyens et citoyennes. Le contexte de la vie
+en entreprise n'est pas tout à fait pareil, car il est basé sur un contrat de subordination. Vous offrez
+votre force de travail et votre subordination totale en échange d'un salaire. Du coup, le choix d'appliquer ou
+de ne pas appliquer des règles n'est pas le même que dans la situation que
+décrit [Manu Kant](https://www.mollat.com/livres/47724/emmanuel-kant-critique-de-la-raison-pure). Ce raisonnement
+ne s'applique donc pas à toutes les entreprises ni à toutes les équipes, mais uniquement à celles visant l'autonomie
+de leurs équipes, notamment par l'agilité.
