@@ -67,37 +67,34 @@ existe.
 
 ### Nous recherchons l'efficacité
 
-Qui que nous sommes, nous subissons des injonctions à nous adapter à un environnement technique changeant, à toujours 
+**Suivre des règles et des process et rechercher une efficacité de travail maximale sont deux injonctions contradictoires**
+
+Nous subissons souvent des injonctions à nous adapter à un environnement technique extrêmement changeant, à toujours 
 être efficaces, productifs. Le clean code nous apprend à bien coder, le software craftsmanship à être pragmatique
-et efficace. Dans cet environnement, toute loi ou règle qui est sensé nous ralentir est perçu comme contre-productive
-si elle nous empêche de travailler aussi vite et aussi longtemps que nous le souhaitions. Ainsi, contre-intuitivement
-les règlements et les lois semblent un vestige du passé dans un environnement de travail néolibéral. Les individus
-devraient ne pas avoir besoin de règle pour se manager eux-mêmes, pour s'organiser.
+et efficace. Dans cet environnement, toute contrainte nous ralentissant est perçue comme contre-productive (et donc souvent 
+non-professionnelle) si elle nous empêche de travailler aussi vite et aussi longtemps que nous le souhaitions.      
+Quand les salariés sont en concurrence les uns avec les autres, leur compétitivité les pousse
+à rechercher de la performance individuelle plutôt que rechercher la performance collective, l'apprentissage collectif.
+J'observe souvent un décalage entre les critères de performance individuels et les critères de performance globaux de l'entreprise (typiquement, le profit),
+il me semble pourtant que la vitesse d'écriture de code n'est pas le goulet d'étranglement de la plupart des entreprises.
 
-**Ainsi, les développeurs les plus productifs sont ceux qui respectent le moins les règles**
-
-(je pousse mon code sans demander de revue de code, je dépile des User-stories plutôt qu'aller aux réunions, 
-je déploie mon code sur une VM que j'ai prise sur un cloud publique plutôt que d'attendre que mon équipe d'infra
-me fournisse une VM, etc.) 
-
-Et donc, quand les salariés sont en concurrence les uns avec les autres, la compétitivité des salariés les pousse
-à rechercher de la performance individuelle plutôt que la performance collective, l'apprentissage collectif.
-
-La mode startup ["move fast and break things"](https://www.goodreads.com/book/show/31420725-move-fast-and-break-things)
-a l'image encore positive d'une équipe de professionnels passionnés capables de produire une merveille d'ingénierie
-logicielle en quelques semaines à condition de s'affranchir de toutes règles. Cette attitude de cowboy est exaltante,
+Certains individus pourront donc se sentir pousser des ailes et adopter une "attitude de cow-boy".
+Cette attitude est exaltante,
 mais elle montre deux choses importantes selon moi :
 
 * les personnes capables de s'affranchir des lois pour aller plus vite ne le font pas par autonomie, ils le font par
   anarchie morale. L'intérêt est de montrer sa capacité, sa puissance, en étant plus rapide et plus efficace que les
   autres. La performance influe sur la compétitivité entre les salariés. Ces cowboys généralement ne gèrent pas
   d'applications, ne font pas de maintenance, ils aiment les projets neuf.
-* les personnes capables de ça sont souvent des gens dont le capital symbolique est très important, capables de
-  s'affranchir des règles, des gens qui ne se sentent pas en danger en entreprise. Pour caricaturer, autrui
-  n'est qu'un moyen d'arriver à ses fins, et non une fin en soi.
+* les personnes étant dans l'entreprise depuis plus longtemps connaissent les règles, les process, pourquoi elles existent.
+  loi, il est toujours plus facile de savoir qu'on ne subira pas de représailles. D'où le fait que ces "cowboys d'entreprise"
+  sont souvent des prestataires ou des consultants externes.
 
-Pour s'émanciper d'une loi, il est toujours plus facile de savoir qu'on ne subira pas de représailles.
 
+_Petit aparté, dans "le maniement des hommes" de [Thibault Le Texier](https://www.mollat.com/livres/1569628/thibault-le-texier-le-maniement-des-hommes-essai-sur-la-rationalite-manageriale)
+il explique que le management, les règlements et les lois semblent un vestige du passé dans un environnement de travail moderne. Les individus
+n'ont plus besoin de manager ni de surveillance, ils se managent eux-même en intériorisant la surveillance, tout en restant le plus productif possible.
+Peut-être devrait-on chercher dans les formes modernes du travail les raisons de cette recherche d'autonomie ?_
 
 ## Une équipe agile
 
