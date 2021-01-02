@@ -87,7 +87,7 @@ mais elle montre deux choses importantes selon moi :
   autres. La performance influe sur la compétitivité entre les salariés. Ces cowboys généralement ne gèrent pas
   d'applications, ne font pas de maintenance, ils aiment les projets neuf.
 * les personnes étant dans l'entreprise depuis plus longtemps connaissent les règles, les process, pourquoi elles existent.
-  loi, il est toujours plus facile de savoir qu'on ne subira pas de représailles. D'où le fait que ces "cowboys d'entreprise"
+  À l'inverse, il est toujours plus facile d'enfreindre une règle quand on sait qu'on ne subira pas de représailles. D'où le fait que ces "cowboys d'entreprise"
   sont souvent des prestataires ou des consultants externes.
 
 
