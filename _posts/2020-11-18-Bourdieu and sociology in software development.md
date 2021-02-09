@@ -119,7 +119,7 @@ Example : "He never had any problems speaking in public or finding a job → It 
    
 ### But it is not everything   
    
-   ![Photo of ugly white guy in a suit] (/images/dwight%20schrute.jpg "Photo of Dwight Schrute")
+   ![Photo of ugly white guy in a suit](/images/dwight%20schrute.jpg "Photo of Dwight Schrute")
 
 
 Here is an example of a heterosexual white male in suit who has not much symbolical violence (well if you know The Office US), even though he has symbolical power by his status of a white heterosexual american male.   
