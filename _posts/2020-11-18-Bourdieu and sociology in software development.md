@@ -9,51 +9,40 @@ tags: [Philosophie, Coding-dojos]
 # Bourdieu and the coding-dojos. 
  
 ## WTF is Pierre Bourdieu?**   
-   
-Pierre Bourdieu was a french sociologist from the late 20<sup>th</sup> century whom I've recently discovered on Okiwi's slack, a developer community from Bordeaux.   
-   
-During a very lively conversation about Sandro Mancuso's vision on the management of his career, Emmanuel Gaillot said:    
-   
-«The theme of the «entrepreneur of your own career», including the success or the failure of it, is somewhat recent, even in the computer sciences environment. And this rhetoric is given by the current system, not some disruptives parts of it. Without going into the technicalities of knowing if it is intentional or not, this oratory has for function to maintain the current existing system by justifying its inegalities as if it was something normal and natural. For now, the saying is «there are some who sleep and others who work.». Before, it was «there are some who does what they are said and others who never listen». Even before it was «Some are strong, some are weak.»   
-   
-   
-When we say that you must take charge of our career when you are a developer and that it is as important and as easy at it sounds given the current market, I'll gladly ask you to think about our social status when we say that: gender? Skin color? Sexual orientation? Religion? Age? Parent's CSP? And so on.   
-   
+
+Pierre Bourdieu was a french sociologist from the late 20th century whom I've recently discovered on Okiwi's slack, a developer community from Bordeaux.
+
+During a very lively conversation about Sandro Mancuso's vision on the management of his career, Emmanuel Gaillot said :
+
+« The theme of the “entrepreneur of your own career”, including the success or the failure of it, is somewhat recent, even in the computer sciences environment. And this rhetoric is set by the current system, not some disruptives parts of it. Without going into the technicalities of knowing if it is intentional or not, this oratory’s main function is to maintain the current existing system by justifying its inequalities as if it was something normal and natural. For now, the saying is « there are some who sleep and others who work. ». Before, it was « there are some who do what they preach and others who never listen ». Even before it was « Some are strong, some are weak. »
+
+When someone says that you must take charge of your career when you are a developer and make it sound both very important and easy at the same time, given the current market, I'll gladly ask you to think about our social status when we say that : gender ? Skin color ? Sexual orientation ? Religion ? Age ? Parent's CSP ? And so on.
+
 Shortly after, Romeu talked about it again in a series of tweets on the theory of Bourdieu’s sociology (here in blog version)
 
-While you are here, I recommend you to read wikipedia’s article on Bourdieu.   
-   
-The main concepts of his work are:   
-   
-- Cultural capitals   
-   
--  The centrality of the habitus   
-   
-- The hexis   
-   
-- Symbolic capital and symbolic violence.   
-   
-- A social world where the symbolic violence plays a central role, aka the ability to carry on the power relationships by  making those who are the subject from it disregard how they endure it.   
-   
-- A social world divided in fields where agents interacts.   
+While you are here, I recommend you to read wikipedia’s article on Bourdieu.
+
+The main concepts of his work are :
+* The cultural capitals
+* The centrality of the habitus
+* The hexis
+* The symbolic capital and symbolic violence.
+* A social world where symbolic violence has a central role and actively maintains the status quo by legitimizing power relationships. Lower-ranked people feel they are actually less pertinent or able than higher-ranked people.
+* A social world divided in fields where agents interact.
    
 ### The cultural capital   
-  
-Karl Marx inspired Bourdieu in his writings a lot. Both agree in the fact that the difference between two social status directly comes from the difference of their wealth. The more wealth you have, the more dominating your social status is in society. The difference mainly resides in that Marx talked essentially about economic wealth (heritage, salary etc...) where Bourdieu adds another type of wealth: **the cultural capital.**   
-   
-The cultural capital is all the symbolical elements you gain by being in a specific social class. It can be assimilated (personal), taught or even objective (tangible).   
-   
-It can be:    
-   
-- A taste for philosophy (incorporated)   
-   
-- Abilities (incorporated)   
-   
-- A degree (institutional)   
-   
-- A sports car. (objective)   
-   
-The cultural capital is what creates a feeling of a collective identity and a feeling of belonging to group, but is also a potential massive hurdle towards the ascension of the social hierarchy. On the contrary, the ability of gaining a cultural capital through huge work makes the opportunity of a promotion **a lot** easier which would result in a better wealth.   
+
+Karl Marx inspired Bourdieu in his writings a lot (he stated several times that he didn’t consider himself a marxist). Both agree to the fact that the difference between two social status directly comes from the difference of their wealth. The more wealth you have, the more dominating your social status is in society. The difference mainly resides in that Marx talked essentially about economic wealth (heritage, salary etc.) while Bourdieu adds another type of wealth : **the cultural capital.**   
+
+The cultural capital is all the symbolical elements you gain by being a member of a specific social class. It can be assimilated (incorporated), taught or even objective (tangible).
+
+It can be :
+* A taste for philosophy (incorporated)
+* Abilities (incorporated)
+* A degree (institutional)
+* A sports car. (tangible)
+
+The cultural capital is what creates the feeling of a collective identity and a feeling of belonging to a group, but is also a potential massive hurdle towards the ascension of the social hierarchy. On the contrary, the ability to earn cultural capital through huge work makes the opportunity of a promotion **a lot** easier which would result in a better wealth.
    
 ### The habitus:
 
