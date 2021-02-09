@@ -13,7 +13,15 @@ Pierre Bourdieu was a french sociologist from the late 20th century whom I've re
 
 During a very lively conversation about Sandro Mancuso's vision on the management of his career, Emmanuel Gaillot said :
 
-    The theme of the “entrepreneur of your own career”, including the success or the failure of it, is somewhat recent, even in the computer sciences environment. And this rhetoric is set by the current system, not some disruptives parts of it. Without going into the technicalities of knowing if it is intentional or not, this oratory’s main function is to maintain the current existing system by justifying its inequalities as if it was something normal and natural. For now, the saying is « there are some who sleep and others who work. ». Before, it was « there are some who do what they preach and others who never listen ». Even before it was « Some are strong, some are weak.
+    The theme of the “entrepreneur of your own career”, including the success or the 
+    failure of it, is somewhat recent, even in the computer sciences environment. 
+    And this rhetoric is set by the current system, not some disruptives parts of it. 
+    Without going into the technicalities of knowing if it is intentional or not, 
+    this oratory’s main function is to maintain the current existing system by 
+    justifying its inequalities as if it was something normal and natural. For now, 
+    the saying is "there are some who sleep and others who work". Before, it was 
+    "there are some who do what they preach and others who never listen". Even before 
+    it was "Some are strong, some are weak."
 
 When someone says that you must take charge of your career when you are a developer and make it sound both very important and easy at the same time, given the current market, I'll gladly ask you to think about our social status when we say that : gender ? Skin color ? Sexual orientation ? Religion ? Age ? Parent's CSP ? And so on.
 
