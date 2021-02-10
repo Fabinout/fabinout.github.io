@@ -67,11 +67,16 @@ Si. Ça voudrait dire que lorsque tu fais la grève, tu coupes les services logi
 travaillent pas pendant la durée de ta grève.
 
 Faire ça demande plusieurs choses : 
-* tu dois avoir la main sur le moyen de production, c'est-à-dire sur les machines virtuelles qui hébergent les 
+* Fabien doit avoir la main sur le moyen de production, c'est-à-dire sur les machines virtuelles qui hébergent les 
   applications, sur le réseau ou encore sur la gateway à l'entrée de ton système d'information
-* tu dois t'assurer que les équipes grévistes sont en nombre suffisant pour être légitimes. si Fabien est seul ça ne marchera jamais. 
-* tu dois t'assurer que personne d'autre que toi peut remettre le système en marche pendant ton absence
-* si Fabien y arrive malgré les 
+* Fabien doit s'assurer que les équipes grévistes sont en nombre suffisant pour être légitimes. Si Fabien est seul
+  ça ne marchera jamais. 
+* Fabien doit s'assurer que personne d'autre que lui peut remettre le système en marche pendant son absence
+
 
 À ma connaissance, **ça n'est jamais arrivé** dans l'histoire de l'informatique que des informaticiens et informaticiennes 
-grévistes bloquent leurs moyens de production.
+grévistes bloquent leurs moyens de production.    
+Donc si Fabien y arrive malgré les embuches, il va probablement se faire licencier instantanément, puis se faire
+poursuivre en justice. Il y a donc beaucoup à perdre, et très peu à gagner car il ne pourra
+probablement pas gêner suffisamment longtemps le patronat pour défendre ses droits. 
+
