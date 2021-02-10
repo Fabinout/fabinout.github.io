@@ -16,11 +16,11 @@ On se pose souvent la question de l'engagement politique pour les développeurs 
 Imaginons que le gouvernement prochain décide de voter une réforme dont vous ne voulez pas. Imaginons que la réforme soit
 une baisse significative de votre salaire et une semaine de travail de 6 jours. Vous ne voulez pas de cette réforme. 
 
-### Vous pouvez ne rien faire et allez travailler
+## Vous pouvez ne rien faire et allez travailler
 À ce moment-là, vous ne luttez pas et vous laissez les autres lutter pour vous. Si vous avez du bol ils défendront
 suffisamment bien vos intérêts pour que le projet de loi soit retiré, sinon tant pis pour vous.
 
-### Vous pouvez faire la grève
+## Vous pouvez faire la grève
 Comme le veut la [grande tradition](https://fr.wikipedia.org/wiki/Anarcho-syndicalisme) syndicaliste française, quand on est pas content on manifeste 
 et on fait la grève. C'est même un des meilleurs moyens d'obtenir et de conserver des acquis sociaux.
 
@@ -31,5 +31,47 @@ aussi bloquer les arrivées/départs de machines et matériels, c'est empêcher 
 Quand la RATP fait la grève, elle bloque des dépôts de bus, les empêchant de facto de circuler, en limitant significativement
 le nombre de bus qui peuvent être en circulation en même temps.
 
+Donc dans le cas de travailleurs ouvriers, la grève ne se caractérise pas uniquement par l'absence des travailleurs mais
+aussi par le blocage des moyens de production capitalistes (entendez par là les machines qui génèrent un profit).
 
+**Le problème principal, c'est que le travail d'un développeur ou d'une développeuse, c'est pas de produire du profit.**
 
+En effet, prenons Fabien, qui travaille pour un journal de presse quotidienne régional du Sud-Ouest. S'il décide d'arrêter
+de travailler, est-ce que le journal arrêtera d'être imprimé ? Non.
+Est-ce que les articles arrêteront d'être publiés ? Non. Est-ce que l'argent de la publicité sur le site arrêtera de rentrer? non.    
+Bref, si demain Fabien arrête de travailler, les moyens de production continueront de tourner à plein régime, avec ou sans lui.
+
+#### Qu'est-ce qui génère du profit alors ? Les logiciels.
+
+Le travail de Fabien, c'est d'écrire un logiciel qui sera ensuite compilé par un compilateur, puis déployé sur une VM. Et c'est
+seulement un exécutable en production qui fournit du profit. Tout le reste est une charge pour l'entreprise. Oui tout.
+Ton salaire, le cout d'hébergement de l'application, le coût du PO, de la MOA de la MOE, des architectes, les capsules 
+pour la machine à café, tout.
+
+Ce qui fait que Fabien peut bien aller faire la grève toute la semaine s'il le veut, l'entreprise tournera correctement, 
+les articles continueront d'être écris, lus, et les publicités continueront d'être affichées.
+
+Si Arnaud, copain journaliste dans le journal décide par contre de faire grève, il risque de bien plus entraver la 
+production de profits de l'entreprise. Parce que sans lui, le moyen de production logiciel ne fonctionne pas. 
+
+Donc pour Fabien, faire la grève ne sert à rien. Certes des projets informatiques prendront du retard, mais ce serait pas la 
+première fois qu'un projet a 2 semaines de retard. Par contre, c'est pas vraiment dans l'intérêt de Fabien de faire
+2 semaines de grève sans salaire, sachant qu'il a un crédit à rembourser et 2 bébés à la maison.
+
+**En bref, faire la grève, ça n'embête que très légèrement le patronat, et ça ne vaut pas le coût pour nous de perdre la
+moitié de notre salaire.**
+
+## Et y aurait pas un moyen de faire la grève en coupant les moyens de production en tant que dév ?
+
+Si. Ça voudrait dire que lorsque tu fais la grève, tu coupes les services logiciels de ton entreprise pour qu'ils ne
+travaillent pas pendant la durée de ta grève.
+
+Faire ça demande plusieurs choses : 
+* tu dois avoir la main sur le moyen de production, c'est-à-dire sur les machines virtuelles qui hébergent les 
+  applications, sur le réseau ou encore sur la gateway à l'entrée de ton système d'information
+* tu dois t'assurer que les équipes grévistes sont en nombre suffisant pour être légitimes. si Fabien est seul ça ne marchera jamais. 
+* tu dois t'assurer que personne d'autre que toi peut remettre le système en marche pendant ton absence
+* si Fabien y arrive malgré les 
+
+À ma connaissance, **ça n'est jamais arrivé** dans l'histoire de l'informatique que des informaticiens et informaticiennes 
+grévistes bloquent leurs moyens de production.
