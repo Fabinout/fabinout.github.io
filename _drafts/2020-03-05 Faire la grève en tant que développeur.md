@@ -22,7 +22,8 @@ suffisamment bien vos intérêts pour que le projet de loi soit retiré, sinon t
 
 ## Vous pouvez faire la grève
 Comme le veut la [grande tradition](https://fr.wikipedia.org/wiki/Anarcho-syndicalisme) syndicaliste française, quand on est pas content on manifeste 
-et on fait la grève. C'est même un des meilleurs moyens d'obtenir et de conserver des acquis sociaux.
+et on fait la grève. C'est même un des meilleurs moyens d'obtenir et de conserver des acquis sociaux. On rappelle aux néophytes
+qu'on n'est pas payés durant une grève, et qu'on a le droit de faire la grève tout seul.
 
 Le problème, c'est que faire la grève suppose de devoir se réapproprier et bloquer les moyens de production. Ce qu'on
 nomme les moyens de productions, ce sont les outils, machines, et systèmes qui génèrent un profit pour l'entreprise.
@@ -74,9 +75,40 @@ Faire ça demande plusieurs choses :
 * Fabien doit s'assurer que personne d'autre que lui peut remettre le système en marche pendant son absence
 
 
-À ma connaissance, **ça n'est jamais arrivé** dans l'histoire de l'informatique que des informaticiens et informaticiennes 
+À ma connaissance, **ça n'est jamais arrivé** (1) dans l'histoire de l'informatique que des informaticiens et informaticiennes 
 grévistes bloquent leurs moyens de production.    
 Donc si Fabien y arrive malgré les embuches, il va probablement se faire licencier instantanément, puis se faire
 poursuivre en justice. Il y a donc beaucoup à perdre, et très peu à gagner car il ne pourra
 probablement pas gêner suffisamment longtemps le patronat pour défendre ses droits. 
 
+## Quatrième et dernière alternative : financer des grévistes
+
+J'aimerais proposer une autre façon de défendre ses droits et ses acquis. Les dévs sont généralement dans une situation 
+professionnelle franchement privilégiée, des salaires qui gonflent linéairement depuis quelques années, 
+la possibilité de télétravail plus facilement et un marché du travail qui demande toujours plus de codeurs. 
+
+Je propose la lutte par la redistribution des richesses. Donner à des caisses de grèves qui bloquent les moyens de production.
+C'est-à-dire que de votre côté, vous continuez d'aller travailler, et pour chaque jour de grève, vous faites un don du montant
+de votre salaire journalier. Si possible à des gens qui font des actions bien visibles (RATP parisienne, la CGT qui coupe 
+l'électricité). 
+
+Ce mode de redistribution a plusieurs avantages, il répartit votre salaire élevé et aide matériellement les conditions 
+des gens qui se battent pour défendre vos droits.
+
+#### C'est facile à dire, mais toi Fabien tu l'as fait ?
+
+Oui, durant les manifs de la réforme des retraites de janvier 2020, je reversais 100% de mon TJM (600€) les jours de grève nationale à des 
+associations et des caisses de grève. Et j'ai reversé ainsi à peu près 1500€ à des grévistes. C'est bien significatif,
+car si un gréviste se contente de vivre avec 50€ par jour, un jour de mon travail paye la grève de 12 personnes.
+
+600€ : Caisse de grève CGT des chauffeurs RATP de vitry : https://www.lepotsolidaire.fr/pot/4lrevq4s
+130€ : Stream Reconductible : https://utip.io/recondustream    
+1200€ : pot commun COM-CGT
+
+Donc en attendant de trouver d'autres manières (peut-être plus efficaces ?) de lutter, j'ai décidé que c'est par la 
+redistribution de journées de facturations au moins une fois par mois que je participerai à défendre les causes qui me
+tiennent à coeur. 
+
+
+(1) On est la tech, un collectif de grévistes de la tech a appelé aux blocages des plateformes qui a été très peu suivis en dehors 
+de la fermeture du site de mediapart (lien)[https://onestla.tech/publications/appel-action-24-janvier)]
