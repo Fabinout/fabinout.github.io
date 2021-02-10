@@ -101,7 +101,7 @@ Oui, durant les manifs de la réforme des retraites de janvier 2020, je reversai
 associations et des caisses de grève. Et j'ai reversé ainsi à peu près 1500€ à des grévistes. C'est bien significatif,
 car si un gréviste se contente de vivre avec 50€ par jour, un jour de mon travail paye la grève de 12 personnes.
 
-600€ : Caisse de grève CGT des chauffeurs RATP de vitry : https://www.lepotsolidaire.fr/pot/4lrevq4s
+600€ : Caisse de grève CGT des chauffeurs RATP de vitry : https://www.lepotsolidaire.fr/pot/4lrevq4s     
 130€ : Stream Reconductible : https://utip.io/recondustream    
 1200€ : pot commun COM-CGT
 
