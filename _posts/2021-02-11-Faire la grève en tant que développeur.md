@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Comment lutter en tant que développeur ?"
-description: "notes"
+description: "Faut-il faire la grève ?"
 tags: [Politique, Meta]
 ---
 
