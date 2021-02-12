@@ -98,7 +98,7 @@ des gens qui se battent pour défendre vos droits.
 #### C'est facile à dire, mais toi Fabien tu l'as fait ?
 
 Oui, durant les manifs de la réforme des retraites de janvier 2020, je reversais 100% de mon TJM (600€) les jours de grève nationale à des 
-associations et des caisses de grève. Et j'ai reversé ainsi à peu près 1500€ à des grévistes. C'est bien significatif,
+associations et des caisses de grève. Et j'ai reversé ainsi près de 2000€ à des grévistes. C'est bien significatif,
 car si un gréviste se contente de vivre avec 50€ par jour, un jour de mon travail paye la grève de 12 personnes.
 
 600€ : Caisse de grève CGT des chauffeurs RATP de vitry : https://www.lepotsolidaire.fr/pot/4lrevq4s     
