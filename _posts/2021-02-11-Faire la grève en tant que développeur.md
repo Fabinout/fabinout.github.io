@@ -81,6 +81,11 @@ Donc si Fabien y arrive malgré les embuches, il va probablement se faire licenc
 poursuivre en justice. Il y a donc beaucoup à perdre, et très peu à gagner car il ne pourra
 probablement pas gêner suffisamment longtemps le patronat pour défendre ses droits. 
 
+##### Une petite parenthèse
+Tout ceci pointe un triste constat dans notre métier mais qui s'applique aussi à beaucoup d'autres professions aujourd'hui.
+Il y a une absence flagrante de collectif professionnel susceptible de soutenir les mouvements sociaux. Le constat serait
+autrement différent si une organisation était capable de mobiliser des milliers de personne.
+
 ## Quatrième et dernière alternative : financer des grévistes
 
 J'aimerais proposer une autre façon de défendre ses droits et ses acquis. Les dévs sont généralement dans une situation 
