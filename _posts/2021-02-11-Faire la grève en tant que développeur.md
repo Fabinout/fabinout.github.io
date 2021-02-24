@@ -59,7 +59,7 @@ Donc pour Fabien, faire la grève ne sert à rien. Certes des projets informatiq
 première fois qu'un projet a 2 semaines de retard. Par contre, c'est pas vraiment dans l'intérêt de Fabien de faire
 2 semaines de grève sans salaire, sachant qu'il a un crédit à rembourser et 2 bébés à la maison.
 
-**En bref, faire la grève, ça n'embête que très légèrement le patronat, et ça ne vaut pas le coût pour nous de perdre la
+**En bref, faire la grève, ça n'embête que très légèrement le patronat, et ça ne vaut pas le coup pour nous de perdre la
 moitié de notre salaire.**
 
 ## Et y aurait pas un moyen de faire la grève en coupant les moyens de production en tant que dév ?
