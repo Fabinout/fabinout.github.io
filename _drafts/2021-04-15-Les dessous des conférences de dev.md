@@ -50,12 +50,15 @@ Une autre entité de ce système est l'**équipe d'organisation de la conférenc
 Cette équipe n'a rien de magique, c'est elle qui choisit qui inviter à la keynote, ce que vont manger les gens, etc. La 
 plupart de ces équipes d'orga sont aussi ouvertes à tous. Si le sujet vous intéresse je vous encourage à rejoindre une 
 équipe pour vous faire votre propre idée. Si vous ne le savez pas, la plupart des organisateurs de conférences présentent
-eux-aussi des conférences, ce monde est tout petit.
+eux-aussi des conférences, connaissent personnellement beaucoup de speakers
+et fréquentent d'autres organisateurs de confs. En effet il faut connaître la date de BDX.io pour 
+pouvoir choisir la date de l'Agile Tour Bordeaux (et vice versa). C'est donc très pratique pour les orgas de connaître les
+autres évènements tech du coin, et les speakers potentiels pour remplacer au pied levé une absence.
 
 Une partie essentielle de leur travail est de sélectionner les conférences, et de les programmer.
 Par ce choix d'élection, l'équipe fait aussi un choix de censure. Le mot est certes violent, mais c'est le terme pour 
 désigner l'action d'un collectif qui décidera arbitrairement de qui aura la parole. L'action n'est 
-pas anodine, vu que l'équipe choisira effectivement qui aura un podium. 
+pas anodine, vu que l'équipe choisira effectivement qui aura un podium, une tribune. 
 
 On pourrait dire "si c'est dans le programme, c'est un sujet qui mérite d'être entendu", mais en disant ça on arrête
 de dire que la sélection des programme est un processus humain, et on y retire toute subjectivité.
@@ -67,7 +70,8 @@ une époque étaient jugés intrinsèquement intéressants, intrinsèquement né
 Par exemple, le sujet de l'agilité qui est devenu très vite en l'espace de 3/4 ans un sujet qu'on évite de placer dans le 
 programme. Et dans le même temps, les conférences qui se focalisent sur l'Agilité se mettent à éviter de parler de développement logiciel.
 
-On a donc une équipe d'organisation qui décide, avec ses propres biais et ses connaissances limités, quels seront les sujets dont on va parler cette année.
+On a donc une équipe d'organisation qui décide, avec ses propres biais et ses connaissances limités, quels seront les 
+sujets dont on va parler cette année. Et donc mécaniquement censurent les autres sujets.
 
 #### Et côté spectateurs et spectatrices ?
 De l'autre côté, la naïveté règne. 
@@ -93,6 +97,14 @@ Si mon but est de parler à Sunny-Tech, je vais donc travailler et étudier un s
 sélectionné, c'est à dire qu'avant-même que mon sujet soit accepté ou validé, la conférence m'a déjà indirectement 
 incité à apprendre des choses à propos d'un sujet précis au détriment d'un autre. 
 
+Et on met à l'index les sujets qui ne seront pas acceptés, alors même qu'ils peuvent être plus pertinent pour notre communauté.
+
+```"Mettre à l'index" est une expression qui vient du moyen-age. À l'époque, l'église relisait les livres qui étaient imprimés, 
+et interdisait la vente, l'impression et la distribution de certains livres qui étaient jugés trop hérétiques, contraires 
+aux moeurs ou dangereux pour la monarchie. Ces livres interdits étaient consignés dans l'Index des livres interdit qui 
+était régulièrement mis à jour qui comprenait des classiques tels l'Emile de JJ.Rousseau, ou l'Esprit des lois de Montesqieu.
+````
+
 ## La fonction d'archive  
 Par le fait de la sélection des programmes, les conférences ont fonction de conservation, parce qu'elles solennisent 
 un sujet dans le temps et l'espace.   
@@ -109,7 +121,6 @@ parle passionnément de l'histoire de l'informatique. Si on se projette dans 50 
 ces grilles de programmation de conférences seront une ressource très importante, grâce à laquelle on pourra facilement tirer 
 des tendances, des modes, et des conclusions sur l'histoire de notre métier.
 
-
 Il y a donc fonction de consécration, par le seul fait de la conservation. 
 
 Pour vous donner une idée, regardez ces programmes, et demandez-vous ce qu'un historien pourra conclure :    
@@ -118,33 +129,52 @@ Pour vous donner une idée, regardez ces programmes, et demandez-vous ce qu'un h
 
 On voit donc que la question de la définition d'un sujet intéressant est plus complexe qu'elle en a l'air.
 
-_Petite précision : le même type d'analyse peut s'appliquer à l'écriture d'articles de blog (qui n'auront jamais une diffusion importante sur notre communauté, 
-je ne me fais pas d'illusion). La démarche est aussi personnellement d'ancrer mon savoir dans une chronologie. A telle date, 
-j'avais telle opinion sur tel sujet. A telle date, je m'intéressais à tel sujet, à telle date, j'ai édité
- tel article, donc mon opinion sur le sujet a évolué. Un article intéressant devrait rester toujours dynamique car votre opinion
+_Petite précision : le même type d'analyse peut s'appliquer à l'écriture d'articles de blog. Ma démarche est 
+personnellement d'ancrer mon savoir dans une chronologie. A telle date, j'avais telle opinion sur tel sujet. A telle 
+date, je m'intéressais à tel sujet, à telle date, j'ai édité  tel article, donc mon opinion sur le sujet a évolué. Un 
+article intéressant devrait rester toujours dynamique car votre opinion
  sur ces sujets évoluera sans cesse. Et Git vous permettra de connaître l'évolution de votre avis sur un sujet._
 
 
 ## Un grand pouvoir n'implique pas une grande responsabilité
-On va un peu jouer avec les mots. On peut avoir un grand pouvoir sur des gens, sans être jugé responsable, ou sans se
-sentir responsable de sa puissance. Ou l'inverse, si vous êtes responsable de faire en sorte qu'un site
-reste en ligne, mais que vous n'avez pas le pouvoir de changer ce que fait le site, alors vous êtes responables
-et impuissants.     
-En terme de puissance, il est dur d'imaginer plus de puissance que celle de celui qui écrira un logiciel qui
+Définition classique de l'implication P=>Q : [définition Wikipedia](https://fr.wikipedia.org/wiki/Implication_(logique)#D%C3%A9finition_en_logique_classique)
+Or Spiderman a tort. Il y a des cas de grands pouvoirs sans grande responsabilités.
+
+En terme de puissance, il est dur d'imaginer plus grande puissance que celle de l'écriture d'un logiciel qui
 impactera des millions de personnes. Or les développeurs ont rarement l'impression ou le sentiment de puissance.   
 Donc non, un grand pouvoir n'implique pas une grande responsabilité. Idéalement, ce serait le cas. Idéalement,
 les développeurs se rendront compte qu'ils peuvent utiliser leur puissance pour faire autre chose que jouer
 les divas sur Linkedin parce que leurs profils sont demandés par beaucoup de grosses entreprises. Idéalement,
-un développeur refuserait de développer une application ou une fonctionnalité qui serait contraire à ses 
-valeurs morales.
+un développeur ou une développeuse refuserait de développer une application ou une fonctionnalité qui serait contraire à ses 
+valeurs morales. Idéalement, un développeur chez Doctolib se rendrait compte qu'en automatisant le travail d'une
+secrétaire médicale il participe à précariser ce métier. Idéalement une développeuse chez Betclic se rendrait compte
+qu'en travaillant sur une application mobile de pari en ligne, elle contribue à développer l'addiction aux jeux d'argent
+et aux paris sportifs chez les plus défavorisés.
 
 On l'a vu, la sélection du programme joue un grand rôle dans notre communauté. 
 Or ce pouvoir n'est pas souvent perçu par les organisateurs eux-mêmes. Ce sentiment de responsabilité 
-est au mieux diffus. 
+est au mieux diffus.
 
-# Conclusions  
+# Conclusion numéro 1
 
-## Qui sont les élites de l'informatique ?
+Ces mécanismes s'ils sont parfois compris ne sont pas toujours évidents pour tout le monde.
+Ça vaut peut-être le coup d'en discuter entre nous : 
 
-## Filmer les conférences de dév pour en faciliter l'accès à tout le monde
+* si lors du recrutement je recherche quelqu'un qui va dans des confs de dév, qu'est-ce que ça dit sur moi, 
+  qu'est-ce que ça dit sur le candidat ou la candidate ?
+* si personne ne parle d'ASP.Net, c'est mort ? Si personne parle de SQL Server, c'est donc un mauvais choix technologique ?
+
+Le premier pas pour se prévenir de ses biais est de les connaître, donc d'en discuter entre nous. 
+
+# Conclusion numéro 2: qui sont les élites de l'informatique ?
+
+Dans son article Tyranny of Structurelessness (https://www.jofreeman.com/joreen/tyranny.htm) Jo Freeman
+étudie les groupes militants féministes du 20ème siècle aux états-unis, elle définit les élites d'un
+groupe comme étant un sous-groupe possédant beaucoup de pouvoir mais pas de responsabilité, sans que la
+connaissance de ce pouvoir soit partagé, et sans que le consentement y soit donné.
+
+>Correctly, an elite refers to a small group of people who have power over a larger group of which they are part, usually without direct responsibility to that larger group, and often without their knowledge or consent. 
+
+Si on utilise cette définition, les élites de notre communauté du développement logicielle sont donc
+les individus qui donnent des conférences, et au-dessus d'eux, ceux qui choisissent les programmes des conférences de dév.
  
