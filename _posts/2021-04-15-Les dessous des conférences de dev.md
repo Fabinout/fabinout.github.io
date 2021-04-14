@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Les dessous des conférences de dév"
-description: "Ma lecture biaisée des conférences de dév"
+description: "Ma vision des conférences de dév"
 tags: [Conférences, Sociologie, Meta]
 ---
 
