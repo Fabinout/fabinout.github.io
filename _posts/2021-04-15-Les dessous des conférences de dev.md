@@ -16,7 +16,7 @@ encore d'évoluer_
 Le travail de sociologie s'accompagne d'un effort scientifique d'enquête et de statistiques pour prouver ce qu'on avance.
 Je n'ai pas du tout fait ce travail a priori, donc cet article est très loin d'être au niveau de la rigueur méthodologique
 qu'on attend d'une étude universitaire. C'est au mieux un vague instinct mais je le pose là, ça aura au moins le mérite 
-de constituer un bon point de départ pour une conversation qui pourrait (par accident) être saine.  
+de constituer un bon point de départ pour une conversation qui pourrait être saine.  
  
 ## Le public des conférences de dév est privilégié
 
