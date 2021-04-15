@@ -99,12 +99,6 @@ incité à apprendre des choses à propos d'un sujet précis au détriment d'un 
 
 Et on met à l'index les sujets qui ne seront pas acceptés, alors même qu'ils peuvent être plus pertinent pour notre communauté.
 
-```"Mettre à l'index" est une expression qui vient du moyen-age. À l'époque, l'église relisait les livres qui étaient imprimés, 
-et interdisait la vente, l'impression et la distribution de certains livres qui étaient jugés trop hérétiques, contraires 
-aux moeurs ou dangereux pour la monarchie. Ces livres interdits étaient consignés dans l'Index des livres interdit qui 
-était régulièrement mis à jour qui comprenait des classiques tels l'Emile de JJ.Rousseau, ou l'Esprit des lois de Montesqieu.
-````
-
 ## La fonction d'archive  
 Par le fait de la sélection des programmes, les conférences ont fonction de conservation, parce qu'elles solennisent 
 un sujet dans le temps et l'espace.   
@@ -137,8 +131,7 @@ article intéressant devrait rester toujours dynamique car votre opinion
 
 
 ## Un grand pouvoir n'implique pas une grande responsabilité
-Définition classique de l'implication P=>Q : [définition Wikipedia](https://fr.wikipedia.org/wiki/Implication_(logique)#D%C3%A9finition_en_logique_classique)
-Or Spiderman a tort. Il y a des cas de grands pouvoirs sans grande responsabilités.
+Spiderman a tort. Il y a des cas de grands pouvoirs sans grande responsabilités.
 
 En terme de puissance, il est dur d'imaginer plus grande puissance que celle de l'écriture d'un logiciel qui
 impactera des millions de personnes. Or les développeurs ont rarement l'impression ou le sentiment de puissance.   
