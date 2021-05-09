@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Liste des dons"
-description: ""
-category: 
-tags: [memo]
+description: "liste à la prévers des dons effectués en mon nom à des assos"
+tags: [memo, politique]
 ---
 
 Ceci est la suite de l'article sur [comment lutter en tant que développeur](2021-02-11-Faire%20la%20grève%20en%20tant%20que%20développeur.md). 
@@ -19,3 +18,4 @@ des associations auxquelles je croyais.
 09/05/2021 La quadrature du net : 200€          
 09/05/2021 Le planning familial : 200€           
 
+*NB: Ces dons ne seront pas défiscalisés.*
