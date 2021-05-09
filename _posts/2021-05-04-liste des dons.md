@@ -5,7 +5,7 @@ description: "liste à la prévers des dons effectués en mon nom à des assos"
 tags: [memo, politique]
 ---
 
-Ceci est la suite de l'article sur [comment lutter en tant que développeur](2021-02-11-Faire%20la%20grève%20en%20tant%20que%20développeur.md). 
+Ceci est la suite de l'article sur [comment lutter en tant que développeur](../2021-02-11-Faire%20la%20grève%20en%20tant%20que%20développeur.md). 
 Ma conclusion était que matériellement, le plus efficace était de redistribuer ce que je gagnais en trop à des causes ou
 des associations auxquelles je croyais. 
 
