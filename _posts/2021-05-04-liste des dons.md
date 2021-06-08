@@ -17,5 +17,7 @@ des associations auxquelles je croyais.
 06/05/2021 le réveilleur (youtubeur): 800€        
 09/05/2021 La quadrature du net : 200€          
 09/05/2021 Le planning familial : 200€           
+01/06/2021 Louis Witter (reporter photo) : 500€     
+
 
 *NB: Ces dons ne seront pas défiscalisés.*
