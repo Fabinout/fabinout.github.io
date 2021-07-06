@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Liste des dons"
-description: "liste à la prévers des dons effectués en mon nom à des assos"
+description: "Liste à la Prévert des dons effectués en mon nom à des assos"
 tags: [memo, politique]
 ---
 
