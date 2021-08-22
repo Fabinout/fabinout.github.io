@@ -62,8 +62,8 @@ patrimoine commun à mon niveau. Je ne me fais aucune illusion, je ne renversera
 en faisant mes courses à pieds, mais c'est un acte militant. C'est faisable et ça me plait. 
 
 
-Citation de Socrate, alors qu'il passait devant le marché d'Athène :
-> *Que de chose dont je n'ai pas besoin...*
+Citation de Socrate, alors qu'il passait devant le marché d'Athènes :
+> *Que de choses dont je n'ai pas besoin...*
 
 ### Des trucs à lire      
  
@@ -89,7 +89,7 @@ et les oeuvres de Paulo Freire
 * Se reposer, écouter des podcasts ou du punk
 
 
-### parenthèse importante  
+### Parenthèse importante  
 
 Il est à noter que je gagne extrêmement bien ma vie et que je suis dans une situation de grand privilège. En étant 
  transparent et beaucoup plus terre-à-terre, je choisis volontairement de :
