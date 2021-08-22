@@ -94,5 +94,5 @@ et les oeuvres de Paulo Freire
 Il est à noter que je gagne extrêmement bien ma vie et que je suis dans une situation de grand privilège. En étant 
  transparent et beaucoup plus terre-à-terre, je choisis volontairement de :
 
-* réduire ce que je gagne en travaillant au 3/5, il me reste quand même plus que le salaire médian français
+* réduire ce que je gagne en travaillant au 3/5({% post_url 2020-10-10-Bilan de l'année 2019 %}), il me reste quand même plus que le salaire médian français
 * redonner à des assos/bloggers/vloggers ou ne pas dépenser ce que je gagne en trop (thésaurisation)
