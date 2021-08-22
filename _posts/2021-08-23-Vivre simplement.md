@@ -21,7 +21,7 @@ Il faut choisir de vivre une double vie, entamer un voyage. Quitter la vie d'ava
 du monde productiviste et parcourir le chemin vers la vie d'après, celle de nos sens, du contact, de la 
 dépendance aux autres. Je vais vers une utopie, je ne sais pas exactement où, probablement sans arrivée. Mais depuis que 
 j'emprunte ce chemin je suis convaincu de ma direction.
-[Je quitte Omelas] (https://monsieurphi.com/2020/01/03/ceux-qui-partent-domelas-ursula-k-le-guin/). Je n'ai pas encore 
+[Je quitte Omelas](https://monsieurphi.com/2020/01/03/ceux-qui-partent-domelas-ursula-k-le-guin/). Je n'ai pas encore 
 lâché toutes les amarres, ce dont je suis sûr, c'est 
 que je ne veux plus surinvestir le champ professionnel de ma vie. Ça ne m'intéresse pas, ça ne me concerne plus. Je veux privilégier ma vie de 
 famille, mon savoir-faire manuel, mon épanouissement, ma paix, ma santé. Je veux échanger beaucoup plus, partager, et 
@@ -40,7 +40,7 @@ bon pour un développeur indépendant. La brutalité stupide de la loi du march�
 Depuis l'année dernière, j'ai ma réponse. Faut-il volontairement que je gagne moins d'argent pour devenir plus écolo ?
 Non. Mais il faut du temps et de l'énergie pour arpenter ce chemin et devenir écologiste. Vivre
 simplement permet de trouver le temps de se documenter, de réfléchir sans être en guerre contre une
-[économie de l'attention] (https://fr.wikipedia.org/wiki/%C3%89conomie_de_l%27attention) qui aura le dernier mot. Diminuer
+[économie de l'attention](https://fr.wikipedia.org/wiki/%C3%89conomie_de_l%27attention) qui aura le dernier mot. Diminuer
 son temps de travail permet d'économiser son énergie, de grandir, d'évoluer, de changer de cap. 
 
 Vivre simplement c'est réparer même ce qu'on ne pense pas réparable. Se mettre à la couture. Récupérer des meubles,
@@ -67,7 +67,7 @@ Citation de Socrate, alors qu'il passait devant le marché d'Athène :
 
 ### Des trucs à lire      
  
-*The political economy of degrowth*, Timothée Parrique (PDF : https://www.researchgate.net/publication/339844751_The_Political_Economy_of_Degrowth)
+*The political economy of degrowth*, Timothée Parrique [PDF](https://www.researchgate.net/publication/339844751_The_Political_Economy_of_Degrowth)
 
 *Le nouvel esprit du capitalisme*,  Luc Boltansky
 
@@ -79,7 +79,7 @@ Citation de Socrate, alors qu'il passait devant le marché d'Athène :
 
 * Prendre une carte à la bibliothèque, une place dans un jardin potager ouvrier et emprunter des livres sur le potager.
 
-* Pour apprendre à plusieurs, apprendre aux autres : [La pédagogie critique] (https://fr.wikipedia.org/wiki/P%C3%A9dagogie_critique) 
+* Pour apprendre à plusieurs, apprendre aux autres : [La pédagogie critique](https://fr.wikipedia.org/wiki/P%C3%A9dagogie_critique) 
 et les oeuvres de Paulo Freire
 
 * Chercher à bricoler des trucs soi-même, et emprunter le matériel aux voisins
@@ -94,5 +94,5 @@ et les oeuvres de Paulo Freire
 Il est à noter que je gagne extrêmement bien ma vie et que je suis dans une situation de grand privilège. En étant 
  transparent et beaucoup plus terre-à-terre, je choisis volontairement de :
 
-* réduire ce que je gagne en travaillant au 3/5({% post_url 2020-10-10-Bilan de l'année 2019 %}), il me reste quand même plus que le salaire médian français
+* réduire ce que je gagne en [travaillant au 3/5](https://fabien-lamarque.eu/Bilan-de-l'ann%C3%A9e-2019/), il me reste quand même plus que le salaire médian français
 * redonner à des assos/bloggers/vloggers ou ne pas dépenser ce que je gagne en trop (thésaurisation)
