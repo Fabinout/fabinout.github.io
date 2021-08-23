@@ -17,7 +17,7 @@ d'argent, pour s'astreindre à la simplicité volontaire, à l'austérité ?**
 
 L'envie d'être écologiste, c'est moins consommer, et 
 non pas mieux consommer. Il serait tentant de juste mieux consommer, mais la solution ne sera pas si simple.     
-Il faut choisir de vivre une double vie, entamer un voyage. Quitter la vie d'avant, celle du monde réelle, du salariat,
+Il faut choisir de vivre une double vie, entamer un voyage. Quitter la vie d'avant, celle du monde réel, du salariat,
 du monde productiviste et parcourir le chemin vers la vie d'après, celle de nos sens, du contact, de la 
 dépendance aux autres. Je vais vers une utopie, je ne sais pas exactement où, probablement sans arrivée. Mais depuis que 
 j'emprunte ce chemin je suis convaincu de ma direction.
