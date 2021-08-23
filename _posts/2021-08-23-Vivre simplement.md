@@ -6,12 +6,12 @@ category:
 tags: [Personnel, Ecologie, Sociologie, Philosophie]
 ---
 
-J'ai commencé à écrire cette article en 2019, il s'appelait **Ecologie et haut salaire ?** : 
+J'ai commencé à écrire cet article en 2019, il s'appelait **Ecologie et haut salaire ?** : 
 
 > Tout commence quand un copain me partage une réflexion intéressante : la consommation (de ressources naturelles, de biens 
 produits, d'énergie) étant proportionnelle au capital (plus tu gagnes d'argent plus tu consommes, plus
 t'as de chance d'avoir une maison individuelle, plus tu prends l'avion, etc.). Le plus facile est donc de gagner moins d'argent si on
-veut moins consommer. ça m'a un peu fait réfléchir à ce sentiment de fierté que j'ai quand je gagne plus d'argent qu'avant.
+veut moins consommer. Ça m'a un peu fait réfléchir à ce sentiment de fierté que j'ai quand je gagne plus d'argent qu'avant.
 Donc question ouverte du weekend, **est-ce qu'une vraie démarche écolo, ce serait pas de volontairement gagner moins 
 d'argent, pour s'astreindre à la simplicité volontaire, à l'austérité ?**
 
@@ -30,8 +30,8 @@ Je refuse d'accumuler du capital culturel et financier. [Je refuse de parvenir](
 Je refuse de dominer à nouveau qui que ce soit. 
 
 
-Plus jeune, j'ai souvent pensé que ma valeur personnelle était indexée sur mon salaire. Que plus j'étais payée, plus j'avais 
-de valeur. Que je raisonnais comme un vulgaire entrepreneur avec sa start-up, je devais être flexible, efficace, m'adapter, apprendre,
+Plus jeune, j'ai souvent pensé que ma valeur personnelle était indexée sur mon salaire. Que plus j'étais payé, plus j'avais 
+de valeur. Je raisonnais comme un vulgaire entrepreneur avec sa start-up, je devais être flexible, efficace, m'adapter, apprendre,
 cultiver une image de développeur de qualité, être juste assez provocant pour montrer mon assurance, apprendre à négocier,
 et toujours gagner la compétition. J'étais fier qu'on me jalouse et qu'on m'envie mais je ne le réalisais pas. 
 J'ai réalisé récemment que je raisonnais comme si j'étais une entreprise. Ce qui était bon pour une start-up se devait d'être
@@ -56,10 +56,13 @@ tous les dimanches pour aller chercher du pain. Mais le voyage, c'est pas la bou
 marche dans la forêt, les insectes observés avec mes enfants, les chansons improvisées, et les multiples rencontre qui 
 sépare ma maison de la boulangerie. 
 
+### Vivre simplement, c'est pas faire du vélo et acheter du bio.
+
 Vivre simplement, c'est pas faire du vélo et acheter du bio. C'est refuser de participer à une course, refuser les honneurs. 
-Pour moi, c'est aussi reconnaitre mes pulsions consuméristes (allo Fabien en 2019, tu achètes nettement plus de livres
+Pour moi, c'est aussi reconnaître mes pulsions consuméristes (allo Fabien en 2019, tu achètes nettement plus de livres
 que tu n'en lis, juste parce que tu aimerais être le genre de personne qui lit ces livres). Je veux faire vivre le 
-patrimoine commun à mon niveau. Je ne me fais aucune illusion, je ne renverserai pas le capitalisme en brassant ma bière et
+patrimoine commun, les bibliothèques, les clubs. Animer des associations, des collectifs, une vie de quartier. Je 
+ne me fais aucune illusion, je ne renverserai pas le capitalisme en brassant ma bière et
 en faisant mes courses à pieds, mais c'est un acte militant. C'est faisable et ça me plait. 
 
 
