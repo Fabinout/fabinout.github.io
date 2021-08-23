@@ -26,7 +26,8 @@ lâché toutes les amarres, ce dont je suis sûr, c'est
 que je ne veux plus surinvestir le champ professionnel de ma vie. Ça ne m'intéresse pas, ça ne me concerne plus. Je veux privilégier ma vie de 
 famille, mon savoir-faire manuel, mon épanouissement, ma paix, ma santé. Je veux échanger beaucoup plus, partager, et 
 enrichir les autres et moi-même. Je refuse d'utiliser mon smartphone. Je refuse de faire un investissement locatif.
-Je refuse d'accumuler du capital culturel et financier. Je refuse de dominer à nouveau qui que ce soit.
+Je refuse d'accumuler du capital culturel et financier. [Je refuse de parvenir](https://fr.wikipedia.org/wiki/Refus_de_parvenir).
+Je refuse de dominer à nouveau qui que ce soit. 
 
 
 Plus jeune, j'ai souvent pensé que ma valeur personnelle était indexée sur mon salaire. Que plus j'étais payée, plus j'avais 
@@ -38,12 +39,12 @@ bon pour un développeur indépendant. La brutalité stupide de la loi du march�
  
 
 Depuis l'année dernière, j'ai ma réponse. Faut-il volontairement que je gagne moins d'argent pour devenir plus écolo ?
-Non. Mais il faut du temps et de l'énergie pour arpenter ce chemin et devenir écologiste. Vivre
-simplement permet de trouver le temps de se documenter, de réfléchir sans être en guerre contre une
-[économie de l'attention](https://fr.wikipedia.org/wiki/%C3%89conomie_de_l%27attention) qui aura le dernier mot. Diminuer
-son temps de travail permet d'économiser son énergie, de grandir, d'évoluer, de changer de cap. 
+Oui. D'une part réduire mes revenus diminue statistiquement mon empreinte carbone.
+Mais à mon sens, le plus important est de les heures de travail salarié. Vivre simplement permet de trouver le temps
+de se documenter, de réfléchir sans être en guerre contre une [économie de l'attention](https://fr.wikipedia.org/wiki/%C3%89conomie_de_l%27attention) qui aura le dernier mot. Diminuer
+son temps de travail permet d'économiser son énergie, de grandir, d'évoluer, de changer de cap.  
 
-Vivre simplement c'est réparer même ce qu'on ne pense pas réparable. Se mettre à la couture. Récupérer des meubles,
+Vivre simplement c'est réparer même ce qu'on ne pense pas réparable et c'est un travail non-salarié. Se mettre à la couture. Récupérer des meubles,
 des vêtements, des matériaux et faire soi-même. Se modérer et vivre. Prendre le temps d'y aller, et se laisser le droit
 d'avoir tort. Choisir ce qu'on consomme et refuser de tout obtenir tout de suite, pour mieux choisir, et pour se laisser
 le temps de changer d'avis. Oui si je veux, je peux acheter la dernière PS5 et le dernier jeu vidéo à la mode et me
