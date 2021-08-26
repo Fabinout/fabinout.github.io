@@ -6,7 +6,7 @@ category:
 tags: [Personnel, Ecologie, Sociologie, Philosophie]
 ---
 
-J'ai commencé à écrire cet article en 2019, il s'appelait **Ecologie et haut salaire ?** : 
+J'ai commencé à écrire cet article de 5-6 de lignes en 2019, il s'appelait **Ecologie et haut salaire ?** : 
 
 > Tout commence quand un copain me partage une réflexion intéressante : la consommation (de ressources naturelles, de biens 
 produits, d'énergie) étant proportionnelle au capital (plus tu gagnes d'argent plus tu consommes, plus
@@ -40,7 +40,7 @@ bon pour un développeur indépendant. La brutalité stupide de la loi du march�
 
 Depuis l'année dernière, j'ai ma réponse. Faut-il volontairement que je gagne moins d'argent pour devenir plus écolo ?
 Oui. D'une part réduire mes revenus diminue statistiquement mon empreinte carbone.
-Mais à mon sens, le plus important est de les heures de travail salarié. Vivre simplement permet de trouver le temps
+Mais à mon sens, le plus important est de diminuer les heures de travail salarié. Vivre simplement permet de trouver le temps
 de se documenter, de réfléchir sans être en guerre contre une [économie de l'attention](https://fr.wikipedia.org/wiki/%C3%89conomie_de_l%27attention) qui aura le dernier mot. Diminuer
 son temps de travail permet d'économiser son énergie, de grandir, d'évoluer, de changer de cap.  
 
