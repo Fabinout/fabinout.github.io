@@ -8,9 +8,9 @@ tags: [Personnel, Philosophie]
 
 Depuis début septembre je donne mon sperme au CECOS (_Centre d'étude et de conservation des œufs et du sperme humains_) de Bordeaux, à l'hôpital Pellegrin.
 
-#Comment ça se passe ? 
+# Comment ça se passe ? 
 
-##Qui peut donner son sperme ?
+## Qui peut donner son sperme ?
 
 Tous les individus mâles entre 18 et 45 ans en bonne santé.        
 Il n'est plus nécessaire d'avoir fait preuve de sa fertilité (*avoir eu des enfants*), n'importe qui peut y aller.
@@ -49,7 +49,7 @@ Puis il faut faire dans un ordre très précis :
 *Éjaculer dans la fiole, la reboucher
 *Se rhabiller et appeler l'infirmière
 
-#Pourquoi j'en parle
+# Pourquoi j'en parle
 
 Les parcours PMA aboutissent à plus de 3,5% des enfants nés en France (25 000).
 Il y a toujours eu besoin de dons de sperme pour des parcours de PMA avec
@@ -61,18 +61,18 @@ un futur papa de donner 5 ou 10 éjaculats, puis de filtrer les meilleurs, pour 
 Comme un donateur de sperme suffit à fournir assez pour 10 enfants, chaque CECOS a pas besoin de plus qu'une poignée de donateurs par an. 
 Or la situation est très spéciale en ce moment dans les CECOS.
 
-###La levée de l'anonymat
+### La levée de l'anonymat
 
 Avant septembre 2021, les dons étaient purement anonymes, et ils ne le sont plus vraiment, les enfants peuvent 
 récupérer ces informations relatives à leur géniteur à leurs 18 ans. Cette levée d'anonymat a pour effet (prévu, car la situation s'est déjà passée en Suède notamment)
 de diminuer sensiblement les dons de sperme.
 
-###Le COVID
+### Le COVID
 
 Depuis Mars 2020, les dons ont été arrêtés temporairement (on ne savait pas si le COVID pouvait toucher les enfants, comment il se transmettait, etc.).
 Certains centres CECOS n'ont pas reçu un seul nouveau donateur depuis plus d'1 an et demi. 
 
-###L'ouverture de la PMA aux couples de femmes et aux femmes seules
+### L'ouverture de la PMA aux couples de femmes et aux femmes seules
 
 Depuis la loi pour la PMA pour toutes, les femmes seules et les femmes en couple pourront bénéficier d'un parcours 
 de PMA en France. C'est un public qui logiquement aura systématiquement recours au don de sperme. D'après les estimations
@@ -81,11 +81,12 @@ avoir une demande 2 à 3 fois plus élevée que les années précédentes.
 
 Si j'ai bien compris, au CECOS de Bordeaux, aujourd'hui, on refuse de prendre des nouveaux couples par manque de sperme.
 
-###Au final
+### Au final
 
 *Les stocks de sperme sont très bas
 *La demande en sperme va augmenter
 *Les dons vont baisser 
 
 La situation est donc difficile, et les CECOS craignent de ne plus pouvoir accomplir leur mission.
+
 
