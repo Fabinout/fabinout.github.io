@@ -89,4 +89,69 @@ Si j'ai bien compris, au CECOS de Bordeaux, aujourd'hui, on refuse de prendre de
 
 La situation est donc difficile, et les CECOS craignent de ne plus pouvoir accomplir leur mission.
 
+Pour une ressource que j'ai en quantité quasi-illimitée, et comme j'habite à une demi-heure du CHU de chez moi, je trouve ça vraiment dommage de ne pas partager.
+
+# Et la philosophie ?
+
+Je l'ai dit, pour faire un don, il faut passer un entretien avec un ou une psychologue. 
+Pour cet entretien, c'est mieux d'être bien préparé, donc voici quelques pistes de réflexion.
+
+## Qu'est-ce qu'un père ?
+
+Il y a deux concepts qu'il est important de différencier.      
+**Le géniteur**, c'est celui qui a fourni le sperme, le parent biologique mâle.    
+**Le père**, c'est la figure paternelle, celui qui a élevé l'enfant.   
+
+L'acte de don de sperme fera de vous (si tout se passe bien) le géniteur d'au maximum 10 enfants (qu'on appelle la progéniture). Mais vous ne 
+serez pas leur père. Le lien qui vous unira à eux sera purement mécanique, chimique. Il ne vous appartient pas de 
+les élever, de les éduquer, ou de les protéger. Votre progéniture n'est pas vos enfants.
+
+### Personnellement, qu'est-ce que ça veut dire ? 
+
+J'ai souvent entendu "Mon enfant je l'ai tout de suite aimé", "Je ferai tout pour protéger et aimer mon fils", "J'ai 
+pleuré de bonheur lors de la naissance" de la part de mamans et de papas.         
+C'est un sentiment que je n'ai jamais ressenti, cette sorte de pulsion biologique de protéger son enfant (_qui est d'ailleurs
+la figure paternelle traditionnelle, la main droite de l'état, celle qui punit et qui protège_).
+Au contraire, je regardais circonspect mon enfant en me demandant pendant encore combien de temps il m'empêcherait de dormir. Pas d'amour
+fou, pas de déluge d'hormone, rien d'intense.      
+Évidemment même si je ne débordais pas d'amour et de naiseries, je faisais quand même toutes les tâches nécessaires 
+à la survie de ma progéniture, mais je voyais ça comme un moyen de soutenir ma femme et de lui laisser le maximum de 
+repos et le moins de charge mentale.
+
+Puis quand la progéniture a a grandi, les interactions se sont multipliées, la langue des signes puis le langage 
+sont arrivées. Le temps passé avec la progéniture devenait de plus en plus agréable, les activités finissaient 
+en éclats de rire, les sorties en tête-à-tête se ritualisaient. Le confinement est arrivé, et je passais la plus grande partie
+de mon temps libre avec elle, puis je l'aimais.
+
+C'est ce qu'on a appelé la patrescence, la naissance du père, le moment où la figure paternelle remplace le géniteur. 
+Ça n'est pas arrivé comme ça, c'est arrivé lentement. Comme une amitié profonde, un amour d'une vie, quand on a passé suffisamment 
+de temps avec quelqu'un pour se connaître par cœur. 
+
+J'ai déjà entendu "_tu as une relation fusionnelle avec ton enfant, t'as de la chance moi ma femme m'empêche d'avoir
+une relation avec mon fils_", et je pense que c'est faux. Une mère n'empêche pas d'avoir une relation avec un enfant, il 
+faut savoir en tant que papa-débutant prendre son temps, apprendre à le connaître et le laisser lui aussi apprendre
+à nous connaître. C'est un processus long et fascinant qui n'empiète pas du tout sur la relation mère-enfant.
+
+Les deux étapes étant parfaitement séparées, la distinction est très claire pour moi. Les enfants nés de mon don de sperme
+ne sont pas mes enfants, c'est tout.
+
+## Et la levée de l'anonymat, ça signifie quoi ?
+
+Ça veut dire que si l'un de ces 10 enfants le désire, il peut être amené à 18 ans à faire la
+demande à l'hôpital et récupérer votre nom, prénom et date de naissance.
+
+Ça veut dire plusieurs choses : 
+
+* Il est au courant qu'il est issu de PMA avec don de sperme ce qui n'est pas si courant
+* Il souffre d'un manque de figure paternelle et recherche des réponses en recherchant qui est son père
+* puisqu'on a vu que la PMA allait être accessible aux femmes seules et aux couples homo, il est un peu plus probable que les enfants
+nés dans ces conditions savent qu'ils sont issus d'une PMA avec don de sperme, et plus probable à mon avis qu'ils souffrent
+d'un manque de figure paternelle (_je ne suis pas sûr, venez m'en parler si vous n'êtes pas d'accord_)
+
+
+C'est à dire que si vous commencez ces démarches, il faut bien être sûr de savoir ce que signifie être père et être géniteur,
+mais surtout vous pouvez vous retrouver face à un jeune garçon ou une jeune 
+fille de 18 ans un peu paumée qui serait en recherche d'une figure paternelle, de rencontrer vos enfants, de trouver des repères.
+Dans ce cas là, il faut être prêt à avoir une discussion un peu difficile, si la progéniture recherche une figure paternelle, 
+ça ne peut pas être vous, c'est un problème qui se règlerait avec un ou une psychologue. 
 
