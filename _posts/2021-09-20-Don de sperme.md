@@ -40,14 +40,14 @@ Si les 10 enfants sont nés grâce à votre don, les paillettes restantes peuven
 On m'a amené dans une salle stérilisée d'hôpital (salle de recueil). 
 Puis il faut faire dans un ordre très précis : 
 
-*Descendre son pantalon        
-*Nettoyer son gland avec un produit stérilisant      
-*Rincer le gland        
-*Laver ses mains consciencieusement     
-*Ouvrir le tube qui servira de réceptacle     
-*Se masturber (mais à cause du COVID y a pas de magazines, ni quoi que ce soit dans la salle)      
-*Éjaculer dans la fiole, la reboucher       
-*Se rhabiller et appeler l'infirmière         
+* Descendre son pantalon        
+* Nettoyer son gland avec un produit stérilisant      
+* Rincer le gland        
+* Laver ses mains consciencieusement     
+* Ouvrir le tube qui servira de réceptacle     
+* Se masturber (mais à cause du COVID y a pas de magazines, ni quoi que ce soit dans la salle)      
+* Éjaculer dans la fiole, la reboucher       
+* Se rhabiller et appeler l'infirmière         
 
 # Pourquoi j'en parle
 
@@ -83,9 +83,9 @@ Si j'ai bien compris, au CECOS de Bordeaux, aujourd'hui, on refuse de prendre de
 
 ### Au final
 
-*Les stocks de sperme sont très bas   
-*La demande en sperme va augmenter   
-*Les dons vont baisser    
+* Les stocks de sperme sont très bas   
+* La demande en sperme va augmenter   
+* Les dons vont baisser    
 
 La situation est donc difficile, et les CECOS craignent de ne plus pouvoir accomplir leur mission.
 
