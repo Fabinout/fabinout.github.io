@@ -6,9 +6,14 @@ category:
 tags: [Personnel, Philosophie]
 ---
 
-Depuis début septembre je donne mon sperme au CECOS (_Centre d'étude et de conservation des œufs et du sperme humains_) de Bordeaux, à l'hôpital Pellegrin.
+L'article est en deux partie :     
+1. Une partie descriptive et pratique sur le don de sperme
+2. Une partie plutôt philosophique, qu'est-ce que ça veut dire donner son sperme à un centre de PMA ?
 
-# Comment ça se passe ? 
+
+# Comment ça se passe ?
+
+Depuis début septembre je donne mon sperme au CECOS (_Centre d'étude et de conservation des œufs et du sperme humains_) de Bordeaux, à l'hôpital Pellegrin.
 
 ## Qui peut donner son sperme ?
 
@@ -17,6 +22,10 @@ Il n'est plus nécessaire d'avoir fait preuve de sa fertilité (*avoir eu des en
 
 En bonne santé, ça veut dire pas de MST/IST, pas d'hépatite, pas de maladie génétique.    
 Il est nécessaire d'avoir l'accord de son ou sa conjointe.
+
+#### Où aller ?
+
+Au CECOS de votre région, qui se trouve dans le CHU du coin. Il faut les appeler pour prendre le premier rendez-vous.
 
 ## Quelles sont les conditions ?
 
@@ -118,13 +127,13 @@ fou, pas de déluge d'hormone, rien d'intense.
 à la survie de ma progéniture, mais je voyais ça comme un moyen de soutenir ma femme et de lui laisser le maximum de 
 repos et le moins de charge mentale.
 
-Puis quand la progéniture a a grandi, les interactions se sont multipliées, la langue des signes puis le langage 
+Puis quand la progéniture a grandi, les interactions se sont multipliées, la langue des signes puis le langage 
 sont arrivées. Le temps passé avec la progéniture devenait de plus en plus agréable, les activités finissaient 
 en éclats de rire, les sorties en tête-à-tête se ritualisaient. Le confinement est arrivé, et je passais la plus grande partie
 de mon temps libre avec elle, puis je l'aimais.
 
 C'est ce qu'on a appelé la patrescence, la naissance du père, le moment où la figure paternelle remplace le géniteur. 
-Ça n'est pas arrivé comme ça, c'est arrivé lentement. Comme une amitié profonde, un amour d'une vie, quand on a passé suffisamment 
+Ça n'est pas arrivé comme ça un mardi, c'est arrivé lentement. Comme une amitié profonde, un amour d'une vie, quand on a passé suffisamment 
 de temps avec quelqu'un pour se connaître par cœur. 
 
 J'ai déjà entendu "_tu as une relation fusionnelle avec ton enfant, t'as de la chance moi ma femme m'empêche d'avoir
@@ -153,5 +162,6 @@ C'est à dire que si vous commencez ces démarches, il faut bien être sûr de s
 mais surtout vous pouvez vous retrouver face à un jeune garçon ou une jeune 
 fille de 18 ans un peu paumée qui serait en recherche d'une figure paternelle, de rencontrer vos enfants, de trouver des repères.
 Dans ce cas là, il faut être prêt à avoir une discussion un peu difficile, si la progéniture recherche une figure paternelle, 
-ça ne peut pas être vous, c'est un problème qui se règlerait avec un ou une psychologue. 
+ça ne peut pas être vous, c'est un problème qui se règlerait avec un ou une psychologue. Ne pas refuser d'avoir
+une discussion difficile si ça signifie aider 10 femmes seules ou couples à enfin vivre leur rêve d'avoir un enfant.
 
