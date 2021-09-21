@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DRAFT/ Je donne mon sperme"
+title: "Je donne mon sperme"
 description: "Réflexions sur le rôle du père, et informations diverses sur le don de sperme"
 category: 
 tags: [Personnel, Philosophie]
