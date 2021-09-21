@@ -54,7 +54,7 @@ Puis il faut faire dans un ordre très précis :
 * Rincer le gland        
 * Laver ses mains consciencieusement     
 * Ouvrir le tube qui servira de réceptacle     
-* Se masturber (mais à cause du COVID y a pas de magazines, ni quoi que ce soit dans la salle)      
+* Se masturber (mais pour cause de COVID, pas de magazine pornographique ni quoi que ce soit)      
 * Éjaculer dans la fiole, la reboucher       
 * Se rhabiller et appeler l'infirmière         
 
@@ -67,7 +67,7 @@ couples qui font le parcours PMA se contentent de faire une FIV et de faire des 
 sélection de sperme (avec une sélection magnétique, on est capable d'écarter les spermatozoïdes en état de mort embryonnaire, donc on peut demander à
 un futur papa de donner 5 ou 10 éjaculats, puis de filtrer les meilleurs, pour être sûr de réussir la FIV).
 
-Comme un donateur de sperme suffit à fournir assez pour 10 enfants, chaque CECOS a pas besoin de plus qu'une poignée de donateurs par an. 
+Comme un donateur de sperme suffit à fournir assez pour 10 enfants, un CECOS n'a besoin que d'une poignée de donateurs par an. 
 Or la situation est très spéciale en ce moment dans les CECOS.
 
 ### La levée de l'anonymat
@@ -119,11 +119,11 @@ les élever, de les éduquer, ou de les protéger. Votre progéniture n'est pas 
 
 J'ai souvent entendu "Mon enfant je l'ai tout de suite aimé", "Je ferai tout pour protéger et aimer mon fils", "J'ai 
 pleuré de bonheur lors de la naissance" de la part de mamans et de papas.         
-C'est un sentiment que je n'ai jamais ressenti, cette sorte de pulsion biologique de protéger son enfant (_qui est d'ailleurs
-la figure paternelle traditionnelle, la main droite de l'état, celle qui punit et qui protège_).
+C'est un sentiment que je n'ai jamais ressenti, cette sorte de pulsion biologique de protéger son enfant (_c'est un peu
+la figure paternelle traditionnelle, celle qui punit et qui protège_).
 Au contraire, je regardais circonspect mon enfant en me demandant pendant encore combien de temps il m'empêcherait de dormir. Pas d'amour
 fou, pas de déluge d'hormone, rien d'intense.      
-Évidemment même si je ne débordais pas d'amour et de naiseries, je faisais quand même toutes les tâches nécessaires 
+Évidemment même si je ne débordais pas d'amour, je faisais quand même toutes les tâches nécessaires 
 à la survie de ma progéniture, mais je voyais ça comme un moyen de soutenir ma femme et de lui laisser le maximum de 
 repos et le moins de charge mentale.
 
@@ -136,12 +136,12 @@ C'est ce qu'on a appelé la patrescence, la naissance du père, le moment où la
 Ça n'est pas arrivé comme ça un mardi, c'est arrivé lentement. Comme une amitié profonde, un amour d'une vie, quand on a passé suffisamment 
 de temps avec quelqu'un pour se connaître par cœur. 
 
-J'ai déjà entendu "_tu as une relation fusionnelle avec ton enfant, t'as de la chance moi ma femme m'empêche d'avoir
-une relation avec mon fils_", et je pense que c'est faux. Une mère n'empêche pas d'avoir une relation avec un enfant, il 
+J'ai déjà entendu "_tu as une relation fusionnelle avec ton enfant_", et je pense que c'est faux, comme le coup de foudre qui n'existe pas. Il 
 faut savoir en tant que papa-débutant prendre son temps, apprendre à le connaître et le laisser lui aussi apprendre
-à nous connaître. C'est un processus long et fascinant qui n'empiète pas du tout sur la relation mère-enfant.
+à nous connaître. C'était pour moi un processus long et fascinant.
 
-Les deux étapes étant parfaitement séparées, la distinction est très claire pour moi. Les enfants nés de mon don de sperme
+
+La distinction est étant très claire pour moi. Les enfants nés de mon don de sperme
 ne sont pas mes enfants, c'est tout.
 
 ## Et la levée de l'anonymat, ça signifie quoi ?
@@ -151,17 +151,16 @@ demande à l'hôpital et récupérer votre nom, prénom et date de naissance.
 
 Ça veut dire plusieurs choses : 
 
-* Il est au courant qu'il est issu de PMA avec don de sperme ce qui n'est pas si courant
-* Il souffre d'un manque de figure paternelle et recherche des réponses en recherchant qui est son père
-* puisqu'on a vu que la PMA allait être accessible aux femmes seules et aux couples homo, il est un peu plus probable que les enfants
-nés dans ces conditions savent qu'ils sont issus d'une PMA avec don de sperme, et plus probable à mon avis qu'ils souffrent
-d'un manque de figure paternelle (_je ne suis pas sûr, venez m'en parler si vous n'êtes pas d'accord_)
+* Il sait qu'il est issu de PMA avec don de sperme ce qui n'est pas si courant
+* Il souffre d'un manque de figure paternelle et recherche des réponses en recherchant qui est son père, est-ce qu'il a des frères et sœurs
+* puisqu'on a vu que la PMA allait être accessible aux femmes seules et aux couples homo, il est plus probable que les enfants
+nés dans ces conditions savent qu'ils sont issus d'une PMA avec don de sperme et manquent d'une figure paternelle
 
 
 C'est à dire que si vous commencez ces démarches, il faut bien être sûr de savoir ce que signifie être père et être géniteur,
 mais surtout vous pouvez vous retrouver face à un jeune garçon ou une jeune 
 fille de 18 ans un peu paumée qui serait en recherche d'une figure paternelle, de rencontrer vos enfants, de trouver des repères.
-Dans ce cas là, il faut être prêt à avoir une discussion un peu difficile, si la progéniture recherche une figure paternelle, 
-ça ne peut pas être vous, c'est un problème qui se règlerait avec un ou une psychologue. Ne pas refuser d'avoir
+Dans ce cas là, il faut être prêt à avoir une discussion un peu difficile, si la progéniture recherche un papa, 
+ça ne peut pas être vous, c'est un problème qui doit se régler avec un ou une psychologue. Ne pas refuser d'avoir
 une discussion difficile si ça signifie aider 10 femmes seules ou couples à enfin vivre leur rêve d'avoir un enfant.
 
