@@ -21,7 +21,7 @@ Tous les individus mâles entre 18 et 45 ans en bonne santé.
 Il n'est plus nécessaire d'avoir fait preuve de sa fertilité (*avoir eu des enfants*), n'importe qui peut y aller.
 
 En bonne santé, ça veut dire pas de MST/IST, pas d'hépatite, pas de maladie génétique.    
-Il est nécessaire d'avoir l'accord de son ou sa conjointe.
+Si vous êtes marié, il est nécessaire d'avoir l'accord de son ou sa conjointe.
 
 #### Où aller ?
 
@@ -154,13 +154,14 @@ demande à l'hôpital et récupérer votre nom, prénom et date de naissance.
 * Il sait qu'il est issu de PMA avec don de sperme ce qui n'est pas si courant
 * Il souffre d'un manque de figure paternelle et recherche des réponses en recherchant qui est son père, est-ce qu'il a des frères et sœurs
 * puisqu'on a vu que la PMA allait être accessible aux femmes seules et aux couples homo, il est plus probable que les enfants
-nés dans ces conditions savent qu'ils sont issus d'une PMA avec don de sperme et manquent d'une figure paternelle
+nés dans ces conditions sachent qu'ils sont issus d'une PMA avec don de sperme et peuvent rechercher une figure paternelle ou leurs origines génétiques
 
 
-C'est à dire que si vous commencez ces démarches, il faut bien être sûr de savoir ce que signifie être père et être géniteur,
+C'est-à-dire que si vous commencez ces démarches, il faut bien être sûr de savoir ce que signifie être père et être géniteur,
 mais surtout vous pouvez vous retrouver face à un jeune garçon ou une jeune 
 fille de 18 ans un peu paumée qui serait en recherche d'une figure paternelle, de rencontrer vos enfants, de trouver des repères.
 Dans ce cas là, il faut être prêt à avoir une discussion un peu difficile, si la progéniture recherche un papa, 
-ça ne peut pas être vous, c'est un problème qui doit se régler avec un ou une psychologue. Ne pas refuser d'avoir
-une discussion difficile si ça signifie aider 10 femmes seules ou couples à enfin vivre leur rêve d'avoir un enfant.
+ça ne peut pas être vous, c'est un problème qui doit se régler avec un ou une psychologue. Il est aussi possible que la
+jeune fille ou le jeune homme voulant vous rencontrer veuille simplement discuter de ses origines génétiques.
+Je préfère donc aider 10 femmes seules ou couples à enfin avoir un enfant avec l'éventualité d'une conversation difficile dans 20 ans.
 
