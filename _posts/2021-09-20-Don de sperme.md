@@ -44,7 +44,7 @@ Si les 10 enfants sont nés grâce à votre don, les paillettes restantes peuven
 
 ## Comment ça se passe ?
 
-*Ils demandent 3 à 6 jours d'abstention avant le recueil.*
+*Ils demandent 3 à 6 jours d'abstinence avant le recueil.*
 
 On m'a amené dans une salle stérilisée d'hôpital (salle de recueil). 
 Puis il faut faire dans un ordre très précis : 
@@ -153,8 +153,9 @@ demande à l'hôpital et récupérer votre nom, prénom et date de naissance.
 
 * Il sait qu'il est issu de PMA avec don de sperme ce qui n'est pas si courant
 * Il souffre d'un manque de figure paternelle et recherche des réponses en recherchant qui est son père, est-ce qu'il a des frères et sœurs
-* puisqu'on a vu que la PMA allait être accessible aux femmes seules et aux couples homo, il est plus probable que les enfants
-nés dans ces conditions sachent qu'ils sont issus d'une PMA avec don de sperme et peuvent rechercher une figure paternelle ou leurs origines génétiques
+* Ou bien l'enfant ne manque pas d'une figure paternelle, mais il ou elle est curieuse de savoir qui est son père, d'où il vient, etc.
+* puisqu'on a vu que la PMA allait être accessible aux femmes seules et aux couples homo, il possible que les enfants
+nés dans ces conditions sachent qu'ils sont issus d'une PMA avec don de sperme et peuvent rechercher leur géniteur
 
 
 C'est-à-dire que si vous commencez ces démarches, il faut bien être sûr de savoir ce que signifie être père et être géniteur,
