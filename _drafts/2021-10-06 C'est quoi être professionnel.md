@@ -1,4 +1,4 @@
-### J'en a marre du professionnalisme
+# J'en a marre du professionnalisme
 
 Il y en a partout. Voilà ce que c'est qu'être un vrai développeur. Voilà ce que c'est d'être un bon développeur.
 Vous pouvez pas vous dire craftsman si vous vous comportez pas en professionnel. Etc.
@@ -12,6 +12,10 @@ Fillatre (un type sympa avec qui j'ai travaillé chez CDiscount), dans un post p
  
 C'est vrai ça comment ça se fait que des gens font du développement leur métier et ne travaillent pas en dehors 
 des horaires de bureau ? 
+
+
+**Attention cet article est très très long, et part dans tous les sens, si vous avez une idée de comment remettre ça en ordre
+ou découper en plusieurs morceaux, je serais preneur.**
 
 
 ### Le moment où les injonctions au professionalisme m'ont soulé 
@@ -38,7 +42,7 @@ donc était-ce controversé ? Aujourd'hui tout le monde doit être professionnel
 Lorsqu'un prestataire ne finit pas correctement son travail, on n'hésitera pas à lui asséner la plus vive critique entendable dans le monde du travail, _il manque de professionalisme._
 
 
-### C'est quoi le capitalisme ?
+## C'est quoi le capitalisme ?
 
 Pour comprendre le professionnalisme, il faut comprendre le capitalisme, et peu de choses sont plus dures à
 définir que le capitalisme. Selon à qui je demande ça peut être: 
@@ -61,7 +65,7 @@ Ce framework définit la relation de domination entre les propriétaires
 (ceux qui ont les moyens de productions) et les prolétaires (ceux qui ne les ont pas) et est
 la base du marxisme. Cette relation économique basique nous permet maintenant d'introduire la notion de professionnel.
 
-### Revenons au professionnel
+# Le professionnel
 
 Maintenant, pensons à un médecin au 19ème siècle.        
 Que produit-il ? Rien, il ne fabrique pas de vin, ni de chaise. Il vend un service, le soin, qui
@@ -89,7 +93,7 @@ Quelle que soit la raison d'être des professionnels, il y a une chose de sûre,
 pas dans la dichotomie classique du capitalisme propriétaire des moyens (les bourgeois) ou travailleurs 
 exploités pour le profit (les prolétaires).
 
-### La définition du professionnel
+## La définition du professionnel
 
 Voici comment Eliot Friedson le définit : 
 
@@ -104,7 +108,78 @@ l'enseignement).
 * Un process formalisé ou institutionnalisé pour pratiquer (généralement via un cursus scolaire)
 * Un esprit de camaraderie, d'entraide entre pairs
 * Être un travailleur autonome (être son propre patron), et réguler soi-même son champs professionnel
-* Une éthique de travail orientée service, qui va replacer la profession dans un but moral, au-dessus du simple aspect mercantile. Même si être un professionnel reste souvent intéressant financièrement.
+* Une éthique de travail orientée service, qui va replacer la profession dans un but moral, au-dessus du simple aspect mercantile. 
+
+Pour un médecin au 19ème siècle, ça veut dire : 
+* Connaître la médecine
+* Interdire aux gens de pratiquer la médecine
+* Proposer un cursus de médecine à l'université
+* S'entraider
+* Travailler de manière autonome, laisser des médecins réguler le champ professionnel
+* Respecter le serment d'Hippocrate.
+
+Il y a évidemment un certain prestige à pratiquer la médecine, et même si la situation est financièrement intéressante,
+les médecins ne sont pas intéressés par s'enrichir. Ils se soucient avant tout de la santé et du bien-être
+de leurs patients et ils respectent la confidentialité du patient. Leur code moral est impeccable.    
+Avec cette forte éthique vient une croyance de la société: un docteur qui chercherait uniquement la gloire et 
+l'argent (d'autant plus quand c'est aux dépens de la santé du patient) ne serait pas uniquement un mauvais docteur,
+mais **une mauvaise personne**.
+
+Il y a cette idée que les docteurs ont un standard moral élevé et un sens de l'effort qui justifient leurs 
+positions dans la société. Ils jouissent de ces capitaux (économiques, culturels et symboliques)
+parce qu'ils sont simplement de meilleurs citoyens. Ils sont plus dévoués, et plus enclins à travailler
+corps et âmes pour la santé de leurs patients. À l'époque devenir un professionnel n'était pas simplement
+devenir plus compétent ou un meilleur ouvrier, mais **un meilleur individu.**
+
+## L'arrivée du capitalisme 
+
+### au 19ème siècle
+
+L'arrivée du capitalisme et de l'industrie est très violente pour la classe ouvrière. Certains
+enfants anglais commençaient à travailler à partir de 4 ans (The Factory Act (1833) interdit le 
+travail d'enfant avant 9 ans) et les ouvriers travaillent très régulièrement 70h par semaine. Se déclenchent
+une série de conflits sociaux violents entre ouvriers et bourgeois, avec ce qu'on a appelé le [Luddisme](https://fr.wikipedia.org/wiki/Luddisme)
+lorsque les ouvriers se rebellait en détruisant les machines à tisser en jetant leurs sabots à l'intérieur 
+des engrenages. Ce qui a 
+donné le nom de _sabotage_.
+
+Pour se défendre au 19ème siècle les ouvriers avaient deux choix: se syndiquer ou devenir une profession. 
+Le but était similaire : créer les meilleures conditions de travail et s'assurer un salaire suffisant, mais la manière
+de faire était différente. Les syndicats recherchaient une identité prolétaire (de l'entraide entre les différents
+corps de métier, une collaboration contre le patronat, une emphase de l'artisanat)
+et les professionnels 
+recherchaient une identité plutôt bourgeoise (l'accumulation individuelle de connaissances, la recherche de statut
+social, être reconnu expert, la neutralité politique, etc.).
+
+Si vous étiez une femme, ou un immigré, ou les deux, vous n'aviez que très peu de chance d'être syndiqué et encore moins une professionnelle.
+Dans ces cas là, si vous aviez ne serait-ce que la chance de participer dans le marché du travail, c'était
+souvent dans un contexte brutal, non-régulé, non-reconnu, et dans l'incapacité totale d'organiser la défense
+de vos conditions de travail.
+
+### au 20ème siècle
+
+Le début du 20ème siècle marque la grande époque des syndicats et des professions. L'appartenance à l'un
+ou l'autre était l'assurance de prospérité et d'une vie dans la classe moyenne. La plupart des champs qui
+ont essayé de se professionnaliser n'ont pas réussi à devenir aussi respecté que les médecins ou les juristes et sont devenus 
+ce qu'on a appelé des [semi-professions](https://en.wikipedia.org/wiki/Semiprofession). Ces champs
+avaient certaines propriétés d'une profession, mais manquaient d'une ou plusieurs facettes. La plus 
+rare étant l'auto-régulation du champ professionnel, il y a peu de professions qui peuvent interdire
+à vie l'un de ses membres de pratiquer, comme le font la médecine et la loi.
+
+L'aspect le plus facile à obtenir est l'éthique orientée service, et c'est ce qui était recherché en premier par
+les travailleurs soucieux de se professionnaliser. Tout ce dont on avait besoin était d'inclure
+(d'endoctriner) une morale et un sens civique citoyen de son travail. On ne travaillait plus pour 
+devenir riche, mais pour **servir** la société et son prochain. Au delà de l'aspect bêtement marketing, l'aspect était
+psychologique, les travailleurs voulaient se savoir utile, savoir qu'ils étaient des _bons citoyens_.
+Beaucoup de travailleurs et de travailleuses sont tombées dans ce piège : les infirmières, les
+bureaucrates, les instituteurs, les professeurs, les vendeurs de voiture, les bibliothécaires, tous 
+ont commencé à adopté les pratiques des professions originelles, et d'adopter _un comportement professionnel._
+
+
+
+
+
+
 
 
 
