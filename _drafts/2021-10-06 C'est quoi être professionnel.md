@@ -156,7 +156,7 @@ Dans ces cas là, si vous aviez ne serait-ce que la chance de participer dans le
 souvent dans un contexte brutal, non-régulé, non-reconnu, et dans l'incapacité totale d'organiser la défense
 de vos conditions de travail.
 
-### au 20ème siècle
+### au XXème siècle
 
 Le début du 20ème siècle marque la grande époque des syndicats et des professions. L'appartenance à l'un
 ou l'autre était l'assurance de prospérité et d'une vie dans la classe moyenne. La plupart des champs qui
@@ -174,6 +174,85 @@ psychologique, les travailleurs voulaient se savoir utile, savoir qu'ils étaien
 Beaucoup de travailleurs et de travailleuses sont tombées dans ce piège : les infirmières, les
 bureaucrates, les instituteurs, les professeurs, les vendeurs de voiture, les bibliothécaires, tous 
 ont commencé à adopté les pratiques des professions originelles, et d'adopter _un comportement professionnel._
+
+## Le néolibéralisme 
+
+
+\[Notes du traducteur\] : La définition du néolibéralisme est toujours sujet à débat, la définition utilisée ici
+est dans le contexte américain et est donc le néolibéralisme _américain_, celui du keynésianisme. Il peut être rapproché
+de l'ultra-libéralisme, qui donne la priorité à l'action libre des individus contre toute "emprise" de l'état,
+et laisse l'ordre social se faire dicter par une sorte de darwinisme social.
+
+### Rappel historique
+
+Pour rappel, après la grande dépression des années 30, Franklin Roosevelt décide de lancer un _new deal_ qui est sensé
+protéger le peuple et augmenter le rôle de l'état sur le marché (il y a encore des débats sur l'intérêt économique)
+du _New Deal_.     
+Durant les années 1970, une série de crises économiques perturbent encore une fois le rêve capitaliste. Mais
+cette fois-ci, la réponse apportée aux crises est de libéraliser encore plus le marché, de repousser les limites.
+Si ça ne marche pas, c'est que l'état intervient encore trop. Ça signifie souvent une dérégulation drastique
+et la suppression de tous les programmes gouvernementaux et les structures et institutions centralisées. Tout 
+le monde, tous les aspects de la vie doivent être soumis à un marché libre si on veut que les grands gagnants 
+s'enrichissent et que les mauvais disparaissent du marché ou se fassent racheter.
+
+### La perversion du néolibéralisme
+
+Un des aspects les plus pervers du néolibéralisme a été de changer sa propre substance.     
+
+Les néolibéraux célébraient le capital, mais désiraient aussi que **les agents (les individus, les institutions, 
+les entreprises) se comportent comme un capital**, ils devaient pouvoir s'adapter, se transformer, être mobile
+être fungible et générer soi-même ses propres profits en investissant en eux-mêmes.
+
+L'idéal n'est plus d'être un salarié, encore moins un travailleur. L'idéal est d'être un entrepreneur. 
+Capable de se motiver soi-même, de se remettre en question, de se réorienter, de se former, d'être à l'écoute
+du marché, de trouver sa passion dans l'emploi. Car pour le néolibéralisme qui hérite du darwinisme social, ne pas
+travailler signifie mériter de mourir; pas uniquement de manquer matériellement des moyens d'existence mais 
+de mourir métaphoriquement, émotionnellement et psychologiquement. Ne pas travailler est perdre son identité
+en tant qu'individu (_qu'est ce que tu fais dans la vie?_ qui signifie _quel est ton travail?_ ). 
+
+Ça peut paraître étrange aujourd'hui mais avant les années 80 c'était facile de savoir qui était un 
+capitaliste (_c'était un patron, quelqu'un qui possédait des moyens de production_). Nous savions que
+nous vivions dans une société capitaliste, nous savions notre rôle et notre classe
+dans cette société (_prolétaires_). L'arrivée du néolibéralisme a permis de recentrer (faussement) les moyens de 
+production dans l'individu. Elle a (faussement) redéfini le moyen de production en tant que travail, et
+donc a redéfini tous les travailleurs en capitalistes vu qu'ils étaient propriétaires de leurs moyens de 
+production. Les problèmes de la sociétés n'étaient pas structurels ou systémiques mais étaient des problèmes
+individuels. 
+
+\[Notes du traducteur\]     : Ces changements ont entrainé des néologismes dont la sémantique me 
+semblent assez flagrante. Une femme de ménage qui doit élever seule ses enfants était appelé "une exploitée" dans 
+les années 60. On désigne par là une action, un processus (l'exploitation), une victime (l'exploitée) et donc potentiellement un 
+oppresseur, un exploiteur. Dans la même situation on dirait maintenant qu'elle est _défavorisée_.
+C'est la même personne, sauf qu'au lieu d'utiliser un terme qui désigne une structure d'oppression 
+structurelle, on utilise maintenant un terme qui la qualifie individuellement comme n'ayant 
+pas eu de chance. 
+
+Les professions (médecine, juriste) ont historiquement toujours été en porte-à-faux avec la notion de marché-libre, le 
+fait de réguler l'entrée au marché et la pratique les placent dans une position où ils décident du prix des 
+prestations et ne sont pas en guerre les uns contre les autres. Mieux que ça, l'état protège légalement
+la pratique de ces professions.
+
+### les effets du néolibéralisme sur l'emploi 
+
+
+
+
+#### Corollaire de ça
+\[Notes du traducteur\]     
+
+Si vous vous arrêtez quelques minutes pour y réfléchir, vous connaissez probablement de nombreuses personnes qui acceptent des
+conditions de travail médiocres, voir carrément dégueulasses à qui l'on demande de faire des sacrifices
+pour assurer un bon service aux clients. Dans mon entourage proche, j'ai l'exemple d'une amie vétérinaire 
+à qui on demande de travailler 6 jours par semaine, parfois 7, pour assurer les gardes et les rendez-vous à 
+la clinique vétérinaire de sa ville de campagne. Or, si l'équipe est sous-dimensionnée et doit multiplier 
+les heures supplémentaires sans récolter un salaire proportionnel au temps de travail réél, c'est uniquement
+parce que les salariées sont pressurisées à faire "du bon travail" et "être professionnelle", même
+si ces salariées ne sont pas les propriétaires de leur propre moyen de production (la clinique
+vétérinaire). Les propriétaires de la clinique sont parfaitement contents de faire travailler leurs salariées à 150%
+et ainsi faire le même chiffre d'affaire que d'habitude avec 30% de masse salariale en moins.
+Les propriétaires sont dans une position où la lutte sociale n'existe pas, il n'y a pas de syndicat, uniquement de la négociation 
+directe salariée <-> patronat.
+
 
 
 
