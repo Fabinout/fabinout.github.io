@@ -258,6 +258,8 @@ de puériculture, technicien biologie, secrétaire médicale, etc.) qui nécessi
 sont moins bien rémunérées et moins prestigieuses que le métier de docteur et dont la majorité des effectifs 
 est féminine.
 
+### La féminisation du travail
+
 Cristina Morini après Guy Standing a travaillé sur la féminisation du marché du travail au 21ème siècle et
 notamment sur le rôle des femmes dans les travaux du numériques (ce 
 qu'on a aussi appelé [capitalisme cognitif](https://www.toupie.org/Dictionnaire/Capitalisme_cognitif.htm)).
@@ -287,9 +289,10 @@ les individus, d'abord les classes moyennes, puis les professionnels, puis les t
 Certes certaines classes de travailleurs et travailleuses restaient dans la précarité mais leur nombre se
 réduisait d'année en année.
 
-Lorey observe qu'une des pirouettes du capitalisme est de représenter la précarité comme la liberté. 
+Isabell Lorey observe qu'une des pirouettes du capitalisme est de représenter la précarité comme la liberté. 
 De manière similaire aux idées de féminisation du travail moderne de Morini, l'idée est de rendre la précarité
-désirable.
+désirable pour les travailleurs. Ainsi, on ne présente pas les chauffeurs Uber comme ayant des horaires instables
+de la difficulté à prédire la charge de travail ou une
 
 
 
