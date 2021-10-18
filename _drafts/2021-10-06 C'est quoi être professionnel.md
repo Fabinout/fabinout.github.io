@@ -227,15 +227,83 @@ C'est la même personne, sauf qu'au lieu d'utiliser un terme qui désigne une st
 structurelle, on utilise maintenant un terme qui la qualifie individuellement comme n'ayant 
 pas eu de chance. 
 
-Les professions (médecine, juriste) ont historiquement toujours été en porte-à-faux avec la notion de marché-libre, le 
+Les professions (médecine, juridique) ont historiquement toujours été en porte-à-faux avec la notion de marché-libre, le 
 fait de réguler l'entrée au marché et la pratique les placent dans une position où ils décident du prix des 
 prestations et ne sont pas en guerre les uns contre les autres. Mieux que ça, l'état protège légalement
 la pratique de ces professions.
 
 ### les effets du néolibéralisme sur l'emploi 
 
+Avec l'évolution des marchés de plus en plus rapide durant le XXème siècle, il se passe après la seconde
+guerre mondiale ce que [Guy Standing](https://fr.wikipedia.org/wiki/Guy_Standing_(professeur)) a
+appelé une féminisation du marché du travail. Les femmes étaient auparavant exclues du marché
+du travail formel et cantonnées au travail domestique qui, en tant que travail gratuit, ne crée pas
+de valeur pour le système capitaliste. Elles entrent ensuite petit à petit sur le marché du travail typiquement
+dans des emplois temporaires, avec des horaires flexibles avec le salaire horaire minimum. Elles 
+travaillent souvent dans plusieurs domaines différents utilisant des compétences diverses pour s'adapter
+aux différentes tâches qu'on demande d'elles.     
+Le travail évolue et est découpé en tâches simples, voire simplistes. Le savoir-faire se décompose en
+compétences, ce que Standing a appelé le **de-skilling** de l'emploi, la perte de savoir-faire. Au lieu
+de former des travailleurs et travailleuses à savoir, connaître et comprendre l'ensemble d'un artisanat (comme les 
+compagnons du devoirs), on cantonne ses tâches à une toute petite circonscription.     
+Certaines catégories d'emplois perdant toute exigence de savoir-faire, il est donc possible de 
+remplacer les travailleurs par des travailleuses payées moins cher et avec des horaires flexibles. 
+
+Résultat, de plus en plus de femmes entrent dans le marché du travail alors que des hommes en sortent, et 
+acceptent des conditions de travail qui ont été refusées ou renégociées dans le passé par les syndicats.
+
+La manière dont l'emploi s'est féminisé est visible dans la manière dont les femmes sont arrivées dans les emplois.
+En médecine par exemple, des fonctions tierces sont apparues (aide-soignants, manip-radios, auxiliaire 
+de puériculture, technicien biologie, secrétaire médicale, etc.) qui nécessitent moins de formation, 
+sont moins bien rémunérées et moins prestigieuses que le métier de docteur et dont la majorité des effectifs 
+est féminine.
+
+Cristina Morini après Guy Standing a travaillé sur la féminisation du marché du travail au 21ème siècle et
+notamment sur le rôle des femmes dans les travaux du numériques (ce 
+qu'on a aussi appelé [capitalisme cognitif](https://www.toupie.org/Dictionnaire/Capitalisme_cognitif.htm)).
+C'est la capacité des travailleurs à manipuler des idées et des concepts numériquement plutôt que de
+déplacer des outils en travaillant sur des produits finis. La quintessence de ce travailleur est le développeur
+ou la développeuse, capable de manipuler un langage de programmation afin de produire un logiciel. 
+Les avancées technologiques ont comme propriété de réorganiser de deux manières le travail à l'ère du numérique:     
+* l'espace est réorganisé, le travail n'est plus confiné au bureau, mais accessible en télétravail
+* le temps est réorganisé, les heures de travail contractuelles ne sont plus aussi strictes, il devient possible
+de travailler autant que possible pour les travailleurs et travailleuses.
+
+De la même manière, cette réorganisation s'est appliquée aux travaux des femmes. Le travail féminin
+original étant celui de la maternité qui demande d'être capable de travailler à toute heure de la journée.
+Le raisonnement de Morini est de dire que la réorganisation du travail a transformé l'entreprise en une
+famille dont les salariés doivent s'occupper de la même manière qu'une mère doit s'occupper de sa famille, être
+toujours prêt à répondre à un mail ou à un collègue qui a besoin d'informations. Pour Morini le 21ème siècle
+n'a donc pas uniquement changé la nature du travail, mais la nature des travailleurs et travailleuses elles-même.
+Les individus tendent maintenant à avoir une position adaptable, oblative et sacrificielle, en deux mots
+à adopter une attitude maternelle quant à leur travail.      
+
+### La précarisation comme liberté
+
+Isabell Lorey dit que la précarité est un fait nouveau du capitalisme de la fin du 20ème siècle. Non
+pas que les formes initiales de capitalisme n'avaient pas de précarité, mais qu'à ses débuts le capitalisme
+sortait de la précarité un nombre croissant d'individus. L'aspect productif (et croissant) du capitalisme protégeait
+les individus, d'abord les classes moyennes, puis les professionnels, puis les travailleurs syndiqués. 
+Certes certaines classes de travailleurs et travailleuses restaient dans la précarité mais leur nombre se
+réduisait d'année en année.
+
+Lorey observe qu'une des pirouettes du capitalisme est de représenter la précarité comme la liberté. 
+De manière similaire aux idées de féminisation du travail moderne de Morini, l'idée est de rendre la précarité
+désirable.
 
 
+
+
+# Pour aller un peu plus loin
+
+
+à Lire
+
+"il faut s'adapter" de _Barbara Steigler_
+
+"The feminization of labour in cognitive capitalism," de _Cristina Morini_, Feminist Review 87 (2007).
+
+"State of Insecurity: Government of the Precarious" de _Isabell Lorey_ ,Verso, 2015.
 
 #### Corollaire de ça
 \[Notes du traducteur\]     
