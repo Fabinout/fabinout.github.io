@@ -291,10 +291,41 @@ réduisait d'année en année.
 
 Isabell Lorey observe qu'une des pirouettes du capitalisme est de représenter la précarité comme la liberté. 
 De manière similaire aux idées de féminisation du travail moderne de Morini, l'idée est de rendre la précarité
-désirable pour les travailleurs. Ainsi, on ne présente pas les chauffeurs Uber comme ayant des horaires instables
-de la difficulté à prédire la charge de travail ou une
+désirable pour les travailleurs. Ainsi, on ne présente pas les chauffeurs Uber comme ayant des horaires à
+rallonge et des conditions de travail imprévisible. Non, les chauffeurs Uber sont des entrepreneurs qui 
+travaillent quand ils en ont envie. Ainsi la féminisation du travail n'est pas l'utilisation patriarcale 
+de l'infériorité des femmes, c'est leur offrir la liberté de travailler en dehors du traditionnel 9h-17h
+pour avoir un complément de revenu en plus de leur responsabilité du travail domestique.
+Le capitalisme cognitif féminisé **n'est pas** en train de vous transformer en une mère allaitant son patron 
+via des emails et messages slack durant le weekend, il est en train de **donner un sens à votre travail**.
+La précarité n'est plus quelque chose dont il faut se protéger, la précarité des conditions de travail
+devient une vertu à rechercher qui amène liberté et indépendance. 
 
+### La fluidité du travail et la surveillance
 
+Le travail, on l'a vu, est devenu liquide, il s'immisce, s'étend, se décentralise. Il devient plus profitable
+et facile à exploiter, mais aussi plus dur à contrôler. Comment s'assurer que le télé-travailleur ne prenne pas
+de pause-pipi trop longue ? A l'usine, le contremaitre peut vérifier qui s'est arrêté de travailler. Maintenant
+comment faire pour que les travailleurs et travailleuses travaillent avec autant d'acharnement que si leur
+manager était derrière eux? On pourrait mesurer leur travail, mais comment s'assurer de la cadence quand le travail
+est intellectuel et dur à quantifier ? On connait la difficulté à mettre en place des KPIs utiles de performance,
+faut-il compter les lignes de code? le nombre de bugs produits ? 
+
+Certaines personnes seront autonomes et pourront être productives malgré le manque de surveillance. Certaines seront même
+plus productives à distance qu'avec un surveillant derrières elles. 
+
+### Récapitulons 
+
+Récapitulons, le travailleur et la travailleuse modernes parfaits sont autonomes, capables de s'auto-organiser,
+de s'auto-réguler. Ils voient leur value économique en fonction d'un ensemble varié de compétences sans produire
+directement quelque chose et recherchent un but dans leur vie plutôt qu'un salaire. 
+
+Oh, on dirait des professionnels.
+
+Et les professionnels, on l'a dit, ont un status symbolique intéressant. Ils sont admirés par leurs 
+compétences (qui coincident avec le marché capitaliste du travail) et leurs vertus (qui coincident avec
+le marché capitaliste du travail) qui les font apparaitre comme distingués, intelligents, cultivés et compétents; 
+en un mot:  professionels. Et les gens apprécient d'être appelés des professionnels.
 
 
 # Pour aller un peu plus loin
