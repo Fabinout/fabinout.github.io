@@ -11,7 +11,15 @@ Ce que je recherchais, c'était :
 1. Du temps pour faire de la veille technologique et de l'open-source
 4. Un salaire permettant de vivre
 2. Du temps pour participer à des meetups et conférences
-3. Des missions intéressantes
+3. Des missions intéressantespour eux, 4 jours pour moi" ( https://fabien-lamarque.eu/3-jours-pour-eux,-4-jours-pour-moi/ ).
+
+Le lien redirigé se prénomme "Charges déductibles et exonérations" ( https://www.l-expert-comptable.com/a/531023-quelles-charges-peut-faire-passer-sur-sa-societe.html )
+
+La bonne URL par laquelle la remplacer est la suivante: https://www.l-expert-comptable.com/c/charges-deductibles-et-exonerations
+
+Nous pensons qu'il serait préférable pour vos lecteurs de les rediriger directement vers la bonne URL finale afin de pouvoir les aider à aller plus loin dans la découverte de nos services.
+
+Je reste à votre disposition si vous avez besoin d'informations complémentaires.
 6. Une autonomie
 
 Même la plus Great Place To Work des entreprises de conseil en informatique ne saurait répondre à tous ces besoins,
@@ -36,7 +44,15 @@ cas je peux utiliser mes deux jours libres par semaine pour rajouter ici et là 
 * Cours en ligne
 * Open-Source (contribution et pocs divers)
 * Lecture de livres et d'articles techniques
-* Conférences (en tant qu'audience, speaker, ou rédaction/envoi de CFPs)
+* Conférences (en tant qu'audience, speaker, ou rpour eux, 4 jours pour moi" ( https://fabien-lamarque.eu/3-jours-pour-eux,-4-jours-pour-moi/ ).
+
+Le lien redirigé se prénomme "Charges déductibles et exonérations" ( https://www.l-expert-comptable.com/a/531023-quelles-charges-peut-faire-passer-sur-sa-societe.html )
+
+La bonne URL par laquelle la remplacer est la suivante: https://www.l-expert-comptable.com/c/charges-deductibles-et-exonerations
+
+Nous pensons qu'il serait préférable pour vos lecteurs de les rediriger directement vers la bonne URL finale afin de pouvoir les aider à aller plus loin dans la découverte de nos services.
+
+Je reste à votre disposition si vous avez besoin d'informations complémentaires.édaction/envoi de CFPs)
 
 
 ### Le jour de veille commerciale
@@ -56,7 +72,7 @@ Et accessoirement un peu de ménage à la maison, une longue promenade du chien 
 Ce rythme de 3 jours de facturation par semaine permet beaucoup de liberté, comme on l'a vu. Reste qu'on ne se nourrit pas
 de veille techno, d'articles techniques et d'épanouissement professionnel, il faut aussi gagner de l'argent. 
 Il faut noter qu'une partie des dépenses obligatoires du quotidien [peut
- être transférée](https://www.l-expert-comptable.com/a/531023-quelles-charges-peut-faire-passer-sur-sa-societe.html)
+ être transférée](https://www.l-expert-comptable.com/c/charges-deductibles-et-exonerations)
 en charge à la société (dans mon cas, une SASU). 
 
 Qu'est-ce qui peut passer en charge ? 

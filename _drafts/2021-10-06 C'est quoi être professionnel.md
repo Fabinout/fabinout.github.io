@@ -307,7 +307,7 @@ Le travail, on l'a vu, est devenu liquide, il s'immisce, s'étend, se décentral
 et facile à exploiter, mais aussi plus dur à contrôler. Comment s'assurer que le télé-travailleur ne prenne pas
 de pause-pipi trop longue ? A l'usine, le contremaitre peut vérifier qui s'est arrêté de travailler. Maintenant
 comment faire pour que les travailleurs et travailleuses travaillent avec autant d'acharnement que si leur
-manager était derrière eux? On pourrait mesurer leur travail, mais comment s'assurer de la cadence quand le travail
+manager était derrière eux? On pourrait mesurer leur     travail, mais comment s'assurer de la cadence quand le travail
 est intellectuel et dur à quantifier ? On connait la difficulté à mettre en place des KPIs utiles de performance,
 faut-il compter les lignes de code? le nombre de bugs produits ? 
 
