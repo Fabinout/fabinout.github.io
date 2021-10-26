@@ -325,19 +325,96 @@ Oh, on dirait des professionnels.
 Et les professionnels, on l'a dit, ont un status symbolique intéressant. Ils sont admirés par leurs 
 compétences (qui coincident avec le marché capitaliste du travail) et leurs vertus (qui coincident avec
 le marché capitaliste du travail) qui les font apparaitre comme distingués, intelligents, cultivés et compétents; 
-en un mot:  professionels. Et les gens apprécient d'être appelés des professionnels.
+en un mot:  professionels. Et les gens **apprécient** d'être appelés des professionnels. Les champs
+professionnels qui subissent les dérégulations, la féminisation du travail (dans le sens de _Cristina Morini_), la
+précarisation **essaient maintenant de devenir des professions**.  Mais ce qu'on observe
+c'est qu'on attend d'elles et d'eux d'avoir une attitude professionnelle, une dévotion et une passion, 
+mais aucun des bénéfices économiques ni symboliques qu'on associait historiquement aux professions.
+
+Soudainement, le professionnalisme qui était à côté de la plaque du capitalisme historique trouve dans les années
+1970 une place parfaite dans le marché néolibéral du travail.
+
+Et c'est ironique, car en 1940 une secrétaire professionnelle ou un vendeur de meuble professionnel aurait
+été franchement risible. Parce qu'_"être professionnel"_ est une manière totale de vivre sa vie, d'être 
+son métier (dans ce cas-là, sa profession), une manière de voir le monde et d'y souscrire très précise.    
+Le professionnalisme constituait donc un imaginaire d'aspirations et d'émotions que les employeurs
+pouvaient utiliser, comme le dit Fournier pour "contrôler la marge croissante d'indétermination et de
+flexibilité du travail". Transformer un travailleur qu'il faut contrôler en un agent capable de se surveiller
+lui-même, de se motiver lui-même. Qu'il soit son propre patron, mais dans le mauvais sens du terme.
+
+### Les valeurs du professionnalisme
+
+Les valeurs du professionnalisme rapprochent le travail du sacré et le travailleur devient un hiérophante.
+La vocation (qui était un terme plus puissant avant de devenir un synonyme de travail) vient du latin _vocare_,  pour _appelé_.
+C'était le terme utilisé quand Dieu lui-même décidait pour quelqu'un quel serait son travail, ce qui rendait
+le-dit travail sacré, voire consacré.     
+De la même manière, le professionnalisme élève le travail à un rang symbolique plus élevé. Dans 
+_Keywords, The new language of Capitalism_, les auteurs pointent que beaucoup de buzzwords portent 
+une connotation religieuses. Prenez par exemple le mot "passion". Un développeur pour réussir son entretien
+d'embauche doit être "passionné", mais le mot prend ses racines dans la souffrance du Christ sur sa croix.
+La passion des saints a finalement fait d'eux des martyrs. Est-ce que ça signifie qu'il faut être passionné
+par l'informatique ou par son travail ? Ettarh dit :    
+
+> Tu ne manges pas de la passion, tu ne payes pas ton loter avec de la passion. La passion, la dévotion et
+> l'émerveillement ne sont pas de bonnes sources de revenu. L'histoire de Saint Laurent de Rome est peut-être
+> noble, mais être un martyr ne fait pas vraiment un bon plan de carrière. 
+
+En dernier recours, le capitalisme a si bien convaincu que nous devons agir en professionnels qu'il
+y a un grand bagage émotionnel à se faire qualifier de non-professionnel. Parce que nous savons que cette
+critique est une insulte du notre valeur personnelle, intrinsèque. Une critique de notre moralité. Et donc
+nous avons tous accepté l'idée que nous devons nous comporter en professionnels même si peu d'entre nous
+profitent de tous les avantages qu'on associe traditionnellement aux professionnels.
+
+### Pour finir
+
+Bien sûr, cette mode professionnalisation a aussi des avantages. S'attendre à ce que des travailleurs 
+et travailleuses se comportent comme des professionnels va aussi avec l'attente pour les individus d'être
+respecté et considéré comme des adultes. Ça peut vouloir dire plus de liberté, un sentiment collectif 
+de fierté à faire un travail difficile. C'est aussi utilisé dans la négociation (souvent ratée) de meilleures
+conditions de travail ou d'une meilleure rémunération. Le professionnalisme ouvrier permet à certains et certaines
+"de garder un sens de dignité et d'apporter une certaine morale à la réalisation des tâches les moins agréables.
+Notamment celles et ceux dont le travail n'est pas symboliquement valorisé, mais essentiel" (Mc Cann et al).
+
+Encore cette locution "travail essentiel". Ambulanciers et ambulancières, infirmières et infirmiers, caissières et femmes
+de ménage. Tous ces travailleurs et travailleuses essentielles mais dont le travail n'est que peu valorisé.
+Cependant on attend d'eux qu'ils agissent en professionnels, mais qu'est-ce que ça signifie pour eux ?
+
+Ça signifie travailleur pour le bien de la société et faire advenir le bien commun avant le profit personnel.
+S'ils osent demander durant la crise du COVID une réévaluation de leurs conditions de travail, c'est complètement déplacé.
+_Est-ce qu'ils réalisent que nous sommes au milieu d'une crise sanitaire? Est-ce que c'est bien le moment
+d'exiger de l'argent ? Pourquoi est-ce que les docteurs, eux, ne demandent pas de revalorisation? Pas comme ces
+râleuses d'infirmières..._ Être professionnel, c'est être dans une posture sacrificielle pour le bien commun. 
+Et s'il y a bien une chose que la bourgeoisie apprécie, c'est bien de sacrifier les autres pour ses intérêts. 
+Et cette image est si bien implantée en nous que nous désirons nous sacrifier pour le bien commun.
+
+Donc nous pouvons donner une prime aux infirmières, mais pas trop élevée. Il ne faudrait pas qu'elles puissent croire
+qu'elles travaillent pour l'argent et non pas pour le bien des concitoyens. On voit ici apparaître un début de réponse à la question de David Graeber dans
+_Bullshit Jobs_: Pourquoi est-ce que les travailleurs les plus utiles sont payés les moins chers ? Parce que
+nous sommes tous des professionnels maintenant et les professionnels ne font pas ça pour l'argent, ils font ça
+par amour du travail bien fait.
 
 
 # Pour aller un peu plus loin
 
 
-à Lire
+### Livres à Lire
 
 "il faut s'adapter" de _Barbara Steigler_
+
+"Bullshit Jobs" de _David Graeber_
+
+### Articles 
+
+"The theory of Professions : State of the Art", de Eliot Friedson
 
 "The feminization of labour in cognitive capitalism," de _Cristina Morini_, Feminist Review 87 (2007).
 
 "State of Insecurity: Government of the Precarious" de _Isabell Lorey_ ,Verso, 2015.
+
+"The Appeal to Professionalism as a Disciplinary Mechanism", the Sociological Review  vol 47 (1999)
+
+"Still Blue-Collar after all these years ? An ethnography of the Professionalization of Emergence Ambulance
+Work", Journal of Management Studies, de _McCann et al_.
 
 #### Corollaire de ça
 \[Notes du traducteur\]     
