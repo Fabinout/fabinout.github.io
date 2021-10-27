@@ -348,13 +348,13 @@ directement quelque chose et recherchent un but dans leur vie plutôt qu'un sala
 
 Oh, on dirait des professionnels.
 
-Et les professionnels, on l'a dit, ont un status symbolique intéressant. Ils sont admirés par leurs 
-compétences (qui coincident avec le marché capitaliste du travail) et leurs vertus (qui coincident avec
-le marché capitaliste du travail) qui les font apparaitre comme distingués, intelligents, cultivés et compétents; 
-en un mot:  professionels. Et les gens **apprécient** d'être appelés des professionnels. Les champs
+Et les professionnels, on l'a dit, ont un statut symbolique intéressant. Ils sont admirés par leurs 
+compétences (qui coïncident avec le marché capitaliste du travail) et leurs vertus (qui coïncident avec
+le marché capitaliste du travail) qui les font apparaitre comme distingués, intelligents, cultivés et compétents ; 
+en un mot : professionnels. Et les gens **apprécient** d'être appelés des professionnels. Les champs
 professionnels qui subissent les dérégulations, la féminisation du travail (dans le sens de _Cristina Morini_), la
-précarisation **essaient maintenant de devenir des professions**.  Mais ce qu'on observe
-c'est qu'on attend d'elles et d'eux d'avoir une attitude professionnelle, une dévotion et une passion, 
+précarisation **essaient maintenant de devenir des professions**. Mais ce qu'on observe, c'est
+qu'on attend d'elles et d'eux d'avoir une attitude professionnelle, une dévotion et une passion, 
 mais aucun des bénéfices économiques ni symboliques qu'on associait historiquement aux professions.
 
 Soudainement, le professionnalisme qui était à côté de la plaque du capitalisme historique trouve dans les années
@@ -370,8 +370,8 @@ lui-même, de se motiver lui-même. Qu'il soit son propre patron, mais dans le m
 
 ### Les valeurs du professionnalisme
 
-Les valeurs du professionnalisme rapprochent le travail du sacré et le travailleur devient un hiérophante.
-La vocation (qui était un terme plus puissant avant de devenir un synonyme de travail) vient du latin _vocare_,  pour _appelé_.
+Les valeurs du professionnalisme rapprochent le travail du sacré et le travailleur devient un grand prêtre.
+La vocation (qui était un terme plus puissant avant de devenir un synonyme de travail) vient du latin _vocare_, pour _appelé_.
 C'était le terme utilisé quand Dieu lui-même décidait pour quelqu'un quel serait son travail, ce qui rendait
 le-dit travail sacré, voire consacré.     
 De la même manière, le professionnalisme élève le travail à un rang symbolique plus élevé. Dans 
@@ -381,13 +381,13 @@ d'embauche doit être "passionné", mais le mot prend ses racines dans la souffr
 La passion des saints a finalement fait d'eux des martyrs. Est-ce que ça signifie qu'il faut être passionné
 par l'informatique ou par son travail ? Ettarh dit :    
 
-> Tu ne manges pas de la passion, tu ne payes pas ton loter avec de la passion. La passion, la dévotion et
+> Tu ne manges pas de la passion, tu ne payes pas ton loyer avec de la passion. La passion, la dévotion et
 > l'émerveillement ne sont pas de bonnes sources de revenu. L'histoire de Saint Laurent de Rome est peut-être
 > noble, mais être un martyr ne fait pas vraiment un bon plan de carrière. 
 
 En dernier recours, le capitalisme a si bien convaincu que nous devons agir en professionnels qu'il
 y a un grand bagage émotionnel à se faire qualifier de non-professionnel. Parce que nous savons que cette
-critique est une insulte du notre valeur personnelle, intrinsèque. Une critique de notre moralité. Et donc
+critique est une insulte à notre valeur personnelle, intrinsèque. Une critique de notre moralité. Et donc
 nous avons tous accepté l'idée que nous devons nous comporter en professionnels même si peu d'entre nous
 profitent de tous les avantages qu'on associe traditionnellement aux professionnels.
 
@@ -402,22 +402,28 @@ conditions de travail ou d'une meilleure rémunération. Le professionnalisme ou
 Notamment celles et ceux dont le travail n'est pas symboliquement valorisé, mais essentiel" (Mc Cann et al).
 
 Encore cette locution "travail essentiel". Ambulanciers et ambulancières, infirmières et infirmiers, caissières et femmes
-de ménage. Tous ces travailleurs et travailleuses essentielles mais dont le travail n'est que peu valorisé.
-Cependant on attend d'eux qu'ils agissent en professionnels, mais qu'est-ce que ça signifie pour eux ?
+de ménage. Tous ces travailleurs et travailleuses essentielles, mais dont le travail n'est que peu valorisé.
+Cependant, on attend d'eux qu'ils agissent en professionnels, mais qu'est-ce que ça signifie pour eux ?
 
 Ça signifie travailleur pour le bien de la société et faire advenir le bien commun avant le profit personnel.
 S'ils osent demander durant la crise du COVID une réévaluation de leurs conditions de travail, c'est complètement déplacé.
-_Est-ce qu'ils réalisent que nous sommes au milieu d'une crise sanitaire? Est-ce que c'est bien le moment
-d'exiger de l'argent ? Pourquoi est-ce que les docteurs, eux, ne demandent pas de revalorisation? Pas comme ces
-râleuses d'infirmières..._ Être professionnel, c'est être dans une posture sacrificielle pour le bien commun. 
+_Est-ce qu'ils réalisent que nous sommes au milieu d'une crise sanitaire ? Est-ce que c'est bien le moment
+d'exiger de l'argent ? Pourquoi est-ce que les docteurs, eux, ne demandent pas de revalorisation ? Pas comme ces
+râleuses d'infirmières…_ Être professionnel, c'est être dans une posture sacrificielle pour le bien commun. 
 Et s'il y a bien une chose que la bourgeoisie apprécie, c'est bien de sacrifier les autres pour ses intérêts. 
 Et cette image est si bien implantée en nous que nous désirons nous sacrifier pour le bien commun.
 
 Donc nous pouvons donner une prime aux infirmières, mais pas trop élevée. Il ne faudrait pas qu'elles puissent croire
 qu'elles travaillent pour l'argent et non pas pour le bien des concitoyens. On voit ici apparaître un début de réponse à la question de David Graeber dans
-_Bullshit Jobs_: Pourquoi est-ce que les travailleurs les plus utiles sont payés les moins chers ? Parce que
-nous sommes tous des professionnels maintenant et les professionnels ne font pas ça pour l'argent, ils font ça
+_Bullshit Jobs_: Pourquoi est-ce que les travailleurs les plus utiles sont payés les moins chers ?  
+
+Parce que
+nous sommes toutes et tous des professionnels maintenant et les professionnels ne font pas ça pour l'argent, ils font ça
 par amour du travail bien fait.
+
+Sauf que nous n'avons pas décidé des règles du jeu.
+
+Ce sont les capitalistes qui l'ont fait.
 
 
 # Pour aller un peu plus loin
@@ -425,7 +431,7 @@ par amour du travail bien fait.
 
 ### Livres à Lire
 
-"il faut s'adapter" de _Barbara Steigler_
+"Il faut s'adapter" de _Barbara Steigler_
 
 "Bullshit Jobs" de _David Graeber_
 
@@ -456,7 +462,8 @@ si ces salariées ne sont pas les propriétaires de leur propre moyen de product
 vétérinaire). Les propriétaires de la clinique sont parfaitement contents de faire travailler leurs salariées à 150%
 et ainsi faire le même chiffre d'affaire que d'habitude avec 30% de masse salariale en moins.
 Les propriétaires sont dans une position où la lutte sociale n'existe pas, il n'y a pas de syndicat, uniquement de la négociation 
-directe salariée <-> patronat.
+directe salariée <-> patronat.   
+
 
 
 
