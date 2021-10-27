@@ -9,14 +9,18 @@ tags: [independant]
 
 # Une histoire du professionnalisme
 
-Je ne supporte plus les  injonctions au professionnalisme. Il y en a partout. Voilà ce que c'est qu'être un vrai développeur. Voilà ce que c'est d'être un bon développeur.
-Vous pouvez pas vous dire craftsman si vous vous comportez pas en professionnel. Etc.
+Je ne supporte plus les  injonctions au professionnalisme. Il y en a partout. Voilà ce que c'est qu'être une vraie développeuse. Voilà ce que c'est d'être un bon développeur.
+Vous pouvez pas vous dire craftsman  si vous vous comportez pas en professionnel. Etc.
 
 Je pourrais vous citer 50 posts linkedin sur le professionalisme et le craftsmanship mais je vais en citer qu'un d'Alexandre
 Fillatre (un type sympa avec qui j'ai travaillé chez CDiscount) dans un post public :
 
-> J'ai vraiment du mal à comprendre comment autant de personnes qui font du #developpement leur métier sont fières de dire qu'ils ne font rien en rapport avec le dev hors des heures boulot. Je ne parle pas du tout de continuer à bosser pour son entreprise sur son temps perso, mais simplement de s'intéresser à son métier, à sa passion. Lire un bouquin de techniques de dev, regarder une conférence, tester un nouveau langage, aller à des meetups, etc...
-> Savoir développer ça ouvre tellement de possibilités, que c'est vraiment dommage de n'en rester qu'à un strict 9h/18h. Et ce n'est pas souvent dans les tâches quotidenne du travail que l'on progresse le plus, car l'expérimentation a moins sa place que sur un projet perso.
+> J'ai vraiment du mal à comprendre comment autant de personnes qui font du #developpement leur métier sont
+> fières de dire qu'ils ne font rien en rapport avec le dev hors des heures boulot. Je ne parle pas du tout de
+> continuer à bosser pour son entreprise sur son temps perso, mais simplement de s'intéresser à son métier, à sa
+> passion. Lire un bouquin de techniques de dev, regarder une conférence, tester un nouveau langage, aller à des meetups, etc...
+> Savoir développer ça ouvre tellement de possibilités, que c'est vraiment dommage de n'en rester qu'à un strict 9h/18h. Et
+> ce n'est pas souvent dans les tâches quotidiennes du travail que l'on progresse le plus, car l'expérimentation a moins sa place que sur un projet perso.
 > Vous êtes d'accord avec moi, ou bien je suis trop idéaliste ? C'est peut-être mon esprit #crafts qui parle.
  
 C'est vrai ça comment ça se fait que des gens font du développement leur métier et ne travaillent pas en dehors 
