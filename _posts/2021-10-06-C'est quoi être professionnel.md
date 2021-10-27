@@ -6,40 +6,29 @@ category:
 tags: [independant]
 ---
 
+# J'en a marre du professionnalisme
 
-# Une histoire du professionnalisme
-
-Je ne supporte plus les  injonctions au professionnalisme. Il y en a partout. Voilà ce que c'est qu'être un vrai développeur. Voilà ce que c'est d'être un bon développeur.
+Il y en a partout. Voilà ce que c'est qu'être un·e vrai développeur·euse. Voilà ce que c'est d'être un bon développeur·euse.
 Vous pouvez pas vous dire craftsman si vous vous comportez pas en professionnel. Etc.
 
 Je pourrais vous citer 50 posts linkedin sur le professionalisme et le craftsmanship mais je vais en citer qu'un d'Alexandre
-Fillatre (un type sympa avec qui j'ai travaillé chez CDiscount) dans un post public :
+Fillatre (un type sympa avec qui j'ai travaillé chez CDiscount), dans un post public :
 
-> J'ai vraiment du mal à comprendre comment autant de personnes qui font du #developpement leur métier sont fières de dire qu'ils ne font rien en rapport avec le dev hors des heures boulot. Je ne parle pas du tout de continuer à bosser pour son entreprise sur son temps perso, mais simplement de s'intéresser à son métier, à sa passion. Lire un bouquin de techniques de dev, regarder une conférence, tester un nouveau langage, aller à des meetups, etc...
-> Savoir développer ça ouvre tellement de possibilités, que c'est vraiment dommage de n'en rester qu'à un strict 9h/18h. Et ce n'est pas souvent dans les tâches quotidenne du travail que l'on progresse le plus, car l'expérimentation a moins sa place que sur un projet perso.
+> J'ai vraiment du mal à comprendre comment autant de personnes qui font du #developpement leur métier sont fières de dire qu'ils ne font rien en rapport avec le dev hors des heures boulot. Je ne parle pas du tout de continuer à bosser pour son entreprise sur son temps perso, mais simplement de s'intéresser à son métier, à sa passion. Lire un bouquin de techniques de dev, regarder une conférence, tester un nouveau langage, aller à des meetups, etc.
+> Savoir développer ça ouvre tellement de possibilités, que c'est vraiment dommage de n'en rester qu'à un strict 9h/18h. Et ce n'est pas souvent dans les tâches quotidienne du travail que l'on progresse le plus, car l'expérimentation a moins sa place que sur un projet perso.
 > Vous êtes d'accord avec moi, ou bien je suis trop idéaliste ? C'est peut-être mon esprit #crafts qui parle.
  
 C'est vrai ça comment ça se fait que des gens font du développement leur métier et ne travaillent pas en dehors 
 des horaires de bureau ? 
 
-Cette histoire de passion du développement logiciel, du professionnalisme, du craftsmanship et du clean-coder 
-commencent lentement à me sortir par les oreilles.  
-Comme un symbole, le titre complet de Software Craftsman est :     
+Ce qui suit est la traduction d'un [article](https://medium.com/@teioh/we-are-all-professionals-now-or-how-did-grocery-workers-become-heroes-4cba3ffcc034) de Ted Lee. Merci à lui de l'avoir écrit et de me permettre d'en publier une traduction.
 
-> The Software Craftsman: Professionalism, Pragmatism, Pride (Sandro Mancuso)
+**Attention cet article est très très long, et part dans tous les sens, si vous avez une idée de comment remettre ça en ordre
+ou découper en plusieurs morceaux, je serais preneur.**
 
-J'ai donc décidé de traduire librement [un article de Ted Lee](https://medium.com/@teioh/we-are-all-professionals-now-or-how-did-grocery-workers-become-heroes-4cba3ffcc034),
-un sociologue américain qui a étudié le 
-professionnalisme chez les archivistes américains et l'histoire du professionnalisme. 
-**Annonce publique n°1** : Ce n'est pas une traduction _stricto-sensu,_
-je prends beaucoup de liberté sur la forme du conten, j'ai réorganisé des chapitres et supprimé ceux qui me semblaient inadaptés
-à notre contexte. J'ai aussi adapté les exemples proposés au contexte français et j'y insère parfois mes réflexions personnelles. Néanmoins
-le fond de l'article et le raisonnement viennent de Ted Lee.      
-**Annonce publique n°2** : cet article est très très long, et part un peu dans tous les sens, si vous avez une idée de comment remettre ça en ordre
-ou découper en plusieurs morceaux.
+---
 
-
-# Quand les infirmières et les caissières sont devenues des professionnelles 
+## Le moment où les injonctions au professionnalisme m'ont soulé 
 
 Avec le COVID sont apparues de nombreuses contradictions du capitalisme moderne, précisément de l'organisation du travail. 
 L'une des plus marquantes a été l'annonce des **travailleurs essentiels**. Quand les commerces se sont arrêtés, en même temps
@@ -60,13 +49,13 @@ Harold Wilensky écrit en 1964 un article "The professionalization of everyone" 
 tous les travailleurs et toutes les travailleuses deviendront des professionnelles. Ça peut
 sembler évident en 2021 parce que le sens du mot a évolué, mais ça ne l'était pas du tout en 1964. Pourquoi
 donc était-ce controversé ? Aujourd'hui tout le monde doit être professionnel, doit agir comme un professionnel.
-Lorsqu'un prestataire ne finit pas correctement son travail, on n'hésitera pas à lui asséner la plus vive critique entendable dans le monde du travail, _il manque de professionalisme._
+Lorsqu'un prestataire ne finit pas correctement son travail, on n'hésitera pas à lui asséner la plus vive critique entendable dans le monde du travail, _il manque de professionnalisme._
 
 
 ## C'est quoi le capitalisme ?
 
-Pour comprendre le professionnalisme, il faut comprendre le capitalisme, et peu de choses sont plus dures à
-définir que le capitalisme. Selon à qui je demande ça peut être: 
+Pour comprendre le professionnalisme, il faut comprendre le capitalisme, et peu de choses sont plus difficiles à
+définir que le capitalisme. Selon à qui je demande ça peut être :
 
 * le marché libre
 * la recherche du profit
@@ -82,13 +71,13 @@ Si les ouvriers goûtent le vin qu'ils ont produit, cela s'apparente à un vol. 
 aussi de l'activation des moyens de production) l'ouvrier reçoit un salaire qui est décidé par le patronat, et décide
 ensuite du prix et des modalités de vente de la production.
 
-Ce framework définit la relation de domination entre les propriétaires 
-(ceux qui ont les moyens de productions) et les prolétaires (ceux qui ne les ont pas) et est
+Ce cadre définit la relation de domination entre les propriétaires 
+(qui possèdent les moyens de productions) et les prolétaires (qui ne les possèdent pas) et est
 la base du marxisme. Cette relation économique basique nous permet maintenant d'introduire la notion de professionnel.
 
-# Le professionnel
+## Le professionnel
 
-Maintenant, pensons à un médecin au 19ème siècle.        
+Maintenant, pensons à un médecin au 19ème siècle. 
 Que produit-il ? Rien, il ne fabrique pas de vin, ni de chaise. Il vend un service, le soin, qui
 est essentiel au fonctionnement d'une société. Mais c'est pas un bien qu'on peut créer et échanger dans un
 marché. Et que signifie les moyens de production pour un médecin ? Certes il a besoin d'outils, de seringues et d'équipement,
@@ -100,17 +89,14 @@ marxiste des rapports de production, ils sont **à la fois le moyen de productio
 À partir de là les interprétations diffèrent.
 
 * Wilensky voit les professionnels comme une réponse naturelle, rationnelle et scientifique au capitalisme.
-
 * Magali Larson voit le professionnalisme comme une stratégie économique où les fournisseurs de services (docteurs, artisans)
 se rassemblent et créent un mini-monopole en contrôlant l'accès à la profession et en créant artificiellement 
 la rareté.
-
 * Hannes Siegrist voit le professionnel comme un fournisseur de service à destination quasi-unique de la bourgeoisie
-qui en imite les manières?
-
+qui en imite les manières ?
 * D'autres encore proposent que les professionnels proviennent des guildes de métier médiévales
 
-Quelle que soit la raison d'être des professionnels, il y a une chose de sûre, les professionnels ne rentrent
+Quelle que soit la raison d'être des professionnels, une chose est sûre : les professionnels ne rentrent
 pas dans la dichotomie classique du capitalisme propriétaire des moyens (les bourgeois) ou travailleurs 
 exploités pour le profit (les prolétaires).
 
@@ -118,7 +104,7 @@ exploités pour le profit (les prolétaires).
 
 Voici comment Eliot Friedson le définit : 
 
-> An intrinsically ambiguous, multifaceted folk concept
+> Un concept intrinsèquement ambigu, populaire et aux multiples facettes
 
 Mais comme je sens que ça ne vous avance pas beaucoup, on peut regarder ce qui est commun 
 aux différentes professions étudiées (généralement le droit, la médecine, l'ingénierie, parfois la stratégie militaire, 
@@ -141,8 +127,8 @@ Pour un médecin au 19ème siècle, ça veut dire :
 
 Il y a évidemment un certain prestige à pratiquer la médecine, et même si la situation est financièrement intéressante,
 les médecins ne sont pas intéressés par s'enrichir. Ils se soucient avant tout de la santé et du bien-être
-de leurs patients et ils respectent la confidentialité du patient. Leur code moral est impeccable.    
-Avec cette forte éthique vient une croyance de la société: un docteur qui chercherait uniquement la gloire et 
+de leurs patients et respectent leur confidentialité. Leur code moral est impeccable.
+Avec cette forte éthique vient une croyance de la société : un docteur qui chercherait uniquement la gloire et 
 l'argent (d'autant plus quand c'est aux dépens de la santé du patient) ne serait pas uniquement un mauvais docteur,
 mais **une mauvaise personne**.
 
@@ -154,7 +140,7 @@ devenir plus compétent ou un meilleur ouvrier, mais **un meilleur individu.**
 
 ## L'arrivée du capitalisme 
 
-### au 19ème siècle
+### Au 19ème siècle
 
 L'arrivée du capitalisme et de l'industrie est très violente pour la classe ouvrière. Certains
 enfants anglais commençaient à travailler à partir de 4 ans (The Factory Act (1833) interdit le 
@@ -162,9 +148,9 @@ travail d'enfant avant 9 ans) et les ouvriers travaillent très régulièrement 
 une série de conflits sociaux violents entre ouvriers et bourgeois, avec ce qu'on a appelé le [Luddisme](https://fr.wikipedia.org/wiki/Luddisme)
 lorsque les ouvriers se rebellait en détruisant les machines à tisser en jetant leurs sabots à l'intérieur 
 des engrenages. Ce qui a 
-donné le nom de _sabotage_.
+donné le mot _sabotage_.
 
-Pour se défendre au 19ème siècle les ouvriers avaient deux choix: se syndiquer ou devenir une profession. 
+Pour se défendre au 19ème siècle les ouvriers avaient deux choix : se syndiquer ou devenir une profession. 
 Le but était similaire : créer les meilleures conditions de travail et s'assurer un salaire suffisant, mais la manière
 de faire était différente. Les syndicats recherchaient une identité prolétaire (de l'entraide entre les différents
 corps de métier, une collaboration contre le patronat, une emphase de l'artisanat)
@@ -172,12 +158,12 @@ et les professionnels
 recherchaient une identité plutôt bourgeoise (l'accumulation individuelle de connaissances, la recherche de statut
 social, être reconnu expert, la neutralité politique, etc.).
 
-Si vous étiez une femme, ou un immigré, ou les deux, vous n'aviez que très peu de chance d'être syndiqué et encore moins une professionnelle.
+Si vous étiez une femme, ou un immigré, ou les deux, vous n'aviez que très peu de chance d'être syndiqué et encore moins d'être une professionnelle.
 Dans ces cas là, si vous aviez ne serait-ce que la chance de participer dans le marché du travail, c'était
 souvent dans un contexte brutal, non-régulé, non-reconnu, et dans l'incapacité totale d'organiser la défense
 de vos conditions de travail.
 
-### au XXème siècle
+### Au XXème siècle
 
 Le début du 20ème siècle marque la grande époque des syndicats et des professions. L'appartenance à l'un
 ou l'autre était l'assurance de prospérité et d'une vie dans la classe moyenne. La plupart des champs qui
@@ -198,7 +184,6 @@ ont commencé à adopté les pratiques des professions originelles, et d'adopter
 
 ## Le néolibéralisme 
 
-
 \[Notes du traducteur\] : La définition du néolibéralisme est toujours sujet à débat, la définition utilisée ici
 est dans le contexte américain et est donc le néolibéralisme _américain_, celui du keynésianisme. Il peut être rapproché
 de l'ultra-libéralisme, qui donne la priorité à l'action libre des individus contre toute "emprise" de l'état,
@@ -208,7 +193,7 @@ et laisse l'ordre social se faire dicter par une sorte de darwinisme social.
 
 Pour rappel, après la grande dépression des années 30, Franklin Roosevelt décide de lancer un _new deal_ qui est sensé
 protéger le peuple et augmenter le rôle de l'état sur le marché (il y a encore des débats sur l'intérêt économique)
-du _New Deal_.     
+du _New Deal_. 
 Durant les années 1970, une série de crises économiques perturbent encore une fois le rêve capitaliste. Mais
 cette fois-ci, la réponse apportée aux crises est de libéraliser encore plus le marché, de repousser les limites.
 Si ça ne marche pas, c'est que l'état intervient encore trop. Ça signifie souvent une dérégulation drastique
@@ -218,29 +203,29 @@ s'enrichissent et que les mauvais disparaissent du marché ou se fassent rachete
 
 ### La perversion du néolibéralisme
 
-Un des aspects les plus pervers du néolibéralisme a été de changer sa propre substance.     
+Un des aspects les plus pervers du néolibéralisme a été de changer sa propre substance. 
 
 Les néolibéraux célébraient le capital, mais désiraient aussi que **les agents (les individus, les institutions, 
 les entreprises) se comportent comme un capital**, ils devaient pouvoir s'adapter, se transformer, être mobile
-être fungible et générer soi-même ses propres profits en investissant en eux-mêmes.
+être fongible et générer soi-même ses propres profits en investissant en eux-mêmes.
 
 L'idéal n'est plus d'être un salarié, encore moins un travailleur. L'idéal est d'être un entrepreneur. 
 Capable de se motiver soi-même, de se remettre en question, de se réorienter, de se former, d'être à l'écoute
 du marché, de trouver sa passion dans l'emploi. Car pour le néolibéralisme qui hérite du darwinisme social, ne pas
-travailler signifie mériter de mourir; pas uniquement de manquer matériellement des moyens d'existence mais 
+travailler signifie mériter de mourir ; pas uniquement de manquer matériellement des moyens d'existence mais 
 de mourir métaphoriquement, émotionnellement et psychologiquement. Ne pas travailler est perdre son identité
-en tant qu'individu (_qu'est ce que tu fais dans la vie?_ qui signifie _quel est ton travail?_ ). 
+en tant qu'individu (_qu'est ce que tu fais dans la vie ?_ qui signifie _quel est ton travail ?_). 
 
 Ça peut paraître étrange aujourd'hui mais avant les années 80 c'était facile de savoir qui était un 
 capitaliste (_c'était un patron, quelqu'un qui possédait des moyens de production_). Nous savions que
-nous vivions dans une société capitaliste, nous savions notre rôle et notre classe
+nous vivions dans une société capitaliste, nous connaissions notre rôle et notre classe
 dans cette société (_prolétaires_). L'arrivée du néolibéralisme a permis de recentrer (faussement) les moyens de 
 production dans l'individu. Elle a (faussement) redéfini le moyen de production en tant que travail, et
 donc a redéfini tous les travailleurs en capitalistes vu qu'ils étaient propriétaires de leurs moyens de 
 production. Les problèmes de la sociétés n'étaient pas structurels ou systémiques mais étaient des problèmes
 individuels. 
 
-\[Notes du traducteur\]     : Ces changements ont entrainé des néologismes dont la sémantique me 
+\[Notes du traducteur\] : Ces changements ont entrainé des néologismes dont la sémantique me 
 semblent assez flagrante. Une femme de ménage qui doit élever seule ses enfants était appelé "une exploitée" dans 
 les années 60. On désigne par là une action, un processus (l'exploitation), une victime (l'exploitée) et donc potentiellement un 
 oppresseur, un exploiteur. Dans la même situation on dirait maintenant qu'elle est _défavorisée_.
@@ -249,11 +234,11 @@ structurelle, on utilise maintenant un terme qui la qualifie individuellement co
 pas eu de chance. 
 
 Les professions (médecine, juridique) ont historiquement toujours été en porte-à-faux avec la notion de marché-libre, le 
-fait de réguler l'entrée au marché et la pratique les placent dans une position où ils décident du prix des 
+fait de réguler l'entrée au marché et la pratique les placent dans une position où elles décident du prix des 
 prestations et ne sont pas en guerre les uns contre les autres. Mieux que ça, l'état protège légalement
 la pratique de ces professions.
 
-### les effets du néolibéralisme sur l'emploi 
+### Les effets du néolibéralisme sur l'emploi 
 
 Avec l'évolution des marchés de plus en plus rapide durant le XXème siècle, il se passe après la seconde
 guerre mondiale ce que [Guy Standing](https://fr.wikipedia.org/wiki/Guy_Standing_(professeur)) a
@@ -262,11 +247,11 @@ du travail formel et cantonnées au travail domestique qui, en tant que travail 
 de valeur pour le système capitaliste. Elles entrent ensuite petit à petit sur le marché du travail typiquement
 dans des emplois temporaires, avec des horaires flexibles avec le salaire horaire minimum. Elles 
 travaillent souvent dans plusieurs domaines différents utilisant des compétences diverses pour s'adapter
-aux différentes tâches qu'on demande d'elles.     
+aux différentes tâches qu'on demande d'elles. 
 Le travail évolue et est découpé en tâches simples, voire simplistes. Le savoir-faire se décompose en
 compétences, ce que Standing a appelé le **de-skilling** de l'emploi, la perte de savoir-faire. Au lieu
 de former des travailleurs et travailleuses à savoir, connaître et comprendre l'ensemble d'un artisanat (comme les 
-compagnons du devoirs), on cantonne ses tâches à une toute petite circonscription.     
+compagnons du devoirs), on cantonne ses tâches à un tout petit périmètre. 
 Certaines catégories d'emplois perdant toute exigence de savoir-faire, il est donc possible de 
 remplacer les travailleurs par des travailleuses payées moins cher et avec des horaires flexibles. 
 
@@ -274,7 +259,7 @@ Résultat, de plus en plus de femmes entrent dans le marché du travail alors qu
 acceptent des conditions de travail qui ont été refusées ou renégociées dans le passé par les syndicats.
 
 La manière dont l'emploi s'est féminisé est visible dans la manière dont les femmes sont arrivées dans les emplois.
-En médecine par exemple, des fonctions tierces sont apparues (aide-soignants, manip-radios, auxiliaire 
+En médecine par exemple, des fonctions tierces sont apparues (aide-soignant, manipulateur-radio, auxiliaire 
 de puériculture, technicien biologie, secrétaire médicale, etc.) qui nécessitent moins de formation, 
 sont moins bien rémunérées et moins prestigieuses que le métier de docteur et dont la majorité des effectifs 
 est féminine.
@@ -287,7 +272,7 @@ qu'on a aussi appelé [capitalisme cognitif](https://www.toupie.org/Dictionnaire
 C'est la capacité des travailleurs à manipuler des idées et des concepts numériquement plutôt que de
 déplacer des outils en travaillant sur des produits finis. La quintessence de ce travailleur est le développeur
 ou la développeuse, capable de manipuler un langage de programmation afin de produire un logiciel. 
-Les avancées technologiques ont comme propriété de réorganiser de deux manières le travail à l'ère du numérique:     
+Les avancées technologiques ont comme propriété de réorganiser de deux manières le travail à l'ère du numérique : 
 * l'espace est réorganisé, le travail n'est plus confiné au bureau, mais accessible en télétravail
 * le temps est réorganisé, les heures de travail contractuelles ne sont plus aussi strictes, il devient possible
 de travailler autant que possible pour les travailleurs et travailleuses.
@@ -295,11 +280,11 @@ de travailler autant que possible pour les travailleurs et travailleuses.
 De la même manière, cette réorganisation s'est appliquée aux travaux des femmes. Le travail féminin
 original étant celui de la maternité qui demande d'être capable de travailler à toute heure de la journée.
 Le raisonnement de Morini est de dire que la réorganisation du travail a transformé l'entreprise en une
-famille dont les salariés doivent s'occupper de la même manière qu'une mère doit s'occupper de sa famille, être
-toujours prêt à répondre à un mail ou à un collègue qui a besoin d'informations. Pour Morini le 21ème siècle
+famille dont les salariés doivent s'occuper de la même manière qu'une mère doit s'occuper de sa famille, être
+toujours prête à répondre à un mail ou à un collègue qui a besoin d'informations. Pour Morini le 21ème siècle
 n'a donc pas uniquement changé la nature du travail, mais la nature des travailleurs et travailleuses elles-même.
 Les individus tendent maintenant à avoir une position adaptable, oblative et sacrificielle, en deux mots
-à adopter une attitude maternelle quant à leur travail.      
+à adopter une attitude maternelle quant à leur travail. 
 
 ### La précarisation comme liberté
 
@@ -318,7 +303,7 @@ travaillent quand ils en ont envie. Ainsi la féminisation du travail n'est pas 
 de l'infériorité des femmes, c'est leur offrir la liberté de travailler en dehors du traditionnel 9h-17h
 pour avoir un complément de revenu en plus de leur responsabilité du travail domestique.
 Le capitalisme cognitif féminisé **n'est pas** en train de vous transformer en une mère allaitant son patron 
-via des emails et messages slack durant le weekend, il est en train de **donner un sens à votre travail**.
+via des emails et messages Slack durant le weekend, il est en train de **donner un sens à votre travail**.
 La précarité n'est plus quelque chose dont il faut se protéger, la précarité des conditions de travail
 devient une vertu à rechercher qui amène liberté et indépendance. 
 
@@ -326,11 +311,11 @@ devient une vertu à rechercher qui amène liberté et indépendance.
 
 Le travail, on l'a vu, est devenu liquide, il s'immisce, s'étend, se décentralise. Il devient plus profitable
 et facile à exploiter, mais aussi plus dur à contrôler. Comment s'assurer que le télé-travailleur ne prenne pas
-de pause-pipi trop longue ? A l'usine, le contremaitre peut vérifier qui s'est arrêté de travailler. Maintenant
+de pause-pipi trop longue ? À l'usine, le contremaitre peut vérifier qui s'est arrêté de travailler. Maintenant
 comment faire pour que les travailleurs et travailleuses travaillent avec autant d'acharnement que si leur
-manager était derrière eux? On pourrait mesurer leur     travail, mais comment s'assurer de la cadence quand le travail
+manager était derrière eux ? On pourrait mesurer leur travail, mais comment s'assurer de la cadence quand le travail
 est intellectuel et dur à quantifier ? On connait la difficulté à mettre en place des KPIs utiles de performance,
-faut-il compter les lignes de code? le nombre de bugs produits ? 
+faut-il compter les lignes de code ? le nombre de bugs produits ? 
 
 Certaines personnes seront autonomes et pourront être productives malgré le manque de surveillance. Certaines seront même
 plus productives à distance qu'avec un surveillant derrières elles. 
@@ -343,12 +328,12 @@ directement quelque chose et recherchent un but dans leur vie plutôt qu'un sala
 
 Oh, on dirait des professionnels.
 
-Et les professionnels, on l'a dit, ont un status symbolique intéressant. Ils sont admirés par leurs 
-compétences (qui coincident avec le marché capitaliste du travail) et leurs vertus (qui coincident avec
-le marché capitaliste du travail) qui les font apparaitre comme distingués, intelligents, cultivés et compétents; 
-en un mot:  professionels. Et les gens **apprécient** d'être appelés des professionnels. Les champs
+Et les professionnels, on l'a dit, ont un statut symbolique intéressant. Ils sont admirés par leurs 
+compétences (qui coïncident avec le marché capitaliste du travail) et leurs vertus (qui coïncident avec
+le marché capitaliste du travail) qui les font apparaitre comme distingués, intelligents, cultivés et compétents ; 
+en un mot : professionnels. Et les gens **apprécient** d'être appelés des professionnels. Les champs
 professionnels qui subissent les dérégulations, la féminisation du travail (dans le sens de _Cristina Morini_), la
-précarisation **essaient maintenant de devenir des professions**.  Mais ce qu'on observe
+précarisation **essaient maintenant de devenir des professions**. Mais ce qu'on observe
 c'est qu'on attend d'elles et d'eux d'avoir une attitude professionnelle, une dévotion et une passion, 
 mais aucun des bénéfices économiques ni symboliques qu'on associait historiquement aux professions.
 
@@ -357,7 +342,7 @@ Soudainement, le professionnalisme qui était à côté de la plaque du capitali
 
 Et c'est ironique, car en 1940 une secrétaire professionnelle ou un vendeur de meuble professionnel aurait
 été franchement risible. Parce qu'_"être professionnel"_ est une manière totale de vivre sa vie, d'être 
-son métier (dans ce cas-là, sa profession), une manière de voir le monde et d'y souscrire très précise.    
+son métier (dans ce cas-là, sa profession), une manière de voir le monde et d'y souscrire très précise. 
 Le professionnalisme constituait donc un imaginaire d'aspirations et d'émotions que les employeurs
 pouvaient utiliser, comme le dit Fournier pour "contrôler la marge croissante d'indétermination et de
 flexibilité du travail". Transformer un travailleur qu'il faut contrôler en un agent capable de se surveiller
@@ -365,24 +350,24 @@ lui-même, de se motiver lui-même. Qu'il soit son propre patron, mais dans le m
 
 ### Les valeurs du professionnalisme
 
-Les valeurs du professionnalisme rapprochent le travail du sacré et le travailleur devient un hiérophante.
-La vocation (qui était un terme plus puissant avant de devenir un synonyme de travail) vient du latin _vocare_,  pour _appelé_.
+Les valeurs du professionnalisme rapprochent le travail du sacré et le travailleur devient un grand prêtre.
+La vocation (qui était un terme plus puissant avant de devenir un synonyme de travail) vient du latin _vocare_, pour _appelé_.
 C'était le terme utilisé quand Dieu lui-même décidait pour quelqu'un quel serait son travail, ce qui rendait
-le-dit travail sacré, voire consacré.     
+le-dit travail sacré, voire consacré. 
 De la même manière, le professionnalisme élève le travail à un rang symbolique plus élevé. Dans 
 _Keywords, The new language of Capitalism_, les auteurs pointent que beaucoup de buzzwords portent 
 une connotation religieuses. Prenez par exemple le mot "passion". Un développeur pour réussir son entretien
 d'embauche doit être "passionné", mais le mot prend ses racines dans la souffrance du Christ sur sa croix.
 La passion des saints a finalement fait d'eux des martyrs. Est-ce que ça signifie qu'il faut être passionné
-par l'informatique ou par son travail ? Ettarh dit :    
+par l'informatique ou par son travail ? Ettarh dit : 
 
-> Tu ne manges pas de la passion, tu ne payes pas ton loter avec de la passion. La passion, la dévotion et
+> Tu ne manges pas de la passion, tu ne payes pas ton loyer avec de la passion. La passion, la dévotion et
 > l'émerveillement ne sont pas de bonnes sources de revenu. L'histoire de Saint Laurent de Rome est peut-être
 > noble, mais être un martyr ne fait pas vraiment un bon plan de carrière. 
 
 En dernier recours, le capitalisme a si bien convaincu que nous devons agir en professionnels qu'il
 y a un grand bagage émotionnel à se faire qualifier de non-professionnel. Parce que nous savons que cette
-critique est une insulte du notre valeur personnelle, intrinsèque. Une critique de notre moralité. Et donc
+critique est une insulte à notre valeur personnelle, intrinsèque. Une critique de notre moralité. Et donc
 nous avons tous accepté l'idée que nous devons nous comporter en professionnels même si peu d'entre nous
 profitent de tous les avantages qu'on associe traditionnellement aux professionnels.
 
@@ -402,70 +387,58 @@ Cependant on attend d'eux qu'ils agissent en professionnels, mais qu'est-ce que 
 
 Ça signifie travailleur pour le bien de la société et faire advenir le bien commun avant le profit personnel.
 S'ils osent demander durant la crise du COVID une réévaluation de leurs conditions de travail, c'est complètement déplacé.
-_Est-ce qu'ils réalisent que nous sommes au milieu d'une crise sanitaire? Est-ce que c'est bien le moment
-d'exiger de l'argent ? Pourquoi est-ce que les docteurs, eux, ne demandent pas de revalorisation? Pas comme ces
-râleuses d'infirmières..._ Être professionnel, c'est être dans une posture sacrificielle pour le bien commun. 
+_Est-ce qu'ils réalisent que nous sommes au milieu d'une crise sanitaire ? Est-ce que c'est bien le moment
+d'exiger de l'argent ? Pourquoi est-ce que les docteurs, eux, ne demandent pas de revalorisation ? Pas comme ces
+râleuses d'infirmières…_ Être professionnel, c'est être dans une posture sacrificielle pour le bien commun. 
 Et s'il y a bien une chose que la bourgeoisie apprécie, c'est bien de sacrifier les autres pour ses intérêts. 
 Et cette image est si bien implantée en nous que nous désirons nous sacrifier pour le bien commun.
 
 Donc nous pouvons donner une prime aux infirmières, mais pas trop élevée. Il ne faudrait pas qu'elles puissent croire
 qu'elles travaillent pour l'argent et non pas pour le bien des concitoyens. On voit ici apparaître un début de réponse à la question de David Graeber dans
-_Bullshit Jobs_: Pourquoi est-ce que les travailleurs les plus utiles sont payés les moins chers ? Parce que
+_Bullshit Jobs_ : Pourquoi est-ce que les travailleurs les plus utiles sont payés les moins chers ?
+
+Parce que
 nous sommes tous des professionnels maintenant et les professionnels ne font pas ça pour l'argent, ils font ça
 par amour du travail bien fait.
 
+Sauf que nous n'avons pas décidé des règles du jeu.
 
-# Pour aller un peu plus loin
+Ce sont les capitalistes qui l'ont fait.
 
+## Pour aller un peu plus loin
 
 ### Livres à Lire
 
-"il faut s'adapter" de _Barbara Steigler_
+"Il faut s'adapter" de _Barbara Steigler_
 
 "Bullshit Jobs" de _David Graeber_
 
 ### Articles 
 
-"The theory of Professions : State of the Art", de Eliot Friedson
+"The theory of Professions: State of the Art", de Eliot Friedson
 
 "The feminization of labour in cognitive capitalism," de _Cristina Morini_, Feminist Review 87 (2007).
 
 "State of Insecurity: Government of the Precarious" de _Isabell Lorey_ ,Verso, 2015.
 
-"The Appeal to Professionalism as a Disciplinary Mechanism", the Sociological Review  vol 47 (1999)
+"The Appeal to Professionalism as a Disciplinary Mechanism", the Sociological Review vol 47 (1999)
 
 "Still Blue-Collar after all these years ? An ethnography of the Professionalization of Emergence Ambulance
 Work", Journal of Management Studies, de _McCann et al_.
 
-#### Corollaire de ça
-\[Notes du traducteur\]     
+## Corollaire de ça
+
+\[Notes du traducteur\] 
 
 Si vous vous arrêtez quelques minutes pour y réfléchir, vous connaissez probablement de nombreuses personnes qui acceptent des
 conditions de travail médiocres, voir carrément dégueulasses à qui l'on demande de faire des sacrifices
 pour assurer un bon service aux clients. Dans mon entourage proche, j'ai l'exemple d'une amie vétérinaire 
 à qui on demande de travailler 6 jours par semaine, parfois 7, pour assurer les gardes et les rendez-vous à 
 la clinique vétérinaire de sa ville de campagne. Or, si l'équipe est sous-dimensionnée et doit multiplier 
-les heures supplémentaires sans récolter un salaire proportionnel au temps de travail réél, c'est uniquement
+les heures supplémentaires sans récolter un salaire proportionnel au temps de travail réel, c'est uniquement
 parce que les salariées sont pressurisées à faire "du bon travail" et "être professionnelle", même
 si ces salariées ne sont pas les propriétaires de leur propre moyen de production (la clinique
 vétérinaire). Les propriétaires de la clinique sont parfaitement contents de faire travailler leurs salariées à 150%
 et ainsi faire le même chiffre d'affaire que d'habitude avec 30% de masse salariale en moins.
 Les propriétaires sont dans une position où la lutte sociale n'existe pas, il n'y a pas de syndicat, uniquement de la négociation 
-directe salariée <-> patronat.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://medium.com/@teioh/professionalism-will-not-save-us-but-organizing-just-might-12a3d57ed87
-
-https://medium.com/@teioh/we-are-all-professionals-now-or-how-did-grocery-workers-become-heroes-4cba3ffcc034
+directe entre salariée et patronat.
