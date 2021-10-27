@@ -12,7 +12,7 @@ tags: [independant]
 Je ne supporte plus les  injonctions au professionnalisme. Il y en a partout. Voilà ce que c'est qu'être une vraie développeuse. Voilà ce que c'est d'être un bon développeur.
 Vous pouvez pas vous dire craftsman  si vous vous comportez pas en professionnel. Etc.
 
-Je pourrais vous citer 50 posts linkedin sur le professionalisme et le craftsmanship mais je vais en citer qu'un d'Alexandre
+Je pourrais vous citer 50 posts linkedin sur le professionnalisme et le craftsmanship mais je vais en citer qu'un d'Alexandre
 Fillatre (un type sympa avec qui j'ai travaillé chez CDiscount) dans un post public :
 
 > J'ai vraiment du mal à comprendre comment autant de personnes qui font du #developpement leur métier sont
@@ -63,7 +63,7 @@ Harold Wilensky écrit en 1964 un article "The professionalization of everyone" 
 tous les travailleurs et toutes les travailleuses deviendront des professionnelles. Ça peut
 sembler évident en 2021 parce que le sens du mot a évolué, mais ça ne l'était pas du tout en 1964. Pourquoi
 donc était-ce controversé ? Aujourd'hui tout le monde doit être professionnel, doit agir comme un professionnel.
-Lorsqu'un prestataire ne finit pas correctement son travail, on n'hésitera pas à lui asséner la plus vive critique entendable dans le monde du travail, _il manque de professionalisme._
+Lorsqu'un prestataire ne finit pas correctement son travail, on n'hésitera pas à lui asséner la plus vive critique entendable dans le monde du travail, _il manque de professionnalisme._
 
 
 ## C'est quoi le capitalisme ?
