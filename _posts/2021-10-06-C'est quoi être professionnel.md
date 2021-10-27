@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "Généalogie du professionnalisme"
+title: "Généalogie du professionnalisme, se surveiller et se punir"
 description: "Une histoire récente de la notion de profession, de professionnalisme. Traduction plus ou moins libre d'un article"
 category:
 tags: [independant]
 ---
 
-
-# Une histoire du professionnalisme
 
 Je ne supporte plus les  injonctions au professionnalisme. Il y en a partout. Voilà ce que c'est qu'être une vraie développeuse. Voilà ce que c'est d'être un bon développeur.
 Vous pouvez pas vous dire craftsman  si vous vous comportez pas en professionnel. Etc.
