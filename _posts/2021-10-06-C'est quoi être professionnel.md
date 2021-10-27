@@ -158,7 +158,7 @@ devenir plus compétent ou un meilleur ouvrier, mais **un meilleur individu.**
 
 ## L'arrivée du capitalisme 
 
-### Au 19ème siècle
+### Au XIXème siècle
 
 L'arrivée du capitalisme et de l'industrie est très violente pour la classe ouvrière. Certains
 enfants anglais commençaient à travailler à partir de 4 ans (en Angleterre The Factory Act (1833) interdit le 
@@ -176,14 +176,15 @@ et les professionnels
 recherchaient une identité plutôt bourgeoise (l'accumulation individuelle de connaissances, la recherche de statut
 social, être reconnu expert, la neutralité politique, etc.).
 
-Si vous étiez une femme, ou un immigré, ou les deux, vous n'aviez que très peu de chance d'être syndiqué et encore moins une professionnelle.
+Si vous étiez une femme, ou un immigré, ou les deux, vous n'aviez que très peu de chance d'être syndiqué et encore moins
+d'être une professionnelle.
 Dans ces cas là, si vous aviez ne serait-ce que la chance de participer dans le marché du travail, c'était
 souvent dans un contexte brutal, non-régulé, non-reconnu, et dans l'incapacité totale d'organiser la défense
 de vos conditions de travail.
 
-### au XXème siècle
+### Au XXème siècle
 
-Le début du 20ème siècle marque la grande époque des syndicats et des professions. L'appartenance à l'un
+Le début du vingtième siècle marque la grande époque des syndicats et des professions. L'appartenance à l'un
 ou l'autre était l'assurance de prospérité et d'une vie dans la classe moyenne. La plupart des champs qui
 ont essayé de se professionnaliser n'ont pas réussi à devenir aussi respecté que les médecins ou les juristes et sont devenus 
 ce qu'on a appelé des [semi-professions](https://en.wikipedia.org/wiki/Semiprofession). Ces champs
@@ -226,25 +227,25 @@ Un des aspects les plus pervers du néolibéralisme a été de changer sa propre
 
 Les néolibéraux célébraient le capital, mais désiraient aussi que **les agents (les individus, les institutions, 
 les entreprises) se comportent comme un capital**, ils devaient pouvoir s'adapter, se transformer, être mobile
-être fungible et générer soi-même ses propres profits en investissant en eux-mêmes.
+être fongible et générer soi-même ses propres profits en investissant en eux-mêmes.
 
 L'idéal n'est plus d'être un salarié, encore moins un travailleur. L'idéal est d'être un entrepreneur. 
-Capable de se motiver soi-même, de se remettre en question, de se réorienter, de se former, d'être à l'écoute
+Capable de se motiver soi-même, de se remettre en question, de se marketter, de se vendre,  de se réorienter, de se former, d'être à l'écoute
 du marché, de trouver sa passion dans l'emploi. Car pour le néolibéralisme qui hérite du darwinisme social, ne pas
 travailler signifie mériter de mourir; pas uniquement de manquer matériellement des moyens d'existence mais 
 de mourir métaphoriquement, émotionnellement et psychologiquement. Ne pas travailler est perdre son identité
-en tant qu'individu (_qu'est ce que tu fais dans la vie?_ qui signifie _quel est ton travail?_ ). 
+en tant qu'individu (_qu'est ce que tu fais dans la vie ?_ qui signifie _quel est ton travail ?_). 
 
-Ça peut paraître étrange aujourd'hui mais avant les années 80 c'était facile de savoir qui était un 
+Ça peut paraître étrange aujourd'hui mais avant les années 80, c'était facile de savoir qui était un 
 capitaliste (_c'était un patron, quelqu'un qui possédait des moyens de production_). Nous savions que
-nous vivions dans une société capitaliste, nous savions notre rôle et notre classe
+nous vivions dans une société capitaliste, nous connaissions notre rôle et notre classe
 dans cette société (_prolétaires_). L'arrivée du néolibéralisme a permis de recentrer (faussement) les moyens de 
 production dans l'individu. Elle a (faussement) redéfini le moyen de production en tant que travail, et
 donc a redéfini tous les travailleurs en capitalistes vu qu'ils étaient propriétaires de leurs moyens de 
-production. Les problèmes de la sociétés n'étaient pas structurels ou systémiques mais étaient des problèmes
+production. Les problèmes de la société n'étaient pas structurels ou systémiques mais des problèmes
 individuels. 
 
-\[Notes du traducteur\]     : Ces changements ont entrainé des néologismes dont la sémantique me 
+\[Notes du traducteur\] : Ces changements ont entrainé des néologismes dont la sémantique me 
 semblent assez flagrante. Une femme de ménage qui doit élever seule ses enfants était appelé "une exploitée" dans 
 les années 60. On désigne par là une action, un processus (l'exploitation), une victime (l'exploitée) et donc potentiellement un 
 oppresseur, un exploiteur. Dans la même situation on dirait maintenant qu'elle est _défavorisée_.
@@ -252,14 +253,14 @@ C'est la même personne, sauf qu'au lieu d'utiliser un terme qui désigne une st
 structurelle, on utilise maintenant un terme qui la qualifie individuellement comme n'ayant 
 pas eu de chance. 
 
-Les professions (médecine, juridique) ont historiquement toujours été en porte-à-faux avec la notion de marché-libre, le 
-fait de réguler l'entrée au marché et la pratique les placent dans une position où ils décident du prix des 
+**Les professions (médecine, juridique) ont historiquement toujours été en porte-à-faux avec la notion de marché-libre**, le 
+fait de réguler l'entrée au marché et la pratique les placent dans une position où elles décident du prix des 
 prestations et ne sont pas en guerre les uns contre les autres. Mieux que ça, l'état protège légalement
 la pratique de ces professions.
 
-### les effets du néolibéralisme sur l'emploi 
+### Les effets du néolibéralisme sur l'emploi 
 
-Avec l'évolution des marchés de plus en plus rapide durant le XXème siècle, il se passe après la seconde
+Avec l'évolution des marchés de plus en plus rapide durant le XXᵉ siècle, il se passe après la seconde
 guerre mondiale ce que [Guy Standing](https://fr.wikipedia.org/wiki/Guy_Standing_(professeur)) a
 appelé une féminisation du marché du travail. Les femmes étaient auparavant exclues du marché
 du travail formel et cantonnées au travail domestique qui, en tant que travail gratuit, ne crée pas
@@ -270,7 +271,7 @@ aux différentes tâches qu'on demande d'elles.
 Le travail évolue et est découpé en tâches simples, voire simplistes. Le savoir-faire se décompose en
 compétences, ce que Standing a appelé le **de-skilling** de l'emploi, la perte de savoir-faire. Au lieu
 de former des travailleurs et travailleuses à savoir, connaître et comprendre l'ensemble d'un artisanat (comme les 
-compagnons du devoirs), on cantonne ses tâches à une toute petite circonscription.     
+compagnons du devoirs), on cantonne ses tâches à un tout petit périmètre.     
 Certaines catégories d'emplois perdant toute exigence de savoir-faire, il est donc possible de 
 remplacer les travailleurs par des travailleuses payées moins cher et avec des horaires flexibles. 
 
@@ -278,20 +279,20 @@ Résultat, de plus en plus de femmes entrent dans le marché du travail alors qu
 acceptent des conditions de travail qui ont été refusées ou renégociées dans le passé par les syndicats.
 
 La manière dont l'emploi s'est féminisé est visible dans la manière dont les femmes sont arrivées dans les emplois.
-En médecine par exemple, des fonctions tierces sont apparues (aide-soignants, manip-radios, auxiliaire 
+En médecine par exemple, des fonctions tierces sont apparues (aide-soignant, manipulateur-radios, auxiliaire 
 de puériculture, technicien biologie, secrétaire médicale, etc.) qui nécessitent moins de formation, 
 sont moins bien rémunérées et moins prestigieuses que le métier de docteur et dont la majorité des effectifs 
 est féminine.
 
 ### La féminisation du travail
 
-Cristina Morini après Guy Standing a travaillé sur la féminisation du marché du travail au 21ème siècle et
-notamment sur le rôle des femmes dans les travaux du numériques (ce 
+Cristina Morini après Guy Standing a travaillé sur la féminisation du marché du travail au XXIᵉ siècle et
+notamment sur le rôle des femmes dans les travaux du numérique (ce 
 qu'on a aussi appelé [capitalisme cognitif](https://www.toupie.org/Dictionnaire/Capitalisme_cognitif.htm)).
 C'est la capacité des travailleurs à manipuler des idées et des concepts numériquement plutôt que de
 déplacer des outils en travaillant sur des produits finis. La quintessence de ce travailleur est le développeur
 ou la développeuse, capable de manipuler un langage de programmation afin de produire un logiciel. 
-Les avancées technologiques ont comme propriété de réorganiser de deux manières le travail à l'ère du numérique:     
+Les avancées technologiques ont comme propriété de réorganiser de deux manières le travail à l'ère du numérique :     
 * l'espace est réorganisé, le travail n'est plus confiné au bureau, mais accessible en télétravail
 * le temps est réorganisé, les heures de travail contractuelles ne sont plus aussi strictes, il devient possible
 de travailler autant que possible pour les travailleurs et travailleuses.
@@ -299,9 +300,9 @@ de travailler autant que possible pour les travailleurs et travailleuses.
 De la même manière, cette réorganisation s'est appliquée aux travaux des femmes. Le travail féminin
 original étant celui de la maternité qui demande d'être capable de travailler à toute heure de la journée.
 Le raisonnement de Morini est de dire que la réorganisation du travail a transformé l'entreprise en une
-famille dont les salariés doivent s'occupper de la même manière qu'une mère doit s'occupper de sa famille, être
-toujours prêt à répondre à un mail ou à un collègue qui a besoin d'informations. Pour Morini le 21ème siècle
-n'a donc pas uniquement changé la nature du travail, mais la nature des travailleurs et travailleuses elles-même.
+famille dont les salariés doivent s'occuper de la même manière qu'une mère doit s'occuper de sa famille, être
+toujours prête à répondre à un mail ou à un collègue qui a besoin d'informations. Pour Morini le XXIᵉ siècle
+n'a donc pas uniquement changé la nature du travail, mais la nature des travailleurs et travailleuses elles-mêmes.
 Les individus tendent maintenant à avoir une position adaptable, oblative et sacrificielle, en deux mots
 à adopter une attitude maternelle quant à leur travail.      
 
@@ -322,7 +323,7 @@ travaillent quand ils en ont envie. Ainsi la féminisation du travail n'est pas 
 de l'infériorité des femmes, c'est leur offrir la liberté de travailler en dehors du traditionnel 9h-17h
 pour avoir un complément de revenu en plus de leur responsabilité du travail domestique.
 Le capitalisme cognitif féminisé **n'est pas** en train de vous transformer en une mère allaitant son patron 
-via des emails et messages slack durant le weekend, il est en train de **donner un sens à votre travail**.
+via des emails et messages Slack durant le weekend, il est en train de **donner un sens à votre travail**.
 La précarité n'est plus quelque chose dont il faut se protéger, la précarité des conditions de travail
 devient une vertu à rechercher qui amène liberté et indépendance. 
 
@@ -330,7 +331,7 @@ devient une vertu à rechercher qui amène liberté et indépendance.
 
 Le travail, on l'a vu, est devenu liquide, il s'immisce, s'étend, se décentralise. Il devient plus profitable
 et facile à exploiter, mais aussi plus dur à contrôler. Comment s'assurer que le télé-travailleur ne prenne pas
-de pause-pipi trop longue ? A l'usine, le contremaitre peut vérifier qui s'est arrêté de travailler. Maintenant
+de pause-pipi trop longue ? À l'usine, le contremaitre peut vérifier qui s'est arrêté de travailler. Maintenant
 comment faire pour que les travailleurs et travailleuses travaillent avec autant d'acharnement que si leur
 manager était derrière eux? On pourrait mesurer leur     travail, mais comment s'assurer de la cadence quand le travail
 est intellectuel et dur à quantifier ? On connait la difficulté à mettre en place des KPIs utiles de performance,
