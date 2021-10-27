@@ -33,12 +33,11 @@ Comme un symbole, le titre complet de Software Craftsman est :
 > The Software Craftsman: Professionalism, Pragmatism, Pride (Sandro Mancuso)
 
 J'ai donc décidé de traduire librement [un article de Ted Lee](https://medium.com/@teioh/we-are-all-professionals-now-or-how-did-grocery-workers-become-heroes-4cba3ffcc034),
-un sociologue américain qui a étudié le 
-professionnalisme chez les archivistes américains et l'histoire du professionnalisme. 
+un chercheur américain qui a étudié le professionnalisme chez les archivistes américains et l'histoire du professionnalisme.         
 **Annonce publique n°1** : Ce n'est pas une traduction _stricto-sensu,_
 je prends beaucoup de liberté sur la forme du conten, j'ai réorganisé des chapitres et supprimé ceux qui me semblaient inadaptés
 à notre contexte. J'ai aussi adapté les exemples proposés au contexte français et j'y insère parfois mes réflexions personnelles. Néanmoins
-le fond de l'article et le raisonnement viennent de Ted Lee.      
+le fond de l'article et le raisonnement viennent de Ted Lee.          
 **Annonce publique n°2** : cet article est très très long, et part un peu dans tous les sens, si vous avez une idée de comment remettre ça en ordre
 ou découper en plusieurs morceaux.
 
