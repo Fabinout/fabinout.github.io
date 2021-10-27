@@ -1,10 +1,19 @@
-# J'en a marre du professionnalisme
+---
+layout: post
+title: "Généalogie du professionnalisme"
+description: "Une histoire récente de la notion de profession, de professionnalisme. Traduction plus ou moins libre d'un article"
+category:
+tags: [independant]
+---
 
-Il y en a partout. Voilà ce que c'est qu'être un vrai développeur. Voilà ce que c'est d'être un bon développeur.
+
+# Une histoire du professionnalisme
+
+Je ne supporte plus les  injonctions au professionnalisme. Il y en a partout. Voilà ce que c'est qu'être un vrai développeur. Voilà ce que c'est d'être un bon développeur.
 Vous pouvez pas vous dire craftsman si vous vous comportez pas en professionnel. Etc.
 
 Je pourrais vous citer 50 posts linkedin sur le professionalisme et le craftsmanship mais je vais en citer qu'un d'Alexandre
-Fillatre (un type sympa avec qui j'ai travaillé chez CDiscount), dans un post public :
+Fillatre (un type sympa avec qui j'ai travaillé chez CDiscount) dans un post public :
 
 > J'ai vraiment du mal à comprendre comment autant de personnes qui font du #developpement leur métier sont fières de dire qu'ils ne font rien en rapport avec le dev hors des heures boulot. Je ne parle pas du tout de continuer à bosser pour son entreprise sur son temps perso, mais simplement de s'intéresser à son métier, à sa passion. Lire un bouquin de techniques de dev, regarder une conférence, tester un nouveau langage, aller à des meetups, etc...
 > Savoir développer ça ouvre tellement de possibilités, que c'est vraiment dommage de n'en rester qu'à un strict 9h/18h. Et ce n'est pas souvent dans les tâches quotidenne du travail que l'on progresse le plus, car l'expérimentation a moins sa place que sur un projet perso.
@@ -13,12 +22,24 @@ Fillatre (un type sympa avec qui j'ai travaillé chez CDiscount), dans un post p
 C'est vrai ça comment ça se fait que des gens font du développement leur métier et ne travaillent pas en dehors 
 des horaires de bureau ? 
 
+Cette histoire de passion du développement logiciel, du professionnalisme, du craftsmanship et du clean-coder 
+commencent lentement à me sortir par les oreilles.  
+Comme un symbole, le titre complet de Software Craftsman est :     
 
-**Attention cet article est très très long, et part dans tous les sens, si vous avez une idée de comment remettre ça en ordre
-ou découper en plusieurs morceaux, je serais preneur.**
+> The Software Craftsman: Professionalism, Pragmatism, Pride (Sandro Mancuso)
+
+J'ai donc décidé de traduire librement [un article de Ted Lee](https://medium.com/@teioh/we-are-all-professionals-now-or-how-did-grocery-workers-become-heroes-4cba3ffcc034),
+un sociologue américain qui a étudié le 
+professionnalisme chez les archivistes américains et l'histoire du professionnalisme. 
+**Annonce publique n°1** : Ce n'est pas une traduction _stricto-sensu,_
+je prends beaucoup de liberté sur la forme du conten, j'ai réorganisé des chapitres et supprimé ceux qui me semblaient inadaptés
+à notre contexte. J'ai aussi adapté les exemples proposés au contexte français et j'y insère parfois mes réflexions personnelles. Néanmoins
+le fond de l'article et le raisonnement viennent de Ted Lee.      
+**Annonce publique n°2** : cet article est très très long, et part un peu dans tous les sens, si vous avez une idée de comment remettre ça en ordre
+ou découper en plusieurs morceaux.
 
 
-### Le moment où les injonctions au professionalisme m'ont soulé 
+# Quand les infirmières et les caissières sont devenues des professionnelles 
 
 Avec le COVID sont apparues de nombreuses contradictions du capitalisme moderne, précisément de l'organisation du travail. 
 L'une des plus marquantes a été l'annonce des **travailleurs essentiels**. Quand les commerces se sont arrêtés, en même temps
