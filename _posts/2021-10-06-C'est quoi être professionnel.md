@@ -68,7 +68,7 @@ Lorsqu'un prestataire ne finit pas correctement son travail, on n'hésitera pas 
 
 ## C'est quoi le capitalisme ?
 
-Pour comprendre le professionnalisme, il faut comprendre le capitalisme, et peu de choses sont plus dures à
+Pour comprendre le professionnalisme, il faut comprendre le capitalisme, et peu de choses sont plus difficiles à
 définir que le capitalisme. Selon à qui je demande ça peut être: 
 
 * le marché libre
@@ -85,13 +85,14 @@ Si les ouvriers goûtent le vin qu'ils ont produit, cela s'apparente à un vol. 
 aussi de l'activation des moyens de production) l'ouvrier reçoit un salaire qui est décidé par le patronat, et décide
 ensuite du prix et des modalités de vente de la production.
 
-Ce framework définit la relation de domination entre les propriétaires 
-(ceux qui ont les moyens de productions) et les prolétaires (ceux qui ne les ont pas) et est
-la base du marxisme. Cette relation économique basique nous permet maintenant d'introduire la notion de professionnel.
+Ce cadre définit la relation de domination entre les propriétaires 
+(ceux qui possèdent les moyens de productions) et les prolétaires (ceux qui ne les ont pas) et est
+la base du marxisme. Cette relation économique basique nous permet maintenant d'introduire la notion de professionnel. 
+ 
 
 # Le professionnel
 
-Maintenant, pensons à un médecin au 19ème siècle.        
+Maintenant, pensons à un médecin au 19ème siècle. 
 Que produit-il ? Rien, il ne fabrique pas de vin, ni de chaise. Il vend un service, le soin, qui
 est essentiel au fonctionnement d'une société. Mais c'est pas un bien qu'on peut créer et échanger dans un
 marché. Et que signifie les moyens de production pour un médecin ? Certes il a besoin d'outils, de seringues et d'équipement,
@@ -113,7 +114,7 @@ qui en imite les manières?
 
 * D'autres encore proposent que les professionnels proviennent des guildes de métier médiévales
 
-Quelle que soit la raison d'être des professionnels, il y a une chose de sûre, les professionnels ne rentrent
+Quelle que soit la raison d'être des professionnels, une chose est sûre: les professionnels ne rentrent
 pas dans la dichotomie classique du capitalisme propriétaire des moyens (les bourgeois) ou travailleurs 
 exploités pour le profit (les prolétaires).
 
@@ -121,7 +122,7 @@ exploités pour le profit (les prolétaires).
 
 Voici comment Eliot Friedson le définit : 
 
-> An intrinsically ambiguous, multifaceted folk concept
+> Un concept intrinsèquement ambigu, populaire et aux multiples facettes
 
 Mais comme je sens que ça ne vous avance pas beaucoup, on peut regarder ce qui est commun 
 aux différentes professions étudiées (généralement le droit, la médecine, l'ingénierie, parfois la stratégie militaire, 
@@ -144,8 +145,8 @@ Pour un médecin au 19ème siècle, ça veut dire :
 
 Il y a évidemment un certain prestige à pratiquer la médecine, et même si la situation est financièrement intéressante,
 les médecins ne sont pas intéressés par s'enrichir. Ils se soucient avant tout de la santé et du bien-être
-de leurs patients et ils respectent la confidentialité du patient. Leur code moral est impeccable.    
-Avec cette forte éthique vient une croyance de la société: un docteur qui chercherait uniquement la gloire et 
+de leurs patients et respectent leur confidentialité. Leur code moral est impeccable.    
+Avec cette forte éthique vient une croyance de la société : un docteur qui chercherait uniquement la gloire et 
 l'argent (d'autant plus quand c'est aux dépens de la santé du patient) ne serait pas uniquement un mauvais docteur,
 mais **une mauvaise personne**.
 
@@ -157,17 +158,17 @@ devenir plus compétent ou un meilleur ouvrier, mais **un meilleur individu.**
 
 ## L'arrivée du capitalisme 
 
-### au 19ème siècle
+### Au 19ème siècle
 
 L'arrivée du capitalisme et de l'industrie est très violente pour la classe ouvrière. Certains
-enfants anglais commençaient à travailler à partir de 4 ans (The Factory Act (1833) interdit le 
+enfants anglais commençaient à travailler à partir de 4 ans (en Angleterre The Factory Act (1833) interdit le 
 travail d'enfant avant 9 ans) et les ouvriers travaillent très régulièrement 70h par semaine. Se déclenchent
 une série de conflits sociaux violents entre ouvriers et bourgeois, avec ce qu'on a appelé le [Luddisme](https://fr.wikipedia.org/wiki/Luddisme)
 lorsque les ouvriers se rebellait en détruisant les machines à tisser en jetant leurs sabots à l'intérieur 
 des engrenages. Ce qui a 
-donné le nom de _sabotage_.
+donné le mot _sabotage_.
 
-Pour se défendre au 19ème siècle les ouvriers avaient deux choix: se syndiquer ou devenir une profession. 
+Pour se défendre au 19ème siècle les ouvriers avaient deux choix : se syndiquer ou devenir une profession. 
 Le but était similaire : créer les meilleures conditions de travail et s'assurer un salaire suffisant, mais la manière
 de faire était différente. Les syndicats recherchaient une identité prolétaire (de l'entraide entre les différents
 corps de métier, une collaboration contre le patronat, une emphase de l'artisanat)
