@@ -3,7 +3,7 @@ layout: post
 title: "Généalogie du professionnalisme, se surveiller et se punir"
 description: "Une histoire récente de la notion de profession, de professionnalisme. Traduction plus ou moins libre d'un article"
 category:
-tags: [independant]
+tags: [Sociologie, Craftsmanship]
 ---
 
 
@@ -203,9 +203,11 @@ ont commencé à adopté les pratiques des professions originelles, et d'adopter
 
 
 \[Notes du traducteur\] : La définition du néolibéralisme est toujours sujet à débat, la définition utilisée ici
-est dans le contexte américain et est donc le néolibéralisme _américain_, celui du keynésianisme. Il peut être rapproché
+est dans le contexte américain et est donc le néolibéralisme _américain_, l'héritier du keynésianisme. Il peut être rapproché
 de l'ultra-libéralisme, qui donne la priorité à l'action libre des individus contre toute "emprise" de l'état,
-et laisse l'ordre social se faire dicter par une sorte de darwinisme social.
+et laisse l'ordre social se faire dicter par une sorte de darwinisme social. Mais en réalité, le néolibéralisme et l'ultra-libéralisme sont
+différents selon Walter LippMann et Dewey (au [colloque de Lippmann](https://fr.wikipedia.org/wiki/Colloque_Walter_Lippmann) en 1938). 
+Pour aller plus loin et comprendre les différences je vous suggère de lire "Il faut s'adapter" de Barbara Steigler. 
 
 ### Rappel historique
 
@@ -412,8 +414,8 @@ Et s'il y a bien une chose que la bourgeoisie apprécie, c'est bien de sacrifier
 Et cette image est si bien implantée en nous que nous désirons nous sacrifier pour le bien commun.
 
 Donc nous pouvons donner une prime aux infirmières, mais pas trop élevée. Il ne faudrait pas qu'elles puissent croire
-qu'elles travaillent pour l'argent et non pas pour le bien des concitoyens. On voit ici apparaître un début de réponse à la question de David Graeber dans
-_Bullshit Jobs_: Pourquoi est-ce que les travailleurs les plus utiles sont payés les moins chers ?  
+qu'elles travaillent pour l'argent et non pas pour le bien des concitoyens. On voit ici apparaître un début de réponse
+à la question de David Graeber dans _Bullshit Jobs_: Pourquoi est-ce que les travailleurs les plus utiles sont payés les moins chers ?  
 
 Parce que
 nous sommes toutes et tous des professionnels maintenant et les professionnels ne font pas ça pour l'argent, ils font ça
@@ -423,6 +425,27 @@ Sauf que nous n'avons pas décidé des règles du jeu.
 
 Ce sont les capitalistes qui l'ont fait.
 
+### Retour au Craftsmanship
+
+Maintenant qu'on a précisé l'histoire de la notion de professionnalisme, revenons à nos moutons, au Craftsmanship avec 
+le post Linkedin : 
+
+> J'ai vraiment du mal à comprendre comment autant de personnes qui font du #developpement leur métier sont
+> fières de dire qu'ils ne font rien en rapport avec le dev hors des heures boulot. Je ne parle pas du tout de
+> continuer à bosser pour son entreprise sur son temps perso, mais simplement de s'intéresser à son métier, à sa
+> passion. Lire un bouquin de techniques de dev, regarder une conférence, tester un nouveau langage, aller à des meetups, etc...
+> Savoir développer ça ouvre tellement de possibilités, que c'est vraiment dommage de n'en rester qu'à un strict 9h/18h. Et
+> ce n'est pas souvent dans les tâches quotidiennes du travail que l'on progresse le plus, car l'expérimentation a moins sa place que sur un projet perso.
+> Vous êtes d'accord avec moi, ou bien je suis trop idéaliste ? C'est peut-être mon esprit #crafts qui parle.
+
+On voit mieux, tout de suite, le problème à tenir ce genre de discours. L'intérêt du craftsmanship, c'est-à-dire d'avoir
+une attitude qu'on dirait professionnel, c'est de retrouver une fierté de faire son travail, certes. Mais c'est aussi
+une manière d'individualiser la formation professionnelle (tu ne dois pas te former au travail, tu dois aussi te former sur ton temps de repos),
+de montrer la passion (vocabulaire religieux) qui t'anime, et de s'assurer que les individus aient une attitude d'étudiant
+éternel, alors même que les salariés et salariées ne récoltent pas les fruits (les profits) de leur travail. Autrement dit,
+en pratique, le craftsmanship c'est l'assurance d'avoir un salarié qui voit sa vie comme une entreprise et qui s'aliène lui-même,
+au profit de son patronat.
+
 
 # Pour aller un peu plus loin
 
@@ -431,9 +454,13 @@ Ce sont les capitalistes qui l'ont fait.
 
 "Il faut s'adapter" de _Barbara Steigler_
 
+"Surveiller et punir" de _Michel Foucault_
+
 "Bullshit Jobs" de _David Graeber_
 
 ### Articles 
+
+_C'est illégal, mais j'ai ces articles au format PDF et je peux vous les envoyez si vous me les demandez par email_
 
 "The theory of Professions : State of the Art", de Eliot Friedson
 
@@ -445,6 +472,9 @@ Ce sont les capitalistes qui l'ont fait.
 
 "Still Blue-Collar after all these years ? An ethnography of the Professionalization of Emergence Ambulance
 Work", Journal of Management Studies, de _McCann et al_.
+
+
+
 
 #### Corollaire de ça
 \[Notes du traducteur\]     
