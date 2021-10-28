@@ -11,7 +11,7 @@ Je ne supporte plus les  injonctions au professionnalisme. Il y en a partout. Vo
 Vous pouvez pas vous dire craftsman  si vous vous comportez pas en professionnel. Etc.
 
 Je pourrais vous citer 50 posts linkedin sur le professionnalisme et le craftsmanship mais je vais en citer qu'un d'Alexandre
-Fillatre (un type sympa avec qui j'ai travaillé chez CDiscount) dans un post public :
+Fillatre (un type que j'apprécie sincèrement avec qui j'ai travaillé chez CDiscount) dans un post public :
 
 > J'ai vraiment du mal à comprendre comment autant de personnes qui font du #developpement leur métier sont
 > fières de dire qu'ils ne font rien en rapport avec le dev hors des heures boulot. Je ne parle pas du tout de
