@@ -20,7 +20,11 @@ Fillatre (un type que j'apprécie sincèrement avec qui j'ai travaillé chez CDi
 > Savoir développer ça ouvre tellement de possibilités, que c'est vraiment dommage de n'en rester qu'à un strict 9h/18h. Et
 > ce n'est pas souvent dans les tâches quotidiennes du travail que l'on progresse le plus, car l'expérimentation a moins sa place que sur un projet perso.
 > Vous êtes d'accord avec moi, ou bien je suis trop idéaliste ? C'est peut-être mon esprit #crafts qui parle.
- 
+
+
+_(Le but de Linkedin est de créer de l'engagement donc des commentaires, des likes et des débats. C'est attendu qu'il faut
+être polémique pour faire parler de soi, notamment la partie 9h/18h)_
+
 C'est vrai ça comment ça se fait que des gens font du développement leur métier et ne travaillent pas en dehors 
 des horaires de bureau ? 
 
@@ -444,7 +448,7 @@ une manière d'individualiser la formation professionnelle (tu ne dois pas te fo
 de montrer la passion (vocabulaire religieux) qui t'anime, et de s'assurer que les individus aient une attitude d'étudiant
 éternel, alors même que les salariés et salariées ne récoltent pas les fruits (les profits) de leur travail. Autrement dit,
 en pratique, le craftsmanship c'est l'assurance d'avoir un salarié qui voit sa vie comme une entreprise et qui s'aliène lui-même,
-au profit de son patronat.
+au profit de son patronat. 
 
 
 # Pour aller un peu plus loin
