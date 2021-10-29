@@ -28,7 +28,7 @@ _(Le but de Linkedin est de créer de l'engagement donc des commentaires, des li
 C'est vrai ça comment ça se fait que des gens font du développement leur métier et ne travaillent pas en dehors 
 des horaires de bureau ? 
 
-Cette histoire de passion du développement logiciel, du professionnalisme, du craftsmanship et du clean-coder 
+Cette histoire de passion du développement logiciel, du professionnalisme, du craftsmanship et du clean-codeur 
 commencent lentement à me sortir par les oreilles.  
 Comme un symbole, le titre complet de Software Craftsman est :     
 
@@ -37,11 +37,11 @@ Comme un symbole, le titre complet de Software Craftsman est :
 J'ai donc décidé de traduire librement [un article de Ted Lee](https://medium.com/@teioh/we-are-all-professionals-now-or-how-did-grocery-workers-become-heroes-4cba3ffcc034),
 un chercheur américain qui a étudié le professionnalisme chez les archivistes américains et l'histoire du professionnalisme.         
 **Annonce publique n°1** : Ce n'est pas une traduction _stricto-sensu,_
-je prends beaucoup de liberté sur la forme du conten, j'ai réorganisé des chapitres et supprimé ceux qui me semblaient inadaptés
+je prends beaucoup de liberté sur la forme du contenu, j'ai réorganisé des chapitres et supprimé ceux qui me semblaient inadaptés
 à notre contexte. J'ai aussi adapté les exemples proposés au contexte français et j'y insère parfois mes réflexions personnelles. Néanmoins
 le fond de l'article et le raisonnement viennent de Ted Lee.          
 **Annonce publique n°2** : cet article est très très long, et part un peu dans tous les sens, si vous avez une idée de comment remettre ça en ordre
-ou découper en plusieurs morceaux.
+ou découper en plusieurs morceaux, n'hésitez pas à me proposer des améliorations.
 
 
 # Quand les infirmières et les caissières sont devenues des professionnelles 
