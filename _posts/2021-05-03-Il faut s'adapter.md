@@ -27,3 +27,5 @@ nécessaire au vivant, il remet deux choses en question :
   mésadapté à la société.
 * cette mésadaptation vient d'une vision simpliste voire fausse de Charles Darwin et de la théorie de l'évolution.
 
+
+Arnaud Bailly a écrit un article plus complet sur le livre ici : http://abailly.github.io/posts/il-faut-s-adapter.html
