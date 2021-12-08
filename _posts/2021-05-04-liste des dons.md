@@ -19,6 +19,7 @@ des associations auxquelles je croyais.
 09/05/2021 Le planning familial : 200€           
 01/06/2021 Louis Witter (reporter photo) : 500€     
 20/08/2021 Urgence SDF : 300€
+21/10/2021 Attac : 200€
 
 
 *NB: Ces dons ne seront pas défiscalisés.*
