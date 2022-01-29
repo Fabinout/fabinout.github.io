@@ -41,7 +41,7 @@ Le voyage retour passe par un chemin de forêt, des graviers du sable et de la b
 La maison est à moins de 1,5km, c'est **hyper dur** et je regrette déjà d'avoir voulu faire le malin avec mon vélo. Mon manteau et mes gants me donnent mille fois
 trop chaud. Au moins les enfants s'amusent à l'arrière du vélo et se racontent leurs journées.
 
-Arrivée à la maison, je ramène le voisin chez lui. Salut tout le monde. Non désolé je gère tout seul les enfants, je dois encore aller
+Arrivés à la maison, je ramène le voisin chez lui. Salut tout le monde. Non désolé je gère tout seul les enfants, je dois encore aller
 promener le chien. Je pose les affaires des enfants à la maison, je récupère le chien, et on va le promener dans la forêt. 
 La grande dit "je veux rester dans le jardin". Pas de problème, il n'y a qu'un grillage entre la forêt et le jardin, je 
 peux surveiller l'une pendant que l'autre urine sur tous les arbres qu'il trouve. 
