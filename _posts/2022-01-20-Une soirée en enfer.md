@@ -53,7 +53,7 @@ bouquiner. On papote un peu à travers le grillage. Puis elle s'écrie :
 
 "Papa j'ai envie de faire pipi             
 — Ça peut attendre 5 minutes ?        
-— Non." _cours vers la maison_           
+— Non." _court vers la maison_           
 
 _Bon elle sait utiliser les toilettes ça devrait le faire._
 
