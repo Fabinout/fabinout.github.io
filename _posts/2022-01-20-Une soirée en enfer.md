@@ -6,7 +6,7 @@ category:
 tags: [paternité]
 ---
 
-Lundi soir.  Ma  femme décide d'aller faire une formation (un cours de poterie, faire un nichoir en argile).
+Lundi soir.  Ma  femme décide d'aller faire une formation (un cours de poterie !).
 
 "Tu pourras t'occuper des enfants Doudou ?         
 — Bah oui, easy, va profiter de ta soirée pour toi, répondis-je confiant.        
