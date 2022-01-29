@@ -8,11 +8,9 @@ tags: [paternité]
 
 Lundi soir.  Ma  femme décide d'aller faire une formation (un cours de poterie, faire un nichoir en argile).
 
-        Tu pourras t'occuper des enfants Doudou ?
-
-        Bah oui, easy, va profiter de ta soirée pour toi" répondis-je, confiant.
-
-        Ok je rentre à 19h30, je pourrai t'aider à les coucher 
+— Tu pourras t'occuper des enfants Doudou ?         
+— Bah oui, easy, va profiter de ta soirée pour toi" répondis-je, confiant.        
+— Ok je rentre à 19h30, je pourrai t'aider à les coucher.                   
 
 
 17h30, je dis au-revoir sur Slack, ferme le PC et pars vérifier les pneus du vélo. 
@@ -53,9 +51,9 @@ peux surveiller l'une pendant que l'autre urine sur tous les arbres qu'il trouve
 J'emmène le chien dans la forêt avec le petit d'1 an qui marche lentement. La grande a sorti un livre, s'installe pour 
 bouquiner. On papote un peu à travers le grillage. Puis elle s'écrie :
 
-      Papa j'ai envie de faire pipi
-      Ça peut attendre 5 minutes ?
-      Non. _cours vers la maison_
+— Papa j'ai envie de faire pipi       
+— Ça peut attendre 5 minutes ?        
+— Non. _cours vers la maison_           
 
 _Bon elle sait utiliser les toilettes ça devrait le faire._
 
