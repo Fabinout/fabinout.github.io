@@ -74,7 +74,8 @@ Pendant que je passe la serpillière dans les toilettes, j'entends les deux enfa
 
 Pendant ce temps là, le petit a trouvé ce que j'avais préparé en avance pour leur faire plaisir. Un 
 super naan au fromage frais fait maison. Le hic, c'est qu'en essayant de monter sur sa tour d'observation pour l'attraper, 
-il l'a fait tomber et le chien était en train de le machouiller. 
+il l'a fait tomber et le chien était en train de le machouiller. Ça valait bien le coup de passer 30 minutes à cuisiner 
+ce midi.
 
 ### Fin de soirée, sans problème
 
