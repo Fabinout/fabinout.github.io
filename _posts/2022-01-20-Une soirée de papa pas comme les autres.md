@@ -44,7 +44,7 @@ trop chaud. Au moins les enfants s'amusent à l'arrière du vélo et se raconten
 Arrivés à la maison, je ramène le voisin chez lui. Salut tout le monde. Non merci pas d'apéro, je gère tout seul les enfants, je dois encore aller
 promener le chien. Je pose les affaires des enfants à la maison, je récupère le chien, et on va le promener dans la forêt. 
 La grande dit "je veux rester dans le jardin". Pas de problème, il n'y a qu'un grillage entre la forêt et le jardin, je 
-peux surveiller l'une pendant que l'autre urine sur tous les arbres qu'il trouve. 
+peux surveiller l'une pendant que l'autre urine sur tous les arbres qu'il trouve. Mon chien, pas mon fils. 
 
 ### Emmerde numéro 4
 
