@@ -48,7 +48,7 @@ peux surveiller l'une pendant que l'autre urine sur tous les arbres qu'il trouve
 
 ### Emmerde numéro 4
 
-J'emmène le chien dans la forêt avec le petit d'1 an qui marche lentement. La grande a sorti un livre, s'installe pour 
+J'emmène donc le iench dans la forêt suivi par le petit d'1 an qui marche lentement. La grande a sorti un livre, s'installe pour 
 bouquiner. On papote un peu à travers le grillage. Puis elle s'écrie :
 
 "Papa j'ai envie de faire pipi             
