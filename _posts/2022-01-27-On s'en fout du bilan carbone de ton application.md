@@ -58,23 +58,23 @@ On voit qu'il faut parler d'équivalent CO2, mais aussi de quantité d'eau, d'é
 ces postes de dépense à la fabrication des terminaux, l'usage des terminaux, l'usage du datacenter, l'installation
 des réseaux et et la gestion de la fin de vie électronique.
 
-## le gain sera marginal 
+## Le gain sera marginal 
 
 Si vous faites ça, vous allez mettre l'effort sur des détails, optimiser des algorithmes pour moins consommer
 de CPU, compresser des données pour le transport, minifier du javascript, etc.
 
-     **Loi de Campbell** : plus un indicateur quantitatif est utilisé pour la prise de décision, plus il a de chances de fausser et corrompre le processus qu’il a pour objet de surveiller
+**Loi de Campbell** : plus un indicateur quantitatif est utilisé pour la prise de décision, plus il a de chances de fausser et corrompre le processus qu’il a pour objet de surveiller
 
 Avec cette démarche, vous économiserez 5% de la conso d'électricité à l'année. **C'est toujours ça de pris mais ça nous sauvera pas.**
 
 ## Quelques ordres de grandeur : 
 
-> *La principale source d’impact se situe au niveau des terminaux, essentiellement sur la phase de fabrication 
-> qui représente entre 30% et 60% des impacts selon les indicateurs, et de manière moins significative sur
-> la phase d’utilisation qui représente entre 1 et 17% des impacts selon les indicateurs
-> 
-> *La partie datacenter/cloud est également significative et en moyenne, elle représente entre 30% et 45% des impacts
-> environnementaux 
+* La principale source d’impact se situe au niveau des terminaux, essentiellement sur la phase de fabrication 
+ qui représente entre 30% et 60% des impacts selon les indicateurs, et de manière moins significative sur
+ la phase d’utilisation qui représente entre 1 et 17% des impacts selon les indicateurs
+ 
+* La partie datacenter/cloud est également significative et en moyenne, elle représente entre 30% et 45% des impacts
+ environnementaux 
 
 
 *source* : [Green concept innovation](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf)
