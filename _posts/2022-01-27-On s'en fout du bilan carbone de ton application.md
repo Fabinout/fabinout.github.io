@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Faire le bilan carbone d'une application"
-description: "On s'en fout"
+description: "Quoi regarder, quoi mesurer, qu'est-ce qui compte ?"
 category: 
 tags: [écologie, greenIT]
 ---
