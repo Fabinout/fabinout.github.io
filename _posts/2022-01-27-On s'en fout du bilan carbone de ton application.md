@@ -118,7 +118,7 @@ Y a très peu de chance que ton service sauve la planète, mais on peut quand m�
 
 * Est-ce que ton service est néfaste à la société ? Est-ce que ton job est d'afficher de la pub que personne ne veut ? Ou est-ce que tu nous développes des smart contracts dans une blockchain ? 
 * Remplace-t'il du travail manuel par du capital logiciel, dans ce cas là, quel impact ? 
-* Ton service permet-il de faciliter le travail carbone d'un gros pollueur ?
+* Ton service permet-il de faciliter ou d'automatiser le travail d'un gros pollueur ?
 * Ton service permet-il de traffiquer des capteurs de pollution ? [coucou Volkswagen](https://fr.wikipedia.org/wiki/Affaire_Volkswagen) 
 * Ton service participe-t'il à la société de consommation ? Ton service sert-il à maximiser des ventes ?
 
