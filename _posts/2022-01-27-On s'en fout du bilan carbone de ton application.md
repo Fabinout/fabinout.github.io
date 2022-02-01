@@ -35,6 +35,7 @@ carbone moyenne du transport de données.
 
 Calculer le stockage sur disque total de l'appli et multiplier ça par l'empreinte carbone moyenne du stockage de données.
 
+C'est ce qui est fait par les outils d'audit écologiques tels que [website carbon](https://www.websitecarbon.com/website/sudouest-fr/)
 
 # Pourquoi ce n'est pas suffisant ?
 
@@ -76,6 +77,12 @@ Avec cette démarche, vous économiserez 5% de la conso d'électricité à l'ann
 
 
 *source* : [Green concept innovation](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf)
+
+
+**Pour l'anecdote** les sites comme [website carbon](https://www.websitecarbon.com/website/sudouest-fr/) redirigent vers
+des sociétés qui "compensent" le poids de vos sites internet.    
+
+C'est purement du greenwashing.
 
 # Adopter une vision globale de l'application logicielle
 
@@ -131,10 +138,11 @@ La conférence d'Arthur Keller – [Les défis de notre temps : caractérisation
 
 Le podcast de Tristan Nitot [l'Octet Vert](https://anchor.fm/tristan-nitot)
 
-Green IT : [https://www.greenit.fr/] 
+Green IT : [https://www.greenit.fr/](https://www.greenit.fr/)
 
-The Shift Project, tendance Lean ICT : [https://theshiftproject.org/lean-ict/]
+The Shift Project, tendance Lean ICT : [https://theshiftproject.org/lean-ict/](https://theshiftproject.org/lean-ict/)
 
+Article de Bonpote : la compensation carbone et le greenwashing [https://bonpote.com/compensation-carbone-et-treewashing-jonathan-guyot/](https://bonpote.com/compensation-carbone-et-treewashing-jonathan-guyot/) 
 
 ### Merci
 
