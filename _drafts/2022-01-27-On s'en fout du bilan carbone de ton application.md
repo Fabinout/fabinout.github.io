@@ -14,6 +14,16 @@ Pour vous faire une bonne idée, je vous suggère de vous référer au site [gre
 
 Je vais donc donner mon avis sur la question du bilan carbone d'une application logicielle. 
 
+# Pourquoi se soucier de l'impact écologique de nos applications ?
+
+En deux mots, aujourd'hui l'empreinte du numérique est mineure, et représente entre 5 et 10% de l'empreinte carbone
+des Français et Françaises. Néanmoins la part du numérique augmente continuellement depuis 20 ans dans le bilan 
+carbone. Il s'agirait donc de surveiller
+à minima que l'empreinte carbone du numérique ne croisse pas plus vite que ne décroissent les autres secteurs de nos vies
+(habitat, production agricole, déplacements, etc.).
+
+Pour plus d'informations, la page wikipedia est objective : [Impact environnemental du numérique](https://fr.wikipedia.org/wiki/Impact_environnemental_du_num%C3%A9rique)
+
 # Comment calculer l'empreinte carbone ?
 
 L'approche naïve de l'empreinte de ton application, c'est de calculer la consommation électrique de l'application déployée sur les 
@@ -21,9 +31,9 @@ serveurs et sur les terminaux utilisateurs, de multiplier ça par l'empreinte ca
 l'électricité est essentiellement décarbonée, c'est-à-dire que la production d'électricité ne génère pas de gaz à effet de serre **GES**).
 
 Calculer l'ensemble des transports de données (téléchargement de l'appli, des pages web) et multiplier ça par l'empreinte
-carbone du transport de données moyen.
+carbone moyenne du transport de données.
 
-Calculer le stockage sur disque total de l'appli et multiplier ça par l'empreinte carbone du stockage de données.
+Calculer le stockage sur disque total de l'appli et multiplier ça par l'empreinte carbone moyenne du stockage de données.
 
 
 # Pourquoi ce n'est pas suffisant ?
@@ -61,3 +71,7 @@ centres de données notamment) ;
 * de plusieurs logiciels empilés les uns sur les autres, qui s’exécutent au-dessus des
 équipements;
 * d’autres services numériques tiers éventuels (apis, services)
+
+
+
+[Arthur Keller – Les défis de notre temps : caractérisation systémique et stratégie systémique](https://www.youtube.com/watch?v=FoCN8vFPMz4)
