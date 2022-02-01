@@ -136,3 +136,8 @@ Green IT : [https://www.greenit.fr/]
 The Shift Project, tendance Lean ICT : [https://theshiftproject.org/lean-ict/]
 
 
+### Merci
+
+à la mailing list Friends qui m'a inspiré cet article, et notamment Benoit Béraud
+
+
