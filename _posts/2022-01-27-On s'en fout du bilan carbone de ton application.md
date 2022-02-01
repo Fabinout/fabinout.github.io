@@ -131,8 +131,8 @@ La conférence d'Arthur Keller – [Les défis de notre temps : caractérisation
 
 Le podcast de Tristan Nitot [l'Octet Vert](https://anchor.fm/tristan-nitot)
 
-Green IT : https://www.greenit.fr/ 
+Green IT : [https://www.greenit.fr/] 
 
-The Shift Project, tendance Lean ICT : https://theshiftproject.org/lean-ict/
+The Shift Project, tendance Lean ICT : [https://theshiftproject.org/lean-ict/]
 
 
