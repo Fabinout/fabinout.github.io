@@ -63,8 +63,6 @@ des réseaux et et la gestion de la fin de vie électronique.
 Si vous faites ça, vous allez mettre l'effort sur des détails, optimiser des algorithmes pour moins consommer
 de CPU, compresser des données pour le transport, minifier du javascript, etc.
 
-**Loi de Campbell** : plus un indicateur quantitatif est utilisé pour la prise de décision, plus il a de chances de fausser et corrompre le processus qu’il a pour objet de surveiller
-
 Avec cette démarche, vous économiserez 5% de la conso d'électricité à l'année. **C'est toujours ça de pris mais ça nous sauvera pas.**
 
 ## Quelques ordres de grandeur : 
