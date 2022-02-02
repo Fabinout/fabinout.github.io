@@ -47,7 +47,7 @@ neuf limites de notre écosystème qui régulent la biosphère.
 
 ![Limites planétaires](/images/limites%20planétaires.png)
 
-### L'électricité n'est pas la seule empreinte de votre logicielle
+### L'électricité n'est pas la seule empreinte de votre logiciel
 
 En même si on se concentre uniquement sur l'aspect climatique des limites planétaires, l'électricité n'est qu'une
 faible partie (18,5% du mix énergétique mondial, [src](https://fr.wikipedia.org/wiki/Mix_%C3%A9nerg%C3%A9tique)).
