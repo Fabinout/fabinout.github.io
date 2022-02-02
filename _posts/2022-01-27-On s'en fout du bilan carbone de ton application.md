@@ -113,7 +113,7 @@ C'est à dire :
 * faire en sorte que son application puisse tourner chez le consommateur sur des vieilles machines, supporter les vieux OS pour les applications lourdes, supporter les vieux navigateurs pour les applications légères
 * permettre aux utilisateurs de continuer d'utiliser leur machine le plus souvent possible, de les revendre d'occasion, etc.
 * limiter le nombre de machines nécessaires aux utilisateurs
-* ne pas développer de services nécessitant des machines spécifiques. Par exemple les applications de réalité virtuelle qui demandent des nouveaux casques tous les ans sont une abomination **totale**, et je parle pas des voitures automatiques.
+* ne pas développer de services nécessitant des machines spécifiques. Par exemple les applications de réalité virtuelle qui demandent des nouveaux casques tous les ans sont une abomination **totale**, et je parle pas des voitures autonomes.
 
 ## Priorité 2 :assurer que notre service tourne sur une infrastructure mutualisée, dans un pays avec une électricité décarbonée
 
