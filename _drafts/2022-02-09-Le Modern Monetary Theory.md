@@ -8,7 +8,7 @@ tags: [Economie]
 Ceci est une traduction de l'article du Dr. Usman W. Chohan *Modern Monetary Theory (MMT): A General Introduction* ([ressource](/sources/Modern%20Monetary%20Theory%20-%20A%20general%20Introduction.pdf) originale)
 
 
-## Introduction
+# Introduction
 
 La théorie monétaire moderne (MMT) est une vision macroéconomique qui recontextualise le role des mesures
 fiscales et ses contraintes à travers le calcul de l'argent émis par les gouvernements qui empruntent et émettent
@@ -24,19 +24,24 @@ Depuis la crise du COVID19, des liquidités massives ont été injecté dans les
 pour contrer la pandémie. MMT propose une analyse intéressante sur l'inflation, la création monétaire,
 le déficit et la dette et mérite donc une plus grande audience.
 
+Cet article offre une introduction simple et générale à la MMT.       
+Sa structure est la suivante :
 
+##### L'introduction
+La fin de l'introduction donne les ressources importantes à lire, étudier si vous souhaitez aller plus loin. 
 
-As such, this working paper offers a simple and general introduction to MMT. Its structure is as
-follows: the remainder of this introductory section will highlight some important texts for scholars
-to consider in informing their enquiry in fuller detail. The next section, lying at the crux of this
-working paper, is a discussion of the precepts of MMT in a deliberately simplified language. The
-following section will discuss some criticisms of MMT, particularly from orthodox high-priests of
-economics. Thereafter, certain implications of MMT are discussed, not just where they are
-applicable (in strong sovereign currency-issuing monetary authorities), but also where they are
-not (the developing world or dependent and less-sovereign authorities). This will lead to the
-starkest claim regarding MMT: that it is a theory of empire. A final section examines MMT going
+##### Discussion générale  
+Le langage sera volontairement simplifié pour expliquer les préceptes de la MMT.
 
-forward, anticipating a very wide appeal of MMT in policy circles and political-economy decision-
-making bodies in the next few decades, noting the natural spark that the pandemic of Covid19
+##### Critiques
+Quelles sont les critiques adressées à la MMT, notamment par les économistes orthodoxes.
 
-has triggered, but which shall last in the years to come.
+##### Implications
+Où la MMT est applicable (où la gestion de la monnaie est gérée par une institution souveraine forte), quelles
+conclusions tirer, et où n'est-elle pas applicable (les pays sous-développés, dépendants, ou non-souverains)?
+Ce qui nous amènera à la théorie de l'empire.
+
+##### Suite et fin
+Quelle suite intellectuelle peut-on espérer pour la MMT, quel impact sur les politiques économiques, 
+quelles décisions prendre suite au covid 19 ?
+
