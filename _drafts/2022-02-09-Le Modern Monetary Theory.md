@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "La modern Monetary, une introduction générale"
+title: "La Modern Monetary Theory, une introduction générale"
 description: "Une théorie hétérodoxe macroéconomique"
 tags: [Economie]
 ---
 
 Ceci est une traduction de l'article du Dr. Usman W. Chohan *Modern Monetary Theory (MMT): A General Introduction* ([ressource](/sources/Modern%20Monetary%20Theory%20-%20A%20general%20Introduction.pdf) originale)
-Mon but est de proposer de la vulgarisation sur le sujet, certaines parties ont peu d'intérêt sinon pour les économistes.
+Mon but est de proposer de la vulgarisation sur le sujet de la MMT, étant donné que je n'ai jamais
+trouvé la moindre ressource en Français, certaines parties ont peu d'intérêt sinon pour les économistes.
 Je note les parties non traduites avec une balise [NDT].
 
 
@@ -70,10 +71,39 @@ L'argent ainsi créé est appelé monnaie fiduciaire, sa valeur découle des tax
 du désir qu'ont les individus d'en épargner pour se les échanger avant même de payer ces taxes.
 
 
+## Critiques de la MMT
+
+Les économistes orthodoxes et les universitaires critiquent largement la MMT et s'écharpent
+à ce sujet.
+Par exemple, Kenneth Rogoff l'appelle "La théorie Monétaire moderne du 
+n'importe-quoi"[^43], tandis que Galbraith corrige plusieurs incompréhensions présentées 
+par Rogoff durant le même débat[^44]. Palley quant à lui résume sa critique comme ça :
+"La MMT simplifie à outrance la difficulté à atteindre sans hyper-inflation le plein-emploi
+ parce qu'elle ignore les dilemmes que pose la [courbe de Phillips](https://fr.wikipedia.org/wiki/Courbe_de_Phillips).
+"
+
+
+
+Criticisms of MMT are vociferously articulated by stalwarts of the academy. 
+For example, Kenneth Rogoff has described the theory as “Modern Monetary Nonsense
+,”43 but Galbraith corrects some misconceptions presented by Rogoff as part of the
+same debate.44 Palley summarizes his critique of MMT thus: “MMT over-simplifies 
+the challenges of attaining non-inflationary full employment by ignoring dilemmas
+posed by the Phillips curve, maintaining real and financial sector stability, and
+an open economy. Its policy recommendations take little account of political 
+economy difficulties, while its interest rate policy recommendation would likely
+generate instability.”45 What is important to recognize here is the limitations of
+the Philips curve for a long-term deflationary rich country, where inflation isn’t
+being generated no matter how much money is put in as stimulus,46 which is why the
+Philips curve may be “broken for good”.47
 
 [^1]: MMT is often described as “neo-chartalist” in that it speaks to the chartalist theory of the development of money. Chatalism proposes that states created money as a means of directing economic activity or paying for activities required as part of state-building (particularly militarily). This contrasts with the mythic concepts that have abounded in economics historically about “barter” as the origin of money. This myth has effectively been demolished by the anthropological literature, most notably in David Graeber’s magisterial work, Debt: the First 5000 Years. See Graeber, D. (2012). Debt: The first 5000 years. Penguin UK.
 [^2]: Monetary operations as exercised by the central bank specifically but by government more generally in some instances.
 [^3]: The notion of a job guarantee aims to mitigate the unemployment problem by guaranteeing work to citizens. It is a manifestation of the fundamental right to work as enshrined by the United Nations Universal Declaration of Human Rights, Article 23 (1).
 [^4]: Taylor, L. (2019). Synthetic MMT: Old Line Keynesianism with an Expansionary Twist. Institute for New Economic Thinking Working Paper Series, (103).
 [^5]: Jayadev, A., & Mason, J. W. (2018). Mainstream Macroeconomics and Modern Monetary Theory: What Really Divides Them?. Institute for New Economic Thinking, 6
+
+
+[^44]: 43 Rogoff, K. (2019). Modern monetary nonsense. Project syndicate, 4(03).
+[^45]: 44 Galbraith, J. (2019). Modern Monetary Realism. Project Syndicate, March, 15.
 
