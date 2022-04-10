@@ -11,7 +11,7 @@ Ce que je recherchais, c'était :
 1. Du temps pour faire de la veille technologique et de l'open-source
 4. Un salaire permettant de vivre
 2. Du temps pour participer à des meetups et conférences
-3. Des missions intéressantespour eux, 4 jours pour moi" ( https://fabien-lamarque.eu/3-jours-pour-eux,-4-jours-pour-moi/ ).
+3. Des missions intéressantes.
 
 Le lien redirigé se prénomme "Charges déductibles et exonérations" ( https://www.l-expert-comptable.com/a/531023-quelles-charges-peut-faire-passer-sur-sa-societe.html )
 
