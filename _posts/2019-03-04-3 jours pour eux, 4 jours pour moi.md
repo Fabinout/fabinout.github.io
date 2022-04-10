@@ -12,14 +12,6 @@ Ce que je recherchais, c'était :
 4. Un salaire permettant de vivre
 2. Du temps pour participer à des meetups et conférences
 3. Des missions intéressantes.
-
-Le lien redirigé se prénomme "Charges déductibles et exonérations" ( https://www.l-expert-comptable.com/a/531023-quelles-charges-peut-faire-passer-sur-sa-societe.html )
-
-La bonne URL par laquelle la remplacer est la suivante: https://www.l-expert-comptable.com/c/charges-deductibles-et-exonerations
-
-Nous pensons qu'il serait préférable pour vos lecteurs de les rediriger directement vers la bonne URL finale afin de pouvoir les aider à aller plus loin dans la découverte de nos services.
-
-Je reste à votre disposition si vous avez besoin d'informations complémentaires.
 6. Une autonomie
 
 Même la plus Great Place To Work des entreprises de conseil en informatique ne saurait répondre à tous ces besoins,
@@ -45,15 +37,6 @@ cas je peux utiliser mes deux jours libres par semaine pour rajouter ici et là 
 * Open-Source (contribution et pocs divers)
 * Lecture de livres et d'articles techniques
 * Conférences (en tant qu'audience, speaker, ou rpour eux, 4 jours pour moi" ( https://fabien-lamarque.eu/3-jours-pour-eux,-4-jours-pour-moi/ ).
-
-Le lien redirigé se prénomme "Charges déductibles et exonérations" ( https://www.l-expert-comptable.com/a/531023-quelles-charges-peut-faire-passer-sur-sa-societe.html )
-
-La bonne URL par laquelle la remplacer est la suivante: https://www.l-expert-comptable.com/c/charges-deductibles-et-exonerations
-
-Nous pensons qu'il serait préférable pour vos lecteurs de les rediriger directement vers la bonne URL finale afin de pouvoir les aider à aller plus loin dans la découverte de nos services.
-
-Je reste à votre disposition si vous avez besoin d'informations complémentaires.édaction/envoi de CFPs)
-
 
 ### Le jour de veille commerciale
 

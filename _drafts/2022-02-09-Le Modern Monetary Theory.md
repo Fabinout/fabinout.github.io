@@ -1,4 +1,4 @@
----
+ ---
 layout: post
 title: "La Modern Monetary Theory, une introduction générale"
 description: "Une théorie hétérodoxe macroéconomique"
