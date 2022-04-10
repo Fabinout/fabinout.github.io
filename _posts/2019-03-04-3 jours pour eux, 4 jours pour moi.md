@@ -36,7 +36,7 @@ cas je peux utiliser mes deux jours libres par semaine pour rajouter ici et là 
 * Cours en ligne
 * Open-Source (contribution et pocs divers)
 * Lecture de livres et d'articles techniques
-* Conférences (en tant qu'audience, speaker, ou rpour eux, 4 jours pour moi" ( https://fabien-lamarque.eu/3-jours-pour-eux,-4-jours-pour-moi/ ).
+* Conférences (en tant qu'audience, speaker, ou orga).
 
 ### Le jour de veille commerciale
 
@@ -48,7 +48,7 @@ découvre, l'occupation est donc amenée à évoluer.
 * Administratif, comptabilité
 * Posts divers sur Linkedin (regardez mon talk, lisez mon article, je donne des formations, etc.)
 
-Et accessoirement un peu de ménage à la maison, une longue promenade du chien et du sport.
+Et accessoirement du ménage à la maison, une longue promenade du chien et du sport.
 
 ## Parlons pognon
 
@@ -98,14 +98,14 @@ Il y a deux tranches :
 Donc au total :   9 324,40€ d'impôt sur les entreprises  
 
 ### Il me reste combien ?
-51 000 - 9,324,5 =   41 675,60€ de dividendes à distribuer aux actionnaires !
+51 000 - 9 324,5 =   41 675,60€ de dividendes à distribuer aux actionnaires !
 
 ### L'impôt sur les dividendes
 Effectivement si vous avez bien suivi, je n'ai pas encore payé les impôts sur les prestations sociales,
 la fameuse taxe sur les dividendes.
 
 Monsieur Macron a créé la flat tax, qui nous offre un taux fixe de 30% sur les dividendes à verser, donc 
-dividendes * (70%) = dividende net : 41 675,6 x 0,7 =  29 172,92€, ramené au mois ça me donne **2 431,08€ mensuel**.
+dividendes * (70%) = dividende net : 41 675,6 x 0,7 =  29 172,92€, ramené au mois ça me donne **2 431,08€ mensuel**.
 
 # Les inconvénients à garder en tête
 
