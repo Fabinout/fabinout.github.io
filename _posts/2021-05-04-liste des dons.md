@@ -5,7 +5,7 @@ description: "Liste à la Prévert des dons effectués en mon nom à des assos"
 tags: [memo, politique]
 ---
 
-Ceci est la suite de l'article sur [comment lutter en tant que développeur](https://fabien-lamarque.eu/Faire-la-gr%C3%A8ve-en-tant-que-d%C3%A9veloppeur/). 
+Ceci est la suite de l'article sur [comment lutter en tant que développeur](https://blog.lamarque.tech/Faire-la-gr%C3%A8ve-en-tant-que-d%C3%A9veloppeur/). 
 Ma conclusion était que matériellement, le plus efficace était de redistribuer ce que je gagnais en trop à des causes ou
 des associations auxquelles je croyais. 
 

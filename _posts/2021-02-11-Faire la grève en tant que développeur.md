@@ -115,7 +115,7 @@ redistribution de journées de facturations au moins une fois par mois que je pa
 tiennent à coeur. 
 
 
-*Edit, mai 2021 : J'ai un [autre article de blog](https://fabien-lamarque.eu/liste-des-dons/) qui recense en conséquence les dons que j'ai faits cette année.*
+*Edit, mai 2021 : J'ai un [autre article de blog](https://blog.lamarque.tech/liste-des-dons/) qui recense en conséquence les dons que j'ai faits cette année.*
 
 (1) On est la tech, un collectif de grévistes de la tech a appelé aux blocages des plateformes qui a été très peu suivis en dehors 
 de la fermeture du site de mediapart [lien](https://onestla.tech/publications/appel-action-24-janvier)
