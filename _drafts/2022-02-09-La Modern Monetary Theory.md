@@ -8,6 +8,11 @@ tags: [Economie]
 Ceci est une traduction de l'article du Dr. Usman W. Chohan *Modern Monetary Theory (MMT): A General Introduction* ([ressource](/sources/Modern%20Monetary%20Theory%20-%20A%20general%20Introduction.pdf) originale)
 Mon but est de proposer de la vulgarisation sur le sujet de la MMT, étant donné que je n'ai jamais
 trouvé la moindre ressource en Français, certaines parties ont peu d'intérêt sinon pour les économistes.
+
+#### Quelques notes
+J'utilise les termes "MMT", "Modern Monetary Theory" et "Théorie Moderne de la Monnaie" indifféremment pour désigner cette vision économique. Il faut
+noter que le sigle TMM est quasiment introuvable en français, je francise que le nom complet de la théorie, et utilise 
+le sigle pour alléger certaines phrases. 
 Je note les parties non traduites avec une balise [NDT].
 
 
@@ -79,23 +84,28 @@ Par exemple, Kenneth Rogoff l'appelle "La théorie Monétaire moderne du
 n'importe-quoi"[^43], tandis que Galbraith corrige plusieurs incompréhensions présentées 
 par Rogoff durant le même débat[^44]. Palley quant à lui résume sa critique comme ça :
 "La MMT simplifie à outrance la difficulté à atteindre sans hyper-inflation le plein-emploi
- parce qu'elle ignore les dilemmes que pose la [courbe de Phillips](https://fr.wikipedia.org/wiki/Courbe_de_Phillips).
-"
+ parce qu'elle ignore les dilemmes que pose la [courbe de Phillips](https://fr.wikipedia.org/wiki/Courbe_de_Phillips), en maintenant
+la stabilité du secteur financier et une [économie ouverte](https://fr.wikipedia.org/wiki/%C3%89conomie_ouverte).
+Ses recommendations ne prennent pas compte des difficultés des politiques économiques, notamment celles sur les taux d'intérêt
+qui généreraient certainement des instabilités[^45].
+" C'est important de savoir ici que la courbe de Phillips ne s'applique pas pour un pays riche en phase longue 
+déflationniste, où l'inflation n'est plus redynamisée peu importe la quantité de stimulus injecté dans
+l'économie, ce qui pourrait expliquer pourquoi la courbe de Philips pourrait ne plus être pertinente dans certains pays.
 
+On observe notamment que de nombreux critiques virulents de la Théorie Moderne de la Monnaie provient d'économistes dont
+la ou les thèses principales sont en accord avec la MMT. Larry Summers par exemple argumente que les pays occidentaux 
+sont entrées dans une phase de "stagnation séculaire"[^48], ce qui est aussi un constat important de la MMT.
 
+Some observers note that there is a surprising amount of vitriol hurled against MMT even by economists whose general
+thesis is in accord with MMT. For example, the mainstream brahmin of economics, Larry Summers, has long argued that 
+the first world has entered a phase of “secular stagnation,”[^48] which requires high-levels of stimulus spending and 
+the incurring of deficits to keep these aging economies from a long-term recession.49 This is precisely the argument of
+MMT, as discussed in the section above. Some political economy critiques of MMT involve the responses of governments to 
+crises. First, they question whether the legislature and executive branches can act quickly enough to respond to
+an economic downturn. This is debatable, because the 2008-09 crises demonstrated strong government and central bank 
+resolve to stimulate the economy somewhat quickly, although expecting a knee-jerk reaction may be unrealistic. Hence, 
+there is strong MMT advocacy of automatic stabilizers such as a jobs guarantee program.
 
-Criticisms of MMT are vociferously articulated by stalwarts of the academy. 
-For example, Kenneth Rogoff has described the theory as “Modern Monetary Nonsense
-,”43 but Galbraith corrects some misconceptions presented by Rogoff as part of the
-same debate.44 Palley summarizes his critique of MMT thus: “MMT over-simplifies 
-the challenges of attaining non-inflationary full employment by ignoring dilemmas
-posed by the Phillips curve, maintaining real and financial sector stability, and
-an open economy. Its policy recommendations take little account of political 
-economy difficulties, while its interest rate policy recommendation would likely
-generate instability.”45 What is important to recognize here is the limitations of
-the Philips curve for a long-term deflationary rich country, where inflation isn’t
-being generated no matter how much money is put in as stimulus,46 which is why the
-Philips curve may be “broken for good”.47
 
 [^1]: MMT is often described as “neo-chartalist” in that it speaks to the chartalist theory of the development of money. Chatalism proposes that states created money as a means of directing economic activity or paying for activities required as part of state-building (particularly militarily). This contrasts with the mythic concepts that have abounded in economics historically about “barter” as the origin of money. This myth has effectively been demolished by the anthropological literature, most notably in David Graeber’s magisterial work, Debt: the First 5000 Years. See Graeber, D. (2012). Debt: The first 5000 years. Penguin UK.
 [^2]: Monetary operations as exercised by the central bank specifically but by government more generally in some instances.
@@ -106,4 +116,5 @@ Philips curve may be “broken for good”.47
 
 [^44]: 43 Rogoff, K. (2019). Modern monetary nonsense. Project syndicate, 4(03).
 [^45]: 44 Galbraith, J. (2019). Modern Monetary Realism. Project Syndicate, March, 15.
-
+[^47]: The Economist .(2017). The Phillips curve may be broken for good. November 1.
+[^48]: Summers, L. H. (2014). US economic prospects: Secular stagnation, hysteresis, and the zero lower bound. Business economics, 49(2), 65-73.
