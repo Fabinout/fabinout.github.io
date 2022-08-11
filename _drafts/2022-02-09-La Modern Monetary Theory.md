@@ -32,13 +32,13 @@ Depuis la crise du COVID19, des liquidités massives ont été injecté dans les
 pour contrer la pandémie. MMT propose une analyse intéressante sur l'inflation, la création monétaire,
 le déficit et la dette et mérite donc une plus grande audience.
 
-Cet article offre une introduction simple et générale à la MMT.       
+Cet article offre une introduction simple et générale à la Théorie Moderne de la Monnaie.       
 
 Sa structure est la suivante :
 
 ##### L'introduction
-La fin de l'introduction donne les ressources importantes à lire, étudier si vous souhaitez aller plus loin.   
-[NDT _partie non traduite_]
+
+_NDT: c'est la partie que vous venez de lire._
 
 ##### Discussion générale  
 Le langage sera volontairement simplifié pour expliquer les préceptes de la MMT.
@@ -53,6 +53,10 @@ Ce qui nous amènera à la théorie de l'empire.
 
 Puis, quelle suite intellectuelle peut-on espérer pour la MMT, quel impact sur les politiques économiques, 
 quelles décisions prendre suite au covid 19 ?
+
+
+#### Approfondir 
+Cette section comportera une liste de ressources qui sont pertinentes pour approfondir le sujet.
 
 # Discussion générale
 
@@ -76,7 +80,7 @@ L'argent ainsi créé est appelé monnaie fiduciaire, sa valeur découle des tax
 du désir qu'ont les individus d'en épargner pour se les échanger avant même de payer ces taxes.
 
 
-## Critiques de la MMT
+# Critiques de la MMT
 
 Les économistes orthodoxes et les universitaires critiquent largement la MMT et s'écharpent
 à ce sujet.
@@ -92,9 +96,17 @@ qui généreraient certainement des instabilités[^45].
 déflationniste, où l'inflation n'est plus redynamisée peu importe la quantité de stimulus injecté dans
 l'économie, ce qui pourrait expliquer pourquoi la courbe de Philips pourrait ne plus être pertinente dans certains pays.
 
-On observe notamment que de nombreux critiques virulents de la Théorie Moderne de la Monnaie provient d'économistes dont
-la ou les thèses principales sont en accord avec la MMT. Larry Summers par exemple argumente que les pays occidentaux 
-sont entrées dans une phase de "stagnation séculaire"[^48], ce qui est aussi un constat important de la MMT.
+On observe notamment que de nombreuses critiques virulentes de la Théorie Moderne de la Monnaie proviennent d'économistes dont
+la ou les thèses principales sont en accord avec la MMT. Larry Summers par exemple argumente depuis longtemps que les pays occidentaux 
+sont entrés dans une phase de "stagnation séculaire"[^48], qui exige de très-haut niveaux de dépenses pour garder 
+l'économie stimulée ainsi qu'un déficit élevé pour préserver ces économies vieillissantes d'une récession de longue durée. 
+C'est effectivement un constat important de la MMT. Certaines critiques d'économie politique de la MMT concernent la réaction
+des gouvernements face aux crises. Premièrement, ils se demandent si les branches législatives et exécutives peuvent agir
+suffisamment vite pour répondre à une crise économique. C'est un sujet à débat, la crise de 2008 a démontré que les gouvernements
+forts et les banques centrales peuvent relativement agir vite pour stimuler l'économie, même s'il ne faut pas s'attendre
+à une réaction instantanée non plus. En partie en réponse à cette critique, beaucoup de défenseurs de la Théorie Moderne de
+la Monnaie défendent des systèmes de stabilisateurs automatiques de l'économie, par exemple 
+des programmes de garantie de revenu.
 
 Some observers note that there is a surprising amount of vitriol hurled against MMT even by economists whose general
 thesis is in accord with MMT. For example, the mainstream brahmin of economics, Larry Summers, has long argued that 
