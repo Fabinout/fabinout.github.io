@@ -80,6 +80,29 @@ L'argent ainsi créé est appelé monnaie fiduciaire, sa valeur découle des tax
 du désir qu'ont les individus d'en épargner pour se les échanger avant même de payer ces taxes.
 
 
+There is therefore no financial constraint on fiscal policy, and it should be pursued (towards the best goals) up
+and until price stability / full employment is attained, without any obsession with the level of debt or deficits being incurred.
+To build its arguments, MMT begins with the concept of the monopoly power over currency issuance. As the state is the 
+sole legal supplier of a sovereign currency, noting therein that money today is not even paper money but rather a set
+of digits in safely-guarded spreadsheets, and that money is largely “credit” created rather than cash delivered; the
+sovereign has monopoly power over the instrument and can issue as much of it as it likes. It has the monopoly over a
+legitimized but abstract object of ascribed value, which society can and must use to transact. It can then pay for 
+its debts denominated in that currency by simply issuing more of it. After all, in the post-gold standard era, what
+is the value of its money tied to but itself?
+
+Herein lies the legacy of removing the gold standard, to which currencies used to be pegged and made convertible along 
+a determined ratio. MMT argues that the world has yet to come to terms with the demise of that system, abolished by US
+President Richard Nixon in 1971, In essence, the U.S. and other major sovereign currency issuers no longer need to fear
+a shortage of gold to back their money, leaving them free to issue as much as desired.19 MMT’s assessment on the 
+creation of money through the banking system is important to understand in that regard. In contrast to conventional
+interpretations, banks do not issue loans out of deposits; but rather issue loans based on the demand for borrowing. 
+Those who borrow from banks then stash their proceeds in the bank. Whomsoever receives a check simply makes another 
+deposit in a bank. As such, MMT views the causality in reverse: deposits do not create loans; loans create deposits.20 
+This is one aspect of MMT that even some conservative central bankers—including those at Germany’s Bundesbank—agree with.  
+
+
+
+
 # Critiques de la MMT
 
 Les économistes orthodoxes et les universitaires critiquent largement la MMT et s'écharpent
@@ -108,15 +131,6 @@ forts et les banques centrales peuvent relativement agir vite pour stimuler l'é
 la Monnaie défendent des systèmes de stabilisateurs automatiques de l'économie, par exemple 
 des programmes de garantie de revenu.
 
-Some observers note that there is a surprising amount of vitriol hurled against MMT even by economists whose general
-thesis is in accord with MMT. For example, the mainstream brahmin of economics, Larry Summers, has long argued that 
-the first world has entered a phase of “secular stagnation,”[^48] which requires high-levels of stimulus spending and 
-the incurring of deficits to keep these aging economies from a long-term recession.49 This is precisely the argument of
-MMT, as discussed in the section above. Some political economy critiques of MMT involve the responses of governments to 
-crises. First, they question whether the legislature and executive branches can act quickly enough to respond to
-an economic downturn. This is debatable, because the 2008-09 crises demonstrated strong government and central bank 
-resolve to stimulate the economy somewhat quickly, although expecting a knee-jerk reaction may be unrealistic. Hence, 
-there is strong MMT advocacy of automatic stabilizers such as a jobs guarantee program.
 
 
 [^1]: MMT is often described as “neo-chartalist” in that it speaks to the chartalist theory of the development of money. Chatalism proposes that states created money as a means of directing economic activity or paying for activities required as part of state-building (particularly militarily). This contrasts with the mythic concepts that have abounded in economics historically about “barter” as the origin of money. This myth has effectively been demolished by the anthropological literature, most notably in David Graeber’s magisterial work, Debt: the First 5000 Years. See Graeber, D. (2012). Debt: The first 5000 years. Penguin UK.
