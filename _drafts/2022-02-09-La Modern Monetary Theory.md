@@ -7,10 +7,10 @@ tags: [Economie]
 
 Ceci est une traduction de l'article du Dr. Usman W. Chohan *Modern Monetary Theory (MMT): A General Introduction* ([ressource](/sources/Modern%20Monetary%20Theory%20-%20A%20general%20Introduction.pdf) originale)
 Mon but est de proposer de la vulgarisation sur le sujet de la MMT, étant donné que je n'ai jamais
-trouvé la moindre ressource en Français, certaines parties ont peu d'intérêt sinon pour les économistes.
+trouvé la moindre ressource en Français, certaines parties ont peu d'intérêt sinon pour les économistes et universitaires.
 
 #### Quelques notes
-J'utilise les termes "MMT", "Modern Monetary Theory" et "Théorie Moderne de la Monnaie" indifféremment pour désigner cette vision économique. Il faut
+J'utilise les termes "MMT", "Modern Monetary Theory" et "Théorie Monétaire Moderne" indifféremment pour désigner cette vision économique. Il faut
 noter que le sigle TMM est quasiment introuvable en français, je francise que le nom complet de la théorie, et utilise 
 le sigle pour alléger certaines phrases. 
 Je note les parties non traduites avec une balise [NDT].
