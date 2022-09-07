@@ -79,16 +79,21 @@ moderne. Dans le chartalisme, la monnaie est principalement considérée comme u
 L'argent ainsi créé est appelé monnaie fiduciaire, sa valeur découle des taxes dont il permet de s'acquitter, puis
 du désir qu'ont les individus d'en épargner pour se les échanger avant même de payer ces taxes.
 
+Il n'y a donc pas de contrainte _financière_ sur les politiques fiscales qui devraient être appliquée à la hausse
+jusqu'à atteindre une stabilité des prix et le plein-emploi, sans se préoccuper du niveau de dette ou de déficit 
+résultant de cette politique fiscale.
 
-There is therefore no financial constraint on fiscal policy, and it should be pursued (towards the best goals) up
-and until price stability / full employment is attained, without any obsession with the level of debt or deficits being incurred.
-To build its arguments, MMT begins with the concept of the monopoly power over currency issuance. As the state is the 
-sole legal supplier of a sovereign currency, noting therein that money today is not even paper money but rather a set
-of digits in safely-guarded spreadsheets, and that money is largely “credit” created rather than cash delivered; the
-sovereign has monopoly power over the instrument and can issue as much of it as it likes. It has the monopoly over a
-legitimized but abstract object of ascribed value, which society can and must use to transact. It can then pay for 
-its debts denominated in that currency by simply issuing more of it. After all, in the post-gold standard era, what
-is the value of its money tied to but itself?
+Pour supporter cet argument, la MMT se base sur le monopole de la création monétaire. Comme l'état est le seul
+créateur légal de monnaie souveraine, notons que la monnaie n'est pas du papier ni des pièces mais 
+plutôt un ensemble de chiffres dans de grandes feuilles excel très bien gardées, et que cette monnaie est 
+largement perçue comme un "crédit" plutôt qu'une liasse de billet expédiée; l'état souverain a tout le pouvoir
+imaginable sur cette spreadsheed géante et peut en générer autant qu'il désire. Ce monopole s'opère sur un objet 
+virtuel (mais légitime) ayant une valeur arbitraire, que la société peut et doit utiliser pour ses transactions.
+L'état peut utiliser cette monnaie pour payer ses dettes et si besoin en imprimer encore d'avantage. Étant dans
+une ère post-[étalon-or](https://fr.wikipedia.org/wiki/%C3%89talon-or), la valeur de la monnaie n'est attachée à
+rien d'autre de concret qu'elle-même.
+
+
 
 Herein lies the legacy of removing the gold standard, to which currencies used to be pegged and made convertible along 
 a determined ratio. MMT argues that the world has yet to come to terms with the demise of that system, abolished by US
