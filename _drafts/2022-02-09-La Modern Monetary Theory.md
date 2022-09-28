@@ -106,6 +106,18 @@ de prêts ; les prêts créent des dépôts. C'est un aspect de la MMT avec lequ
 conservateurs, y compris ceux de la Bundesbank allemande, sont d'accord.
 
 
+Sur le plan historique (voir également l'examen dans la section d'introduction), les partisans de la MMT soutiennent que leur vision
+est l'héritier le plus vrai, le plus légitime de Keynes et de son paradoxe de l'épargne[^21], qui avait (selon eux) été détourné
+après la disparition de Keynes par des modélisateurs économiques excessivement mécanistes tels que le prix Nobel Paul Samuelson[^22].
+qui nourrissaient l'illusion de transformer la science sociale en une science physique ou naturelle.
+
+
+From a historical perspective (see review in introductory section as well), MMT’s proponents advocate that their vision 
+is the truest, most legitimate heir to Keynes and his paradox of thrift,[^21] which had (according to them) been hijacked
+after Keynes’ demise by excessively mechanistic model-makers in economics such as Nobel Prize winner Paul Samuelson,[^22]
+En particulier, ces illusions étaient destructrices pour la discipline parce qu'elles occultaient les réalités 
+nébuleuses et le rôle de l'incertitude fondamentale[^24] . Les traditionalistes de Samuelson, attachés à leur modèle, ont
+été qualifiés de "keynésianisme bâtard" par la regrettée Joan Robinson, économiste britannique[^25].
 
 
 # Critiques de la MMT
@@ -144,6 +156,11 @@ des programmes de garantie de revenu.
 [^4]: Taylor, L. (2019). Synthetic MMT: Old Line Keynesianism with an Expansionary Twist. Institute for New Economic Thinking Working Paper Series, (103).
 [^5]: Jayadev, A., & Mason, J. W. (2018). Mainstream Macroeconomics and Modern Monetary Theory: What Really Divides Them?. Institute for New Economic Thinking, 6
 [^19]: Pour plus d'info sur l'histoire de l'économie au 20ème siècle, avec notamment l'étalon or, l'euro et le néo-impérialisme, l'auteur conseille Varoufakis, Y (2015) The global minotaur: America, Europe and the future of the global economy
+[^21]: Bryant, J. (1987). The paradox of thrift, liquidity preference and animal spirits.
+[^22]: Samuelson, P. A. (1966). The collected scientific papers of Paul A. Samuelson (Vol. 2). MIT press
+[^23]: Lire les arguments chez Eichner, A. S. (1983). Why Economics is not yet a Science. Journal of Economic Issues, 17(2), 507-520.
+[^24]: Dequech, D. (2000). Fundamental uncertainty and ambiguity. Eastern Economic Journal, 26(1), 41-60.
+[^25]: Robinson, J. (1967). Essay on Marxian Economics. Springer.
 
 
 [^44]: 43 Rogoff, K. (2019). Modern monetary nonsense. Project syndicate, 4(03).
