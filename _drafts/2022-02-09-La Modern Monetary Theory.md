@@ -93,17 +93,17 @@ L'état peut utiliser cette monnaie pour payer ses dettes et si besoin en imprim
 une ère post-[étalon-or](https://fr.wikipedia.org/wiki/%C3%89talon-or), la valeur de la monnaie n'est attachée à
 rien d'autre de concret qu'elle-même.
 
-
-
-Herein lies the legacy of removing the gold standard, to which currencies used to be pegged and made convertible along 
-a determined ratio. MMT argues that the world has yet to come to terms with the demise of that system, abolished by US
-President Richard Nixon in 1971, In essence, the U.S. and other major sovereign currency issuers no longer need to fear
-a shortage of gold to back their money, leaving them free to issue as much as desired.19 MMT’s assessment on the 
-creation of money through the banking system is important to understand in that regard. In contrast to conventional
-interpretations, banks do not issue loans out of deposits; but rather issue loans based on the demand for borrowing. 
-Those who borrow from banks then stash their proceeds in the bank. Whomsoever receives a check simply makes another 
-deposit in a bank. As such, MMT views the causality in reverse: deposits do not create loans; loans create deposits.20 
-This is one aspect of MMT that even some conservative central bankers—including those at Germany’s Bundesbank—agree with.  
+C'est là que réside l'héritage de la suppression de l'étalon-or, auquel les monnaies étaient auparavant rattachées et 
+rendues convertibles selon montant fixe. La MMT soutient que le monde n'a pas encore accepté la disparition de ce
+système, aboli par le président américain Richard Nixon en 1971.      
+En substance, les États-Unis et les autres grands émetteurs de monnaie souveraine n'ont plus à craindre une pénurie
+d'or pour garantir leur monnaie et sont donc capables d'en émettre selon leur volonté [^19]. La vision de la MMT sur la création de monnaie par le système bancaire est importante 
+à comprendre à cet égard. Contrairement aux interprétations conventionnelles, les banques n'émettent pas de prêts à 
+partir des dépôts ; elles émettent plutôt des prêts en fonction de la demande d'emprunt. 
+Ceux qui empruntent aux banques stockent ensuite leur argent dans la banque. Celui qui reçoit un chèque fait simplement 
+un autre dépôt dans une banque. Ainsi, la MMT considère que la causalité est inversée : les dépôts ne créent pas
+de prêts ; les prêts créent des dépôts. C'est un aspect de la MMT avec lequel même certains banquiers centraux 
+conservateurs, y compris ceux de la Bundesbank allemande, sont d'accord.
 
 
 
@@ -143,6 +143,7 @@ des programmes de garantie de revenu.
 [^3]: The notion of a job guarantee aims to mitigate the unemployment problem by guaranteeing work to citizens. It is a manifestation of the fundamental right to work as enshrined by the United Nations Universal Declaration of Human Rights, Article 23 (1).
 [^4]: Taylor, L. (2019). Synthetic MMT: Old Line Keynesianism with an Expansionary Twist. Institute for New Economic Thinking Working Paper Series, (103).
 [^5]: Jayadev, A., & Mason, J. W. (2018). Mainstream Macroeconomics and Modern Monetary Theory: What Really Divides Them?. Institute for New Economic Thinking, 6
+[^19]: Pour plus d'info sur l'histoire de l'économie au 20ème siècle, avec notamment l'étalon or, l'euro et le néo-impérialisme, l'auteur conseille Varoufakis, Y (2015) The global minotaur: America, Europe and the future of the global economy
 
 
 [^44]: 43 Rogoff, K. (2019). Modern monetary nonsense. Project syndicate, 4(03).
