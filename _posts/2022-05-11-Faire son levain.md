@@ -82,16 +82,19 @@ Mon souvenir c'est ça, dans un premier temps ça pue, et après ça finit par p
 * Je recommande le traité de boulangerie au levain de Teffri-Chambelland, c'est là que j'ai trouvé ma recette de
 levain favorite et il contient beaucoup de théorie aussi
 
+## Des questions en vrac 
 
-## Est-ce qu'il faut couvrir le levain ? 
+### Est-ce qu'il faut couvrir le levain ? 
 
 **Pierre Bousquié** : la première pousse peut prendre entre 1 et 3 jours en temps normal . Ne pas couvrir/fermer le bocal dans un premier 
 temps c'est l'air qui contient les levures [https://fr.wikipedia.org/wiki/Saccharomyces_cerevisiae](https://fr.wikipedia.org/wiki/Saccharomyces_cerevisiae)) (entre autre) 
 et les bacteries (bonnes et mauvaises).
 
-## Est-ce que l'eau peut avoir un rapport avec le fait que le levain ne parte pas ? 
+**Thomas Pepio** : oui mais pas de couvercle, tu mets juste un torchon dessus pour pas que des saletés entrent dedans
 
-**Emmanuel Gaillot** : si je croise mes vagues souvenirs de chimie et les trucs que j'ai lu sur le brassage de bière, il se pourrait que tu
+### Est-ce que l'eau peut avoir un rapport avec le fait que le levain ne parte pas ? 
+
+**Emmanuel Gaillot** : si je crois mes vagues souvenirs de chimie et les trucs que j'ai lus sur le brassage de bière, il se pourrait que tu
 aies une eau très basique qui ne favorise pas la fermentation. Idéalement tu devrais avoir un milieu acide (pH 5 
 environ). Normalement le CO2 dégagé par la fermentation se dissout dans l'eau, donne de l'acide carbonique, acidifie le
 milieu et accélère la fermentation (tout en inhibant le développement des autres micro-organismes). Si jamais tu te
@@ -101,22 +104,21 @@ quelques gouttes de jus de citron aident à baisser suffisamment le PH avant de 
 **Maxime Sanglan-Charlier** : je sais que l'eau du robinet de Nantes doit être "corrigée" pour la bière. Elle a toujours un pH super élevé (genre plus de 8). J'utilise ce
 super site : https://www.moneaudebrassage.fr/ pour savoir quels minéraux doivent être corrigés et avec quoi.
 
-**Arnaud Bailly** : Ok je vais mettre du PH moins pour piscine dans mon levain. (non le faites pas svp)
+**Arnaud Bailly** : Ok je vais mettre du PH moins pour piscine dans mon levain. (_on a plus de nouvelle d'Arnaud depuis ce jour_)
 
-## Sur pleins de sites ils disent d'enlever une partie du mélange
+### Sur pleins de sites ils disent d'enlever une partie du mélange quand on le raffraichit
 
 **Stéfanie Loiseleur**: le fait d'enlever une partie c'est juste pour ne pas avoir à faire des rafraîchis de taille exponentielle 
 non ? histoire de pas finir avec 3kg de levain !
 
-## Est-ce que je suis obligé de faire des grosses quantités ? 
-
+### Est-ce que je suis obligé de faire des grosses quantités ? 
 
 **Laurent Bossavit** : on peut très bien faire avec des quantités plus petites que les 100g voire 200g de farine et
 les gros pots qu'on voit souvent dans les recettes. Mon levain que j'ai depuis 2 ans tient dans un pot de 
 yaourt, un rafraîchi normal pour moi c'est 15g de levain vieux + 45g d'eau + 45g de farine.
 
 
-## J'ai pas réussi à ranimer mon levain 
+### J'ai pas réussi à ranimer mon levain 
 
 **Thomas Pepio** : je viens de réveiller le levain qui dormait au frigo depuis un mois. Rafraîchi à la farine de
 seigle. Je croise les doigts. [un peu plus tard] Ça a l’air mal engagé, il n’a pas bougé d’un milimètre en plus de 8h. 
