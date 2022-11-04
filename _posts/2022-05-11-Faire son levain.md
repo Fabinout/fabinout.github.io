@@ -78,9 +78,6 @@ Mon souvenir c'est ça, dans un premier temps ça pue, et après ça finit par p
 * En particulier le seigle complet marche du feu de dieu
 * Mais aussi, ça varie d'une marque à l'autre. C'est pas forcément parce que c'est bio que ça marche bien
 * Ça peut prendre un peu de temps, persévérer jusqu'à ce que les bons micro organismes gagnent. Jusqu'à une semaine - dix jours, je ne m'inquiéterais pas
-
-Mes ajouts :
-
 * Le dernier levain que j'ai amorcé avec un lait de son a marché du feu de dieu (recette plus haut)
 * Je recommande le traité de boulangerie au levain de Teffri-Chambelland, c'est là que j'ai trouvé ma recette de
 levain favorite et il contient beaucoup de théorie aussi
