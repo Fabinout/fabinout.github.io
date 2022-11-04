@@ -37,9 +37,9 @@ Ce que j'ai remarqué qui peut aider :
 
 Voici ma recette de levain préférée : 
 
-![Page 1 de la recette au levain](/images/levain 1.jpg)
-![Page 2 de la recette au levain](/images/levain 2.jpg)
-![Page 3 de la recette au levain](/images/levain 3.jpg)
+![Page 1 de la recette au levain](/images/levain%201.jpg)
+![Page 2 de la recette au levain](/images/levain%202.jpg)
+![Page 3 de la recette au levain](/images/levain%203.jpg)
 
 Là je viens de faire mon lait de son et de mélanger avec de la farine de seigle.      
 Notes: J'avais du son fin, qui a absorbé vraiment beaucoup d'eau. Ça a fait une pâte très épaisse, pas quelque de
@@ -50,8 +50,8 @@ La température ambiante est de 25°C, ce qui est parfait.
 
 Quelques photos du levain de Fred: 
 
-![étapes 1 2 et 3 du levain de Fred](/images/levain fred 1.jpeg)
-![étapes 4 5 et 6 du levain de Fred](/images/levain fred 2.jpeg)
+![étapes 1 2 et 3 du levain de Fred](/images/levain%20fred%201.jpeg)
+![étapes 4 5 et 6 du levain de Fred](/images/levain%20fred%202.jpeg)
 
 Si on l'oublie : 
 
@@ -152,7 +152,7 @@ Parce qu'on fait pas du levain pour autre chose que faire son propre pain :)
 
 **Thomas Pepio** : 
 
-![Boule de Thomas Pepio](/images/pain thomasp.jpeg)
+![Boule de Thomas Pepio](/images/pain%20thomasp.jpeg)
 
 *il faut que change la grigne, je pense que le dôme du pain peut être améliorée un peu*
 
