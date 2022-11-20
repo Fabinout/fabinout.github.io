@@ -172,10 +172,10 @@ qu'un levain sent l'acide c'est qu'il manque de rafraîchis et qu'on ne lui a pa
 
 Ma recette pour un pain de campagne ou complet:
 
-    * 80g de levain (qui contient donc 40g d'eau et 40g de farine de seigle)
-    * 460g de farine T80 ou T110
-    * 9g de sel
-    * entre 260 et 320g d'eau (ne pas partir tout de suite sur 320g, plus la pâte est humide plus elle est bien alvéolée 
+* 80g de levain (qui contient donc 40g d'eau et 40g de farine de seigle)
+* 460g de farine T80 ou T110
+* 9g de sel
+* entre 260 et 320g d'eau (ne pas partir tout de suite sur 320g, plus la pâte est humide plus elle est bien alvéolée 
 mais aussi plus elle est chiante à travailler)
 
 Les étapes:
