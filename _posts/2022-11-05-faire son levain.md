@@ -6,7 +6,7 @@ tags: [Boulangerie]
 ---
 
 Cet article est une réorganisation d'une longue discussion sur comment faire son levain dans le channel boulangerie
-du slack [Okiwi](okiwi-fr.slack.com/) initiée par Arnaud :
+du slack [Okiwi](https://okiwi-fr.slack.com/) initiée par Arnaud :
 
 > **Arnaud Bailly** : Quelqu'un·e a une bonne recette de levain à partager ? Je n'arrive pas à faire prendre le mien :(
 
@@ -165,6 +165,36 @@ déplacé du côté des levures (odeur acide, comme du vinaigre). Sans trop tard
 et le rafraichir très souvent en rajoutant l'équivalent de son volume en eau+farine, toutes les 3 à 5 heures. Il va 
 retrouver normalement son odeur de lait (fermentation lactique) et son aspect un peu crémeux et léger. Globalement, dès
 qu'un levain sent l'acide c'est qu'il manque de rafraîchis et qu'on ne lui a pas donné assez à manger
+
+## Des recettes de pain au levain
+
+#### Laurent Bossavit
+
+Ma recette pour un pain de campagne ou complet:
+
+    * 80g de levain (qui contient donc 40g d'eau et 40g de farine de seigle)
+    * 460g de farine T80 ou T110
+    * 9g de sel
+    * entre 260 et 320g d'eau (ne pas partir tout de suite sur 320g, plus la pâte est humide plus elle est bien alvéolée 
+mais aussi plus elle est chiante à travailler)
+
+Les étapes:
+
+1. mélanger levain, farine et eau jusqu'à absorption de toute l'eau (pas de farine libre)
+1. laisser reposer 30 minutes
+1. pétrir: étirer la pate, la replier sur elle même, tourner d'un quart, plusieurs fois
+1. laisser reposer 1h
+1. (pétrir, laisser reposer 1h) x 2
+1. laisser pousser: quelques heures; la pâte doit augmenter de volume, il y a plusieurs indices que la pousse est bonne (test du voile, réaction de la pâte quand on secoue la cuve, apparence du réseau de gluten), ce sont ces indices et pas le temps écoulé qui comptent, car le temps varie avec la température, le levain, la farine…
+1. façonner: décuver la pâte sur un plan de travail fariné, l'étaler un peu, la replier sur elle-même, et lui donner de la tension en la "boulant"
+1. laisser reposer 30 minutes
+1. façonner une deuxième fois, déposer dans un banneton fariné (éventuellement avec un linge)
+1. laisser encore pousser 1h à 1h30
+1. démouler dans une cocotte
+1. "grigner" la pâte avant de l'enfourner (lui faire un ou deux coups de lame de rasoir ou de couteau très aiguisé) pour favoriser le développement
+1. cuire 30 minutes à 235° à couvert, puis déclocher et encore cuire 15 minutes après avoir descendu le thermostat à 210°
+1. sortir du four et laisser 2h sur une grille avant de déguster
+
 
 ## Des photos de résultats :
 
