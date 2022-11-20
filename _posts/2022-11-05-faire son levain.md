@@ -159,7 +159,7 @@ de levain, 10 g de farine et 12 g d'eau.
 
 ### Que faire s'il y a une couche d'eau sur le dessus du levain ?
 
-Hélène Collomb : dans le levain il y a un équilibre entre ferments lactiques et levures. Lorsque dans un levain se
+**Hélène Collomb** : dans le levain il y a un équilibre entre ferments lactiques et levures. Lorsque dans un levain se
 forme deux phases, une acqueuse et une plus solide, c'est que l'équilibre des espèces présentes dans le levain s'est 
 déplacé du côté des levures (odeur acide, comme du vinaigre). Sans trop tarder, il faut en prendre un tout petit peu
 et le rafraichir très souvent en rajoutant l'équivalent de son volume en eau+farine, toutes les 3 à 5 heures. Il va 
