@@ -58,6 +58,16 @@ Si on l'oublie :
 ![Le levain de Fred part en vacances](/images/levain.jpeg)
 
 
+### Hélène Collomb 
+
+En plus des recettes indiquées, tu peux aussi faire du levain en conservant un peu de pâte à pain, au moment de
+la division, après le mélange des ingrédients et la levée de la pâte. A partir de ça, soit tu gardes la pâte
+dans un bol avec un petit linge dans un endroit frais pour le prochain moment où tu feras du pain ; soit tu
+l'étales sur un papier sulfurisé en le laissant sécher pour le conserver et l'utiliser dans plus longtemps. Il te suffira
+de le dissoudre dans l'équivalent de son volume d'eau (comme dans le cas de la levure solide) et puis de reprendre le 
+processus de rafraîchissement comme dans un levain classique.
+
+
 ### Quelques tips 
 
 #### Laurent Bossavit
