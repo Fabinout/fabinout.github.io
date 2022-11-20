@@ -16,6 +16,8 @@ j'attends 24h, puis ... rien. L'eau est remontée à la surface et je vois bien 
 
 ## Les recettes 
 
+_Dans tous les cas, il faut au moins une dizaine de jours, souvent une quinzaine pour faire un bon levain._
+
 ### Emmanuel Gaillot
 
 1. Dans un bocal de conserve en verre propre et sec, je mets 25g de farine T110 bio (la farine Carrefour fonctionne, 
@@ -68,7 +70,7 @@ de le dissoudre dans l'équivalent de son volume d'eau (comme dans le cas de la 
 processus de rafraîchissement comme dans un levain classique.
 
 
-### Quelques tips 
+## Quelques tips 
 
 #### Laurent Bossavit
 
@@ -154,6 +156,15 @@ Moralités provisoires:
 Dans mon bocal le Parfait (donc relativement large), je mets pour un rafraîchi 30 g de levain, 30 g de farine et 36 g 
 d'eau soit environ 100 g de levain et ça passe bien.Pour la tentative qui avait échoué j'avais mis je crois 10 g
 de levain, 10 g de farine et 12 g d'eau.
+
+### Que faire s'il y a une couche d'eau sur le dessus du levain ?
+
+Hélène Collomb : dans le levain il y a un équilibre entre ferments lactiques et levures. Lorsque dans un levain se
+forme deux phases, une acqueuse et une plus solide, c'est que l'équilibre des espèces présentes dans le levain s'est 
+déplacé du côté des levures (odeur acide, comme du vinaigre). Sans trop tarder, il faut en prendre un tout petit peu
+et le rafraichir très souvent en rajoutant l'équivalent de son volume en eau+farine, toutes les 3 à 5 heures. Il va 
+retrouver normalement son odeur de lait (fermentation lactique) et son aspect un peu crémeux et léger. Globalement, dès
+qu'un levain sent l'acide c'est qu'il manque de rafraîchis et qu'on ne lui a pas donné assez à manger
 
 ## Des photos de résultats :
 
