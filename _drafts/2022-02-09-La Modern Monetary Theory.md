@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: "La Modern Monetary Theory, une introduction générale"
 description: "Une théorie hétérodoxe macroéconomique"
@@ -7,7 +7,12 @@ tags: [Economie]
 
 Ceci est une traduction de l'article du Dr. Usman W. Chohan *Modern Monetary Theory (MMT): A General Introduction* ([ressource](/sources/Modern%20Monetary%20Theory%20-%20A%20general%20Introduction.pdf) originale)
 Mon but est de proposer de la vulgarisation sur le sujet de la MMT, étant donné que je n'ai jamais
-trouvé la moindre ressource en Français, certaines parties ont peu d'intérêt sinon pour les économistes.
+trouvé la moindre ressource en Français, certaines parties ont peu d'intérêt sinon pour les économistes et universitaires.
+
+#### Quelques notes
+J'utilise les termes "MMT", "Modern Monetary Theory" et "Théorie Monétaire Moderne" indifféremment pour désigner cette vision économique. Il faut
+noter que le sigle TMM est quasiment introuvable en français, je francise que le nom complet de la théorie, et utilise 
+le sigle pour alléger certaines phrases. 
 Je note les parties non traduites avec une balise [NDT].
 
 
@@ -27,13 +32,13 @@ Depuis la crise du COVID19, des liquidités massives ont été injecté dans les
 pour contrer la pandémie. MMT propose une analyse intéressante sur l'inflation, la création monétaire,
 le déficit et la dette et mérite donc une plus grande audience.
 
-Cet article offre une introduction simple et générale à la MMT.       
+Cet article offre une introduction simple et générale à la Théorie Moderne de la Monnaie.       
 
 Sa structure est la suivante :
 
 ##### L'introduction
-La fin de l'introduction donne les ressources importantes à lire, étudier si vous souhaitez aller plus loin.   
-[NDT _partie non traduite_]
+
+_NDT: c'est la partie que vous venez de lire._
 
 ##### Discussion générale  
 Le langage sera volontairement simplifié pour expliquer les préceptes de la MMT.
@@ -48,6 +53,10 @@ Ce qui nous amènera à la théorie de l'empire.
 
 Puis, quelle suite intellectuelle peut-on espérer pour la MMT, quel impact sur les politiques économiques, 
 quelles décisions prendre suite au covid 19 ?
+
+
+#### Approfondir 
+Cette section comportera une liste de ressources qui sont pertinentes pour approfondir le sujet.
 
 # Discussion générale
 
@@ -70,8 +79,48 @@ moderne. Dans le chartalisme, la monnaie est principalement considérée comme u
 L'argent ainsi créé est appelé monnaie fiduciaire, sa valeur découle des taxes dont il permet de s'acquitter, puis
 du désir qu'ont les individus d'en épargner pour se les échanger avant même de payer ces taxes.
 
+Il n'y a donc pas de contrainte _financière_ sur les politiques fiscales qui devraient être appliquée à la hausse
+jusqu'à atteindre une stabilité des prix et le plein-emploi, sans se préoccuper du niveau de dette ou de déficit 
+résultant de cette politique fiscale.
 
-## Critiques de la MMT
+Pour supporter cet argument, la MMT se base sur le monopole de la création monétaire. Comme l'état est le seul
+créateur légal de monnaie souveraine, notons que la monnaie n'est pas du papier ni des pièces mais 
+plutôt un ensemble de chiffres dans de grandes feuilles excel très bien gardées, et que cette monnaie est 
+largement perçue comme un "crédit" plutôt qu'une liasse de billet expédiée; l'état souverain a tout le pouvoir
+imaginable sur cette spreadsheed géante et peut en générer autant qu'il désire. Ce monopole s'opère sur un objet 
+virtuel (mais légitime) ayant une valeur arbitraire, que la société peut et doit utiliser pour ses transactions.
+L'état peut utiliser cette monnaie pour payer ses dettes et si besoin en imprimer encore d'avantage. Étant dans
+une ère post-[étalon-or](https://fr.wikipedia.org/wiki/%C3%89talon-or), la valeur de la monnaie n'est attachée à
+rien d'autre de concret qu'elle-même.
+
+C'est là que réside l'héritage de la suppression de l'étalon-or, auquel les monnaies étaient auparavant rattachées et 
+rendues convertibles selon montant fixe. La MMT soutient que le monde n'a pas encore accepté la disparition de ce
+système, aboli par le président américain Richard Nixon en 1971.      
+En substance, les États-Unis et les autres grands émetteurs de monnaie souveraine n'ont plus à craindre une pénurie
+d'or pour garantir leur monnaie et sont donc capables d'en émettre selon leur volonté [^19]. La vision de la MMT sur la création de monnaie par le système bancaire est importante 
+à comprendre à cet égard. Contrairement aux interprétations conventionnelles, les banques n'émettent pas de prêts à 
+partir des dépôts ; elles émettent plutôt des prêts en fonction de la demande d'emprunt. 
+Ceux qui empruntent aux banques stockent ensuite leur argent dans la banque. Celui qui reçoit un chèque fait simplement 
+un autre dépôt dans une banque. Ainsi, la MMT considère que la causalité est inversée : les dépôts ne créent pas
+de prêts ; les prêts créent des dépôts. C'est un aspect de la MMT avec lequel même certains banquiers centraux 
+conservateurs, y compris ceux de la Bundesbank allemande, sont d'accord.
+
+
+Sur le plan historique (voir également l'examen dans la section d'introduction), les partisans de la MMT soutiennent que leur vision
+est l'héritier le plus vrai, le plus légitime de Keynes et de son paradoxe de l'épargne[^21], qui avait (selon eux) été détourné
+après la disparition de Keynes par des modélisateurs économiques excessivement mécanistes tels que le prix Nobel Paul Samuelson[^22].
+qui nourrissaient l'illusion de transformer la science sociale en une science physique ou naturelle.
+
+
+From a historical perspective (see review in introductory section as well), MMT’s proponents advocate that their vision 
+is the truest, most legitimate heir to Keynes and his paradox of thrift,[^21] which had (according to them) been hijacked
+after Keynes’ demise by excessively mechanistic model-makers in economics such as Nobel Prize winner Paul Samuelson,[^22]
+En particulier, ces illusions étaient destructrices pour la discipline parce qu'elles occultaient les réalités 
+nébuleuses et le rôle de l'incertitude fondamentale[^24] . Les traditionalistes de Samuelson, attachés à leur modèle, ont
+été qualifiés de "keynésianisme bâtard" par la regrettée Joan Robinson, économiste britannique[^25].
+
+
+# Critiques de la MMT
 
 Les économistes orthodoxes et les universitaires critiquent largement la MMT et s'écharpent
 à ce sujet.
@@ -79,31 +128,42 @@ Par exemple, Kenneth Rogoff l'appelle "La théorie Monétaire moderne du
 n'importe-quoi"[^43], tandis que Galbraith corrige plusieurs incompréhensions présentées 
 par Rogoff durant le même débat[^44]. Palley quant à lui résume sa critique comme ça :
 "La MMT simplifie à outrance la difficulté à atteindre sans hyper-inflation le plein-emploi
- parce qu'elle ignore les dilemmes que pose la [courbe de Phillips](https://fr.wikipedia.org/wiki/Courbe_de_Phillips).
-"
+ parce qu'elle ignore les dilemmes que pose la [courbe de Phillips](https://fr.wikipedia.org/wiki/Courbe_de_Phillips), en maintenant
+la stabilité du secteur financier et une [économie ouverte](https://fr.wikipedia.org/wiki/%C3%89conomie_ouverte).
+Ses recommendations ne prennent pas compte des difficultés des politiques économiques, notamment celles sur les taux d'intérêt
+qui généreraient certainement des instabilités[^45].
+" C'est important de savoir ici que la courbe de Phillips ne s'applique pas pour un pays riche en phase longue 
+déflationniste, où l'inflation n'est plus redynamisée peu importe la quantité de stimulus injecté dans
+l'économie, ce qui pourrait expliquer pourquoi la courbe de Philips pourrait ne plus être pertinente dans certains pays.
+
+On observe notamment que de nombreuses critiques virulentes de la Théorie Moderne de la Monnaie proviennent d'économistes dont
+la ou les thèses principales sont en accord avec la MMT. Larry Summers par exemple argumente depuis longtemps que les pays occidentaux 
+sont entrés dans une phase de "stagnation séculaire"[^48], qui exige de très-haut niveaux de dépenses pour garder 
+l'économie stimulée ainsi qu'un déficit élevé pour préserver ces économies vieillissantes d'une récession de longue durée. 
+C'est effectivement un constat important de la MMT. Certaines critiques d'économie politique de la MMT concernent la réaction
+des gouvernements face aux crises. Premièrement, ils se demandent si les branches législatives et exécutives peuvent agir
+suffisamment vite pour répondre à une crise économique. C'est un sujet à débat, la crise de 2008 a démontré que les gouvernements
+forts et les banques centrales peuvent relativement agir vite pour stimuler l'économie, même s'il ne faut pas s'attendre
+à une réaction instantanée non plus. En partie en réponse à cette critique, beaucoup de défenseurs de la Théorie Moderne de
+la Monnaie défendent des systèmes de stabilisateurs automatiques de l'économie, par exemple 
+des programmes de garantie de revenu.
 
 
-
-Criticisms of MMT are vociferously articulated by stalwarts of the academy. 
-For example, Kenneth Rogoff has described the theory as “Modern Monetary Nonsense
-,”43 but Galbraith corrects some misconceptions presented by Rogoff as part of the
-same debate.44 Palley summarizes his critique of MMT thus: “MMT over-simplifies 
-the challenges of attaining non-inflationary full employment by ignoring dilemmas
-posed by the Phillips curve, maintaining real and financial sector stability, and
-an open economy. Its policy recommendations take little account of political 
-economy difficulties, while its interest rate policy recommendation would likely
-generate instability.”45 What is important to recognize here is the limitations of
-the Philips curve for a long-term deflationary rich country, where inflation isn’t
-being generated no matter how much money is put in as stimulus,46 which is why the
-Philips curve may be “broken for good”.47
 
 [^1]: MMT is often described as “neo-chartalist” in that it speaks to the chartalist theory of the development of money. Chatalism proposes that states created money as a means of directing economic activity or paying for activities required as part of state-building (particularly militarily). This contrasts with the mythic concepts that have abounded in economics historically about “barter” as the origin of money. This myth has effectively been demolished by the anthropological literature, most notably in David Graeber’s magisterial work, Debt: the First 5000 Years. See Graeber, D. (2012). Debt: The first 5000 years. Penguin UK.
 [^2]: Monetary operations as exercised by the central bank specifically but by government more generally in some instances.
 [^3]: The notion of a job guarantee aims to mitigate the unemployment problem by guaranteeing work to citizens. It is a manifestation of the fundamental right to work as enshrined by the United Nations Universal Declaration of Human Rights, Article 23 (1).
 [^4]: Taylor, L. (2019). Synthetic MMT: Old Line Keynesianism with an Expansionary Twist. Institute for New Economic Thinking Working Paper Series, (103).
 [^5]: Jayadev, A., & Mason, J. W. (2018). Mainstream Macroeconomics and Modern Monetary Theory: What Really Divides Them?. Institute for New Economic Thinking, 6
+[^19]: Pour plus d'info sur l'histoire de l'économie au 20ème siècle, avec notamment l'étalon or, l'euro et le néo-impérialisme, l'auteur conseille Varoufakis, Y (2015) The global minotaur: America, Europe and the future of the global economy
+[^21]: Bryant, J. (1987). The paradox of thrift, liquidity preference and animal spirits.
+[^22]: Samuelson, P. A. (1966). The collected scientific papers of Paul A. Samuelson (Vol. 2). MIT press
+[^23]: Lire les arguments chez Eichner, A. S. (1983). Why Economics is not yet a Science. Journal of Economic Issues, 17(2), 507-520.
+[^24]: Dequech, D. (2000). Fundamental uncertainty and ambiguity. Eastern Economic Journal, 26(1), 41-60.
+[^25]: Robinson, J. (1967). Essay on Marxian Economics. Springer.
 
 
 [^44]: 43 Rogoff, K. (2019). Modern monetary nonsense. Project syndicate, 4(03).
 [^45]: 44 Galbraith, J. (2019). Modern Monetary Realism. Project Syndicate, March, 15.
-
+[^47]: The Economist .(2017). The Phillips curve may be broken for good. November 1.
+[^48]: Summers, L. H. (2014). US economic prospects: Secular stagnation, hysteresis, and the zero lower bound. Business economics, 49(2), 65-73.

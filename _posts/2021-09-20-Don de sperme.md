@@ -39,7 +39,7 @@ le don pour les bonnes raisons (j'y reviendrai).
 Faire un don de sperme, c'est éjaculer et recueillir l'équivalent de 100 paillettes (une petite paille qui contient du sperme congelé).
 Il faut en moyenne 5 dons pour recueillir 100 paillettes.            
 Il faut en moyenne une dizaine de paillettes à un couple pour obtenir un enfant.         
-La limite légale est de 10 enfants obtenus par PMA pour un donateur.     
+La limite légale est de 10 enfants obtenus par PMA pour un donneur.     
 Si les 10 enfants sont nés grâce à votre don, les paillettes restantes peuvent être redonnées à des laboratoires pour des essais.
 
 ## Comment ça se passe ?
@@ -67,7 +67,7 @@ couples qui font le parcours PMA se contentent de faire une FIV et de faire des 
 sélection de sperme (avec une sélection magnétique, on est capable d'écarter les spermatozoïdes en état de mort embryonnaire, donc on peut demander à
 un futur papa de donner 5 ou 10 éjaculats, puis de filtrer les meilleurs, pour être sûr de réussir la FIV).
 
-Comme un donateur de sperme suffit à fournir assez pour 10 enfants, un CECOS n'a besoin que d'une poignée de donateurs par an. 
+Comme un donneur de sperme suffit à fournir assez pour 10 enfants, un CECOS n'a besoin que d'une poignée de donneurs par an. 
 Or la situation est très spéciale en ce moment dans les CECOS.
 
 ### La levée de l'anonymat
@@ -79,7 +79,7 @@ de diminuer sensiblement les dons de sperme.
 ### Le COVID
 
 Depuis Mars 2020, les dons ont été arrêtés temporairement (on ne savait pas si le COVID pouvait toucher les enfants, comment il se transmettait, etc.).
-Certains centres CECOS n'ont pas reçu un seul nouveau donateur depuis plus d'1 an et demi. 
+Certains centres CECOS n'ont pas reçu un seul nouveau donneur depuis plus d'1 an et demi. 
 
 ### L'ouverture de la PMA aux couples de femmes et aux femmes seules
 

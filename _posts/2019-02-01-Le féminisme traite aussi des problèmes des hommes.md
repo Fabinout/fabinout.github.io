@@ -146,3 +146,23 @@ https://en.wikipedia.org/wiki/Men%27s_rights_movement
 https://fr.statista.com/statistiques/651074/avis-francais-necessite-feminisme/
 https://www.insee.fr/fr/statistiques/1280864
 
+On m'a envoyé le 22/08/2022 (donc trois ans et demi après la publication de ce billet) un email intéressant et anonyme 
+que je remets ici pour compléter un peu cet article :
+
+> Bonjour.
+> Tout d'abord, merci pour cet article intéressant.
+> J'aimerais revenir sur un point : "la reconnaissance du taux de suicide beaucoup plus élevé chez les hommes que chez les femmes et un accompagnement psychologique facilité"
+> Cette statistiques est incomplète pour moi, il faut distinguer 2 choses différentes : la tentative de suicide et le suicide réussie.
+> Beaucoup plus de femmes tentent de mettre fin à leur jour, mais beaucoup ne réussissent pas.
+> Ceci est expliqué par le fait que les femmes utilisent des moyens moins expéditif que les hommes comme un surdosage de médicaments. Alors que les hommes ont tendance à utiliser la pendaison ou les armes à feu. Le résultat est le même, mais dans le cas d'un surdosage médicamenteux les probabilités qu'un individu intervienne avant la mort est plus grande.
+> 
+> Finalement, il s'avère que les femmes seraient plus nombreuses à tenter de se suicider.
+> 
+> 
+> Je trouve que ce détail est primordial, car le plus important n'est pas d'arriver à se suicider, mais d'en arriver à passer à l'acte.
+> 
+> Source :
+> https://fr.wikipedia.org/wiki/Diff%C3%A9rences_li%C3%A9es_au_genre_dans_le_suicide#:~:text=L'%C3%A9cart%2C%20aussi%20appel%C3%A9%20%C2%AB,rapport%20valant%201.6%20en%202000.
+> 
+> https://drees.solidarites-sante.gouv.fr/sites/default/files/er109.pdf
+> 
