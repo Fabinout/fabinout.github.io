@@ -52,7 +52,7 @@ n'est pas que de l'amour pour les gens, c'est être aussi près à souffrir pour
 Au sens classique, la passion désigne tous les phénomènes dans lesquels la volonté est passive, notamment par rapport aux impulsions du corps.
 Au sens moderne, la passion est une inclination exclusive vers un objet, un état affectif durable et violent dans lequel se produit un déséquilibre psychologique (l'objet de la passion occupe excessivement l'esprit).
 
-Pour Aristote elle désigne des égarements de jugement qui nous écartent de nos devoirs naturels
+Pour Aristote elle désigne des égarements de jugement qui nous écartent de nos devoirs naturels.
 
 Pour Descartes elle désigne les émotions. Elles sont controlables et leurs mécanismes sont à la portée de chacuns, à
 condition d'apprendre à se connaitre. ([Les passions de l'âme](https://fr.wikipedia.org/wiki/Les_Passions_de_l%27%C3%A2me))
