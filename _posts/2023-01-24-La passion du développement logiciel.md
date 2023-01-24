@@ -11,6 +11,8 @@ tags: [développement, sociologie, psychologie]
 Passion est un mot qui évoque l'amour de son travail, l'intensité, le professionalisme. On le retrouve sans surprise
 dans de nombreux livres sur le software craftsmanship.
 
+[img](../images/busy-bow-768.jpg)
+
 Quelques citations : 
 
 > Getting software right is hard. It takes
@@ -82,7 +84,7 @@ Autrement dit, on tuait par passion et la passion était une manière de dissimu
 Un féminicide évoque de la violence conjugale, met l'accent sur la dépendance, la soumission à l'homme, plus généralement à la domination masculine. 
 Un crime passionnel évoque un amour fou, incontrolable, et réciproque. La manière dont l'assassinat de Marie Trintignant
 par Bertrand Cantat en 2003 a été relayé dans les journaux en est un exemple flagrant. C'est une idéalisation de la relation
-violente. [^1]
+violente.[^1]
 
 ### Le sens euphémisé 
 
@@ -126,11 +128,11 @@ La passion obsessive quant à elle provient d'une internalisation contrôlée et
 de s'investir dans l'activité aimée. L'hypothèse du modèle de R.J. Vallerand décrit que les individus obsessifs adaptent 
 beaucoup moins leur activité chérie à leur vie professionnelle et interpersonnelle. Ils voient toujours
 leur activité comment représentant une passion, mais leur incontrolable désir de pratiquer rentre en conflit
-avec le reste de leur vie. Ils attestent^4 d'une plus grande fréquence de conflit dans la vie perso à cause de l'activité, d'une interdépendance toxique
+avec le reste de leur vie. Ils attestent [^2] d'une plus grande fréquence de conflit dans la vie perso à cause de l'activité, d'une interdépendance toxique
 entre leur travail et eux-mêmes. Ils et elles sont indispensables dans leur travail.    
 Un exemple de passion obsessive très courant selon ce chercheur se trouve chez les infirmières. Leur
 identité personnelle est toute entière projetée dans leur profession, elles mettent souvent leurs vie personnelle
-de côté (plus gros taux de divorce dans le médical ^3), ont une image négative d'elles mêmes^2, et pour finir sont très sujettes aux burnouts.
+de côté (plus gros taux de divorce dans le médical [^3]), ont une image négative d'elles mêmes [^4], et pour finir sont très sujettes aux burnouts.
 
 
 # Conclusion
@@ -144,9 +146,9 @@ et finalement plus heureux.
 
 Le type de passion est important, pas que pour le travail, mais pour les autres champs de la vie. 
 Quelle est votre passion, de quel type est-elle ? Trouvez-vous de la sincère satisfaction dans votre travail, ou travaillez-vous pour prouvez des trucs
-aux autres ? Arrivez-vous à décrocher, ou pensez vous inlassablement aux dossiers en cours ? Est-ce vraiment raisonnable d'apprendre un framework web pendant
+aux autres ? Arrivez-vous à décrocher, ou pensez vous inlassablement aux projets en cours ? Est-ce vraiment raisonnable d'apprendre un framework web pendant
 200 heures pour le voir disparaître dans un brouillard 3 ans plus tard quand un nouveau framework l'aura immanquablement
-remplacé ? (Moi je sais que je regrette avoir passé du temps à appris Elm.)
+remplacé ? Moi je sais que je regrette avoir passé du temps à appris Elm.
 
 Peut être qu'au lieu de rechercher des collègues passionné·es et des projets passionnants, on devrait
 rechercher des équipes accueillantes où l'on peut exprimer ce qu'on aime faire, tout en sachant que 
@@ -162,8 +164,9 @@ _Terry Pratchett, la huitième couleur_
 
 [^1]: Pour plus d'informations sur le rôle social du crime passionnel, lisez l'article _L'asymetrie des comportements amoureux : violences et passions dans le crime dit passionnel_ [lien](https://www.cairn.info/revue-societes-contemporaines-2004-3-page-91.htm.)
 
-^3 https://infirmier.santelog.com/2019/10/06/couple-medecin-infirmier-des-professions-plus-a-risque-de-divorce/
 
-^2 Self-esteem and passion for activities http://www.soton.ac.uk/~crsi/Lafreniere%20Belanger%20Sedikides%20%20Vallerand%202011%20PID%20(3).pdf
+[^2]: On the Role of Passion for Work in Burnout: A Process Model https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-6494.2009.00616.x
 
-^4 https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-6494.2009.00616.x
+[^3]: https://infirmier.santelog.com/2019/10/06/couple-medecin-infirmier-des-professions-plus-a-risque-de-divorce/
+
+[^4]: Self-esteem and passion for activities http://www.soton.ac.uk/~crsi/Lafreniere%20Belanger%20Sedikides%20%20Vallerand%202011%20PID%20(3).pdf
