@@ -160,7 +160,7 @@ _Terry Pratchett, la huitième couleur_
 
 
 
-[^1] Pour plus d'informations sur le rôle social du crime passionnel, lisez l'article _L'asymetrie des comportements amoureux : violences et passions dans le crime dit passionnel_ [lien](https://www.cairn.info/revue-societes-contemporaines-2004-3-page-91.htm.)
+[^1]: Pour plus d'informations sur le rôle social du crime passionnel, lisez l'article _L'asymetrie des comportements amoureux : violences et passions dans le crime dit passionnel_ [lien](https://www.cairn.info/revue-societes-contemporaines-2004-3-page-91.htm.)
 
 ^3 https://infirmier.santelog.com/2019/10/06/couple-medecin-infirmier-des-professions-plus-a-risque-de-divorce/
 
