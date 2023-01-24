@@ -86,7 +86,7 @@ Autrement dit, on tuait par passion et la passion était une manière de dissimu
 Un féminicide évoque de la violence conjugale, met l'accent sur la dépendance, la soumission à l'homme, plus généralement à la domination masculine. 
 Un crime passionnel évoque un amour fou, incontrolable, et réciproque. La manière dont l'assassinat de Marie Trintignant
 par Bertrand Cantat en 2003 a été relayé dans les journaux en est un exemple flagrant. C'est une idéalisation de la relation
-violente.[^1]
+violente[^1].
 
 ### Le sens euphémisé 
 
