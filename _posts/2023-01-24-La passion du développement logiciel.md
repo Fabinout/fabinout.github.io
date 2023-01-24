@@ -33,7 +33,9 @@ happy to share what they know.
 
 Pour info, il y a 89 occurences du mot passion et passionate dans le livre de Sandro Mancuso.
 
-Mais la passion a d'autres sens. Son sens initial tout d'abord. 
+Mais la passion, comme de nombreux autres mots est polysémiques. Explorons ensemble l'origine du mot et ses différentes 
+définitions.
+
 
 ### La passion du christ
 
