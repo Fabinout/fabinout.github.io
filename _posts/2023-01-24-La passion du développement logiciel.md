@@ -158,12 +158,11 @@ rechercher des équipes accueillantes où l'on peut exprimer ce qu'on aime faire
 le monde ne s'arrêtera pas de tourner pendant nos vacances.
 
 
-
 > J'ai connu la passion, j'ai connu l'ennui. J'ai préféré l'ennui.     
 
 _Terry Pratchett, la huitième couleur_
 
-
+_________________________________________________________________________
 
 [^1]: Pour plus d'informations sur le rôle social du crime passionnel, lisez l'article _L'asymetrie des comportements amoureux : violences et passions dans le crime dit passionnel_ [lien](https://www.cairn.info/revue-societes-contemporaines-2004-3-page-91.htm.)
 
