@@ -129,7 +129,7 @@ désir entre en harmonie avec ses activités professionnelles ou interpersonnell
 La passion obsessive quant à elle provient d'une internalisation contrôlée et est ressentie comme un incontrolable désir
 de s'investir dans l'activité aimée. L'hypothèse du modèle de R.J. Vallerand décrit que les individus obsessifs adaptent 
 beaucoup moins leur activité chérie à leur vie professionnelle et interpersonnelle. Ils voient toujours
-leur activité comment représentant une passion, mais leur incontrolable désir de pratiquer rentre en conflit
+leur activité comment une passion, mais leur incontrolable désir de pratiquer rentre en conflit
 avec le reste de leur vie. Ils attestent [^2] d'une plus grande fréquence de conflit dans la vie perso à cause de l'activité, d'une interdépendance toxique
 entre leur travail et eux-mêmes. Ils et elles sont indispensables dans leur travail.    
 Un exemple de passion obsessive très courant selon ce chercheur se trouve chez les infirmières. Leur
