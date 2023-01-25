@@ -11,7 +11,6 @@ tags: [développement, sociologie, psychologie]
 Passion est un mot qui évoque l'amour de son travail, l'intensité, le professionalisme. On le retrouve sans surprise
 dans de nombreux livres sur le software craftsmanship.
 
-[img](../images/busy-bow-768.jpg)
 
 Quelques citations : 
 
