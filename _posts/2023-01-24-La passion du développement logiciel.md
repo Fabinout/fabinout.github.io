@@ -168,13 +168,13 @@ _Terry Pratchett, la huitième couleur_
 [^1]: Pour plus d'informations sur le rôle social du crime passionnel, lisez l'article _L'asymetrie des comportements amoureux : violences et passions dans le crime dit passionnel_ [lien](https://www.cairn.info/revue-societes-contemporaines-2004-3-page-91.htm.)
 
 
-[^2]: On the Role of Passion for Work in Burnout: A Process Model https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-6494.2009.00616.x
+[^2]: On the Role of Passion for Work in Burnout: A Process Model [https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-6494.2009.00616.x](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-6494.2009.00616.x)
 
-[^3]: https://infirmier.santelog.com/2019/10/06/couple-medecin-infirmier-des-professions-plus-a-risque-de-divorce/
+[^3]: [https://infirmier.santelog.com/2019/10/06/couple-medecin-infirmier-des-professions-plus-a-risque-de-divorce/](https://infirmier.santelog.com/2019/10/06/couple-medecin-infirmier-des-professions-plus-a-risque-de-divorce/)
 
-[^4]: Self-esteem and passion for activities http://www.soton.ac.uk/~crsi/Lafreniere%20Belanger%20Sedikides%20%20Vallerand%202011%20PID%20(3).pdf
+[^4]: Self-esteem and passion for activities [http://www.soton.ac.uk/~crsi/Lafreniere%20Belanger%20Sedikides%20%20Vallerand%202011%20PID%20(3).pdf](http://www.soton.ac.uk/~crsi/Lafreniere%20Belanger%20Sedikides%20%20Vallerand%202011%20PID%20(3).pdf)
 
-[^5]: Petite biographie : https://www.lrcs.uqam.ca/equipe/robert-j-vallerand/
+[^5]: Petite biographie : [https://www.lrcs.uqam.ca/equipe/robert-j-vallerand/](https://www.lrcs.uqam.ca/equipe/robert-j-vallerand/)
 
 [^6]: Une activité qui permet de définir un individu. Ce qui fait que quelqu'un se présente comme un dév, comme un guitariste, etc.
 
