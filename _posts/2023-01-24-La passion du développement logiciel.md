@@ -8,7 +8,7 @@ tags: [développement, sociologie, psychologie]
 
 "On recherche des développeurs passionnés !" dit l'annonce. Pour un rendez-vous galant ou un poste de dév ? 
 
-Passion est un mot qui évoque l'amour de son travail, l'intensité, le professionalisme. On le retrouve sans surprise
+Passion est un mot qui évoque l'amour de son travail, l'intensité, le professionnalisme. On le retrouve sans surprise
 dans de nombreux livres sur le software craftsmanship.
 
 
@@ -53,7 +53,7 @@ n'est pas que de l'amour pour les gens, c'est être aussi près à souffrir pour
 Au sens classique, la passion désigne tous les phénomènes dans lesquels la volonté est passive, notamment par rapport aux impulsions du corps.
 Au sens moderne, la passion est une inclination exclusive vers un objet, un état affectif durable et violent dans lequel se produit un déséquilibre psychologique (l'objet de la passion occupe excessivement l'esprit).
 
-Par exemple, pour Aristote elle désigne des égarements de jugement qui nous écartent de nos devoirs naturels. Pour Descartes elle désigne les émotions. Elles sont controlables et leurs mécanismes sont à la portée de chacun, à
+Par exemple, pour Aristote elle désigne des égarements de jugement qui nous écartent de nos devoirs naturels. Pour Descartes elle désigne les émotions. Elles sont contrôlables et leurs mécanismes sont à la portée de chacun, à
 condition d'apprendre à se connaitre. ([Les passions de l'âme](https://fr.wikipedia.org/wiki/Les_Passions_de_l%27%C3%A2me))
 
 Pour Spinoza, elle désigne une idée confuse, imaginaire et abstraite par laquelle l'esprit affirme une augmentation ou 
@@ -79,7 +79,7 @@ contrôle de soi-même dans les cas extrêmes, notamment de jalousie.
 
 Autrement dit, on tuait par passion et la passion était une manière de dissimuler l'aspect systémique des violences conjugales. 
 Un féminicide évoque de la violence conjugale, met l'accent sur la dépendance, la soumission à l'homme, plus généralement à la domination masculine. 
-Un crime passionnel évoque un amour fou, incontrolable, et réciproque. La manière dont l'assassinat de Marie Trintignant
+Un crime passionnel évoque un amour fou, incontrôlable, et réciproque. La manière dont l'assassinat de Marie Trintignant
 par Bertrand Cantat en 2003 a été relayé dans les journaux en est un exemple flagrant. C'est une idéalisation de la relation
 violente[^1].
 
@@ -91,15 +91,14 @@ violente[^1].
 _https://fr.indeed.com/_ 
 
 Il ne vous a pas échappé que le sens courant de la passion est significativement plus faible aujourd'hui. Il désigne
-maintenant un état vaguement sérieux et motivé. Un synonyme vaporeux de [professionalisme](https://blog.lamarque.tech/C'est-quoi-%C3%AAtre-professionnel/)
+maintenant un état vaguement sérieux et motivé. Un synonyme vaporeux de [professionnalisme](https://blog.lamarque.tech/C'est-quoi-%C3%AAtre-professionnel/)
 et _énergique_.
 
 Par contre il est important de remarquer que si le terme n'est pas que flou et euphémisé, il est maintenant essentiellement **positif**.
 Tout le monde veut une équipe de passionnés qui se lancent à corps perdu dans les nouvelles technologies, font de la veille technique,
 lisent des articles, ont le sens du travail bien fait, ne comptent pas leurs heures, assistent à des conférences de dév, etc.
 Compte-tenu des autres sens du mot, moi je serais plutôt _inquiet_ de travailler avec un passionné. Il risquerait de me 
-jeter par la fenêtre à la première revue de code.
-
+jeter par la fenêtre à la première revue de code.-
 Aujourd'hui tout le monde est passionné dans ses lettres de motivation. 
 Tout le monde recrute des passionné·es. Tout le monde veut des managers ultra-motivés, prêts à travailler le weekend pour rattraper le retard et répondre
 aux mails des clients. Et tout ce beau monde saute d'emploi en emploi à la recherche de l'environnement de travail
@@ -125,12 +124,12 @@ important dans une activité qu'il aime (sport, musique, code, etc.). Cette situ
 désir entre en harmonie avec ses activités professionnelles ou interpersonnelles, lui procure de la joie et une capacité
 à contrôler sa vie.  
 
-La passion obsessive quant à elle provient d'une internalisation contrôlée et est ressentie comme un incontrolable désir
+La passion obsessive quant à elle provient d'une internalisation contrôlée et est ressentie comme un incontrôlable désir
 de s'investir dans l'activité aimée. Autrement dit des forces extérieures contraignent l'individu à aimer ce qu'il fait, 
 par exemple des parents qui forcent un enfant à devenir un prodige du piano ou du foot.
 L'hypothèse du modèle de R.J. Vallerand décrit que les individus obsessifs adaptent 
 beaucoup moins leur activité chérie à leur vie professionnelle et interpersonnelle. Ils voient toujours
-leur activité comment une passion, mais leur incontrolable désir de pratiquer rentre en conflit
+leur activité comment une passion, mais leur incontrôlable désir de pratiquer rentre en conflit
 avec le reste de leur vie. Ils attestent [^2] d'une plus grande fréquence de conflit dans la vie perso à cause de l'activité, d'une interdépendance toxique
 entre leur travail et eux-mêmes. Ils et elles sont indispensables dans leur travail.    
 Un exemple de passion obsessive très courant selon ce chercheur se trouve chez les infirmières. Leur
@@ -140,16 +139,16 @@ de côté (plus gros taux de divorce dans le médical [^3]), ont une image néga
 
 # Conclusion
 
-Ne pensez pas que je cherche à vous dissuader de votre passion. Tous les grands projets ne sont ils pas
-issus de cerveaux tenaces passionnés de leur art ? Devons nous tous aspirer à devenir Linus Torvalds ?
+Ne pensez pas que je cherche à vous dissuader de votre passion. Tous les grands projets ne sont-ils pas
+issus de cerveaux tenaces passionnés de leur art ? Devons-nous tous aspirer à devenir Linus Torvalds ?
 La tenacité est-elle la plus grande des aspirations ? La recherche suggère qu'il y a différentes formes
 de tenacité et d'attachement à une activité, les passionnels obsessifs tendent à persister dans leurs
-efforts même quand il devient raisonnable d'arrêter. Les passionels harmonieux tendent à être plus flexibles
+efforts même quand il devient raisonnable d'arrêter. Les passionnels harmonieux tendent à être plus flexibles
 et finalement plus heureux. 
 
 Le type de passion est important, pas que pour le travail, mais pour les autres champs de la vie. 
 Quelle est votre passion, de quel type est-elle ? Trouvez-vous de la sincère satisfaction dans votre travail, ou travaillez-vous pour prouvez des trucs
-aux autres ? Arrivez-vous à décrocher, ou pensez vous inlassablement aux projets en cours ? Est-ce vraiment raisonnable d'apprendre un framework web pendant
+aux autres ? Arrivez-vous à décrocher, ou pensez-vous inlassablement aux projets en cours ? Est-ce vraiment raisonnable d'apprendre un framework web pendant
 200 heures pour le voir disparaître dans un brouillard 3 ans plus tard quand un nouveau framework l'aura immanquablement
 remplacé ? Moi je sais que je regrette avoir passé du temps à apprendre Elm.
 
