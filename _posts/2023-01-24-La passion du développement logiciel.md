@@ -6,7 +6,7 @@ category:
 tags: [développement, sociologie, psychologie]
 ---
 
-"On recherche des développeurs passionnés !" dit l'annonce. Pour un rendez-vous galant ou un post de dév ? 
+"On recherche des développeurs passionnés !" dit l'annonce. Pour un rendez-vous galant ou un poste de dév ? 
 
 Passion est un mot qui évoque l'amour de son travail, l'intensité, le professionalisme. On le retrouve sans surprise
 dans de nombreux livres sur le software craftsmanship.
