@@ -66,7 +66,39 @@ drastiques ont bouleversé les premiers sociologues de l'histoire.
 
 **Émile Durkheim** la rationalisation du monde et la division du travail social.
 
+À la différence de Tolkien, les sociologues prennent acte de la transformation du monde, comme l'exprime [Robert Nisbet](https://fr.wikipedia.org/wiki/Robert_Nisbet_) : 
+> Notre civilisation est urbaine, démocratique, industrielle, bureaucratique, rationalisée; c'est une civilisation à 
+> grande échelle qui est formelle, laïque et technologique [...]. Que beaucoup d'entre nous éprouvent un certain malaise,
+> une certaine perplexité et même une certaine nostalgie à voir les résultats de ces [reévolutions deémocratiques et industrielles]
+> ne change rien à la question, et même si quelques Don QUichotte essaient parfois de se battre contre des moulins à vent,
+> ces reésultats sont bien laà, et ils sont irreéversibles.
+> 
 
+# Ferdinand Tönnies et les hobbits
+
+Ferdinand Tönnies (1855-1936) étudie l'opposition entre [communauteés et sociétés](http://classiques.uqac.ca/classiques/tonnies_ferdinand/communaute_societe/communaute_soc_intro.html).
+
+> La **communauté** résulte des rapports des volontés organiques individuelles dont la source se trouve dans la vie 
+> végétative. Parmi ces rapports trois sont essentiels et déterminants : celui entre la mère et son enfant, 
+> celui entre l'homme et la femme en tant qu'époux, enfin celui entre enfants descendant d'une même mère. Ces
+> rapports sont fondés sur les tendances mêmes que Tönnies a reconnues à l'origine de la volonté organique; l'instinct
+> et le plaisir. Le rapport maternel en est le plus profond, le rapport fraternel l'est le moins parce que moins 
+> spontané et moins instinctif.
+
+> A la base de toute communauté, on retrouve donc toujours le lien du sang : la famille. A la communauté du sang 
+> s'ajoute la communauté de localité, s'exprimant dans les relations de voisinage et d'amitié. L'union résultant
+> naturellement de toutes ces relations est la compréhension qui devient dans une expression générale : la concorde
+> (concordia). Ainsi naît entre les individus vivant ensemble une communauté d'esprit qui se traduit par une même foi
+> animant toutes les branches d'une tribu.
+
+...
+
+> La **société** réunit un certain nombre d'individus, qui, comme dans la communauté, vivent les uns à côté des
+> autres, mais n'ayant entre eux aucun lien réel. Ici chacun existe pour soi, dans un état de tension vis-à-vis des 
+> autres, car chacun essaie d'interdire à ses semblables les sphères d'action qu'il considère comme les siennes. L'homme
+> y est étranger à l'homme, se dirige d'après sa volonté réfléchie et, par calcul et spéculation, ne cède quelque chose 
+> que contre réception d'une chose au moins équivalente. A la séparation des individus correspond donc aussi la 
+> séparation des biens dont la conséquence essentielle est l'échange ou la transaction.
 
 
 ---------------------------
