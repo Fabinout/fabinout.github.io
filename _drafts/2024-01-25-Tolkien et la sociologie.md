@@ -6,8 +6,7 @@ tags: [Sociologie, Histoire]
 ---
 
 Quelle tâche monumentale que de créer un monde fantastique tel celui de la Terre du Milieu, conjuguer des races
-et des classes, créer des lieux et les
-conjuguer aux évènements. Celà demande une rigueur et des compétences scientifiques dans la définition la plus fondamentale. L'effort
+et des classes, créer des lieux et des durées puis les assembler pour en faire des quêtes. Celà demande une rigueur et des compétences scientifiques dans la définition la plus fondamentale. L'effort
 rationnel de connaître, comprendre et représenter la réalité naturelle. Car s'il est facile de rêver d'un monde
 fictif, il est infiniment plus dur de lui donner une [diégèse](https://fr.wikipedia.org/wiki/Di%C3%A9g%C3%A8se) cohérente, 
 c'est-à-dire d'y mettre en place un système de règles qui rendent le monde logique et ses acteurs rationnels. 
@@ -69,6 +68,8 @@ drastiques ont bouleversé les premiers sociologues de l'histoire.
 
 
 
+
+---------------------------
 
 Cet article a été fortement inspiré par la lecture de Tolkien et les Sciences, aux éditions Belin: https://www.mollat.com/livres/2364638/tolkien-et-les-sciences
 
