@@ -69,14 +69,14 @@ drastiques ont bouleversé les premiers sociologues de l'histoire.
 À la différence de Tolkien, les sociologues prennent acte de la transformation du monde, comme l'exprime [Robert Nisbet](https://fr.wikipedia.org/wiki/Robert_Nisbet_) : 
 > Notre civilisation est urbaine, démocratique, industrielle, bureaucratique, rationalisée; c'est une civilisation à 
 > grande échelle qui est formelle, laïque et technologique [...]. Que beaucoup d'entre nous éprouvent un certain malaise,
-> une certaine perplexité et même une certaine nostalgie à voir les résultats de ces [reévolutions deémocratiques et industrielles]
+> une certaine perplexité et même une certaine nostalgie à voir les résultats de ces [révolutions démocratiques et industrielles]
 > ne change rien à la question, et même si quelques Don QUichotte essaient parfois de se battre contre des moulins à vent,
-> ces reésultats sont bien laà, et ils sont irreéversibles.
+> ces résultats sont bien laà, et ils sont irréversibles.
 > 
 
 # Ferdinand Tönnies et les hobbits
 
-Ferdinand Tönnies (1855-1936) étudie l'opposition entre [communauteés et sociétés](http://classiques.uqac.ca/classiques/tonnies_ferdinand/communaute_societe/communaute_soc_intro.html).
+Ferdinand Tönnies (1855-1936) étudie l'opposition entre [communautés et sociétés](http://classiques.uqac.ca/classiques/tonnies_ferdinand/communaute_societe/communaute_soc_intro.html).
 
 > La **communauté** résulte des rapports des volontés organiques individuelles dont la source se trouve dans la vie 
 > végétative. Parmi ces rapports trois sont essentiels et déterminants : celui entre la mère et son enfant, 
@@ -100,6 +100,70 @@ Ferdinand Tönnies (1855-1936) étudie l'opposition entre [communauteés et soci
 > que contre réception d'une chose au moins équivalente. A la séparation des individus correspond donc aussi la 
 > séparation des biens dont la conséquence essentielle est l'échange ou la transaction.
 
+Pour Tönnies, tout rassemblement humain se doit d'inclure les deux formes de lien social. 
+
+### Le lien communautaire
+
+Le lien communautaire est typiquement le lien de voisinage, d'amitié ou de famille.
+
+C'est ce qui unit les individus par la profondeur et la chaleur de leurs sentiments, la reconnaissance de 
+sentiments réciproque liés à l'habitude ou la coutume. Dans la France du 18ème siècle, on imagine bien que dans un
+village, les habitants ont leurs coutumes, leurs patois, ils vont dans la même église, et entendent la même cloche en fonte
+depuis leur naissance qui guide et rythme le quotidien de l'ensemble du village, ainsi que les fetes, les mariages et les enterrements 
+(si l'exemple des cloches vous intéresse je vous suggère cet essai historique : [Les cloches de la terre](https://www.mollat.com/livres/2676730/alain-corbin-les-cloches-de-la-terre-paysage-sonore-et-culture-sensible-dans-les-campagnes-au-xixe-siecle),
+d'Alain Corbin).
+
+### Le lien sociétaire
+
+C'est l'ensemble des contrats synallagmatiques (obligeant les deux parties d'un contrat) et des transactions qui sont
+généralement fondeées sur le raisonnement et le calcul. L'entreprise est l'organisation se rapprochant le plus de ce 
+caractère sociétaire, et la ville en est le cadre principal.
+
+Ces liens sont typiquement choisis, vous choisissez de signer un contrat de travail par exemple, vous choisissez de faire une 
+transaction avec quelqu'un alors que vous ne choisissez pas vos parents ni le village où vous êtes nés.
+
+## Tonnies et Tolkien
+
+> La communauté se meurt, la société tarde à apparaître et dans ce clair-obscur surgissent les Uruk Hai.
+
+*AnTonnies Gramsci*
+
+Lorsque Tonnies étudie l'Angleterre et l'industrialisation il constate rapidement que les rapports communautaires
+ont tendance à disparaitre au profit des rapports sociétaires. Il continue en constatant la monteée de l'individualisme
+ce qui selon lui mènera l'humanité à sa perte. La situation climatique actuelle semble lui donner raison.
+
+On l'a dit, John Ronald Reuel Tolkien était un conservateur, nostalgique de la vie rurale anglaise et fervent
+défenseur de la nature. Le chapitre 1 du livre 1 ("des Hobbits") du Seigneur des Anneaux est rempli à ras-bord d'exemples de communautés 
+quand il décrit les Hobbits, leurs traditions et leurs clans.
+
+> Les Hobbits sont un peuple effacé mais très ancien, qui fut plus nombreux dans l'ancien temps que de nos
+jours, car ils aiment la paix, la tranquillité et une terre bien cultivée: une campagne bien ordonnée et bien mise en
+valeur était leur retraite favorite. Ils ne comprennent ni ne comprenaient, et ils n'aiment pas davantage les machines
+dont la complication dépasse celle d'un soufflet de forge, d'un moulin à eau ou d'un métier à tisser manuel, encore
+qu'ils fussent habiles au maniement des outils.
+
+On voit qu'en plus de coller à l'idéal rural de Tolkien, les hobbits ont une répulsion pour la modernité et les machines,
+à l'image du [Luddisme](https://fr.wikipedia.org/wiki/Luddisme) qui était un mouvement anglais ouvrier fortement anti-machine. 
+
+> Les maisons et les trous des Hobbits de la Comté étaient souvent vastes et habités par des familles
+nombreuses. (Bilbo et Frodo Baggins, célibataires, étaient très exceptionnels, comme en bien d'autres matières, par
+exemple leur amitié avec les Elfes.). Parfois, comme dans le cas des Touques des Grands Smials ou des
+Brandebouc de Château-Brande, de nombreuses générations de parents vivaient ensemble en paix (relative) dans
+une seule demeure ancestrale à nombreuses galeries. **Les Hobbits étaient tous, et dans tous les cas, attachés aux
+clans, et ils tenaient un compte extrêmement soigneux de leurs parentés. Ils dressaient des arbres généalogiques
+longs et compliqués, aux branches innombrables**. Quand on a affaire aux Hobbits, il est important de se rappeler qui
+est parent de qui, et à quel degré. II serait impossible de donner dans ce livre un arbre généalogique qui ne
+comprenne même que les membres les plus importants des principales familles à l'époque où se déroule le présent
+récit.
+
+Le lien familial est le plus fort de tous les liens, au point même que les Hobbits développent une certaine 
+xénophobie, littéralement la peur de l'étranger. *Et en même temps, l'étranger c'est soit Gandalf qui amène le bazar, soit des nains bruyants, soit 
+des orques (à la fin du livre 3 du Seigneur des Anneaux, pas dans le film). On comprend la méfiance*.
+
+> Même dans l'ancien temps, ils se méfiaient des «Grandes Gens»,
+comme ils nous appellent, et à présent où ils nous évitent avec effroi
+
+La Comté n'est finalement qu'une petite bourgade comptant 12 douzaines de Hobbits (~140 habitants), on est vraiment à l'échelle d'un village. 
 
 ---------------------------
 
