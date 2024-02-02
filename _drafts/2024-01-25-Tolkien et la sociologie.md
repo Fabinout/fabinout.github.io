@@ -175,6 +175,12 @@ Et pour finir, la Comté n'est finalement qu'une petite bourgade comptant 12 dou
 Tolkien décrit ici sans doute un mode de vie auquel il aspire, à l'image de l'Angleterre qu'il voit disparaître. Mais le 
 changement dans la Terre du Milieu viendra de deux sources : l'individu différent et le monde extérieur.
 
+## Émile Durkheim et l'individu différent
+
+Durkheim est un sociologue français de la fin du 19ème siècle qui considère 
+
+
+
 ---------------------------
 
 Cet article a été fortement inspiré par la lecture de Tolkien et les Sciences, aux éditions Belin: https://www.mollat.com/livres/2364638/tolkien-et-les-sciences
