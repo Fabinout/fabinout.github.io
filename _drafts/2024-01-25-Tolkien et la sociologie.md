@@ -14,6 +14,10 @@ c'est-à-dire d'y mettre en place un système de règles qui rendent le monde lo
 Dans ce contexte-là, j'aimerais me pencher sur les aspects sociologiques de l'œuvre de Tolkien, la manière dont il 
 représente les communautés, les races et les conflits.  
 
+
+*Il va sans dire que je spoile largement l'histoire du Seigneur des Anneaux et de Bilbo, attention donc si vous n'avez pas encore vu les films ou 
+lu les livres*
+
 # Biographie
 John Ronald Reuel Tolkien (ou JRR Tolkien) est [philologue](https://fr.wikipedia.org/wiki/Philologie), écrivain, 
 professeur de littérature à Oxford et Papa. Il est né en 1892 en Afrique du sud, rentre 3 ans après en Angleterre où il 
@@ -156,14 +160,20 @@ est parent de qui, et à quel degré. II serait impossible de donner dans ce liv
 comprenne même que les membres les plus importants des principales familles à l'époque où se déroule le présent
 récit.
 
-Le lien familial est le plus fort de tous les liens, au point même que les Hobbits développent une certaine 
-xénophobie, littéralement la peur de l'étranger. *Et en même temps, l'étranger c'est soit Gandalf qui amène le bazar, soit des nains bruyants, soit 
-des orques (à la fin du livre 3 du Seigneur des Anneaux, pas dans le film). On comprend la méfiance*.
-
 > Même dans l'ancien temps, ils se méfiaient des «Grandes Gens»,
 comme ils nous appellent, et à présent où ils nous évitent avec effroi
 
-La Comté n'est finalement qu'une petite bourgade comptant 12 douzaines de Hobbits (~140 habitants), on est vraiment à l'échelle d'un village. 
+Le lien familial est le plus fort de tous les liens, au point même que les Hobbits développent une certaine 
+xénophobie, littéralement la peur de l'étranger. *Et en même temps, l'étranger c'est soit Gandalf qui amène le bazar, soit des nains bruyants, soit 
+des orques (à la fin du livre 3 du Seigneur des Anneaux, pas dans le film). On comprend la méfiance*. 
+
+Ensuite, les hobbits n'aiment pas le savoir en tant que tel, ni l'inconnu qu'il représente, il ne s'intéresse qu'au savoir qui concerne
+directement leur clan, c'est-à-dire la généalogie.
+
+Et pour finir, la Comté n'est finalement qu'une petite bourgade comptant 12 douzaines de Hobbits (~140 habitants), on est vraiment à l'échelle d'un village. 
+
+Tolkien décrit ici sans doute un mode de vie auquel il aspire, à l'image de l'Angleterre qu'il voit disparaître. Mais le 
+changement dans la Terre du Milieu viendra de deux sources : l'individu différent et le monde extérieur.
 
 ---------------------------
 
