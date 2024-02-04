@@ -175,9 +175,138 @@ Et pour finir, la Comté n'est finalement qu'une petite bourgade comptant 12 dou
 Tolkien décrit ici sans doute un mode de vie auquel il aspire, à l'image de l'Angleterre qu'il voit disparaître. Mais le 
 changement dans la Terre du Milieu viendra de deux sources : l'individu différent et le monde extérieur.
 
-## Émile Durkheim et l'individu différent
+## Émile Durkheim, l'individu différent et l'irruption du changement
 
-Durkheim est un sociologue français de la fin du 19ème siècle qui considère 
+Durkheim est un sociologue français de la fin du 19ème siècle qui considère, dans la [Division du travail social](http://classiques.uqac.ca/classiques/Durkheim_emile/division_du_travail/division_travail_1.pdf),
+que la cohésion d'un collectif repose sur la conformité des individus à un modèle collectif.
+
+> [...] il y a une cohésion sociale dont la cause est dans
+une certaine conformité de toutes les consciences particulières à un type
+commun qui n'est autre que le type psychique de la société. Dans ces
+conditions, en effet, non seulement tous les membres du groupe sont
+individuellement attirés les uns vers les autres parce qu'ils se ressemblent,
+mais ils sont attachés aussi à ce qui est la condition d'existence de ce type
+collectif, c'est-à-dire à la société qu'ils forment par leur réunion. Non
+seulement les citoyens s'aiment et se recherchent entre eux de préférence
+aux étrangers, mais ils aiment leur patrie.
+
+_Émile Durkheim (1893), De la division du travail social : Livre I, page 102_
+
+Dit autrement, celui qui est différent est ressenti comme un danger pour le groupe et sera rejeté. Bilbo en est un bon
+exemple: il est l'ami d'elfes, des nains et des magiciens. Sa réputation est mauvaise et les Hobbits de sa propre famille se méfient de lui.
+
+Celui qui est différent, anti-conformiste ou divergent est immédiatement rejeté par le groupe. 
+
+> [...] plus les croyances et les pratiques sont définies, moins elles laissent de
+place aux divergences individuelles. Ce sont des moules uniformes dans
+lesquels nous coulons tous uniformément nos idées et nos actions [...]. _Émile 
+> Durkheim (1893), De la division du travail social : Livre I, page 141_
+
+
+Tolkien insiste lourdement sur l'anormalité de Bilbo et Frodon, ce sont eux les individus qui amènent le changement.
+
+> Les maisons et les trous des Hobbits de la Comté étaient souvent vastes et habités par des familles
+nombreuses. (Bilbo et Frodo Baggins, célibataires, étaient très exceptionnels, comme en bien d'autres matières, par
+exemple leur amitié avec les Elfes.). (_Le Seigneur des anneaux, Livre I, page 6_)  
+
+### Dans Bilbo le Hobbit 
+
+Le départ de Bilbo est caractéristique du début de l'association volontaire et contractuelle entre membres d'une société.
+Son accord avec les nains et Gandalf n'est pas basé sur des croyances mutuelles mais sur des intérêts convergents. 
+
+Gandalf affiche au début du livre sur la porte de Bilbo : 
+
+> Cambrioleur désire bon boulot, comportant sensations fortes et rémunération raisonnable,
+
+Un magicien qui écrit la lettre de motivation et le CV de son ami pour lui trouver une mission, on est quasiment dans
+la caricature de la Société de Service en 2024. À laquelle Thorin le nain répond : 
+
+> Thorïn et Cie au Cambrioleur Bilbo, salut ! Nos plus sincères remerciements pour votre hospitalité,
+et notre reconnaissante acceptation de votre offre d’assistance technique. Conditions : paiement à la
+livraison, jusqu’à concurrence d’un quatorzième des bénéfices totaux (s’il y en a), tous frais de voyage
+garantis en tout état de cause ; frais d’enterrement à notre charge ou à celle de nos représentants s’il y a
+lieu et si la question n’est pas réglée autrement. Jugeant inutile de déranger votre repos estimé, nous sommes partis en avant pour faire les préparatifs
+requis, et nous attendrons votre personne respectée à l’auberge du Dragon Vert, Près de l’Eau, à onze
+heures précises. 
+> 
+> Comptant sur votre ponctualité, Nous avons l’honneur d’être vos profondément dévoués,
+> Thorïn et Cie.
+
+Deux choses à constater ici : le "Thorïn et Cie" nous renvoie aux compagnies commerciales, et pour aller plus loin le titre "The fellowship of
+the ring" a d'ailleurs déjà été traduit par "La compagnie de l'anneau". 
+Ensuite le contrat mentionne la rémunération et les obligations sans mentionner ni valeurs ni croyances, on est bien
+dans un contrat bilatéral, qui est le fondement de la société selon Tonnies.  
+
+### Dans Le Seigneur des Anneaux 
+
+Ici, l'évènement perturbateur du récit vient aussi de l'apparition d'étrangers (Gandalf, puis les nazguls) dans 
+la communauté, puis à l'union des races pour sauver le monde : 1 magicien, 1 elfe, 1 nain, 2 hommes et 4 hobbits. Ce
+n'est donc pas une association commerciale, mais elle est volontaire et transfontalière. Cette communauté (qui n'en est pas vraiment 
+une au sens de Tonnies) sera l'initiatrice de gros changements de sociétés, des amitiés entre communautés rivales, des alliances,
+un mariage de l'homme Aragorn avec la femme Arwen, etc.
+
+Ce sera aussi l'occasion de créer une nation au sens d'[Ernest Renan](https://fr.wikipedia.org/wiki/Qu%27est-ce_qu%27une_nation_%3F) dans 
+sa conférence Qu'est-ce qu'une nation ?
+
+> L’homme, messieurs, ne s’improvise pas. 
+> La **nation**, comme l’individu, est l’aboutissant d’un long passé d’efforts, de sacrifices et de dévouements. 
+> Le culte des ancêtres est de tous le plus légitime ; les ancêtres nous ont faits ce que nous sommes.
+> Un passé héroïque, des grands hommes, de la gloire (j’entends de la véritable), voilà le capital social sur
+> lequel on assied une idée nationale. Avoir des gloires communes dans la passé, une volonté commune dans le
+> présent ; avoir fait de grandes choses ensemble, vouloir en faire encore, voilà les conditions essentielles pour 
+> être un peuple. On aime en proportion des sacrifices qu’on a consentis, des maux qu’on a soufferts. On aime
+> la maison qu’on a bâtie et qu’on transmet.
+
+Ce qui se joue dans Le Seigneur des Anneaux, c'est la guerre contre le Mordor, et par la même occasion la création 
+d'une direction commune, d'une union entre tous les peuples de toutes les races.
+
+Le fait qu'à la fin du roman, les vieilles races proches de la nature et de leur environnement (les elfes et les nains) 
+commencent à disparaître pour laisser leur place à la race des hommes qui sont les plus facilement corruptibles par Sauron
+est encore un exemple de ce qui se joue dans le récit pour Tolkien. La fin progressive des communautés, et l'avènement 
+des sociétés.
+
+
+## La peur de l'étranger
+
+Un individu proprement effrayant du moyen-age français est l'étranger, le vagabond, l'errant. En France à l'époque, le vagabond
+est haï, on ne sait pas d'où il vient, on questionne sa moralité, sa croyance, sa parole.
+Son statut de vagabond est très sévèrement puni, et c'est souvent un modif d'emprisonnement. 
+
+> [...] ainsi un témoignage est annulé s'il vient d'un vagabond; il est renforcé au contraire s'il s'agit « d'une personne
+considérable. _Michel Foucault. Surveiller et punir_
+
+Foucault cite ensuite Le Trosne qui écrit un mémoire sur le vagabondage en 1764 : 
+
+> [Le vagabondage est une] pépinière de voleurs et d'assassins qui vivent au milieu de la société sans en être
+membres, qui mènent une véritable guerre à tous les citoyens,
+et qui sont au milieu de nous dans cet état que l'on suppose avoir eu lieu avant l'établissement de la société civile.
+
+Dans une communauté l'étranger est détesté car il est l'instigateur du changement, celui par qui la cohésion s'effrite. 
+
+Tolkien définit la Comté en partie par sa xénophobie, sa crainte des "rôdeurs", et sa méfiance des vagabonds : 
+
+> A l'époque où commence ce récit, le nombre des Frontaliers, comme on les appelait, s'était grandement
+accru. On parlait beaucoup, pour s'en plaindre, de personnes et de créatures étranges qui rôdaient le long des
+frontières ou les passaient: premier signe que tout n'était pas tout à fait dans l'ordre, comme ce l'avait toujours été,
+sinon dans les contes et légendes du temps jadis.
+
+> [Frodon] se mit à vagabonder de plus en plus loin et le plus souvent seul, et Merry et ses autres amis l'observaient avec inquiétude.
+On le voyait souvent marcher en parlant avec les voyageurs étrangers qui commençaient à cette époque d'apparaître
+dans la Comté.
+
+
+# Gandalf, l'ethnologue
+
+On pourrait penser que les étrangers dangereux aux abords du village soient des orcs en maraude, mais ce ne sont souvent que d'honnêtes nains 
+en voyage. Le personnage qui représente le plus le vagabond qui vient _mettre le zbeul dans la Comté_, c'est sûrement Gandalf. Ce dernier
+lancera tous nos personnages dans des aventures qui les amèneront à comprendre les étrangers, donneront du sens à 
+leurs modes de vie et leurs cultures.
+
+Il se joue alors la même chose qu'en Europe colonialiste entre le 19ème siècle et le 20ème siècle. Les nations étrangères n'étaient
+qu'une cible de la haine, de la peur. Un territoire lointain n'était vu que par le prisme de l'intérêt qu'il avait à être 
+envahi, il serait au choix une source de main-d'œuvre, de matières premières ou de croyants.
+À tout ça se substitue durant le 20ème siècle une quête de connaissance, et l'avènement des métiers d'anthropologue, d'ethnologue et de sociologue
+dont la mission est de faire science des différences culturelles.
 
 
 
