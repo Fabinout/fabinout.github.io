@@ -37,7 +37,7 @@ n'en réprouve pas moins les réformes du concile Vatican II. Et s'il est nation
 le Royaume-uni et encore moins le CommonWealth et il n'hésite pas à fustiger la propagande nationale durant la 
 seconde guerre mondiale. Il est anti-impérialiste, contre l'industrialisation, contre le stalinisme, contre le nazisme,
 et contre les voitures.
-Seule la nature trouve grâce à ses yeux, les messes en latin et ses souvenirs d'une angleterre de la fin du 19ème siècle.
+Seule la nature trouve grâce à ses yeux, ainsi que les messes en latin et ses souvenirs d'une angleterre de la fin du 19ème siècle.
 
 
 # Tolkien et la perte d'un monde
