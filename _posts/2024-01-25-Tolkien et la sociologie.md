@@ -34,7 +34,7 @@ deviendra un succès critique et commercial. Suite à cela, Tolkien se lance dan
 # Opinions 
 Tolkien est très catholique, conservateur et nationaliste. Mais ses idées sont fortement nuancées, s'il est catholique il
 n'en réprouve pas moins les réformes du concile Vatican II. Et s'il est nationaliste, il aime l'angleterre et non pas
-le Royaume-uni et encore moins le CommonWealth et il n'hésite pas aà fustiger la propagande nationale durant la 
+le Royaume-uni et encore moins le CommonWealth et il n'hésite pas à fustiger la propagande nationale durant la 
 seconde guerre mondiale. Il est anti-impérialiste, contre l'industrialisation, contre le stalinisme, contre le nazisme,
 et contre les voitures.
 Seule la nature trouve grâce à ses yeux, les messes en latin et ses souvenirs d'une angleterre de la fin du 19ème siècle.
@@ -75,7 +75,7 @@ drastiques ont bouleversé les premiers sociologues de l'histoire.
 > grande échelle qui est formelle, laïque et technologique [...]. Que beaucoup d'entre nous éprouvent un certain malaise,
 > une certaine perplexité et même une certaine nostalgie à voir les résultats de ces [révolutions démocratiques et industrielles]
 > ne change rien à la question, et même si quelques Don QUichotte essaient parfois de se battre contre des moulins à vent,
-> ces résultats sont bien laà, et ils sont irréversibles.
+> ces résultats sont bien là, et ils sont irréversibles.
 > 
 
 # Ferdinand Tönnies et les hobbits
