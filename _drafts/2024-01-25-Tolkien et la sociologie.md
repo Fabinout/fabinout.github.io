@@ -283,6 +283,18 @@ et qui sont au milieu de nous dans cet état que l'on suppose avoir eu lieu avan
 
 Dans une communauté l'étranger est détesté car il est l'instigateur du changement, celui par qui la cohésion s'effrite. 
 
+Sur la criminalisation de l'errance, lire [Mendiants, vagabonds et la contagion du crime en France: des représentations aux réalités sociales](https://journals.openedition.org/criminocorpus/12005) d'Antony Kitts.
+
+> Depuis le Moyen Âge, les figures de la pauvreté et de la marginalité ont suscité des réactions ambivalentes au sein 
+> d’une société française, tiraillée en permanence entre la compassion et la peur. 
+> Le long XIXe siècle n’échappe pas à ces sentiments pleins de préjugés à l’encontre du mendiant et du vagabond, prenant
+> une dimension sans précédente dans les années 1880-1890 au moment où se pose avec acuité la question de la récidive. Face 
+> à cette « armée du crime », des experts en tous genres – aliénistes, médecins, psychiatres, criminologues, 
+> magistrats, policiers et journalistes – se sont emparés de cette question sociale brûlante dans un climat 
+> d’insécurité et de psychose collective. Ils les accusent ainsi de tous les maux et de toutes les plaies
+> (maladies contagieuses, petite délinquance, vol, prostitution, etc.) pour expliquer les raisons pour lesquelles
+> ils se complaisent dans cet état asocial, les plaçant en dehors des normes sociales dominantes.
+
 Tolkien définit la Comté en partie par sa xénophobie, sa crainte des "rôdeurs", et sa méfiance des vagabonds : 
 
 > A l'époque où commence ce récit, le nombre des Frontaliers, comme on les appelait, s'était grandement
@@ -294,6 +306,7 @@ sinon dans les contes et légendes du temps jadis.
 On le voyait souvent marcher en parlant avec les voyageurs étrangers qui commençaient à cette époque d'apparaître
 dans la Comté.
 
+Comme en France au Moyen-Age, la Comté craint ses rodeurs et ses vagabonds. Ses pauvres quoi.
 
 # Gandalf, l'ethnologue
 
@@ -309,9 +322,6 @@ envahi, il serait au choix une source de main-d'œuvre, de matières premières 
 dont la mission est de faire science des différences culturelles.
 
 
-
 ---------------------------
 
 Cet article a été fortement inspiré par la lecture de Tolkien et les Sciences, aux éditions Belin: https://www.mollat.com/livres/2364638/tolkien-et-les-sciences
-
-
