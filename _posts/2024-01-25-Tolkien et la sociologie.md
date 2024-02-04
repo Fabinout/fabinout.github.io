@@ -324,4 +324,4 @@ dont la mission est de faire science des différences culturelles.
 
 ---------------------------
 
-Cet article a été fortement inspiré par la lecture de Tolkien et les Sciences, aux éditions Belin: [https://www.mollat.com/livres/2364638/tolkien-et-les-sciences]
+Cet article a été fortement inspiré par la lecture de Tolkien et les Sciences, aux éditions Belin [Lien Mollat](https://www.mollat.com/livres/2364638/tolkien-et-les-sciences)
