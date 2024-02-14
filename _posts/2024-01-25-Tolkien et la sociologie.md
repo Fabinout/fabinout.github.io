@@ -165,12 +165,13 @@ comme ils nous appellent, et à présent où ils nous évitent avec effroi
 
 Le lien familial est le plus fort de tous les liens, au point même que les Hobbits développent une certaine 
 xénophobie, littéralement la peur de l'étranger. *Et en même temps, l'étranger c'est soit Gandalf qui amène le bazar, soit des nains bruyants, soit 
-des orques (à la fin du livre 3 du Seigneur des Anneaux, pas dans le film). On comprend la méfiance*. 
+des orques (à la fin du livre 3 du Seigneur des Anneaux, pas dans le film). On comprend la méfiance*.
+Pour son anniversaire, Bilbo invite sa famille proche et directe, soit 12 douzaines de Hobbits (144), les 
+familles sont nombreuses et géographiquement proches.
 
 Ensuite, les hobbits n'aiment pas le savoir en tant que tel, ni l'inconnu qu'il représente, il ne s'intéresse qu'au savoir qui concerne
 directement leur clan, c'est-à-dire la généalogie.
 
-Et pour finir, la Comté n'est finalement qu'une petite bourgade comptant 12 douzaines de Hobbits (~140 habitants), on est vraiment à l'échelle d'un village. 
 
 Tolkien décrit ici sans doute un mode de vie auquel il aspire, à l'image de l'Angleterre qu'il voit disparaître. Mais le 
 changement dans la Terre du Milieu viendra de deux sources : l'individu différent et le monde extérieur.
