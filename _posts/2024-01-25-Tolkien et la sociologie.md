@@ -11,9 +11,8 @@ rationnel de connaître, comprendre et représenter la réalité naturelle. Car 
 fictif, il est infiniment plus dur de lui donner une [diégèse](https://fr.wikipedia.org/wiki/Di%C3%A9g%C3%A8se) cohérente, 
 c'est-à-dire d'y mettre en place un système de règles qui rendent le monde logique et ses acteurs rationnels. 
 
-Dans ce contexte-là, j'aimerais me pencher sur les aspects sociologiques de l'œuvre de Tolkien, la manière dont il 
-représente les communautés, les races et les conflits.  
-
+**J'aimerais vous présenter des concepts de sociologie et utiliser la Terre du Milieu pour illustrer
+ces idées.**
 
 *Il va sans dire que je spoile largement l'histoire du Seigneur des Anneaux et de Bilbo, attention donc si vous n'avez pas encore vu les films ou 
 lu les livres*
@@ -66,7 +65,7 @@ drastiques ont bouleversé les premiers sociologues de l'histoire.
 
 **Karl Marx** y a analysé les rapports de production, les rapports de domination et les classes sociales,
 
-**Max Weber** l'objectivation du monde et son [désenchantement](https://fr.wikipedia.org/wiki/D%C3%A9senchantement_du_monde),
+**Max Weber** l'autorité, l'objectivation du monde et son [désenchantement](https://fr.wikipedia.org/wiki/D%C3%A9senchantement_du_monde),
 
 **Émile Durkheim** la rationalisation du monde et la division du travail social.
 
@@ -76,7 +75,49 @@ drastiques ont bouleversé les premiers sociologues de l'histoire.
 > une certaine perplexité et même une certaine nostalgie à voir les résultats de ces [révolutions démocratiques et industrielles]
 > ne change rien à la question, et même si quelques Don QUichotte essaient parfois de se battre contre des moulins à vent,
 > ces résultats sont bien là, et ils sont irréversibles.
-> 
+
+
+# Les classes sociales marxistes, les types d'autorité selon Max Weber, et les systèmes politiques de la Terre du Milieu
+
+Les classes sociales selon Marx, c'est quand s'établissent de grands groupes sociaux qui sont pris dans une hiérarchie 
+de fait et non de droit. C'est à dire quand il y a des groupes dominants tacites, et donc des groupes dominés qui ont 
+pourtant les mêmes droits que les dominants. Selon cette définition des classes sociales, il n'y avait donc
+pas de classes sociales jusqu'à la révolution française, le tiers-état était un groupe dominé de droit.
+
+
+Max Weber distingue 3 types de pouvoir :
+
+* Traditionnel : Le pouvoir s’exerce selon la coutume de l’organisation, selon les traditions.
+  * Pouvoir traditionnel : Pas de remise en cause du pouvoir traditionnel dans la mesure où il fonctionnait jusque-là et qu’il n’y a pas de crise (du système notamment). Même en situation de crise, le système de remise en cause ne se met pas en route car le personnel (ou même les managers) n’ont pas les compétences de trouver une meilleure alternative, d’où la légitimité de la coutume. Le changement est difficile dans ce cas, car il rencontre des oppositions. La coutume et/ou la tradition elles-mêmes définissent les limites du pouvoir traditionnel.
+* Charismatique : Le pouvoir s’appuie sur les qualités personnelles du leader (il a tendance à s’affaiblir dans la durée).
+  * Pouvoir charismatique : Le pouvoir charismatique tient sa légitimité dans la capacité à convaincre du leader. Le leader exerce son pouvoir de manière quasi-divine (il a généralement des qualités supérieures à la normale). Il peut s’en servir pour ultérieurement acquérir la légitimité légale (comme le firent Napoléon, Charles de Gaulle, etc). L’étendue du pouvoir charismatique dépend de l’influence exercée par le leader.
+* Rationnel légal (bureaucratie) : Des règles écrites fixent et encadrent l’exercice du pouvoir.
+  * Pouvoir rationnel légal : Ce sont des experts qui se sont consacrés à la réflexion du pouvoir, les individus se soumettent à leur réflexion et l’acceptent.
+
+[source](https://open.lib.umn.edu/sociology/chapter/14-1-power-and-authority/) 
+
+
+La Comté est un espace de paysans libres et égaux, sans classe sociale, sans aristocratie, quasiment sans misère. 
+Il y a un représentant du peuple, [le Maire de la Comté](https://lotr.fandom.com/wiki/Mayor_of_Michel_Delving), 
+mais son rôle est très symbolique, il préside durant les banquets et est choisi durant la grande Foire de l'été pour
+un mandat de 7 ans. Il y a aussi des [Shirriffs](https://lotr.fandom.com/wiki/Shirriffs) qui pourraient se rapprocher des instances de contrôle social traditionnelles,
+mais leurs responsabilités sont en fait plus proches de celles des gardes-champêtres, ils passent leur temps à retrouver
+les animaux de ferme égarés et à boire de la bière. En d'autres termes, la Comté est une **anarchie**, il n'y a pas 
+d'autorité.
+
+Le monde des hommes est lui très féodal, mais toujours sans classe sociale. Il y a plusieurs royaumes, des 
+armées et un peuple qui travaille la terre. C'est une **monarchie non constitutionnelle**. Selon Max Weber c'est un 
+pouvoir traditionnel. 
+
+Le Mordor incarne le pouvoir hiérarchique et charismatique, l'obéissance aveugle à un chef qui donne 
+la direction à tout un peuple (*fuhrer* en Allemand).
+
+Finalement Gandalf et son expertise technique qui est la magie et sa connaissance du monde incarne le pouvoir rationnel légal
+dans la communauté de l'anneau.
+
+Ces structures représentent bien les opinions conservatrice de JRR Tolkien, son idéal est plus proche de l'anarchie ou 
+de la monarchie non-constitutionnelle. Ces structures sont malgré tout une image d'Épinal, la vie rurale médiévale était
+autrement plus dure, injuste que la description qu'il en fait.
 
 # Ferdinand Tönnies et les hobbits
 
@@ -120,7 +161,7 @@ d'Alain Corbin).
 ### Le lien sociétaire
 
 C'est l'ensemble des contrats synallagmatiques (obligeant les deux parties d'un contrat) et des transactions qui sont
-généralement fondeées sur le raisonnement et le calcul. L'entreprise est l'organisation se rapprochant le plus de ce 
+généralement fondées sur le raisonnement et le calcul. L'entreprise est l'organisation se rapprochant le plus de ce 
 caractère sociétaire, et la ville en est le cadre principal.
 
 Ces liens sont typiquement choisis, vous choisissez de signer un contrat de travail par exemple, vous choisissez de faire une 
@@ -133,7 +174,7 @@ transaction avec quelqu'un alors que vous ne choisissez pas vos parents ni le vi
 *AnTonnies Gramsci*
 
 Lorsque Tonnies étudie l'Angleterre et l'industrialisation il constate rapidement que les rapports communautaires
-ont tendance à disparaitre au profit des rapports sociétaires. Il continue en constatant la monteée de l'individualisme
+ont tendance à disparaitre au profit des rapports sociétaires. Il continue en constatant la montéee de l'individualisme
 ce qui selon lui mènera l'humanité à sa perte. La situation climatique actuelle semble lui donner raison.
 
 On l'a dit, John Ronald Reuel Tolkien était un conservateur, nostalgique de la vie rurale anglaise et fervent
