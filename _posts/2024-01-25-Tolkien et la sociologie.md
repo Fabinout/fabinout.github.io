@@ -31,7 +31,7 @@ deviendra un succès critique et commercial. Suite à cela, Tolkien se lance dan
 édité en 1954 et lui permettra de vivre confortablement jusqu'à sa mort en 1973.
 
 # Opinions 
-Tolkien est très catholique, conservateur et nationaliste. Mais ses idées sont fortement nuancées, s'il est catholique il
+Tolkien est très catholique, conservateur et nationaliste. Mais ses idées ne sont pas caricaturales, s'il est catholique il
 n'en réprouve pas moins les réformes du concile Vatican II. Et s'il est nationaliste, il aime l'angleterre et non pas
 le Royaume-uni et encore moins le CommonWealth et il n'hésite pas à fustiger la propagande nationale durant la 
 seconde guerre mondiale. Il est anti-impérialiste, contre l'industrialisation, contre le stalinisme, contre le nazisme,
@@ -67,37 +67,45 @@ drastiques ont bouleversé les premiers sociologues de l'histoire.
 
 **Max Weber** l'autorité, l'objectivation du monde et son [désenchantement](https://fr.wikipedia.org/wiki/D%C3%A9senchantement_du_monde),
 
-**Émile Durkheim** la rationalisation du monde et la division du travail social.
+**Émile Durkheim** la rationalisation du monde et la division du travail social,
 
-À la différence de Tolkien, les sociologues prennent acte de la transformation du monde, comme l'exprime [Robert Nisbet](https://fr.wikipedia.org/wiki/Robert_Nisbet_) : 
+et **Ferdinand Tönnies** la fin des communautés rurales.
+
+[Robert Nisbet](https://fr.wikipedia.org/wiki/Robert_Nisbet_) et les sociologues étudient ces changements de 
+civilisation et constatent aussi qu'une part de la population vivent comme un traumatismes ces changements inéxorables. Comme JRR Tolkien 
+par exemple :
+
 > Notre civilisation est urbaine, démocratique, industrielle, bureaucratique, rationalisée; c'est une civilisation à 
 > grande échelle qui est formelle, laïque et technologique [...]. Que beaucoup d'entre nous éprouvent un certain malaise,
 > une certaine perplexité et même une certaine nostalgie à voir les résultats de ces [révolutions démocratiques et industrielles]
-> ne change rien à la question, et même si quelques Don QUichotte essaient parfois de se battre contre des moulins à vent,
+> ne change rien à la question, et même si quelques Don Quichotte essaient parfois de se battre contre des moulins à vent,
 > ces résultats sont bien là, et ils sont irréversibles.
 
 
 # Les classes sociales marxistes, les types d'autorité selon Max Weber, et les systèmes politiques de la Terre du Milieu
 
-Les classes sociales selon Marx, c'est quand s'établissent de grands groupes sociaux qui sont pris dans une hiérarchie 
-de fait et non de droit. C'est à dire quand il y a des groupes dominants tacites, et donc des groupes dominés qui ont 
-pourtant les mêmes droits que les dominants. Selon cette définition des classes sociales, il n'y avait donc
-pas de classes sociales jusqu'à la révolution française, le tiers-état était un groupe dominé de droit.
+### Définition des classes sociales selon Marx
+Les classes sociales s'établissent quand de grands groupes sociaux sont pris dans une hiérarchie 
+de fait et non de droit. C'est-à-dire quand il y a des groupes dominants tacites et donc des groupes dominés qui ont 
+pourtant les mêmes droits que les dominants. 
+
+Selon cette définition des classes sociales, il n'y avait pas de classes sociales dans un système féodal, le 
+tiers-état était un groupe dominé de droit, même si certains membres du tiers-état sont plus riches que d'autres.
 
 
-Max Weber distingue 3 types de pouvoir :
+### Définition des 3 types de pouvoir de Max Weber
 
 * Traditionnel : Le pouvoir s’exerce selon la coutume de l’organisation, selon les traditions.
-  * Pouvoir traditionnel : Pas de remise en cause du pouvoir traditionnel dans la mesure où il fonctionnait jusque-là et qu’il n’y a pas de crise (du système notamment). Même en situation de crise, le système de remise en cause ne se met pas en route car le personnel (ou même les managers) n’ont pas les compétences de trouver une meilleure alternative, d’où la légitimité de la coutume. Le changement est difficile dans ce cas, car il rencontre des oppositions. La coutume et/ou la tradition elles-mêmes définissent les limites du pouvoir traditionnel.
-* Charismatique : Le pouvoir s’appuie sur les qualités personnelles du leader (il a tendance à s’affaiblir dans la durée).
-  * Pouvoir charismatique : Le pouvoir charismatique tient sa légitimité dans la capacité à convaincre du leader. Le leader exerce son pouvoir de manière quasi-divine (il a généralement des qualités supérieures à la normale). Il peut s’en servir pour ultérieurement acquérir la légitimité légale (comme le firent Napoléon, Charles de Gaulle, etc). L’étendue du pouvoir charismatique dépend de l’influence exercée par le leader.
+  * Pas de remise en cause du pouvoir traditionnel dans la mesure où il fonctionnait jusque-là et qu’il n’y a pas de crise (du système notamment). Même en situation de crise, le système de remise en cause ne se met pas en route car le personnel (ou même les managers) n’ont pas les compétences de trouver une meilleure alternative, d’où la légitimité de la coutume. Le changement est difficile dans ce cas, car il rencontre des oppositions. La coutume et/ou la tradition elles-mêmes définissent les limites du pouvoir traditionnel.
+* Charismatique : Le pouvoir s’appuie sur les qualités personnelles du leader.
+  * Le pouvoir charismatique tient sa légitimité dans la capacité à convaincre du leader. Le leader exerce son pouvoir de manière quasi-divine (il a généralement des qualités supérieures à la normale). Il peut s’en servir pour ultérieurement acquérir la légitimité légale (comme le firent Napoléon, Charles de Gaulle, etc). L’étendue du pouvoir charismatique dépend de l’influence exercée par le leader.
 * Rationnel légal (bureaucratie) : Des règles écrites fixent et encadrent l’exercice du pouvoir.
-  * Pouvoir rationnel légal : Ce sont des experts qui se sont consacrés à la réflexion du pouvoir, les individus se soumettent à leur réflexion et l’acceptent.
+  * Ce sont des experts qui se sont consacrés à la réflexion du pouvoir, les individus se soumettent à leur réflexion et l’acceptent.
 
 [source](https://open.lib.umn.edu/sociology/chapter/14-1-power-and-authority/) 
 
 
-La Comté est un espace de paysans libres et égaux, sans classe sociale, sans aristocratie, quasiment sans misère. 
+La Comté est un espace de paysans et d'artisans libres et égaux, sans classe sociale, sans aristocratie, quasiment sans misère. 
 Il y a un représentant du peuple, [le Maire de la Comté](https://lotr.fandom.com/wiki/Mayor_of_Michel_Delving), 
 mais son rôle est très symbolique, il préside durant les banquets et est choisi durant la grande Foire de l'été pour
 un mandat de 7 ans. Il y a aussi des [Shirriffs](https://lotr.fandom.com/wiki/Shirriffs) qui pourraient se rapprocher des instances de contrôle social traditionnelles,
@@ -117,7 +125,7 @@ dans la communauté de l'anneau.
 
 Ces structures représentent bien les opinions conservatrice de JRR Tolkien, son idéal est plus proche de l'anarchie ou 
 de la monarchie non-constitutionnelle. Ces structures sont malgré tout une image d'Épinal, la vie rurale médiévale était
-autrement plus dure, injuste que la description qu'il en fait.
+autrement plus dure, injuste que la description qu'il en fait. Dans la vraie vie rurale
 
 # Ferdinand Tönnies et les hobbits
 
@@ -173,7 +181,7 @@ transaction avec quelqu'un alors que vous ne choisissez pas vos parents ni le vi
 
 *AnTonnies Gramsci*
 
-Lorsque Tonnies étudie l'Angleterre et l'industrialisation il constate rapidement que les rapports communautaires
+Lorsque Tönnies étudie l'Angleterre et l'industrialisation il constate rapidement que les rapports communautaires
 ont tendance à disparaitre au profit des rapports sociétaires. Il continue en constatant la montéee de l'individualisme
 ce qui selon lui mènera l'humanité à sa perte. La situation climatique actuelle semble lui donner raison.
 
@@ -212,7 +220,6 @@ familles sont nombreuses et géographiquement proches.
 
 Ensuite, les hobbits n'aiment pas le savoir en tant que tel, ni l'inconnu qu'il représente, il ne s'intéresse qu'au savoir qui concerne
 directement leur clan, c'est-à-dire la généalogie.
-
 
 Tolkien décrit ici sans doute un mode de vie auquel il aspire, à l'image de l'Angleterre qu'il voit disparaître. Mais le 
 changement dans la Terre du Milieu viendra de deux sources : l'individu différent et le monde extérieur.
@@ -314,8 +321,8 @@ Un individu proprement effrayant du moyen-age français est l'étranger, le vaga
 est haï, on ne sait pas d'où il vient, on questionne sa moralité, sa croyance, sa parole.
 Son statut de vagabond est très sévèrement puni, et c'est souvent un modif d'emprisonnement. 
 
-> [...] ainsi un témoignage est annulé s'il vient d'un vagabond; il est renforcé au contraire s'il s'agit « d'une personne
-considérable. _Michel Foucault. Surveiller et punir_
+> [...] ainsi un témoignage est annulé s'il vient d'un vagabond; il est renforcé au contraire s'il s'agit "d'une personne
+considérable". _Michel Foucault. Surveiller et punir_
 
 Foucault cite ensuite Le Trosne qui écrit un mémoire sur le vagabondage en 1764 : 
 
@@ -337,7 +344,7 @@ Sur la criminalisation de l'errance, lire [Mendiants, vagabonds et la contagion 
 > (maladies contagieuses, petite délinquance, vol, prostitution, etc.) pour expliquer les raisons pour lesquelles
 > ils se complaisent dans cet état asocial, les plaçant en dehors des normes sociales dominantes.
 
-Tolkien définit la Comté en partie par sa xénophobie, sa crainte des "rôdeurs", et sa méfiance des vagabonds : 
+Tolkien définit la Comté en grande partie par sa xénophobie, sa crainte des "rôdeurs", et sa méfiance des vagabonds : 
 
 > A l'époque où commence ce récit, le nombre des Frontaliers, comme on les appelait, s'était grandement
 accru. On parlait beaucoup, pour s'en plaindre, de personnes et de créatures étranges qui rôdaient le long des
@@ -350,20 +357,21 @@ dans la Comté.
 
 Comme en France au Moyen-Age, la Comté craint ses rodeurs et ses vagabonds. Ses pauvres quoi.
 
-# Gandalf, l'ethnologue
+# Gandalf, le lanceur d'ethnologues
 
 On pourrait penser que les étrangers dangereux aux abords du village soient des orcs en maraude, mais ce ne sont souvent que d'honnêtes nains 
-en voyage. Le personnage qui représente le plus le vagabond qui vient _mettre le zbeul dans la Comté_, c'est sûrement Gandalf. Ce dernier
+en voyage. Le personnage qui représente le plus le vagabond qui vient _mettre le zbeul dans la Comté_, c'est sûrement Gandalf.
+Même si ce n'est pas tant la Comté en elle-même qui sera perturbée par l'arrivée
+du magicien que la vie de Frodon et Bilbo eux-mêmes. L'[Istar](https://lotr.fandom.com/fr/wiki/Istari_(Magiciens))
 lancera tous nos personnages dans des aventures qui les amèneront à comprendre les étrangers, donneront du sens à 
-leurs modes de vie et leurs cultures.
+leurs modes de vie et leurs cultures. 
 
-Il se joue alors la même chose qu'en Europe colonialiste entre le 19ème siècle et le 20ème siècle. Les nations étrangères n'étaient
+Il se jouera alors la même chose qu'en Europe colonialiste entre le 19ème siècle et le 20ème siècle. Les nations étrangères n'étaient
 qu'une cible de la haine, de la peur. Un territoire lointain n'était vu que par le prisme de l'intérêt qu'il avait à être 
-envahi, il serait au choix une source de main-d'œuvre, de matières premières ou de croyants.
+envahi, il serait au choix une source de main-d'œuvre, de matières premières ou de croyants. Ou au contraire, un ennemi
+qui risquerait de nous attaquer à tout moment. 
 À tout ça se substitue durant le 20ème siècle une quête de connaissance, et l'avènement des métiers d'anthropologue, d'ethnologue et de sociologue
-dont la mission est de faire science des différences culturelles.
-
+dont la mission est de faire science des différences culturelles et géographiques. 
 
 ---------------------------
-
 Cet article a été fortement inspiré par la lecture de Tolkien et les Sciences, aux éditions Belin [Lien Mollat](https://www.mollat.com/livres/2364638/tolkien-et-les-sciences)
