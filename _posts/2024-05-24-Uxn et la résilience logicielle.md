@@ -19,4 +19,16 @@ ses proches, on a une approche permaculture. La terre étant le code, et les pro
 il en découle la plus grande lapalissade de l'année, si t'es un trou de balle avec tes collègues et que tu codes
 comme un pied des fonctionnalités que personne ne veut, ton projet ne marchera pas bien sur la durée.  
 
+Ces conférences manquent donc plusieurs points importants :
+
+* De la même manière qu'on jardine dans une terre vivante qui est le produit de la décomposition
+d'animaux et de végétaux et qu'il a fallu longtemps pour créer cette immense biodiversité qu'accueille 
+cette terre et qui la rend fertile à tes plantations, le terreau pour l'informatique est l'ensemble des 
+technologies, outils et matériels qui ont été développés pour faciliter notre travail. Peut-être
+devrions-nous réfléchir un peu plus à l'informatique que nous laisserons à nos enfants. 
+
+* on hérite d'un passé informatique de la même manière qu'on a hérité d'un 
+
+[img](../images/random_project_kxcd.png)
+
 Partons plutôt des problèmes de durabilité
