@@ -25,10 +25,15 @@ Ces conférences manquent donc plusieurs points importants :
 d'animaux et de végétaux et qu'il a fallu longtemps pour créer cette immense biodiversité qu'accueille 
 cette terre et qui la rend fertile à tes plantations, le terreau pour l'informatique est l'ensemble des 
 technologies, outils et matériels qui ont été développés pour faciliter notre travail. Peut-être
-devrions-nous réfléchir un peu plus à l'informatique que nous laisserons à nos enfants. 
+devrions-nous réfléchir un peu plus à l'informatique que nous laisserons aux suivants, ceux qui travailleront sur le sol
+qu'on a nous-même travaillé. 
 
-* on hérite d'un passé informatique de la même manière qu'on a hérité d'un 
+En l'état, notre stack technique ressemble plutôt à ça :
 
 [img](../images/random_project_kxcd.png)
 
+Une grosse pile de librairie et de dépendances qui s'accumulent les uns sur les autres
+
+
+* on hérite d'un passé informatique de la même manière qu'on a hérité d'un 
 Partons plutôt des problèmes de durabilité
