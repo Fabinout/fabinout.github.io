@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Uxn et la résilience logicielle"
+title: "[Brouillon] Uxn et la résilience logicielle"
 description: "Pour une permaculture informatique ?"
 tags: []
 ---
