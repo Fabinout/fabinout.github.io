@@ -8,7 +8,7 @@ tags: IoT Ornithologie DIY
 
 J'ai le plaisir de vous présenter mon tout nouveau projet : un nichoir connecté pour observer les oiseaux !
 
-[img](../images/nichoir3.jpg)
+![img](../images/nichoir3.jpg)
 
 
 
@@ -26,9 +26,9 @@ Mon nichoir est facile à fabriquer, il faut :
 - Installer le nichoir en hauteur (le mien est à 2.5 mètres), et pas au soleil pour qu'il n'y fasse pas trop chaud
   
 
-[img](../images/nichoir1.jpg)
+![img](../images/nichoir1.jpg)
 
-[img](../images/nichoir%202.jpg)
+![img](../images/nichoir%202.jpg)
 
 ## Pourquoi ce projet ?
 
